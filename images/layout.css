@@ -1,0 +1,302 @@
+/* CSS styles */ 
+
+html, body{
+  margin:0;
+  padding:0;
+  text-align:center;
+  background-image: url(boidem-bg-topgradient.jpg);
+  background-repeat: repeat-x;
+  background-color:black;
+  text-align:center; /* IE centering hack */
+  font-family: Trebuchet, Verdana, Arial, Helvetica, sans-serif;
+
+}
+
+#pagewidth{
+  width:85%;
+  text-align:left;
+  margin: 0px auto;
+  background-color:white;
+}
+
+#header{
+  position:relative;
+  width:100%;
+  height:135px;
+  margin:0;
+  padding:0;
+  background-image: url(boidem-header-notxt.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;	
+  background-color: #1D529A;
+}
+
+
+/* Main Menu Navigation styles */
+
+#mainmenu {
+  clear:both;
+  position:absolute;
+  top:75px;
+  height:30px;
+  width:100%;
+  font-size: small;
+} 
+
+.navlist ul {
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.navlist li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navlist a { 
+  padding: 3px 10px 20px 10px; 
+  margin: 0; 
+  border: 1px solid white;
+}
+
+.navlist a:link, .navlist a:visited
+{
+  color: #fff;
+  background-color: black;
+  text-decoration: none;
+}
+
+.navlist a:hover
+{
+  color: #fff;
+  background-color: #01C4FC;
+  text-decoration: none;
+}
+
+li.unlink { 
+  font-weight: bold; 
+  padding: 3px 10px 20px 10px;
+  margin 0;
+  border: 1px solid black;
+  background-color: white;
+}
+
+
+/* END Main Menu Navigation styles */
+
+/* BEGIN Submenu Navigation styles */
+
+#submenu-none{
+  position:absolute;
+  top:105px; height:30px; 
+  width:100%;
+  font-size: small;
+  background-color: #0066CC;
+} 
+
+#submenu{
+  position:absolute;
+  top:105px; height:40px; 
+  width:100%;
+  font-size: small;
+  background-color: #0066CC;
+} 
+
+.subnavlist ul
+{
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.subnavlist li
+{
+  display: inline;
+  list-style-type: none;
+}
+
+.subnavlist a { padding: 0 10px 15px 10px; margin:0; }
+
+.subnavlist a:link, .subnavlist a:visited
+{
+  color: #fff;
+  text-decoration: none;
+}
+
+.subnavlist a:hover
+{
+  color: #01C4FC;
+  text-decoration: none;
+}
+
+/* END Submenu Navigation styles */
+
+
+#onecol{
+  width:100%;
+  position:center;
+  background-color:white;
+}
+
+#leftcol{
+  width:75%; 
+  float:left; 
+  position:relative; 
+  background-color:white;
+ }
+
+
+ #twocols{
+   width:25%; 
+   float:right; 
+   position:relative; 
+}
+
+#rightcol{
+  width:100%; 
+  float:right; 
+  position:relative; 
+  background-color:white;
+  font-size: 80%;
+}
+
+#maincol{background-color: white;  
+  float: left; 
+  display:inline; 
+  position: relative; 
+  width:0%; 
+}
+
+#footer{
+  height:25px; 
+  background-color: #CCCCCC; 
+  clear:both;
+  font-size: x-small;
+  padding: 5px;
+} 
+
+/* Begin Special Font styles */
+#onecol h1, h2 {
+  font-family:Georgia, "Times New Roman", Times, serif;
+  margin:1em;
+}
+
+#onecol p, li {
+  font-family: trebuchet, Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+#onecol td {
+  font-family: trebuchet, Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+#onecol h1 {
+  font-size: 110%;
+}
+
+#onecol h2 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#onecol h3 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: normal;
+}
+
+#leftcol h1, h2 {
+  font-family:Georgia, "Times New Roman", Times, serif;
+  margin:1em;
+}
+
+#leftcol p {
+  font-family: trebuchet, Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+#leftcol h1 {
+  font-size: 110%;
+}
+
+#leftcol h2 {
+  font-size: 100%;
+  color:#666666;
+  font-style: italic;
+  font-weight: normal;
+}
+
+#leftcol h3 {
+  font-size: 80%;
+  color:#33CCFF;
+  font-weight: normal;
+}
+
+
+/* Begin Special Font styles */
+#rightcol h1, h2 {
+  font-family:Georgia, "Times New Roman", Times, serif;
+  margin:1em;
+}
+
+#rightcol p {
+  font-family: trebuchet, Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+}
+
+#rightcol h1 {
+  font-size: 110%;
+}
+
+#rightcol h2 {
+  font-size: 100%;
+  color:#666666;
+  font-style: italic;
+  font-weight: normal;
+}
+
+#rightcol h3 {
+  font-size: 80%;
+  color:#33CCFF;
+  font-weight: normal;
+}
+
+/* *** Float containers fix:
+http://www.csscreator.com/attributes/containedfloat.php *** */ 
+.clearfix:after {
+  content: "."; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+}
+
+.clearfix{display: inline-block;}
+
+/* Hides from IE-mac \*/
+* html .clearfix{height: 1%;}
+.clearfix{display: block;}
+/* End hide from IE-mac */  
+
+/* Margins around text */  
+#onecol p, h1, h2, h3 {margin:1em;}
+#maincol p{margin:1em;}
+#leftcol p, h1, h2, h3 {margin:1em;}
+#rightcol p, h1, h2, h3 {margin:1em;}
+#footer p {margin:1em;}
+
+/*printer styles*/ 
+@media print{ 
+  /*hide the left column when printing*/ 
+  #leftcol{display:none;} 
+
+  /*hide the right column when printing*/ 
+  #rightcol{display:none;} 
+  #twocols, #maincol{width:100%; float:none;}
+}
+

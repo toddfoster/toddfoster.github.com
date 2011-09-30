@@ -1,0 +1,62 @@
+<center>
+Professional Summary for Todd Foster
+====================================
+([Download the pdf](tefcv.pdf))
+
+(Contact information omitted from online version [see the pdf](tefcv.pdf).)
+</center>
+
+Work Experience
+---------------
+**Independent Consulting / Freelance Work (1999 to present)**
+
+- Developed PHP/MySQL-based transactional web-page for an international scouting organization.
+- Developed websites relying on various CMS's, including a custom one I wrote based on shell scripts and makefiles.
+- Contributed to various open source projects by new feature development and bug reports (e.g., pcal, Markdown, album, Morse Code Trainer).
+- Over ten years' experience with Linux (mostly Debian) for personal use, development and experimentation including kernel customization, installation of custom hardware, and shell-scripting for various projects.
+
+**Supply Chain Consultants, Newark, DE (1994 to 1999)** 
+
+- Systems Analyst: Software development, Management consulting with clients including DuPont, Exxon, Union Camp, Weyerheauser, Witco.
+- Developed back-end mathematical transformations in C for demand management software.
+- Assisted major clients developing software to combine history, sales intelligence and corporate priorities to plan factory production schedules.
+
+**Morgan Computing Services, Middletown, DE (Summer 1992)**
+
+- Consulting Programmer: Wrote/maintained DB software, documentation.
+
+**Stellimann Kaissey, Ltd., Wilmington, DE	(Summer 1991)**
+
+- Technical Representative: PC, network specification, installation, support.
+- Developed telephone automated attendant in custom language under OS/2.
+
+**Homewood Church of Christ, Birmingham, AL (2001 to 2007)**
+
+- Christian Minister in Bronx, NY.
+
+
+Education
+---------
+
+**Virginia Polytechnic and State University, Blacksburg, VA (1991 to 1995)**
+
+- B.S., Computer Science
+
+**Abilene Christian University, Abilene, TX (1996 to 2006)**
+
+- M.S., Biblical and Related Studies (1999)
+- Master of Divinity
+
+
+Skills
+------
+
+- Programming languages: **Java, C, C++, Assembly, Lisp, Fortran, Pascal** and application-specific languages.
+- Scripting languages: **PHP, Ruby, Perl, Bash, sed.**
+- Technologies: **MySQL, HTML and CSS, Regular Expressions, Version Control, Unit Testing, TEX.**
+- OS experience chiefly with variants of Unix (**Linux, OS X, Solaris**).
+- **Sun Certified Java Programmer** (SCJP) for the Java 2 Platform, SE 5.0.
+- Can pick up new systems / languages / API’s quickly.
+- Certified in Production and Inventory Management (CPIM) by the Association for Operations Management (APICS).
+- Tech+ amateur radio license with an emphasis on electronic construction.
+- Fluent in **Spanish.**
