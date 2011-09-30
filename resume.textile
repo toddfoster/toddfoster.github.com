@@ -1,0 +1,50 @@
+---
+title: Resume
+layout: default
+---
+
+h1. Professional Summary for Todd Foster
+
+(Contact information omitted from online version)
+
+h2. Skills Summary
+* Active in *C#* development with *Windows Forms* and *OpenGL*.
+* Enjoy working in a team environment, especially *pair programming.* Preference for *agile* methodology and *test-driven development.*
+* Strong interest in languages. Fluent in *Spanish.* Ongoing use of *Koine Greek* and biblical *Hebrew.*
+* Expertise in *Java/Swing* development for commercial application software. *Sun Certified Java Programmer* (SCJP) for the Java 2 Platform, SE 5.0.
+* Experience with *Ruby, Perl, Bash, sed, JavaScript, HTML and CSS, Regular Expressions, Version Control, Unit Testing, Ant, Make, TEX.* Past experience in *C, C++, Assembly, Lisp,* and *application-specific languages.* Regularly use *Eclipse, Visual Studio* and *vim* as development environments.
+* OS experience chiefly with variants of Unix (*Linux, OS X, Solaris*). Over ten years experience with Linux (mostly Debian). Comfortable with *Windows 7.*
+* Contributed to various open source projects by new feature development and bug reports (e.g., pcal, Markdown, album, Morse Code Trainer).
+* Certified in Production and Inventory Management (CPIM) by APICS.
+* Typeset and published three editions of a book of music.
+* Tech+ amateur radio license with an emphasis on electronic construction.
+* Enjoy music, motorcycling, mechanics, martial arts, reading.
+
+h2. Work Experience
+
+h3. Interactive Network Technologies, Houston, TX (2007 to 2010)
+* *Software Developer:* Work in C#, Java, OpenGL development with internationally distributed teams.
+* Developed GIS application for international customer. Began in middle of the project, eventually becoming lead developer. Brought project to deliverable stage and then trained overseas developers to provide ongoing support.
+* Worked on all stages of project life-cycle, short- and long-term projects.
+
+h3. Homewood Church of Christ, Birmingham, AL (2001 to 2007)
+* Christian minister in Bronx, NY
+
+h3. Supply Chain Consultants, Newark, DE (1994 to 1999)
+* *Systems Analyst:* Software development, Management consulting with clients including DuPont, Exxon, Union Camp, Weyerheauser, Witco.
+* Developed back-end mathematical transformations in C for demand management software.
+* Assisted major clients developing software to combine history, sales intelligence and corporate priorities to plan factory production schedules.
+
+h3. Morgan Computing Services, Middletown, DE (Summer 1992)
+* *Consulting Programmer:* Wrote/maintained DB software, documentation.
+
+
+h2. Education
+
+h3. Virginia Polytechnic and State University, Blacksburg, VA (1991 to 1995)
+* B.S., Computer Science
+
+h3.  Abilene Christian University, Abilene, TX (1996 to 2006)
+* M.S., Biblical and Related Studies (1999)
+* Master of Divinity
+

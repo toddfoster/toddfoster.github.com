@@ -1,0 +1,192 @@
+---
+title: Books
+layout: default
+---
+
+h1. Blog: A Book-Log
+
+Books I've read recently...
+
+h2. May 2011
+* Sharon Pearson & Robyn Szoke, eds., _The Prayer Book Guide to Christian Education_ (Morehouse Publishing: 2009)
+
+h2. April 2011
+* Jon Loeliger, _Version Control with Git_ (O'Reilly Media, 2009)
+
+h2. March 2011
+* Matthew Crawford, _Shop Class as Soulcraft_ (Penguin Book: 2009)
+
+h2. February 2011
+* Steve Maguire, _Writing Solid Code_ (Microsoft Press: 1993)
+
+h2. January 2011
+* C.S. Lewis, _Prince Caspian_ (Collier Books: 1951)
+* John Knowles _A Separate Peace_ (Bantam Books: 1960)
+* Brian Kernighan & Dennis Ritchie, _The C Programming Language_ (Prentice Hall: 1988)
+
+h2. December 2010
+* Dom Eugene Cardine, trans. William Tortolano, _Beginning Studies in Gregorian Chant_ (G.I.A. Publications, Inc.: 1988)
+* Bill Dudney, _Core Animation for Mac OS X and the iPhone_ (The Pragmatic Bookshelf: 2008)
+* The Community of Jesus, _The Song of Prayer: A Practical Guide to Learning Gregorian Chant_ (Paraclete Press: 2009)
+* C.S. Lewis, _The Lion, the Witch, and the Wardrobe_ (Collier Books: 1950)
+
+h2. November 2010
+* Cory Doctorow, _Down and Out in the Magic Kingdom_ (Tor Books: 2003)
+
+h2. October 2010
+* Jeff Barr, _Host Your Web Site in the Cloud: Amazon Web Services Made Easy_ (Sitepoint: 2010)
+
+h2. September 2010
+* Frederick Buechner, _The Wizard's Tide: A Story_ (Harper & Row: 1990)
+* Aaron Hillegass, _Cocoa Programming for Mac OS X_, 3d ed. (Addison-Wesley: 2008)
+
+h2. August 2010
+* Douglas Crockford, _Javascript: The Good Parts_ (O'Reilly: 2008)
+* Stieg Larsson, _The Girl with the Dragon Tattoo_ (Vintage Crime: 2009)
+
+h2. July 2010
+* Chris Anderson, _The Long Tail: Why the Future of Business Is Selling Less of More_ (Hyperion: 2006)
+* Vance Trimble, _Overnight Success: Federal Express & Frederick Smith, Its Renegade Creator_ (Crown Publishers, Inc: 1993)
+* Justin Smith, _Inside Windows Communication Foundation_ (Microsoft Press: 2007)
+* Kevin Kline, _SQL in a Nutshell_ (O'Reilley: 2001)
+
+h2. June 2010
+* Adam Nathan, _Windows Presentation Foundation Unleashed_ (Sams Publishing: 2007)
+
+h2. May 2010
+* Ellen Davis, _Getting Involved With God: Rediscovering the Old Testament_ (Cowley Publications: 2001)
+* Bob Pritchett, _Fire Someone Today: And Other Surprising Tactics for Making Your Business a Success_ (Nelson Business: 2006)
+
+h2. March 2010
+* Tracy Kidder, _Mountains Beyond Mountains; The Quest of Dr. Paul Farmer, A Man Who Would Cure the World_ (Random House: 2004)
+
+h2. February 2010
+* C. Leonard Allen & Danny Gray Swick, _Participating in God's Life_ (New Leaf Books: 2001)
+
+h2. December 2009
+* Masereel, Ward, Patri, Hyde, _Graphic Witness: Four Wordless Graphic Novels_ (Firefly Books: 2007)
+* Frank Miller, _Sin City_ (Dark Horse Comics: 1992)
+* Jeph Loeb & Tim Sale, _Batman: The Long Halloween_ (DC Comics: 1998)
+* David Braun, _Gathering Speed - Tales of Motorcycles and Life_ (Bike Manuscript Works: 1996)
+* Cory Doctorow, _Makers_ (Tor: 2009)
+
+h2. November 2009
+* Krzysztof Cwalina & Brad Abrams, _Framework design guidelines: conventions, idioms, and patterns for reusable .NET libraries_ (Addison-Wesley: 2006)
+* Jeffrey Richter, _Applied Microsoft .NET Framework Programming_ (Microsoft Press: 2002)
+* Aryeh Rubinstein, ed., _Popular Judaica Library: Hasidism_ (Keter Books: 1975)
+
+h2. October 2009
+* C.J. Cherryh, _The Paladin_ (Baen Books: 1988)
+* Henry M. Holden, _FBI 100 Years: An Unofficial History_ (Zenith Press: 2008)
+* Peter Bunton, _Cell Groups and House Churches: What History Teaches Us_ (House to House Publications: 2001)
+* Philip K. Dick, _Do Androids Dream of Electric Sheep?_ (Del Rey Books: 1968)
+
+h2. September 2009
+* Neil Gaiman, _American Gods_ (Harper Collins: 2001)
+
+h2. August 2009
+* J. K. Rowling, _Harry Potter and the Sorcerer's Stone_ (Aurthur A. Levine Books: 1998)
+* J. H. Sweet, _Cinnabar and the Island of Shadows_ (Sourcebooks Jabberwocky: 2008)
+* Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
+
+h2. July 2009
+* D. S. Sarma, _A Primer of Hinduism_ (Sri Ramakrishna Math: 1981)
+* Hal Runkel, _ScreamFree Parenting: Raising Your Kids by Keeping Your Cool_ (Oakmont Publishing, LLC: 2005)
+* Joseph Heller, _Catch-22_ (Simon & Schuster Paperbacks: 1955)
+
+h2. March 2009
+* Richard M. Stallman, _Free Software Free Society_ (Gnu Press: 2002)
+* Mark Lutz & David Ascher, _Learning Python_ (O'Reilly: 1999)
+* Jack R. Reese, _The Body Broken: Embracing the Peace of Christ in a Fragmented Church_ (Leafwood Publishers: 2005)
+
+h2. January 2009
+* James D. G. Dunn, _The Theology of Paul's Letter to the Galatians_ (Cambridge University Press: 1993)
+
+h2. December 2008
+* Frederick Buechner, _Brendan_ (HarperSanFrancisco: 1987)
+
+h2. November 2008
+* Ann Rinaldi, _Wolf by the Ears_ (Scholastic, Inc: 1991)
+* Frederick Buechner, _On the Road with the Archangel_ (HarperSanFrancisco: 1997)
+
+h2. September 2008
+* William P. Young, _The Shack_ (Windblown Media: 2008)
+* Charles Stross, _Halting State_ (Ace Hardcover: 2007)
+
+h2. July 2008
+* Cory Doctorow, _Little Brother_ ("Available online":http://craphound.com/littlebrother/download/ under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License: 2007)
+* Michael Crichton, __The Andromeda Strain__ (Dell Publishing Co., Inc.: 1969)
+* Noah Gordon, __The Last Jew__ (Sphere: 2000)
+* Robert Heinlein, _The Cat Who Walks Through Walls_ (Ace: 1998)
+
+h2. June 2008
+* David Flanagan & Yukihiro Matsumoto, __The Ruby Programming Language__ 
+(O'Reilly Media, Inc.: 2008)
+
+h2. March 2008
+* Kurt Vonnegut, __Jailbird__ (Dell Publishing Co., Inc.: 1979)
+
+h2. February 2008
+* Isaac Asimov, __Foundation__ (Avon Books: 1951)
+* Issac Asimov, __Foundation and Empire__ (Ballantine Books: 1952)
+
+
+h2. January 2008
+* Bruce Schneier, __Beyond Fear__ (Copernicus Books: 2003)
+ 
+
+h2. December 2007
+* Ivan Illich, __Tools for Conviviality__ (Harper & Row: 1973)
+* David Schnarch, __Passionate Marriage__ (Owl Books: 1998)
+* Joshua Bloch, __Effective Java: Programming Language Guide__ (Sun Microsystems, Inc: 2001)
+
+
+h2. November 2007
+* N. T. Wright, __The New Testament and the People of God__ (Fortress Press: 1992)
+* Mike Gancarz, __Linux and the Unix Philosophy__ (Digital Press: 2003)
+
+
+h2. September 2007
+* Norman J. Hyne, __Nontechnical Guide to Petroleum Geology, Exploration, Drilling, and Production,__ 2d ed. (PennWell Corporation: 2001)
+  
+  
+h2. August 2007
+* Allan Vermeulen, et al., __The Elements of Java Style__ (Cambridge University Press: 2000)  
+* Kent Beck, __Extreme Programming Explained: Embrace Change,__ 2d ed. (Addison-Wesley: 2005)  
+* Frederick Buechner, __The Sacred Journey__ (HarperSanFrancisco: 1991)
+
+bq. "But when it comes to putting broken lives back together--when it comes, in religious terms, to the saving of souls--the human best tends to be at odds with the holy best. To do for yourself the best that you have it in you to do--to grit your teeth and clench your fists in order to survive the world at its harshest and worst--is, by that very act, to be unable to let something be done for you and in you that is more wonderful still... You can survive on your own... but you cannot become human on your own." (p. 46)   
+
+bq. "God's coming is always unforeseen, I think, and the reason, if I had to guess, is that if he gave us anything much in the way of advance warning, more often than not we would have made ourselves scarce long before he got there." (p. 104)   
+
+bq. Last sentence: "Above all, never question the truth beyond all understanding and surpassing all other wonders that in the long run nothing, not even the world, not even ourselves, can separate us forever from that last and deepest love that glimmers in our dusk like a pearl, like a face." (p. 112)   
+
+* Thomas Nagel, __What Does It All Mean? A Very Short Introduction to Philosophy__ (Oxford University Press: 1987)   
+
+  
+h2. July 2007
+* Metsker & Wake, __Design Patterns in Java__ (Addison-Wesley: 2006)
+
+  
+h2. June 2007
+* Kent Beck, __Test-Driven Development: By Example__ (Addison-Wesley: 2003)  
+
+  
+h2. May 2007
+* Frank Herbert, __Dune__
+* Frank Herbert, __Dune Messiah__
+
+  
+h2. April 2007
+* Lerdorf & Tatroe, __Programming PHP__ (O'Reilly: 2002)
+* Welling & Thomson, __MySQL Tutorial__ (MySQL Press: 2004)
+* Michael Hernandez, __Database Design for Mere Mortals,__ 2d ed. (Addison-Wesley: 2003)
+* Peter van der Linden, __Just Java 2,__ 6th ed. (Sun Microsystems Press: 2006)
+* Sierra & Bates, __Sun Certified Programmer for Java 5: Study Guide__ (McGraw-Hill/Osborne: 2006)
+
+  
+h2. March 2007
+* Steve McConnell, __Code Complete,__ 2d ed. (Microsoft Press: 2004)
+* Hunt & Thomas, __The Pragmatic Programmer: from journeyman to master__ (Addison-Wesley: 2000)
+* Jeffrey Friedl, __Mastering Regular Expressions,__ 3d ed. (O'Reilly: 2006)
+
