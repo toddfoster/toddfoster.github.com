@@ -7,11 +7,21 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. October 2011
+* Peter Seibel, _Coders at Work: Reflections on the Craft of Programming_ (APress: 2009)
+
+h2. September 2011
+* Rembert Herbert, _Entrances: Gregorian Chant in Daily Life_ (Church Publishing Incorporated: 1999)
+
+h2. August 2011
+* Medeleine L'Engle, _A Wind in the Door_ (Dell Publishing Co.: 1973)
+* C.S. Lewis, _A Horse and His Boy_ (Collier Books: 1951)
+
 h2. May 2011
 * Sharon Pearson & Robyn Szoke, eds., _The Prayer Book Guide to Christian Education_ (Morehouse Publishing: 2009)
 
 h2. April 2011
-* Jon Loeliger, _Version Control with Git_ (O'Reilly Media, 2009)
+* Jon Loeliger, _Version Control with Git_ (O'Reilly Media: 2009)
 
 h2. March 2011
 * Matthew Crawford, _Shop Class as Soulcraft_ (Penguin Book: 2009)
