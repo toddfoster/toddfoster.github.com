@@ -8,19 +8,22 @@ h1. Professional Summary for Todd Foster
 (Contact information omitted from online version)
 
 h2. Skills Summary
-* Active in *C#* development with *Windows Forms* and *OpenGL*.
+* Active in *Objective C* and *C#* development with *Cocoa* and *WPF*.
 * Enjoy working in a team environment, especially *pair programming.* Preference for *agile* methodology and *test-driven development.*
 * Strong interest in languages. Fluent in *Spanish.* Ongoing use of *Koine Greek* and biblical *Hebrew.*
 * Expertise in *Java/Swing* development for commercial application software. *Sun Certified Java Programmer* (SCJP) for the Java 2 Platform, SE 5.0.
-* Experience with *Ruby, Perl, Bash, sed, JavaScript, HTML and CSS, Regular Expressions, Version Control, Unit Testing, Ant, Make, TEX.* Past experience in *C, C++, Assembly, Lisp,* and *application-specific languages.* Regularly use *Eclipse, Visual Studio* and *vim* as development environments.
+* Experience with *Ruby, Perl, Bash, sed, JavaScript, HTML and CSS, Regular Expressions, Version Control (git, mercurial, svn, cvs), Unit Testing, Ant, Make, TEX.* Past experience in *C, C++, Assembly, Lisp,* and *application-specific languages.* Regularly use *XCode, Visual Studio* and *vim* as development environments with past experience in *Eclipse*.
 * OS experience chiefly with variants of Unix (*Linux, OS X, Solaris*). Over ten years experience with Linux (mostly Debian). Comfortable with *Windows 7.*
-* Contributed to various open source projects by new feature development and bug reports (e.g., pcal, Markdown, album, Morse Code Trainer).
+* Contributed to various open source projects by new feature development and bug fixes (e.g., Mono, pcal, Markdown, album, Morse Code Trainer).
 * Certified in Production and Inventory Management (CPIM) by APICS.
 * Typeset and published three editions of a book of music.
 * Tech+ amateur radio license with an emphasis on electronic construction.
 * Enjoy music, motorcycling, mechanics, martial arts, reading.
 
 h2. Work Experience
+
+h3. Logos Bible Software, Bellingham, WA (2010 to present)
+* *Macintosh Developer:* Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono. 
 
 h3. Interactive Network Technologies, Houston, TX (2007 to 2010)
 * *Software Developer:* Work in C#, Java, OpenGL development with internationally distributed teams.
