@@ -7,6 +7,11 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. December 2011
+* Madeleine L'Engle, _A Swiftly Tilting Planet_ (Dell Publishing Co.: 1978)
+* Daniel Friedman & Matthias Felleisen, _The Little Schemer,_ 4th ed. (MIT Press: 1996)
+* C.S. Lewis, _The Last Battle_ (Collier Books: 1956)
+
 h2. October 2011
 * Peter Seibel, _Coders at Work: Reflections on the Craft of Programming_ (APress: 2009)
 * J. F. F. Tolkien, _The Hobbit_ (Ballantine Books: 1937)

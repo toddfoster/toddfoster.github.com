@@ -18,7 +18,7 @@ Kids: "starfall":http://www.starfall.com/ "pbs":http://pbskids.org/ "rainbow mag
 
 h2. Programming
 
-Javascript: "Crockford":http://javascript.crockford.com/ "jasmine":http://pivotal.github.com/jasmine/user-guide.html "jslint":http://www.jslint.com/ "jsmin":http://javascript.crockford.com/jsmin.html "reference":http://www.devguru.com/technologies/ecmascript/quickref/javascript_index.html
+Javascript: "Introductory Videos:":http://yuilibrary.com/theater/ "(1":http://www.youtube.com/watch?v=JxAXlJEmNMg "2":http://www.youtube.com/watch?v=RO1Wnu-xKoY "3":http://www.youtube.com/watch?v=ya4UHuXNygM "4":http://www.youtube.com/watch?v=Fv9qT9joc0M "5":http://www.youtube.com/watch?v=47Ceot8yqeI "6":http://www.youtube.com/watch?v=QgwSUtYSUqA "7":http://www.youtube.com/watch?v=UTEqr0IlFKY "8)":http://www.youtube.com/watch?v=taaEzHI9xyY "Crockford":http://javascript.crockford.com/ "good parts":http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html "essentials":http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/ "jasmine":http://pivotal.github.com/jasmine/user-guide.html "jslint":http://www.jslint.com/ "jsmin":http://javascript.crockford.com/jsmin.html "boilerplate":http://html5boilerplate.com/ "reference":http://www.devguru.com/technologies/ecmascript/quickref/javascript_index.html
 Python: "home":http://www.python.org/ "docs":http://docs.python.org "pleac-python":http://pleac.sourceforge.net/pleac_python/
 C#:
 Ruby: "ruby-lang homepage":http://ruby-lang.org "programming ruby":http://www.rubycentral.com/book/index.html "redcloth":http://redcloth.org/textile "monkeybars":http://monkeybars.rubyforge.org/
@@ -26,7 +26,6 @@ Java: "jdk6":http://java.sun.com/javase/6/docs/api/ "tutorials":http://java.sun.
 C++: "quickref":http://www.sourcepole.com/sources/programming/cpp/cppqref.html "reference":http://www.cppreference.com/ "standard libraries":http://www.cplusplus.com/reference/ "more libraries":http://www.trumphurst.com/cpplibs1.html "faq":http://www.parashift.com/c++-faq-lite/
 Lisp/Scheme: "R5RS":http://schemers.org/Documents/Standards/R5RS/ "schemers.org":http://schemers.org/ "t-y-scheme":http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme.html "SICP":http://mitpress.mit.edu/sicp/ "(videos)":http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/ "tspl":http://www.scheme.com/tspl3/ "CLtL":http://www.barzilay.org/books/cltl/CLtL-text "htdp":http://www.htdp.org/ "sketchy":http://www.t3x.org/sketchy/vol1/index.html _Compilers:_ "Chicken":http://www.call-with-current-continuation.org/ "Bigloo":http://www-sop.inria.fr/mimosa/fp/Bigloo/ "Gambit":http://dynamo.iro.umontreal.ca/~gambit/wiki/index.php/Main_Page
 Eclipse Plugins: "emma":http://eclemma.org "findbugs":http://findbugs.cs.umd.edu "checkstyle":http://eclipse-cs.sourceforge.net "fat jar":http://fjep.sourceforge.net/ "mouse feed":http://www.mousefeed.com/
-Groups: "agile houston":http://agilehouston.org "hjug":http://www.hjug.org/ "houston ruby":http://houston-ror.pbwiki.com/
 HTML/CSS: "index dot html":http://www.eskimo.com/~bloo/html/ "zen":http://www.csszengarden.com/
 PHP: "practical php programming":http://hudzilla.org/phpwiki/index.php?title=Main_Page
 Bash: "guide":http://www.tldp.org/LDP/abs/html/ "shunit":http://www.forestent.com/wiki/ShUnit2:Main_Page
