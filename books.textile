@@ -9,8 +9,12 @@ Books I've read recently...
 
 h2. December 2011
 * Madeleine L'Engle, _A Swiftly Tilting Planet_ (Dell Publishing Co.: 1978)
+* Madeleine L'Engle, _Many Waters_ (Dell Publishing Co.: 1986)
 * Daniel Friedman & Matthias Felleisen, _The Little Schemer,_ 4th ed. (MIT Press: 1996)
 * C.S. Lewis, _The Last Battle_ (Collier Books: 1956)
+
+h2. November 2011
+* C.S. Lewis, _The Magician's Nephew_ (Collier Books: 1955)
 
 h2. October 2011
 * Peter Seibel, _Coders at Work: Reflections on the Craft of Programming_ (APress: 2009)
