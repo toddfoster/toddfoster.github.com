@@ -33,7 +33,8 @@ Awk: "intro":http://www.grymoire.com/Unix/Awk.html
 How-to: "ssh without pw":http://www.linuxproblem.org/art_9.html "backups w/ rsync":http://hacktux.com/rsyncintro "securing debian":http://www.debian.org/doc/manuals/securing-debian-howto/ "gnupg":http://www.gnupg.org/gph/en/manual.html "programmer":http://samizdat.mines.edu/howto/HowToBeAProgrammer.html
 Theory: "mvc":http://st-www.cs.uiuc.edu/users/smarch/st-docs/mvc.html
 Learning: "literatePrograms":http://en.literateprograms.org/LiteratePrograms:Welcome "15 exercises":http://www.jobsnake.com/seek/articles/index.cgi?openarticle&8533 "pleac":http://pleac.sourceforge.net/ "rosetta":http://www.rosettacode.org/wiki/Main_Page "euler":http://projecteuler.net/
-Misc: "cygwin: un*x tools for windows":http://sourceware.cygnus.com/cygwin "markdown syntax":http://daringfireball.net/projects/markdown/syntax#html "reStructured text":http://docutils.sourceforge.net/docs/user/rst/quickref.html "psutils":http://www.tardis.ed.ac.uk/~ajcd/psutils/index.html "quick reference cards":http://www.digilife.be/quickreferences/quickrefs.htm "marginalhacks":http://marginalhacks.com
+Formats: "text":http://studenti.fisica.unifi.it/manuali/taoup/ch05s02.html "todo":https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format "markdown":http://daringfireball.net/projects/markdown/syntax#html "reStructured text":http://docutils.sourceforge.net/docs/user/rst/quickref.html
+Misc: "cygwin: un*x tools for windows":http://sourceware.cygnus.com/cygwin "psutils":http://www.tardis.ed.ac.uk/~ajcd/psutils/index.html "quick reference cards":http://www.digilife.be/quickreferences/quickrefs.htm "marginalhacks":http://marginalhacks.com
 
 h2. Texts
 * Bible: "Logos":http://bible.logos.com "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/ "API":http://www.esvapi.org/api)
