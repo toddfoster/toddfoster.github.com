@@ -23,9 +23,10 @@ h1. Projects:
 ** genmen (menu generator for SmartMenu & Lirc)
 * PHP
 ** "curricula":portfolio/curricula.tbz -- A web page built for a friend to allow scout masters to request curricula for different merit badges. It was an ugly time in my life: read the source at your own risk!
-* HTML
+* HTML/Javascript
 ** "SVG Drawing":portfolio/draw.html
 ** A thought-experiment to toy with jquery and a javascript markdown library to create an "ultra-simple wiki":portfolio/jsWiki/index.html?page=contents/HomePage
+** "DigitalBCP":http://www.boidem.org/digitalbcp/index.html
 * Open Source
 ** Contributed "theme":portfolio/aqua2.tbz for "album":http://marginalhacks.com/Hacks/album/. (Perl, Javascript and html/css)
 *** A second, more interesting "theme":portfolio/hover.tbz
@@ -33,6 +34,7 @@ h1. Projects:
 *** My patch has since been upgraded to a primary command-line switch (-W)!
 ** Contributed equations to automate changes to "David Seah's":http://davidseah.com/page/compact-calendar "Compact Calendar":portfolio/CompactCalendar2009.zip
 ** Two games, a library and some developer documentation for "PandoraPanic":http://projectinfinity.org.uk/doku.php?id=homebrew:games:pandorapanic. (C++)
+** Minor bug fix to "mono":https://github.com/mono/mono/commits/master?author=toddfoster, the open source implementation of Microsoft's .NET CLR.
 
    
 <hr />
