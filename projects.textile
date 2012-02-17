@@ -26,7 +26,7 @@ h1. Projects:
 * HTML/Javascript
 ** "SVG Drawing":portfolio/draw.html
 ** A thought-experiment to toy with jquery and a javascript markdown library to create an "ultra-simple wiki":portfolio/jsWiki/index.html?page=contents/HomePage
-** "DigitalBCP":http://www.boidem.org/digitalbcp/index.html
+** "DigitalBCP":http://www.digitalbcp.org
 * Open Source
 ** Contributed "theme":portfolio/aqua2.tbz for "album":http://marginalhacks.com/Hacks/album/. (Perl, Javascript and html/css)
 *** A second, more interesting "theme":portfolio/hover.tbz
@@ -72,24 +72,15 @@ The source is included in the "jar file":portfolio/DBExplorer.jar.
 h2. pt (Page Template)
 
 <img src="images/pt.jpg" alt="Page Template" align="left" />
-"This":portfolio/pt.rb is the the script I used to build this website. I took a page template produced for me by Amy Warren[1] and meshed it into a ruby script. Why would I do such a crazy thing?
+"This":portfolio/pt.rb is the the script I originally used to build this
+website. I took a page template produced for me by Amy Warren[1] and meshed it
+into a ruby script. The script can use as input files containing html, php,
+rhtml, ruby, perl, or plain text (interpreted using markdown). These files would be inserted into the templates to make the final website.
 
-  <table border="0" align="right"><tr><td width="20"></td></tr></table>
-
-  <table border="1" align="right">
-    <tr><th>Extension</th><th>Command</th></tr>
-    <tr><td>html</td><td>cat</td></tr>
-    <tr><td>php</td><td>php</td></tr>
-    <tr><td>rhtml</td><td>eruby</td></tr>
-    <tr><td>rb</td><td>ruby</td></tr>
-    <tr><td>pl</td><td>perl</td></tr>
-    <tr><td>txt</td><td>redcloth</td></tr>
-    <tr><td>stdin</td><td>redcloth</td></tr>
-  </table>
-
-Well, the ruby script expects as input filenames (or globs) of the general form `05_A_Page_Title.txt`. The number represents the order that page should be found in the menus. The title of the page will be parsed out by changing the underscores to spaces. And the extension is used to determine how to process the file.
-
-The output of the comand chosen above will be saved to an all-lowercase name without the number and with an html extension (e.g., `apagetitle.html`).  In the menus, the title (with spaces and capitals letters) will show on the web-page, pointing to the .html file that was generated.  If, however, the filename points not to a file but to a directory, the directory will be untouched. The title will link to that directory which, it is assumed, is being handled seperately.  
+Apparently I wasn't the only person with this idea. It has been generalized and
+extended in an excellent project called
+"Jekyll":http://github.com/mojombo/jekyll/. Jekyll is natively supporte on
+github, which makes for a very convenient and well-priced web-host.
 
 fn1. Design goodness credit for this website goes to "Amy":http://amywarrencreative.com. Design badness credit goes to me for distorting her original design!
 
