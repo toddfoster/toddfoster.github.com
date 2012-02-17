@@ -71,16 +71,9 @@ The source is included in the "jar file":portfolio/DBExplorer.jar.
 
 h2. pt (Page Template)
 
-<img src="images/pt.jpg" alt="Page Template" align="left" />
-"This":portfolio/pt.rb is the the script I originally used to build this
-website. I took a page template produced for me by Amy Warren[1] and meshed it
-into a ruby script. The script can use as input files containing html, php,
-rhtml, ruby, perl, or plain text (interpreted using markdown). These files would be inserted into the templates to make the final website.
+<img src="images/pt.jpg" alt="Page Template" align="left" /> "This":portfolio/pt.rb is the the script I originally used to build this website. I took a page template produced for me by Amy Warren[1] and meshed it into a ruby script. The script can use as input files containing html, php, rhtml, ruby, perl, or plain text (interpreted using markdown). These files would be inserted into the templates to make the final website.
 
-Apparently I wasn't the only person with this idea. It has been generalized and
-extended in an excellent project called
-"Jekyll":http://github.com/mojombo/jekyll/. Jekyll is natively supporte on
-github, which makes for a very convenient and well-priced web-host.
+Apparently I wasn't the only person with this idea. It has been generalized and extended in an excellent project called "Jekyll":http://github.com/mojombo/jekyll/. Jekyll is natively supported on github, which makes for a very convenient and well-priced web-host.
 
 fn1. Design goodness credit for this website goes to "Amy":http://amywarrencreative.com. Design badness credit goes to me for distorting her original design!
 
