@@ -7,6 +7,10 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. March 2012
+* Paul Hoffman, _Faith Forming Faith_ (Cascadse Books: 2012)
+* Kenneth Grahame, _The Wind in the Willows_ (Palazzo: 2007) (original: 1908)
+
 h2. January 2012
 * Jeffrey Richter, _CLR via C#,_ 3rd ed. (Microsoft Press: 2010)
 * Lynne Truss, _Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation_ (Gotham Books: 2006)
