@@ -78,4 +78,3 @@ Apparently I wasn't the only person with this idea. It has been generalized and 
 fn1. Design goodness credit for this website goes to "Amy":http://amywarrencreative.com. Design badness credit goes to me for distorting her original design!
 
 "source":portfolio/pt.rb
-

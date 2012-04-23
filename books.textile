@@ -224,4 +224,3 @@ h2. March 2007
 * Steve McConnell, __Code Complete,__ 2d ed. (Microsoft Press: 2004)
 * Hunt & Thomas, __The Pragmatic Programmer: from journeyman to master__ (Addison-Wesley: 2000)
 * Jeffrey Friedl, __Mastering Regular Expressions,__ 3d ed. (O'Reilly: 2006)
-
