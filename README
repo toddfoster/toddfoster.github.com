@@ -4,6 +4,5 @@ o Add recently read books
 o Host photos independently (S3? NFS?)
 o Host portfolio directory independently (S3?)
 o Decide what to do about contact page
-o Use CNAME records to point here.
 o Use file updated times for modified dates?
 
