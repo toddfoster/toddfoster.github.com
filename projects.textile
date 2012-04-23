@@ -9,6 +9,8 @@ This list is presently and forever incomplete.
 
 
 h1. Projects:
+* Python
+** "SimpleNoteCat":https://github.com/toddfoster/sncat
 * Java 
 ** Analog Clock ( "source":portfolio/AClock/AClock.java "class":portfolio/AClock/AClock.class ) (see below)
 ** "BabyGame.jar":portfolio/BabyGame.jar (see below)
