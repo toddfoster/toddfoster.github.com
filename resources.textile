@@ -29,7 +29,7 @@ Eclipse Plugins: "emma":http://eclemma.org "findbugs":http://findbugs.cs.umd.edu
 HTML/CSS: "index dot html":http://www.eskimo.com/~bloo/html/ "zen":http://www.csszengarden.com/ "boilerplate":http://html5boilerplate.com/ 
 PHP: "practical php programming":http://hudzilla.org/phpwiki/index.php?title=Main_Page
 Bash: "guide":http://www.tldp.org/LDP/abs/html/ "shunit":http://www.forestent.com/wiki/ShUnit2:Main_Page
-Sed: "links":http://www.student.northpark.edu/pemente/sed/ "tutorial":http://www.grymoire.com/Unix/Sed.html "1liners":http://www.student.northpark.edu/pemente/sed/sed1line52.txt
+Sed: "links":http://www.student.northpark.edu/pemente/sed/ "tutorial":http://www.grymoire.com/Unix/Sed.html "1liners":http://sed.sourceforge.net/sed1line.txt
 Awk: "intro":http://www.grymoire.com/Unix/Awk.html
 How-to: "ssh without pw":http://www.linuxproblem.org/art_9.html "backups w/ rsync":http://hacktux.com/rsyncintro "securing debian":http://www.debian.org/doc/manuals/securing-debian-howto/ "gnupg":http://www.gnupg.org/gph/en/manual.html "programmer":http://samizdat.mines.edu/howto/HowToBeAProgrammer.html
 Theory: "mvc":http://st-www.cs.uiuc.edu/users/smarch/st-docs/mvc.html
