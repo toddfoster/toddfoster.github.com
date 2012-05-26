@@ -9,6 +9,7 @@ This list is presently and forever incomplete.
 
 
 h1. Projects:
+* "Adless Calc":http://www.boidem.org/adlessCalc ( "git":https://github.com/toddfoster/adlessCalc )
 * Python
 ** "SimpleNoteCat":https://github.com/toddfoster/sncat
 * Java 
