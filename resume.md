@@ -10,39 +10,35 @@ layout: default
 ## Work Experience
 
 ### **Logos Bible Software,** Bellingham, WA (2010 to 2012)
-* **Macintosh Developer:** Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono.
+**Macintosh Developer:** Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono.
 
 ### **Interactive Network Technologies,** Houston, TX (2007 to 2010)
-* **Software Developer:** Work in C#, Java, OpenGL development with internationally distributed teams.
-* Developed GIS application for international customer. Began in middle of the project, eventually becoming lead developer. Brought project to deliverable stage and then trained overseas developers to provide ongoing support.
-* Worked on all stages of project life-cycle, short- and long-term projects.
+**Software Developer:** Work in C#, Java, OpenGL development with internationally distributed teams. Developed GIS application for international customer. Began in middle of the project, eventually becoming lead developer. Brought project to deliverable stage and then trained overseas developers to provide ongoing support. Worked on all stages of project life-cycle, short- and long-term projects.
 
 ### **Homewood Church of Christ,** Birmingham, AL (2001 to 2007)
-* **Missionary / church planter in Bronx, NY:** Teach and mentor in a variety of settings. Facilitate internships and direct short term campaigns. Technology resource / administration. Publish supporter reports, newsletters.
+**Missionary / church planter in Bronx, NY:** Teach and mentor in a variety of settings. Facilitate internships and direct short term campaigns. Technology resource / administration. Publish supporter reports, newsletters.
 
 ### **University Church of Christ,** Abilene, TX (2000 to 2001)
-* **Associate minister to Hispanic community:** Preach, Teach, Visit, Encourage.
+**Associate minister to Hispanic community:** Preach, Teach, Visit, Encourage.
 
 ### **First Christian Church,** DeLeon, TX (1998 to 2000)
-* **Minister:** Preach, Teach, Visit, Encourage, Participate in ecumenical gatherings.
+**Minister:** Preach, Teach, Visit, Encourage, Participate in ecumenical gatherings.
 
 ### **Abilene Christian University** (Dr. James Thompson), Abilene, TX (1997 to 1999)
-* **Graduate Assistant:** Assist with research, Prepare instructional presentations, Proof-read book manuscripts, Technical preparation of the journal "Restoration Quarterly."
+**Graduate Assistant:** Assist with research, Prepare instructional presentations, Proof-read book manuscripts, Technical preparation of the journal "Restoration Quarterly."
 
 ### **Supply Chain Consultants,** Newark, DE (1994 to 1999)
-* **Systems Analyst:** Software development, Management consulting with clients including DuPont, Exxon, Union Camp, Weyerheauser, Witco.
-* Developed back-end mathematical transformations in C for demand management software.
-* Assisted major clients developing software to combine history, sales intelligence and corporate priorities to plan factory production schedules.
+**Systems Analyst:** Software development, Management consulting with clients including DuPont, Exxon, Union Camp, Weyerheauser, Witco. Developed back-end mathematical transformations in C for demand management software. Assisted major clients developing software to combine history, sales intelligence and corporate priorities to plan factory production schedules.
 
 
 ## Education
 
 ### **Virginia Polytechnic and State University,** Blacksburg, VA (1991 to 1995)
-* B.S., Computer Science
+B.S., Computer Science
 
 ### **Abilene Christian University,** Abilene, TX (1996 to 2006)
-* M.S., Biblical and Related Studies (1999)
-* Master of Divinity
+M.S., Biblical and Related Studies (1999)   
+Master of Divinity
 
 ## Skills Summary
 * Fluent in Spanish.
