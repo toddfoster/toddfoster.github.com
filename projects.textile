@@ -37,7 +37,7 @@ h1. Projects:
 *** My patch has since been upgraded to a primary command-line switch (-W)!
 ** Contributed equations to automate changes to "David Seah's":http://davidseah.com/page/compact-calendar "Compact Calendar":portfolio/CompactCalendar2009.zip
 ** Two games, a library and some developer documentation for "PandoraPanic":http://projectinfinity.org.uk/doku.php?id=homebrew:games:pandorapanic. (C++)
-** Minor bug fix to "mono":https://github.com/mono/mono/commits/master?author=toddfoster, the open source implementation of Microsoft's .NET CLR.
+** Minor bug fix to "mono":https://github.com/mono/mono/commits/master?author=todd.foster@logos.com, the open source implementation of Microsoft's .NET CLR.
 
    
 <hr />
