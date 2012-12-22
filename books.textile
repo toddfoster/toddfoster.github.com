@@ -7,6 +7,10 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. December 2012
+* Charles Dickens, _A Christmas Carol_ (The Baker & Taylor Company: 1905) ("Project Gutenberg":http://www.gutenberg.org/ebooks/19337)
+* Benedict J. Groeschel, C.F.R., _Listening at Prayer_ (Paulist Press: 1984)
+
 h2. November 2012
 * Charles E. Hall, _Head and Heart: The Story of the Clinical Pastoral EducationMovement_ (Journal of Pastoral Care Publications, Inc: 1992)
 * Ian Morgan Cron, _Jesus, My Father, the CIA, and me: A memoir... of sorts_ (Thomas Nelson, 2011)
