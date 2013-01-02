@@ -6,18 +6,25 @@ layout: default
 These are various links that I find (or once found) helpful or interesting.
 
 h2. Misc
-
-Radio streams: "Grateful Dead Radio":http://gdradio.net "(stream)":http://72.13.82.10:26260 "Classical":http://theclassicalstation.org/internet.shtml "(ogg)":http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u "KUHF":http://kuhf.org("hd1-news":http://129.7.48.199:80/KUHF-HD1-128K "hd2-music":http://129.7.48.199:80/KUHF-HD2-128K "hd3-esp":http://129.7.48.199:80/KUHF-HD3-128K) "WNYC":http://wnyc.org("hd1":http://wnycfm.streamguys.com/ "hd2":http://wnycfm2.streamguys.com/ "hd3":http://wnycfm3.streamguys.com/)
-News/comics: "houWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=IAH "bxWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bronx%2C+NY "comics":http://www.chron.com/apps/comics/buildcp.mpl?v=3.0&page=1&quality=high&cpp=8&c=101&c=74&c=27&c=18&c=71&c=121&c=67&c=129 "shabot":http://shabot6000.com/archive.php "xkcd":http://xkcd.com "opus":http://comics.com/wash/opus/index.html "slashdot":http://slashdot.org/ "schneier":http://schneier.com/blog/ "bbc":http://news.bbc.co.uk/ "nyt":http://nytimes.com/ "ap":http://www.nytimes.com/pages/aponline/news/index.html
-Blogs: "tori":http://www.travelpod.com/travel-blog-entries/torissecret/1/1210637820/tpod.html "troy":http://mycryption.blogspot.com/ "joe":http://ccfb.wordpress.com/ "java qotd":http://www.examulator.com/phezam/question.php "fat cyclist":http://fatcyclist.com "schneier":http://www.schneier.com/blog/
-Houston: "library":http://www.houstonlibrary.org/ "south briar":http://southbriar.com/southbriar/outside_frame.asp "craigslist":http://houston.craigslist.org/ "freecycle":http://groups.yahoo.com/group/HoustonWestchaseFreecycle/messages "metro":http://www.ridemetro.org/ "b4-u-eat":http://www.b4-u-eat.com/ "symphony":http://www.houstonsymphony.org/ "spa":http://www.spahouston.org/index.aspx "hiking":http://www.lshtclub.com/ "brazos bend":http://www.tpwd.state.tx.us/spdest/findadest/parks/brazos_bend/ "distance calc":http://geodistance.com/
-Motorcycles: "pnwriders":http://pnwriders.com/bellingham/ "svrider":http://svrider.com("sale":http://forum.svrider.com/forumdisplay.php?f=34 "tech":http://forum.svrider.com/forumdisplay.php?f=13) "motohouston":http://motohouston.com "chain gang":http://f650.com("forums":http://f650.com/phpbb3/ "faqs":http://faq.f650.com/FAQs/) "cg houston":http://autos.groups.yahoo.com/group/HCG/ "nb":http://f650.us "internet bmw riders":http://www.ibmwr.org "iron butt association":http://www.ironbutt.com "aerostich":http://www.aerostich.com "motoport (cooler mesh jackets)":http://www.motoport.com "erc":http://www.awesomecycles.com/ERCsched.htm "ridesmart":http://www.ridesmart.info
-Pandora: "stalking":http://alec.mooo.com/lol/cxs.php "news":http://pandorapress.net "home":http://openpandora.org "blog":http://openpandora.org/index.php?option=com_content&view=category&layout=blog&id=2&Itemid=2&lang=en "status":http://openpandora.org/index.php?option=com_content&view=article&id=98&Itemid=13&lang=en "forums":http://www.gp32x.com/board/index.php?showforum=61 "sdl tutorials":http://sol.gfxile.net/gp/ "sdl/mixer":http://www.kekkai.org/roger/sdl/mixer/ "gameDev":http://wiki.gamedev.net/index.php/Main_Page
+Radio streams: "KPLU":http://icy1.abacast.com/kplu-newsjazzaac-64.m3u "Jazz24":http://icy1.abacast.com/kplu-jazz24aac-64.m3u "Grateful Dead Radio":http://gdradio.net "(stream)":http://72.13.82.10:26260 "Classical":http://theclassicalstation.org/internet.shtml "(ogg)":http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u "KUHF":http://kuhf.org("hd1-news":http://129.7.48.199:80/KUHF-HD1-128K "hd2-music":http://129.7.48.199:80/KUHF-HD2-128K "hd3-esp":http://129.7.48.199:80/KUHF-HD3-128K) "WNYC":http://wnyc.org("hd1":http://wnycfm.streamguys.com/ "hd2":http://wnycfm2.streamguys.com/ "hd3":http://wnycfm3.streamguys.com/)
+News/comics: "bhmWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bellingham%2C+WA "houWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=IAH "bxWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bronx%2C+NY "xkcd":http://xkcd.com "boingboing":http://boingboing.net "schneier":http://schneier.com/blog/ "bbc":http://news.bbc.co.uk/ "nyt":http://nytimes.com/ "ap":http://www.nytimes.com/pages/aponline/news/index.html
+Texts: "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) "CCEL":http://www.ccel.org "E-Texts":http://etext.library.adelaide.edu.au/colls.html "EarlyChristianWritings":http://www.earlychristianwritings.com/ "EarlyJewishWritings":http://www.earlyjewishwritings.com/ "IPL":http://www.ipl.org/div/books "SacredTexts":http://www.sacred-texts.com/index.htm "OpenContent":http://www.opencontent.org "OxfordTextArchive":http://ota.ahds.ac.uk/menu/index.html "Gutenberg":http://www.gutenberg.org "Bartleby":http://www.columbia.edu/acis/bartleby/index.html "TEXTFILES":http://www.textfiles.com "TLG":http://www.tlg.uci.edu/~tlg/
 Kids: "starfall":http://www.starfall.com/ "pbs":http://pbskids.org/ "rainbow magic":http://www.rainbowmagiconline.com/index.html "webkinz":http://www.webkinz.com/us_en/
+
+h2. Christian Spirituality
+English Bibles: "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) 
+Tanach: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) 
+GNT: "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
+Texts: "BCP":http://justus.anglican.org/resources/bcp/bcp79.pdf
+Lectures: "52 stories":http://www.biblicaltraining.org/52-major-stories-bible/william-mounce "Basics of Biblical Greek":http://www.biblicaltraining.org/biblical-greek/william-mounce "Romans":http://www.biblicaltraining.org/Romans/Douglas_Moo
+
+Media: "Grooveshark":http://grooveshark.com "AlbinoBlacksheep":http://www.albinoblacksheep.com/flash/ "Aleph-Beth":http://www.animatedhebrew.com/aleph_bet/aleph_bet.html "DoctorWho":http://www.bbc.co.uk/doctorwho/video/index.shtml "BerkeleyGroks":http://www.ocf.berkeley.edu/~clgroks/ "bt.etree.org":http://bt.etree.org/browse.php "CarTalk":http://www.cartalk.com/Radio/Show/online.html "CreativeCommons":http://creativecommons.org "ImprovEverywhere: We Cause Scenes":http://improveverywhere.com "InternetArchive":http://www.archive.org/movies "KUAT Classical FM":http://kuatfm.org/streaming/optimize1of2.cfm "Pandora":http://www.pandora.com "PBS Kids":http://pbskids.org "Hebrew":http://www.animatedhebrew.com/
+Music: "ChordFind":http://chordfind.com "GDChords":http://www.rukind.com "OLGA":http://www.olga.net
+Transit: "BWI":http://baltwashintlairport.com "DART":http://www.dtc.edu/dart "MTA":http://www.mta.nyc.ny.us/ "NJ":http://www.njtransit.state.nj.us "SEPTA":http://www.septa.org
+Uncategorized: "Bono'sPrayer":http://www.americanrhetoric.com/speeches/bononationalprayerbreakfast.htm "CaringForYourIntrovert":http://www.theatlantic.com/doc/200303/rauch "Pedometer":http://gmap-pedometer.com "HackADay":http://www.hackaday.com "Illich":http://philosophy.la.psu.edu/illich/index.html "MLS":http://www.realtor.com/FindHome/default.asp "Satelites":http://www2.gsoc.dlr.de/scripts/satvis/satvis.asp "Unatics":http://www.newyorkunicycle.com "Unicycle.com":http://www.unicycle.com "Time":http://tycho.usno.navy.mil/what.html
 
 
 h2. Programming
-
 Javascript: "Introductory Videos:":http://yuilibrary.com/theater/ "(1":http://www.youtube.com/watch?v=JxAXlJEmNMg "2":http://www.youtube.com/watch?v=RO1Wnu-xKoY "3":http://www.youtube.com/watch?v=ya4UHuXNygM "4":http://www.youtube.com/watch?v=Fv9qT9joc0M "5":http://www.youtube.com/watch?v=47Ceot8yqeI "6":http://www.youtube.com/watch?v=QgwSUtYSUqA "7":http://www.youtube.com/watch?v=UTEqr0IlFKY "8)":http://www.youtube.com/watch?v=taaEzHI9xyY "Crockford":http://javascript.crockford.com/ "good parts":http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html "essentials":http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/ "reference":http://www.devguru.com/technologies/ecmascript/quickref/javascript_index.html "fiddle":http://jsfiddle.net
 Libs/Utils: "jasmine":http://pivotal.github.com/jasmine/user-guide.html "jslint":http://www.jslint.com/ "jsmin":http://javascript.crockford.com/jsmin.html "require":http://requirejs.org "frameworks":http://microjs.com "lawnchair":http://westcoastlogic.com/lawnchair/
 Python: "home":http://www.python.org/ "docs":http://docs.python.org "pleac-python":http://pleac.sourceforge.net/pleac_python/
@@ -37,85 +44,14 @@ Learning: "literatePrograms":http://en.literateprograms.org/LiteratePrograms:Wel
 Formats: "text":http://studenti.fisica.unifi.it/manuali/taoup/ch05s02.html "todo":https://github.com/ginatrapani/todo.txt-cli/wiki/The-Todo.txt-Format "markdown":http://daringfireball.net/projects/markdown/syntax#html "reStructured text":http://docutils.sourceforge.net/docs/user/rst/quickref.html
 Misc: "cygwin: un*x tools for windows":http://sourceware.cygnus.com/cygwin "psutils":http://www.tardis.ed.ac.uk/~ajcd/psutils/index.html "quick reference cards":http://www.digilife.be/quickreferences/quickrefs.htm "marginalhacks":http://marginalhacks.com
 
-h2. Texts
-* Bible: "Logos":http://bible.logos.com "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/ "API":http://www.esvapi.org/api)
-* "Christian Classics Ethereal Library":http://www.ccel.org
-* "E-Text Collections and Archives":http://etext.library.adelaide.edu.au/colls.html
-* "Early Christian Writings":http://www.earlychristianwritings.com/
-* "Early Jewish Writings":http://www.earlyjewishwritings.com/
-* "Internet Public Library: Books":http://www.ipl.org/div/books
-* "Internet Sacred Text Archive":http://www.sacred-texts.com/index.htm
-* "OpenContent":http://www.opencontent.org
-* "The Oxford Text Archive":http://ota.ahds.ac.uk/menu/index.html
-* "Project Gutenberg":http://www.gutenberg.org
-* "Project Bartleby Archive":http://www.columbia.edu/acis/bartleby/index.html
-* "T E X T F I L E S":http://www.textfiles.com
-* "TLG":http://www.tlg.uci.edu/~tlg/
 
-h2. Media
-* "Albino Blacksheep - Flash Files":http://www.albinoblacksheep.com/flash/
-* "Aleph-Beth Song":http://www.animatedhebrew.com/aleph_bet/aleph_bet.html
-* "BBC - Doctor Who - Video Clips":http://www.bbc.co.uk/doctorwho/video/index.shtml
-* "Berkeley Groks Science Radio Show":http://www.ocf.berkeley.edu/~clgroks/
-* "bt.etree.org":http://bt.etree.org/browse.php
-* "Car Talk":http://www.cartalk.com/Radio/Show/online.html
-* "Christian Classics Ethereal Library":http://www.ccel.org/index/mp3.html
-* "Creative Commons":http://creativecommons.org
-* "Improv Everywhere: We Cause Scenes":http://improveverywhere.com
-* "Internet Archive":http://www.archive.org/movies
-* "KUAT Classical FM":http://kuatfm.org/streaming/optimize1of2.cfm
-* "Pandora":http://www.pandora.com
-* "PBS Kids":http://pbskids.org
-* "Rocketboom":http://www.rocketboom.com/
+h2. Old!
+Blogs: "tori":http://www.travelpod.com/travel-blog-entries/torissecret/1/1210637820/tpod.html "troy":http://mycryption.blogspot.com/ "joe":http://ccfb.wordpress.com/ "java qotd":http://www.examulator.com/phezam/question.php "fat cyclist":http://fatcyclist.com "schneier":http://www.schneier.com/blog/
+Houston: "library":http://www.houstonlibrary.org/ "south briar":http://southbriar.com/southbriar/outside_frame.asp "craigslist":http://houston.craigslist.org/ "freecycle":http://groups.yahoo.com/group/HoustonWestchaseFreecycle/messages "metro":http://www.ridemetro.org/ "b4-u-eat":http://www.b4-u-eat.com/ "symphony":http://www.houstonsymphony.org/ "spa":http://www.spahouston.org/index.aspx "hiking":http://www.lshtclub.com/ "brazos bend":http://www.tpwd.state.tx.us/spdest/findadest/parks/brazos_bend/ "distance calc":http://geodistance.com/
+Motorcycles: "pnwriders":http://pnwriders.com/bellingham/ "svrider":http://svrider.com("sale":http://forum.svrider.com/forumdisplay.php?f=34 "tech":http://forum.svrider.com/forumdisplay.php?f=13) "motohouston":http://motohouston.com "chain gang":http://f650.com("forums":http://f650.com/phpbb3/ "faqs":http://faq.f650.com/FAQs/) "cg houston":http://autos.groups.yahoo.com/group/HCG/ "nb":http://f650.us "internet bmw riders":http://www.ibmwr.org "iron butt association":http://www.ironbutt.com "aerostich":http://www.aerostich.com "motoport (cooler mesh jackets)":http://www.motoport.com "erc":http://www.awesomecycles.com/ERCsched.htm "ridesmart":http://www.ridesmart.info
+Pandora: "stalking":http://alec.mooo.com/lol/cxs.php "news":http://pandorapress.net "home":http://openpandora.org "blog":http://openpandora.org/index.php?option=com_content&view=category&layout=blog&id=2&Itemid=2&lang=en "status":http://openpandora.org/index.php?option=com_content&view=article&id=98&Itemid=13&lang=en "forums":http://www.gp32x.com/board/index.php?showforum=61 "sdl tutorials":http://sol.gfxile.net/gp/ "sdl/mixer":http://www.kekkai.org/roger/sdl/mixer/ "gameDev":http://wiki.gamedev.net/index.php/Main_Page
+Amateur Radio: "NJQRP":http://www.njqrp.org "QRP-L":http://qrp.cc.nd.edu/QRP-L("archive":http://listserv.lehigh.edu/lists/Archive/qrp-l/date.html) "38Special":http://www.accurate-electronics.com/38s/ "Antennas":http://arrl.org/tis/info/antbegin.html "Cookbook":http://www.ee.ualberta.ca/html/cookbook.html "HHH":http://hem2.passagen.se/sm0vpo "GUD4U":http://www.ybi.com/brink/qrp/index.html "pops":http://qrp.pops.net/qrp/default.htm "Regens":http://www.connix.com/~harry/regenrx.htm
+Amateur Reference: "HamCall":http://www.buck.com/cgi-bin/do_hamcall "GMT":http://time.greenwich2000.com/index.htm "NTE":http://nteinc.com/search.html "ECG":http://www.ecgproducts.com/ECGCrossReference/index.html
+Amateur Vendors: "Dan's Small Parts":http://www.fix.net/~jparker/dans.html "EleCraft":http://www.elecraft.com "FarCircuits":http://www.cl.ais.net/farcir "RedHotRadio":http://www.redhotradio.com "SmallWonderLabs":http://smallwonderlabs.com
 
-h2. Music
-* "ChordFind.Com":http://chordfind.com
-* "GD Chords":http://www.rukind.com
-* "OLGA - The On-Line Guitar Archive":http://www.olga.net
-
-h2. Transit
-* "BWI Airport":http://baltwashintlairport.com
-* "DART First State":http://www.dtc.edu/dart
-* "MTA":http://www.mta.nyc.ny.us/
-* "NJ Transit":http://www.njtransit.state.nj.us
-* "SEPTA Online":http://www.septa.org
-
-h2. Amateur Radio 
-* "New Jersey QRP Club":http://www.njqrp.org
-* "QRP-L Homepage":http://qrp.cc.nd.edu/QRP-L
-* "QRP-L Archive":http://listserv.lehigh.edu/lists/Archive/qrp-l/date.html
-* Homebrew
-** "38 Special Project":http://www.accurate-electronics.com/38s/
-** "ARRL: Antennas":http://arrl.org/tis/info/antbegin.html
-** "The Electronic Cookbook Archive":http://www.ee.ualberta.ca/html/cookbook.html
-** "Harry's Homebrew Homepage":http://hem2.passagen.se/sm0vpo
-** "HOMEBREW QRP IS GUD 4 U":http://www.ybi.com/brink/qrp/index.html
-** "QRP pops":http://qrp.pops.net/qrp/default.htm
-** "Regenerative Receivers":http://www.connix.com/~harry/regenrx.htm
-* Reference
-** "Buckmaster's World Wide HamCall(tm Server)":http://www.buck.com/cgi-bin/do_hamcall
-** "Greenwich Time: GMT":http://time.greenwich2000.com/index.htm
-* Transistor Substitution
-** "NTE Electronics":http://nteinc.com/search.html
-** "ECG Cross Reference":http://www.ecgproducts.com/ECGCrossReference/index.html
-* Vendors
-** "Dan's Small Parts":http://www.fix.net/~jparker/dans.html
-** "EleCraft K2 160-10M CW/SSB HF Kit":http://www.elecraft.com
-** "Far Circuits":http://www.cl.ais.net/farcir
-** "Red Hot Radio":http://www.redhotradio.com
-** "Small Wonder Labs":http://smallwonderlabs.com
-
-h2. Uncategorized
-* "Bono's Prayer Breakfast":http://www.americanrhetoric.com/speeches/bononationalprayerbreakfast.htm
-* "Caring for Your Introvert":http://www.theatlantic.com/doc/200303/rauch
-* "Gmaps Pedometer":http://gmap-pedometer.com
-* "Hack a Day":http://www.hackaday.com
-* "Ivan Illich Studies":http://philosophy.la.psu.edu/illich/index.html
-* "MLS Listings":http://www.realtor.com/FindHome/default.asp
-* "Satelite Visibility":http://www2.gsoc.dlr.de/scripts/satvis/satvis.asp
-* "Schneier.com":http://schneier.com/crypto-gram.html
-* "Unatics":http://www.newyorkunicycle.com
-* "Unicycle.com":http://www.unicycle.com
-* "USNO Master Clock Time":http://tycho.usno.navy.mil/what.html
-* "Fred Swartz homepage (nice layout":http://www.fredosaurus.com/fred/index.html)
-* "Animated Hebrew":http://www.animatedhebrew.com/
+Inspiration: "Fred Swartz homepage (nice layout":http://www.fredosaurus.com/fred/index.html)
