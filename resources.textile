@@ -6,12 +6,14 @@ layout: default
 These are various links that I find (or once found) helpful or interesting.
 
 h2. Misc
+
 Radio streams: "KPLU":http://icy1.abacast.com/kplu-newsjazzaac-64.m3u "Jazz24":http://icy1.abacast.com/kplu-jazz24aac-64.m3u "Grateful Dead Radio":http://gdradio.net "(stream)":http://72.13.82.10:26260 "Classical":http://theclassicalstation.org/internet.shtml "(ogg)":http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u "KUHF":http://kuhf.org("hd1-news":http://129.7.48.199:80/KUHF-HD1-128K "hd2-music":http://129.7.48.199:80/KUHF-HD2-128K "hd3-esp":http://129.7.48.199:80/KUHF-HD3-128K) "WNYC":http://wnyc.org("hd1":http://wnycfm.streamguys.com/ "hd2":http://wnycfm2.streamguys.com/ "hd3":http://wnycfm3.streamguys.com/)
 News/comics: "bhmWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bellingham%2C+WA "houWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=IAH "bxWx":http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bronx%2C+NY "xkcd":http://xkcd.com "boingboing":http://boingboing.net "schneier":http://schneier.com/blog/ "bbc":http://news.bbc.co.uk/ "nyt":http://nytimes.com/ "ap":http://www.nytimes.com/pages/aponline/news/index.html
 Texts: "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) "CCEL":http://www.ccel.org "E-Texts":http://etext.library.adelaide.edu.au/colls.html "EarlyChristianWritings":http://www.earlychristianwritings.com/ "EarlyJewishWritings":http://www.earlyjewishwritings.com/ "IPL":http://www.ipl.org/div/books "SacredTexts":http://www.sacred-texts.com/index.htm "OpenContent":http://www.opencontent.org "OxfordTextArchive":http://ota.ahds.ac.uk/menu/index.html "Gutenberg":http://www.gutenberg.org "Bartleby":http://www.columbia.edu/acis/bartleby/index.html "TEXTFILES":http://www.textfiles.com "TLG":http://www.tlg.uci.edu/~tlg/
 Kids: "starfall":http://www.starfall.com/ "pbs":http://pbskids.org/ "rainbow magic":http://www.rainbowmagiconline.com/index.html "webkinz":http://www.webkinz.com/us_en/
 
 h2. Christian Spirituality
+
 English Bibles: "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) 
 Tanach: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) 
 GNT: "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
@@ -25,6 +27,7 @@ Uncategorized: "Bono'sPrayer":http://www.americanrhetoric.com/speeches/bononatio
 
 
 h2. Programming
+
 Javascript: "Introductory Videos:":http://yuilibrary.com/theater/ "(1":http://www.youtube.com/watch?v=JxAXlJEmNMg "2":http://www.youtube.com/watch?v=RO1Wnu-xKoY "3":http://www.youtube.com/watch?v=ya4UHuXNygM "4":http://www.youtube.com/watch?v=Fv9qT9joc0M "5":http://www.youtube.com/watch?v=47Ceot8yqeI "6":http://www.youtube.com/watch?v=QgwSUtYSUqA "7":http://www.youtube.com/watch?v=UTEqr0IlFKY "8)":http://www.youtube.com/watch?v=taaEzHI9xyY "Crockford":http://javascript.crockford.com/ "good parts":http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html "essentials":http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/ "reference":http://www.devguru.com/technologies/ecmascript/quickref/javascript_index.html "fiddle":http://jsfiddle.net
 Libs/Utils: "jasmine":http://pivotal.github.com/jasmine/user-guide.html "jslint":http://www.jslint.com/ "jsmin":http://javascript.crockford.com/jsmin.html "require":http://requirejs.org "frameworks":http://microjs.com "lawnchair":http://westcoastlogic.com/lawnchair/
 Python: "home":http://www.python.org/ "docs":http://docs.python.org "pleac-python":http://pleac.sourceforge.net/pleac_python/
@@ -46,6 +49,7 @@ Misc: "cygwin: un*x tools for windows":http://sourceware.cygnus.com/cygwin "psut
 
 
 h2. Old!
+
 Blogs: "tori":http://www.travelpod.com/travel-blog-entries/torissecret/1/1210637820/tpod.html "troy":http://mycryption.blogspot.com/ "joe":http://ccfb.wordpress.com/ "java qotd":http://www.examulator.com/phezam/question.php "fat cyclist":http://fatcyclist.com "schneier":http://www.schneier.com/blog/
 Houston: "library":http://www.houstonlibrary.org/ "south briar":http://southbriar.com/southbriar/outside_frame.asp "craigslist":http://houston.craigslist.org/ "freecycle":http://groups.yahoo.com/group/HoustonWestchaseFreecycle/messages "metro":http://www.ridemetro.org/ "b4-u-eat":http://www.b4-u-eat.com/ "symphony":http://www.houstonsymphony.org/ "spa":http://www.spahouston.org/index.aspx "hiking":http://www.lshtclub.com/ "brazos bend":http://www.tpwd.state.tx.us/spdest/findadest/parks/brazos_bend/ "distance calc":http://geodistance.com/
 Motorcycles: "pnwriders":http://pnwriders.com/bellingham/ "svrider":http://svrider.com("sale":http://forum.svrider.com/forumdisplay.php?f=34 "tech":http://forum.svrider.com/forumdisplay.php?f=13) "motohouston":http://motohouston.com "chain gang":http://f650.com("forums":http://f650.com/phpbb3/ "faqs":http://faq.f650.com/FAQs/) "cg houston":http://autos.groups.yahoo.com/group/HCG/ "nb":http://f650.us "internet bmw riders":http://www.ibmwr.org "iron butt association":http://www.ironbutt.com "aerostich":http://www.aerostich.com "motoport (cooler mesh jackets)":http://www.motoport.com "erc":http://www.awesomecycles.com/ERCsched.htm "ridesmart":http://www.ridesmart.info
