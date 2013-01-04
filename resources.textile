@@ -22,7 +22,7 @@ h2. Christian Spirituality
 English Bibles: "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) 
 Tanach: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) 
 GNT: "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
-Texts: "BCP":http://justus.anglican.org/resources/bcp/bcp79.pdf
+Texts: "BCP":http://justus.anglican.org/resources/bcp/("pdf":http://justus.anglican.org/resources/bcp/bcp79.pdf)
 Lectures: "52 stories":http://www.biblicaltraining.org/52-major-stories-bible/william-mounce "Basics of Biblical Greek":http://www.biblicaltraining.org/biblical-greek/william-mounce "Romans":http://www.biblicaltraining.org/Romans/Douglas_Moo
 
 
