@@ -7,7 +7,10 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
-h2. January 2012
+h2. February 2013
+* Brad Jersak, _Can You Hear Me? Tuning In to the God Who Speaks_ (Trafford Press: 2003)
+
+h2. January 2013
 * Rick Riordan, _The Lightning Thief_ (Disney/Hyperion Books: 2005)
 
 h2. December 2012
