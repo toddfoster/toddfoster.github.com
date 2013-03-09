@@ -7,9 +7,13 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. March 2013
+* Brian Taylor, _Spirituality for Everyday Living; An Adaptation of the Rule of St. Benedict_ (The Liturgical Press: 1989)
+
 h2. February 2013
 * Brad Jersak, _Can You Hear Me? Tuning In to the God Who Speaks_ (Trafford Press: 2003)
 * Dwight J. Zscheile, _People of the Way; Renewing Episcopal Identity_ (Morehouse Publishing: 2012)
+* J. K. Rowling, _Harry Potter and the Goblet of Fire_ (Scholastic Press: 2000)
 
 h2. January 2013
 * Rick Riordan, _The Lightning Thief_ (Disney/Hyperion Books: 2005)
