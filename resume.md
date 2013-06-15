@@ -9,6 +9,9 @@ layout: default
 
 ## Work Experience
 
+### **St. Paul's Episcopal Church,** Bellingham, WA (2012 to present)
+**Parish Administrator:** Facilities, financial, IT, database, personnel administration. Update policies and procedures, adapting and streamlining. Relieve clergy of administrative duties so they can spend more time at their pastoral work.
+
 ### **Logos Bible Software,** Bellingham, WA (2010 to 2012)
 **Macintosh Developer:** Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono.
 
