@@ -7,6 +7,10 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h3. July 2013
+* _Enriching Our Worship 1, 2, 3, 5_ (Church Publishing Incorporated: 1998, 2000, 2006, 2009)
+* _Changes: Prayers and Services Honoring Rites of Passage_ (Church Publishing Incorporated: 2007)
+
 h2. June 2013
 * Timothy Fry, OSB, ed., _The Rule of Saint Benedict in English_ (The Liturgical Press: 1982)
 * Louis Weil, _Liturgical Sense: The Logic of Rite_ (Seabury Books: 2013)
