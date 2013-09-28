@@ -7,10 +7,13 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
-h4. August 2013
+h2. September 2013
+* Bushkofsky, Burke, Rouse, eds., _Go Make Dsiciples: An Invitation to Baptismal Living; A Handbook to the Catechumenate_ (Augsburg Fortress: 2012)
+
+h2. August 2013
 * A. Wayne Schwab, _When the Members are the Missionaries; An Extraordinary Calling for Ordinary People_ (Member Mission Press: 2002)
 
-h3. July 2013
+h2. July 2013
 * _Enriching Our Worship 1, 2, 3, 5_ (Church Publishing: 1998, 2000, 2006, 2009)
 * _Changes: Prayers and Services Honoring Rites of Passage_ (Church Publishing: 2007)
 * _Liturgical Resources 1: I Will Bless You and You Will Be a Blessing_ (Church Publishing: 2012)
