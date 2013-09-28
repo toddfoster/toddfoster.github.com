@@ -20,10 +20,11 @@ Uncategorized: "Bono'sPrayer":http://www.americanrhetoric.com/speeches/bononatio
 h2. Christian Spirituality
 
 English Bibles: "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) 
-Tanach: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) 
-GNT: "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
+Non-English Bibles: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
 Texts: "BCP":http://justus.anglican.org/resources/bcp/("pdf":http://justus.anglican.org/resources/bcp/bcp79.pdf)
-Lectures: "52 stories":http://www.biblicaltraining.org/52-major-stories-bible/william-mounce "Basics of Biblical Greek":http://www.biblicaltraining.org/biblical-greek/william-mounce "Romans":http://www.biblicaltraining.org/Romans/Douglas_Moo
+History: "Timeline":http://justus.anglican.org/resources/timeline/timeline.html
+Lectures: "Basics of Biblical Greek":http://www.biblicaltraining.org/biblical-greek/william-mounce "Nadia":http://www.onbeing.org/program/nadia-bolz-weber-on-seeing-the-underside-and-seeing-god-tattoos-tradition-and-grace "Francis":http://www.americamagazine.org/print/156341	
+Other: "Preaching Peace":http://www.preachingpeace.org/
 
 
 h2. Programming
@@ -41,6 +42,9 @@ PHP: "practical php programming":http://hudzilla.org/phpwiki/index.php?title=Mai
 Bash: "guide":http://www.tldp.org/LDP/abs/html/ "shunit":http://www.forestent.com/wiki/ShUnit2:Main_Page
 Sed: "links":http://www.student.northpark.edu/pemente/sed/ "tutorial":http://www.grymoire.com/Unix/Sed.html "1liners":http://sed.sourceforge.net/sed1line.txt
 Awk: "intro":http://www.grymoire.com/Unix/Awk.html
+OS's: "Tails":https://tails.boum.org/ "Xubuntu":http://xubuntu.org/ "CrunchBang":http://crunchbang.org/ "Cyanogenmod":http://wiki.cyanogenmod.org 
+Utilities: "Bleachbit":http://bleachbit.sourceforge.net/
+Texts: "BCP":http://justus.anglican.org/resources/bcp/("pdf":http://justus.anglican.org/resources/bcp/bcp79.pdf)
 How-to: "ssh without pw":http://www.linuxproblem.org/art_9.html "backups w/ rsync":http://hacktux.com/rsyncintro "securing debian":http://www.debian.org/doc/manuals/securing-debian-howto/ "gnupg":http://www.gnupg.org/gph/en/manual.html "programmer":http://samizdat.mines.edu/howto/HowToBeAProgrammer.html
 Theory: "mvc":http://st-www.cs.uiuc.edu/users/smarch/st-docs/mvc.html
 Learning: "literatePrograms":http://en.literateprograms.org/LiteratePrograms:Welcome "15 exercises":http://www.jobsnake.com/seek/articles/index.cgi?openarticle&8533 "pleac":http://pleac.sourceforge.net/ "Hyperpolyglot":http://hyperpolyglot.org "rosetta":http://www.rosettacode.org/wiki/Main_Page "euler":http://projecteuler.net/
