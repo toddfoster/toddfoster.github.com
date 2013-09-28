@@ -44,7 +44,6 @@ Sed: "links":http://www.student.northpark.edu/pemente/sed/ "tutorial":http://www
 Awk: "intro":http://www.grymoire.com/Unix/Awk.html
 OS's: "Tails":https://tails.boum.org/ "Xubuntu":http://xubuntu.org/ "CrunchBang":http://crunchbang.org/ "Cyanogenmod":http://wiki.cyanogenmod.org 
 Utilities: "Bleachbit":http://bleachbit.sourceforge.net/
-Texts: "BCP":http://justus.anglican.org/resources/bcp/("pdf":http://justus.anglican.org/resources/bcp/bcp79.pdf)
 How-to: "ssh without pw":http://www.linuxproblem.org/art_9.html "backups w/ rsync":http://hacktux.com/rsyncintro "securing debian":http://www.debian.org/doc/manuals/securing-debian-howto/ "gnupg":http://www.gnupg.org/gph/en/manual.html "programmer":http://samizdat.mines.edu/howto/HowToBeAProgrammer.html
 Theory: "mvc":http://st-www.cs.uiuc.edu/users/smarch/st-docs/mvc.html
 Learning: "literatePrograms":http://en.literateprograms.org/LiteratePrograms:Welcome "15 exercises":http://www.jobsnake.com/seek/articles/index.cgi?openarticle&8533 "pleac":http://pleac.sourceforge.net/ "Hyperpolyglot":http://hyperpolyglot.org "rosetta":http://www.rosettacode.org/wiki/Main_Page "euler":http://projecteuler.net/
