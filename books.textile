@@ -7,6 +7,9 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. October 2013
+* Ormonde Plater, _Deacons In The Episcopal Church_ (North American Association for the Diaconate: 1988)
+
 h2. September 2013
 * Bushkofsky, Burke, Rouse, eds., _Go Make Dsiciples: An Invitation to Baptismal Living; A Handbook to the Catechumenate_ (Augsburg Fortress: 2012)
 * Howard Stone, James Duke, _How to Think Theologically_ (Fortess Press: 2006)
