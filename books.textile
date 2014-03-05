@@ -7,6 +7,9 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. March 2014
+* William J. Wolf, ed., _Anglican Spirituality_ (Morehouse-Barlow Col, Inc.: 1982)
+
 h2. February 2014
 * Peter Ball, _Anglican Spiritual Direction_ (Cowley Publications: 1998)
 
