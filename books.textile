@@ -7,8 +7,11 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. October 2014
+* Justo L. González, _Church History: An Essential Guide_ (Abingdon Press: 1996)
+
 h2. September 2014
-* Alister McGrath, _Christian Theology: An Introduction,_ 5th ed. (Wiley-Blackwell, 2011)
+* Alister McGrath, _Christian Theology: An Introduction,_ 5th ed. (Wiley-Blackwell: 2011)
 * Harrier Lerner, _The Dance of Connection: How to Talk to Someone When You're Mad, Hurt, Scared, Frustrated, Insulted, Betrayed, or Desperate_ (Quill: 2002)
 * Andrea Maloney Schara, _Your Mindful Compass: Breakthrough Strategies for Navigating Life/Work Relatioships in Any Social Jungle_ (Ideas To Action: 2013)
 
