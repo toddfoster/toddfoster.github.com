@@ -7,6 +7,9 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. December 2014
+* Frank Wade, _Transforming Scripture_ (Church Publishing: 2008)
+
 h2. November 2014
 * Clayton N. Jefford, _The Apostolic Fathers: An Essential Guide_ (Abingdon Press: 2005)
 * Robin W. Lovin, _Christian Ethics: An Essential Guide_ (Abingdon Press: 2000)
