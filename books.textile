@@ -7,6 +7,9 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. February 2015
+* Robert Louis Stevenson, _Dr. Jekyll and Mr. Hyde_ (Bantam Books: 1886/1981)
+
 h2. January 2015
 * Tony Hillerman, _Coyote Waits_ (HarperPaperbacks: 1992)
 * Robert A. Johnson, _Owning Your Own Shadow: Understanding the Dark Side of the Psyche_ (HarperOne: 1991)
