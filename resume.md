@@ -12,6 +12,9 @@ layout: default
 ### **St. Paul's Episcopal Church,** Bellingham, WA (2012 to present)
 **Parish Administrator:** Facilities, financial, IT, database, personnel administration. Update policies and procedures, adapting and streamlining. Relieve clergy of administrative duties so they can spend more time at their pastoral work.
 
+### **St. Paul's Episcopal Church,** Mt. Vernon, WA (2014 to 2015)
+**Field Education:** Preach monthly, lead Morning Prayer, assist in weekly liturgies with a variety of presiders, pastoral care.
+
 ### **Logos Bible Software,** Bellingham, WA (2010 to 2012)
 **Macintosh Developer:** Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono.
 
