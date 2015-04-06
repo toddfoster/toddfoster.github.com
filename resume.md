@@ -10,7 +10,7 @@ layout: default
 ## Work Experience
 
 ### **St. Paul's Episcopal Church,** Bellingham, WA (2012 to present)
-**Parish Administrator:** Facilities, financial, IT, database, personnel administration. Update policies and procedures, adapting and streamlining. Relieve clergy of administrative duties so they can spend more time at their pastoral work.
+**Parish Administrator:** Facilities, financial, IT, database, personnel administration, vestry agendas. Update policies and procedures. Contribute to or organize parochial reports, parish registers, Safeguarding compliance.
 
 ### **St. Paul's Episcopal Church,** Mt. Vernon, WA (2014 to 2015)
 **Field Education:** Preach monthly, lead Morning Prayer, assist in weekly liturgies with a variety of presiders, pastoral care.
@@ -19,7 +19,7 @@ layout: default
 **Macintosh Developer:** Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono.
 
 ### **Interactive Network Technologies,** Houston, TX (2007 to 2010)
-**Software Developer:** Work in C#, Java, OpenGL development with internationally distributed teams. Developed GIS application for international customer. Began in middle of the project, eventually becoming lead developer. Brought project to deliverable stage and then trained overseas developers to provide ongoing support. Worked on all stages of project life-cycle, short- and long-term projects.
+**Software Developer, Team Lead:** Work in C#, Java, OpenGL development with internationally distributed teams and international customers. 
 
 ### **Homewood Church of Christ,** Birmingham, AL (2001 to 2007)
 **Missionary / church planter in Bronx, NY:** Teach and mentor in a variety of settings. Facilitate internships and direct short term campaigns. Technology resource / administration. Publish supporter reports, newsletters.
@@ -34,8 +34,7 @@ layout: default
 **Graduate Assistant:** Assist with research, Prepare instructional presentations, Proof-read book manuscripts, Technical preparation of the journal "Restoration Quarterly."
 
 ### **Supply Chain Consultants,** Newark, DE (1994 to 1999)
-**Systems Analyst:** Software development, Management consulting with clients including DuPont, Exxon, Union Camp, Weyerheauser, Witco. Developed back-end mathematical transformations in C for demand management software. Assisted major clients developing software to combine history, sales intelligence and corporate priorities to plan factory production schedules.
-
+**Systems Analyst:** Software development, management consulting with large manufacturing clients. 
 
 ## Education
 
@@ -43,22 +42,14 @@ layout: default
 B.S., Computer Science
 
 ### **Abilene Christian University,** Abilene, TX (1996 to 2006)
-M.S., Biblical and Related Studies (1999)   
+M.S., Biblical and Related Studies
 Master of Divinity
 
-## Skills Summary
-* Fluent in Spanish.
-* Certified in Production and Inventory Management (CPIM) by APICS.
-* Current Adult CPR/AED and First Aid certifications by the American Red Cross.
-* Recently active in Objective C and C# development with Cocoa and WPF.
-* Past professional experience in *Java/Swing* development for commercial application software. Sun Certified Java Programmer (SCJP) for the Java 2 Platform, SE 5.0.
-* Experience with Ruby, Perl, Bash, sed, JavaScript, HTML and CSS, Regular Expressions, Version Control (git, mercurial, svn, cvs), Unit Testing, Ant, Make, TEX. Past experience in C, C++, Assembly, Lisp, and application-specific languages. Regularly use XCode, Visual Studio and vim as development environments with past experience in Eclipse.
-* OS experience chiefly with variants of Unix (Linux, OS X, Solaris). Over ten years experience with Linux (mostly Debian). Comfortable with Windows 7.
-* Contributed to various open source projects by new feature development and bug fixes (e.g., Mono, pcal, album, Morse Code Trainer).
+## Other Interests
+* Experience in Spanish, interest in cross-cultural relationships.
+* Helped establish system of catechumenal formation in Bellingham.
 * Typeset and published three editions of a book of music.
 * Tech+ amateur radio license with an emphasis on electronic construction.
-* Use of Biblical Greek / Hebrew.
 * Enjoy music, motorcycling, mechanics, reading, running.
-
 
 **REFERENCES AVAILABLE UPON REQUEST**
