@@ -12,6 +12,7 @@ Recent Sermons and other Materials
 * [29 March 2015 at St. Paul's, Bellingham](http://cdn.boidem.org/2015/StPBhm20150329.mp3)
 * [12 April at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150412.mp3)
 * [19 April at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150419.mp3)
+* [26 April at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150426.mp3)
 
 
 *2014*
