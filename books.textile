@@ -7,6 +7,10 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. May 2015
+* M. K. Wren, _The Shadow of the Swan_ (Berkley Books: 1981)
+* M. K. Wren, _The House of the Wolf_ (Berkley Books: 1981)
+
 h2. April 2015
 * Alexander Schmemann, _Introduction to Liturgical Theology_, Asheleigh E. Moorehouse, tr. (St. Vladimir's Seminary Press: 1986)
 * Roberta M. Gilbert, _Extraordinary Relationships; A New Way of Thinking About Human Interactions_ (John Wiley & Sons, Inc.: 1992)
@@ -57,6 +61,9 @@ h2. September 2014
 
 h2. August 2014
 * Josua Foer, _Moonwalking with Einstein; The Art and Science of Remembering Everything_ (Penguin Press: 2011)
+
+h2. July 2014
+* M. K. Wren, _The Sword of the Lamb_ (Berkley Books: 1981)
 
 h2. May 2014
 * Henri J. M. Nouwen, _The Inner Voice of Love: A Journey Through Anguish to Freedom_ (Image Books: 1996)
