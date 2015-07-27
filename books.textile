@@ -7,6 +7,9 @@ h1. Blog: A Book-Log
 
 Books I've read recently...
 
+h2. July 2015
+* H. Richard Niebuhr, _Christ and Culture_ (Harper Torchbooks: 1956)
+
 h2. May 2015
 * M. K. Wren, _The Shadow of the Swan_ (Berkley Books: 1981)
 * M. K. Wren, _The House of the Wolf_ (Berkley Books: 1981)
