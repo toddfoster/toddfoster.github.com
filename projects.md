@@ -18,6 +18,7 @@ Recent Sermons and other Materials
 * [7 June at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150607.mp3)
 * [21 June at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150621.mp3)
 * [26 July at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150726.mp3)
+* [23 August at la Iglesia de la Resurrección, Mt. Vernon](http://cdn.boidem.org/2015/IdR20150823.mp3)
 
 *2014*
 
