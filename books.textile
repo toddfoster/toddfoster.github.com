@@ -11,6 +11,7 @@ h2. August 2015
 * Richard Rohr, _Falling Upward: A Spirituality for the Two Halves of Life_ (Jossey-Bass: 2011)
 * Brené Brown, _The Gifts of Imperfection: Your Guide to a Wholehearted Life_ (Hazelden: 2010)
 * Anne E. Kitch, _Preparing for Baptism in the Episcopal Church_ (Morehouse Publishing: 2015)
+* Brené Brown, _Daring Greatly_ (Gotham Books: 2012)
 
 h2. July 2015
 * H. Richard Niebuhr, _Christ and Culture_ (Harper Torchbooks: 1956)
@@ -78,7 +79,8 @@ h2. July 2014
 
 h2. May 2014
 * Henri J. M. Nouwen, _The Inner Voice of Love: A Journey Through Anguish to Freedom_ (Image Books: 1996)
-    * "It's not going to be easy to listen to God's call. Your insecurity, your self-doubt, and your great need for affirmation make you lose trust in your inner voice and run away from yourself. But you  that God speaks to you through your inner voice and that you will find joy and peace only if you follow it."
+
+bq. "It's not going to be easy to listen to God's call. Your insecurity, your self-doubt, and your great need for affirmation make you lose trust in your inner voice and run away from yourself. But you  that God speaks to you through your inner voice and that you will find joy and peace only if you follow it."
 
 h2. March 2014
 * William J. Wolf, ed., _Anglican Spirituality_ (Morehouse-Barlow Col, Inc.: 1982)
@@ -139,9 +141,9 @@ h2. June 2013
 * Louis Weil, _Liturgical Sense: The Logic of Rite_ (Seabury Books: 2013)
 * Mark Chapman, _Anglicanism: A Very Short Introduction_ (Oxford University Press: 2006)
 * Stephen Sykes, John Booty, Jonathan Night, eds., _The Study of Anglicanism_ (SPCK: 1998)
-    * "In Anglicanism, then, what is distinctive is not necessarily divisive." (p. 56)
-    * "Rather than _teaching_ the faith, in the usual sense of that word, the liturgy _celebrates_ the faith." (p. 59)
-    * "Pursue integrity and identity will take care of itself." (p. 471)
+bq. "In Anglicanism, then, what is distinctive is not necessarily divisive." (p. 56)
+bq. "Rather than _teaching_ the faith, in the usual sense of that word, the liturgy _celebrates_ the faith." (p. 59)
+bq. "Pursue integrity and identity will take care of itself." (p. 471)
 * James Turrell, _Celebrating the Rites of Initiation; A Practical Ceremonial Guide for Clergy and Other Liturgical Ministers_ (Church Publishing: 2013)
 
 h2. May 2013
