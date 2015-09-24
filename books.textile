@@ -5,7 +5,10 @@ layout: default
 
 h1. Blog: A Book-Log
 
-Books I've read recently...
+Books I've read recently:
+
+h2. September 2015
+* Harper Lee, _To Kill a Mockingbird_ (HarperCollins: 1960)
 
 h2. August 2015
 * Richard Rohr, _Falling Upward: A Spirituality for the Two Halves of Life_ (Jossey-Bass: 2011)
