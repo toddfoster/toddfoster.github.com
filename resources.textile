@@ -14,7 +14,7 @@ English Bibles: "Bible":http://bible.oremus.org "ESV":http://www.gnpcb.org/esv/b
 Non-English Bibles: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
 Texts: "BCP":http://justus.anglican.org/resources/bcp/("pdf":http://www.episcopalchurch.org/sites/default/files/downloads/book_of_common_prayer.pdf)
 History: "Timeline":http://justus.anglican.org/resources/timeline/timeline.html
-Lectures: "Basics of Biblical Greek":http://www.biblicaltraining.org/biblical-greek/william-mounce "Nadia":http://www.onbeing.org/program/nadia-bolz-weber-on-seeing-the-underside-and-seeing-god-tattoos-tradition-and-grace "Francis":http://www.americamagazine.org/print/1563
+Lectures: "Basics of Biblical Greek":http://www.biblicaltraining.org/biblical-greek/william-mounce "Nadia":http://www.onbeing.org/program/nadia-bolz-weber-on-seeing-the-underside-and-seeing-god-tattoos-tradition-and-grace "Francis":http://www.americamagazine.org/print/1563 "Hebrew":http://dailydoseofhebrew.com "Greek":http://dailydoseofgreek.com
 Other: "Hymnal 1982":http://smallchurchmusic.weebly.com/-hymnal-us-1982.html "Preaching Peace":http://www.preachingpeace.org/ 
 
 
