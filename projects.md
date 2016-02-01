@@ -8,7 +8,7 @@ Recent Sermons and other Materials
 
 *2016*
 
-* [31 January 2016 at St. Paul's, Bellingham](http://cdn.boidem.org/2015/StPBhm201601310900.mp3)
+* [31 January 2016 at St. Paul's, Bellingham](http://cdn.boidem.org/2016/StPBhm201601310900.mp3)
 
 
 *2015*
