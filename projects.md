@@ -6,6 +6,11 @@ layout: default
 Recent Sermons and other Materials
 ----------------------------------
 
+*2016*
+
+* [31 January 2016 at St. Paul's, Bellingham](http://cdn.boidem.org/2015/StPBhm201601310900.mp3)
+
+
 *2015*
 
 * [1 February 2015 at St. Paul's, Mount Vernon](http://cdn.boidem.org/2015/StPMtV20150201.mp3)
