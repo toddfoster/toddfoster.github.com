@@ -20,7 +20,7 @@ Books I've read recently:
 ## November 2015
 * Jenny Brown, _Growing Yourself Up: How to Bring Your Best to All of Life's Relationships_ (Exisle Publishing: 2012)
 * Robert A. Johnson, _She: Understanding Feminine Psychology,_ rev. ed. (HarperPerennial: 1989)
-* David Schnarch, __Passionate Marriage__ (Owl Books: 1998)
+* David Schnarch, _Passionate Marriage_ (Owl Books: 1998)
 * Marva J. Dawn, _Keeping the Sabbath Wholly_ (Wm. B. Eerdmans Publishing Co., 1989)
 
 ## October 2015
