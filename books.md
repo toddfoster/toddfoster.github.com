@@ -10,9 +10,9 @@ Books I've read recently:
 ## April 2016
 * Rabbi Jonathan Sacks, _Not in God's Name: Confronting Religious Violence_ (Schocken Books: 2015)
 
-> Peace comes when we see our reflection in the face of God and let go of the desire to be someone else. (p. 139)
+> "Peace comes when we see our reflection in the face of God and let go of the desire to be someone else." (p. 139)
 
-> Fundamentalism reads texts as if God were as simple as we are. That is unlikely to be true. (p. 207)
+> "Fundamentalism reads texts as if God were as simple as we are. That is unlikely to be true." (p. 207)
 
 ## January 2016
 * Frederick Buechner, _The Final Beast_ (Harper & Row: 1965)
