@@ -14,6 +14,8 @@ Books I've read recently:
 
 > "Fundamentalism reads texts as if God were as simple as we are. That is unlikely to be true." (p. 207)
 
+* Edwin H. Friedman, _A Failure of Nerve: Leadership in the Age of the Quick Fix_ (Seabury Books: 2007)
+
 ## January 2016
 * Frederick Buechner, _The Final Beast_ (Harper & Row: 1965)
 
