@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## July 2016
+* Block, Brueggemann, McKnight, _An Other Kingdom: Departing the Consumer Culture_ (Wiley: 2016)
+
 ## April 2016
 * Rabbi Jonathan Sacks, _Not in God's Name: Confronting Religious Violence_ (Schocken Books: 2015)
 
