@@ -12,11 +12,14 @@ layout: default
 ### **Epiphany Parish,** Seattle, WA (2016 to present)
 **Priest Associate / Curate** with particular responsibility for Ministry Formation, Newcomers, Community Liaison, and Parish Events.
 
-### **St. Paul's Episcopal Church,** Bellingham, WA (2012 to present)
+### **St. Paul's Episcopal Church,** Bellingham, WA (2012 to 2016)
 **Parish Administrator:** Facilities, financial, IT, database, personnel administration, vestry agendas. Update policies and procedures. Contribute to or organize parochial reports, parish registers, Safeguarding compliance.
 
 ### **St. Paul's Episcopal Church,** Mt. Vernon, WA (2014 to 2015)
 **Field Education:** Preach monthly, lead Morning Prayer, assist in weekly liturgies with a variety of presiders, pastoral care.
+
+### **PeaceHealth St. Joseph Medical Center,** Bellingham, WA (2012-2014)
+**Clinial Pastoral Education:** Patient care and on-call duties, charting and rounds with the larger care teams on assigned floors, mutual learning with two CPE cohorts. Two extended units completed.
 
 ### **Logos Bible Software,** Bellingham, WA (2010 to 2012)
 **Macintosh Developer:** Develop GUI in Objective C/Cocoa with a custom bridge to a C# backend running under Mono.
