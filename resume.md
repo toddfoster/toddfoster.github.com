@@ -9,6 +9,9 @@ layout: default
 
 ## Work Experience
 
+### **Epiphany Parish,** Seattle, WA (2016 to present)
+**Priest Associate / Curate** with particular responsibility for Ministry Formation, Newcomers, Community Liaison, and Parish Events.
+
 ### **St. Paul's Episcopal Church,** Bellingham, WA (2012 to present)
 **Parish Administrator:** Facilities, financial, IT, database, personnel administration, vestry agendas. Update policies and procedures. Contribute to or organize parochial reports, parish registers, Safeguarding compliance.
 
