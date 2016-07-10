@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## July 2016
 * Block, Brueggemann, McKnight, _An Other Kingdom: Departing the Consumer Culture_ (Wiley: 2016)
+* Dallas Willard, _Renovation of the Heart: Putting on the Character of Christ_ (NavPress: 2012 [2002])
 
 ## June 2016
 * Robert Heinlein, _Space Cadet_ (Tor: 2005 [1948])
