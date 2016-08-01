@@ -12,6 +12,7 @@ Books I've read recently:
 * Dallas Willard, _Renovation of the Heart: Putting on the Character of Christ_ (NavPress: 2012 [2002])
 * John H. Westerhoff, _A People Called Episcopalians: A Brief Introduction to Our Way of Life_ (Morehouse Publishing: 2014)
 * Christena Cleveland, _Disunity in Christ: Uncovering the Hidden Forces That Keep Us Apart_ (InterVarsity Press: 2013)
+* Kuest, Forney, _Gravity: Seven Essential Truths about Influence, Leadership, and your Soul_ (Soul Mass Press: 2016)
 
 ## June 2016
 * Robert Heinlein, _Space Cadet_ (Tor: 2005 [1948])
