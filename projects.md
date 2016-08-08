@@ -10,7 +10,9 @@ Recent Sermons and other Materials
 
 * [31 January 2016 at St. Paul's, Bellingham](http://cdn.boidem.org/2016/StPBhm201601310900.mp3)
 * [24 March 2016 at St. Paul's, Bellingham](http://cdn.boidem.org/2016/StPBhm20160324.mp3)
-
+* [21 June 2016 Ordination](http://cdn.boidem.org/2016/Ordination20160621.mp3) ([bulletin](http://cdn.boidem.org/2016/OrdinationBulletin20160621.pf))
+* [17 July 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160717.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160717.pdf))
+* [7 August 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160807.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160807.pdf))
 
 *2015*
 
