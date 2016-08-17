@@ -9,7 +9,7 @@ These are various links that I find (or once found) helpful or interesting.
 h2. Vocation
 
 Reference: "Encyclopedia Brittanica":http://www.eb.com "Wikipedia":http://wikipedia.org "Catholic Encyclopedia":http://newadvent.org/cathen/ "Episcopal Glossary":http://library.episcopalchurch.org/glossary
-Lectionaries: "Lectionary":http://lectionarypage.net " "ical":http://www.lectionarypage.net/Resources/LiturgicalCalendar.ics "Leccionario Común Revisado":http://www.blakleycreative.com/jtb/StMarksNet/ld.htm "CCT":http://www.commontexts.org/publications/index.html "Comments":http://www.montreal.anglican.org/comments/ 
+Lectionaries: "RCL":http://lectionary.library.vanderbilt.edu/ "(pdf's,":http://lectionary.library.vanderbilt.edu/pdfs.php "ical)":webcal://lectionary.library.vanderbilt.edu/feeds/lectionary.ics "LectionaryPage.Net":http://lectionarypage.net " "(ical)":http://www.lectionarypage.net/Resources/LiturgicalCalendar.ics "Leccionario Común Revisado":http://www.blakleycreative.com/jtb/StMarksNet/ld.htm "CCT":http://www.commontexts.org/publications/index.html "Comments":http://www.montreal.anglican.org/comments/ 
 Lectionary Sermon Prep: "Preaching Peace":http://www.preachingpeace.org/teaching-resources/lectionary-commentary.html "Edge of the Enclosure":http://www.edgeofenclosure.org
 English Bibles: "Bible":http://bible.oremus.org "ESV":http://www.gnpcb.org/esv/browse/("mobile":http://www.gnpcb.org/esv/mobile/) 
 Non-English Bibles: "Tanach":http://www.tanach.us("text":http://www.tanach.us/TextFiles/Tanach.acc.txt.zip "pdf":http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip) "SBLGNT":http://sblgnt.com/("pdf":http://sblgnt.com/download/SBLGNTpdf.zip) 
