@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2016
+* Anne Rice, _Christ the Lord: Out of Egypt_ (Knopf: 2005)
+
 ## July 2016
 * Block, Brueggemann, McKnight, _An Other Kingdom: Departing the Consumer Culture_ (Wiley: 2016)
 * Dallas Willard, _Renovation of the Heart: Putting on the Character of Christ_ (NavPress: 2012 [2002])
