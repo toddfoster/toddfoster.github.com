@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## August 2016
 * Anne Rice, _Christ the Lord: Out of Egypt_ (Knopf: 2005)
+* Anne Rice, _Christ the Lord: The Road to Cana_ (Knopf: 2008)
 
 ## July 2016
 * Block, Brueggemann, McKnight, _An Other Kingdom: Departing the Consumer Culture_ (Wiley: 2016)
