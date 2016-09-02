@@ -7,6 +7,13 @@ layout: default
 
 Books I've read recently:
 
+## September 2016
+* John Ortberg, _Soul Keeping: Caring for the Most Important Part of You_ (Zondervan: 2014)
+
+> "What if the real reason we feel like we never have enough is that God is not yet finished giving? The unlimited neediness of the soul matches the unlimited grace of God." (p. 82)
+
+> "You must arrange your days so that you are experiencing deep contentment, joy, and confidence in your everyday life with God." (p. 89)
+
 ## August 2016
 * Anne Rice, _Christ the Lord: Out of Egypt_ (Knopf: 2005)
 * Anne Rice, _Christ the Lord: The Road to Cana_ (Knopf: 2008)

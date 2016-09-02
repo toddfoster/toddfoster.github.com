@@ -3,7 +3,7 @@ title: Contact Info
 layout: default
 ---
 
-h1. This page is broken right now! 
+# This page is broken right now! 
 
 Please feel free to leave me a message! E-mail (such as that sent by this
 form) is currently the best way to get in touch with us.
