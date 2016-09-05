@@ -13,6 +13,8 @@ Recent Sermons and other Materials
 * [21 June 2016 Ordination](http://cdn.boidem.org/2016/Ordination20160621.mp3) ([bulletin](http://cdn.boidem.org/2016/OrdinationBulletin20160621.pdf))
 * [17 July 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160717.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160717.pdf))
 * [7 August 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160807.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160807.pdf))
+* [28 August 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160828.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160828.pdf))
+
 
 *2015*
 
