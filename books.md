@@ -14,10 +14,21 @@ Books I've read recently:
 
 > "You must arrange your days so that you are experiencing deep contentment, joy, and confidence in your everyday life with God." (p. 89)
 
+* Richard Foster, _Celebration of Discipline: The Path to Spiritual Growth_ (Harper & Row: 1978)
+
+> "The Disciplines allow us to place ourselves before God so that He can transform us." (p. 6)
+
+> TOC: 
+> Meditation, Prayer, Fasting, Study 
+> Simplicity, Solitude, Submission, Service 
+> Confession, Worship, Guidance, Celebration 
+
+
 ## August 2016
 * Anne Rice, _Christ the Lord: Out of Egypt_ (Knopf: 2005)
 * Anne Rice, _Christ the Lord: The Road to Cana_ (Knopf: 2008)
 * Dallas Willard, _The Divine Conspiracy: Rediscovering Our Hidden Life in God_ (HarperOne: 1997)
+
 
 ## July 2016
 * Block, Brueggemann, McKnight, _An Other Kingdom: Departing the Consumer Culture_ (Wiley: 2016)
