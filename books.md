@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## October 2016
+* Claude M. Steele, _Whistling Vivaldi; And Other Clues to How Stereotypes Affect Us_ (W. W. Norton & Company Inc: 2010)
+
 ## September 2016
 * John Ortberg, _Soul Keeping: Caring for the Most Important Part of You_ (Zondervan: 2014)
 
@@ -17,12 +20,6 @@ Books I've read recently:
 * Richard Foster, _Celebration of Discipline: The Path to Spiritual Growth_ (Harper & Row: 1978)
 
 > "The Disciplines allow us to place ourselves before God so that He can transform us." (p. 6)
-
-> TOC: 
-> Meditation, Prayer, Fasting, Study 
-> Simplicity, Solitude, Submission, Service 
-> Confession, Worship, Guidance, Celebration 
-
 
 ## August 2016
 * Anne Rice, _Christ the Lord: Out of Egypt_ (Knopf: 2005)
