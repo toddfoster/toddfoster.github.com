@@ -10,6 +10,8 @@ Books I've read recently:
 ## October 2016
 * Claude M. Steele, _Whistling Vivaldi; And Other Clues to How Stereotypes Affect Us_ (W. W. Norton & Company Inc: 2010)
 * Christopher H. Martin, _The Restoration Project: A Benedictine Path to Wisdom, Strength, and Love_ (Forward Movement: 2013)
+* David Steindl-Rast, _Common Sense Spirituality_ (Crossroad Publishing Company: 2008)
+* Nadia Bolz-Weber, _Pastrix: The Cranky, Beautiful Faith of a Sinner & Saint_ (Jericho Books: 2013)
 
 ## September 2016
 * John Ortberg, _Soul Keeping: Caring for the Most Important Part of You_ (Zondervan: 2014)
