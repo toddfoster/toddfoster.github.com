@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## November 2016
+* Susan Cain, _Quiet: The Power of Introverts in a World That Can't Stop Talking_ (Broadway Books: 2012)
+
 ## October 2016
 * Claude M. Steele, _Whistling Vivaldi; And Other Clues to How Stereotypes Affect Us_ (W. W. Norton & Company Inc: 2010)
 * Christopher H. Martin, _The Restoration Project: A Benedictine Path to Wisdom, Strength, and Love_ (Forward Movement: 2013)
