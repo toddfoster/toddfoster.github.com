@@ -11,6 +11,7 @@ Books I've read recently:
 * Steve Silberman, _Neurotribes: The Legacy of Autism and the Future of Neurodiversity_ (Avery: 2015)
 * The Dalai Lama, Desmond Tutu, Douglas Abrams, _The Book of Joy: Lasting Happiness in a Changing World_ (Avery: 2016)
 * Barbara Brown Taylor, _The Preaching Life_ (Cowley Publications: 1993)
+* James S. A. Corey, _Leviathan Wakes_ (Orbit: 2011)
 
 ## November 2016
 * Susan Cain, _Quiet: The Power of Introverts in a World That Can't Stop Talking_ (Broadway Books: 2012)
