@@ -3,7 +3,7 @@ title: Projects
 layout: default
 ---
 
-   *This page is long unmaintained. You might do better at [github](https://github.com/toddfoster) .**
+**This page is long unmaintained. You might do better at [github](https://github.com/toddfoster).**
 
 These are a few of my projects and random experiments from over the years. I enjoy experimenting with new languages and coding up short-cuts for common tasks.
 
