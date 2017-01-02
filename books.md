@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## January 2017
+* Scot McKnight, _Fasting (The Ancient Practices Series)_ (Thomas Nelson: 2009)
+
 ## December 2016
 * Steve Silberman, _Neurotribes: The Legacy of Autism and the Future of Neurodiversity_ (Avery: 2015)
 * The Dalai Lama, Desmond Tutu, Douglas Abrams, _The Book of Joy: Lasting Happiness in a Changing World_ (Avery: 2016)
