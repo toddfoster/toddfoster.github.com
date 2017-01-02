@@ -7,9 +7,8 @@ This is just a place to keep some stuff on the 'net. Nothing terribly
 exciting. Sorry 'bout that.
 
 
-| | |
-| ------ | ----- |
-| [Resources](resources.html) | [Photos](http://photos.boidem.org) |
+----
+
 
 | What is a "boidem"? | "Tiliches" |
 | ------ | ----- |
