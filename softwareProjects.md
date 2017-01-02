@@ -3,7 +3,7 @@ title: Projects
 layout: default
 ---
 
-**This page is long unmaintained. You might do better at [github](https://github.com/toddfoster) .**
+   *This page is long unmaintained. You might do better at [github](https://github.com/toddfoster) .**
 
 These are a few of my projects and random experiments from over the years. I enjoy experimenting with new languages and coding up short-cuts for common tasks.
 
@@ -14,34 +14,34 @@ This list is presently and forever incomplete.
 
 * [Adless Calc](http://www.boidem.org/adlessCalc) ([git](https://github.com/toddfoster/adlessCalc))
 * Python
-** [SimpleNoteCat](https://github.com/toddfoster/sncat)
+   * [SimpleNoteCat](https://github.com/toddfoster/sncat)
 * Java
-** Analog Clock ( source "class":portfolio/AClock/AClock.class ) (see below)
-** BabyGame.jar (see below)
-** DBExplorer (see below)
-** MagnifyingGlass ("jar":portfolio/MagnifyingGlass.jar) -- A system tray icon that changes in response to the build status of the project I'm working on. Hard coded to function with [Anthill](http://www.anthillpro.com), the build server used by my employer.
+   * Analog Clock ( source "class":portfolio/AClock/AClock.class ) (see below)
+   * BabyGame.jar (see below)
+   * DBExplorer (see below)
+   * MagnifyingGlass ("jar":portfolio/MagnifyingGlass.jar) -- A system tray icon that changes in response to the build status of the project I'm working on. Hard coded to function with [Anthill](http://www.anthillpro.com), the build server used by my employer.
 * Ruby
-** pt (see below)
-** ip2a : iPhoto to [album](http://marginalhacks.com/Hacks/album/) converter. Takes iPhoto library and creates a directory hierarchy for album which maintains basic album structure, titles and commments. Use at your own risk: it worked for me!
+   * pt (see below)
+   * ip2a : iPhoto to [album](http://marginalhacks.com/Hacks/album/) converter. Takes iPhoto library and creates a directory hierarchy for album which maintains basic album structure, titles and commments. Use at your own risk: it worked for me!
 * Bash
-** md2pdf (markdown to pdf converter)
+   * md2pdf (markdown to pdf converter)
 * Perl
-** genmen (menu generator for SmartMenu & Lirc)
+   * genmen (menu generator for SmartMenu & Lirc)
 * PHP
-** curricula -- A web page built for a friend to allow scout masters to request curricula for different merit badges. It was an ugly time in my life: read the source at your own risk!
+   * curricula -- A web page built for a friend to allow scout masters to request curricula for different merit badges. It was an ugly time in my life: read the source at your own risk!
 * HTML/Javascript
-** "SVG Drawing":portfolio/draw.html
-** A thought-experiment to toy with jquery and a javascript markdown library to create an ultra-simple wiki
-** [DigitalBCP](http://www.digitalbcp.org)
+   * "SVG Drawing":portfolio/draw.html
+   * A thought-experiment to toy with jquery and a javascript markdown library to create an ultra-simple wiki
+   * [DigitalBCP](http://www.digitalbcp.org)
 * Open Source
-** Contributed theme for [album](http://marginalhacks.com/Hacks/album/.) (Perl, Javascript and html/css)
-*** A second, more interesting theme
-** Patch accepted into [pcal](http://pcal.sourceforge.net/) (C and Postscript).
-*** My patch has since been upgraded to a primary command-line switch (-W)!
-** Contributed equations to automate changes to [David Seah's](http://davidseah.com/page/compact-calendar) Compact Calendar
-** Two games, a library and some developer documentation for [PandoraPanic](http://projectinfinity.org.uk/doku.php?id=homebrew:games:pandorapanic.) (C++)
-** Minor bug fix to [mono](https://github.com/mono/mono/commits/master?author=todd.foster@logos.com), the open source implementation of Microsoft's .NET CLR.
-** Minor patch accepted into [flac2ogg](https://github.com/adisbladis/flac2ogg/pull/1) to optionally avoid overwriting files already processed.
+   * Contributed theme for [album](http://marginalhacks.com/Hacks/album/.) (Perl, Javascript and html/css)
+      * A second, more interesting theme
+   * Patch accepted into [pcal](http://pcal.sourceforge.net/) (C and Postscript).
+      * My patch has since been upgraded to a primary command-line switch (-W)!
+   * Contributed equations to automate changes to [David Seah's](http://davidseah.com/page/compact-calendar) Compact Calendar
+   * Two games, a library and some developer documentation for [PandoraPanic](http://projectinfinity.org.uk/doku.php?id=homebrew:games:pandorapanic.) (C++)
+   * Minor bug fix to [mono](https://github.com/mono/mono/commits/master?author=todd.foster@logos.com), the open source implementation of Microsoft's .NET CLR.
+   * Minor patch accepted into [flac2ogg](https://github.com/adisbladis/flac2ogg/pull/1) to optionally avoid overwriting files already processed.
 
 
 ----------
