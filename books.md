@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## January 2017
 * Scot McKnight, _Fasting (The Ancient Practices Series)_ (Thomas Nelson: 2009)
+* Dan B. Allender, _Sabbath (The Ancient Practices Series)_ (Thomas Nelson: 2009)
 
 ## December 2016
 * Steve Silberman, _Neurotribes: The Legacy of Autism and the Future of Neurodiversity_ (Avery: 2015)
