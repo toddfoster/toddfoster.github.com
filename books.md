@@ -10,6 +10,7 @@ Books I've read recently:
 ## January 2017
 * Scot McKnight, _Fasting (The Ancient Practices Series)_ (Thomas Nelson: 2009)
 * Dan B. Allender, _Sabbath (The Ancient Practices Series)_ (Thomas Nelson: 2009)
+* Brian Mclaren, _Finding Our Way Again: The Return of the Ancient Practices_ (Thomas Nelson: 2008)
 
 ## December 2016
 * Steve Silberman, _Neurotribes: The Legacy of Autism and the Future of Neurodiversity_ (Avery: 2015)
@@ -240,7 +241,7 @@ Books I've read recently:
 * Rick Riordan, _The Lightning Thief_ (Disney/Hyperion Books: 2005)
 
 ## December 2012
-* Charles Dickens, _A Christmas Carol_ (The Baker & Taylor Company: 1905) ("Project Gutenberg":http://www.gutenberg.org/ebooks/19337)
+* Charles Dickens, _A Christmas Carol_ (The Baker & Taylor Company: 1905) [Project Gutenberg](http://www.gutenberg.org/ebooks/19337)
 * Benedict J. Groeschel, C.F.R., _Listening at Prayer_ (Paulist Press: 1984)
 * John E. Booty, _The Church in History_ (The Seabury Press: 1979)
 * Cory Doctorow, _For the Win_ (Tor: 2010)
@@ -411,44 +412,44 @@ Books I've read recently:
 * Charles Stross, _Halting State_ (Ace Hardcover: 2007)
 
 ## July 2008
-* Cory Doctorow, _Little Brother_ ("Available online":http://craphound.com/littlebrother/download/ under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License: 2007)
-* Michael Crichton, __The Andromeda Strain__ (Dell Publishing Co., Inc.: 1969)
-* Noah Gordon, __The Last Jew__ (Sphere: 2000)
+* Cory Doctorow, _Little Brother_ [Available online](http://craphound.com/littlebrother/download/) under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License: 2007)
+* Michael Crichton, _The Andromeda Strain_ (Dell Publishing Co., Inc.: 1969)
+* Noah Gordon, _The Last Jew_ (Sphere: 2000)
 * Robert Heinlein, _The Cat Who Walks Through Walls_ (Ace: 1998)
 
 ## June 2008
-* David Flanagan & Yukihiro Matsumoto, __The Ruby Programming Language__ (O'Reilly Media, Inc.: 2008)
+* David Flanagan & Yukihiro Matsumoto, _The Ruby Programming Language_ (O'Reilly Media, Inc.: 2008)
 
 ## March 2008
-* Kurt Vonnegut, __Jailbird__ (Dell Publishing Co., Inc.: 1979)
+* Kurt Vonnegut, _Jailbird_ (Dell Publishing Co., Inc.: 1979)
 
 ## February 2008
-* Isaac Asimov, __Foundation__ (Avon Books: 1951)
-* Issac Asimov, __Foundation and Empire__ (Ballantine Books: 1952)
+* Isaac Asimov, _Foundation_ (Avon Books: 1951)
+* Issac Asimov, _Foundation and Empire_ (Ballantine Books: 1952)
 
 
 ## January 2008
-* Bruce Schneier, __Beyond Fear__ (Copernicus Books: 2003)
+* Bruce Schneier, _Beyond Fear_ (Copernicus Books: 2003)
 
 
 ## December 2007
-* Ivan Illich, __Tools for Conviviality__ (Harper & Row: 1973)
-* David Schnarch, __Passionate Marriage__ (Owl Books: 1998)
-* Joshua Bloch, __Effective Java: Programming Language Guide__ (Sun Microsystems, Inc: 2001)
+* Ivan Illich, _Tools for Conviviality_ (Harper & Row: 1973)
+* David Schnarch, _Passionate Marriage_ (Owl Books: 1998)
+* Joshua Bloch, _Effective Java: Programming Language Guide_ (Sun Microsystems, Inc: 2001)
 
 
 ## November 2007
-* N. T. Wright, __The New Testament and the People of God__ (Fortress Press: 1992)
-* Mike Gancarz, __Linux and the Unix Philosophy__ (Digital Press: 2003)
+* N. T. Wright, _The New Testament and the People of God_ (Fortress Press: 1992)
+* Mike Gancarz, _Linux and the Unix Philosophy_ (Digital Press: 2003)
 
 
 ## September 2007
-* Norman J. Hyne, __Nontechnical Guide to Petroleum Geology, Exploration, Drilling, and Production,__ 2d ed. (PennWell Corporation: 2001)
+* Norman J. Hyne, _Nontechnical Guide to Petroleum Geology, Exploration, Drilling, and Production,_ 2d ed. (PennWell Corporation: 2001)
 
 ## August 2007
-* Allan Vermeulen, et al., __The Elements of Java Style__ (Cambridge University Press: 2000)
-* Kent Beck, __Extreme Programming Explained: Embrace Change,__ 2d ed. (Addison-Wesley: 2005)
-* Frederick Buechner, __The Sacred Journey__ (HarperSanFrancisco: 1991)
+* Allan Vermeulen, et al., _The Elements of Java Style_ (Cambridge University Press: 2000)
+* Kent Beck, _Extreme Programming Explained: Embrace Change,_ 2d ed. (Addison-Wesley: 2005)
+* Frederick Buechner, _The Sacred Journey_ (HarperSanFrancisco: 1991)
 
 > "But when it comes to putting broken lives back together--when it comes, in religious terms, to the saving of souls--the human best tends to be at odds with the holy best. To do for yourself the best that you have it in you to do--to grit your teeth and clench your fists in order to survive the world at its harshest and worst--is, by that very act, to be unable to let something be done for you and in you that is more wonderful still... You can survive on your own... but you cannot become human on your own." (p. 46)
 
@@ -456,26 +457,26 @@ Books I've read recently:
 
 > Last sentence: "Above all, never question the truth beyond all understanding and surpassing all other wonders that in the long run nothing, not even the world, not even ourselves, can separate us forever from that last and deepest love that glimmers in our dusk like a pearl, like a face." (p. 112)
 
-* Thomas Nagel, __What Does It All Mean? A Very Short Introduction to Philosophy__ (Oxford University Press: 1987)
+* Thomas Nagel, _What Does It All Mean? A Very Short Introduction to Philosophy_ (Oxford University Press: 1987)
 
 ## July 2007
-* Metsker & Wake, __Design Patterns in Java__ (Addison-Wesley: 2006)
+* Metsker & Wake, _Design Patterns in Java_ (Addison-Wesley: 2006)
 
 ## June 2007
-* Kent Beck, __Test-Driven Development: By Example__ (Addison-Wesley: 2003)
+* Kent Beck, _Test-Driven Development: By Example_ (Addison-Wesley: 2003)
 
 ## May 2007
-* Frank Herbert, __Dune__
-* Frank Herbert, __Dune Messiah__
+* Frank Herbert, _Dune_
+* Frank Herbert, _Dune Messiah_
 
 ## April 2007
-* Lerdorf & Tatroe, __Programming PHP__ (O'Reilly: 2002)
-* Welling & Thomson, __MySQL Tutorial__ (MySQL Press: 2004)
-* Michael Hernandez, __Database Design for Mere Mortals,__ 2d ed. (Addison-Wesley: 2003)
-* Peter van der Linden, __Just Java 2,__ 6th ed. (Sun Microsystems Press: 2006)
-* Sierra & Bates, __Sun Certified Programmer for Java 5: Study Guide__ (McGraw-Hill/Osborne: 2006)
+* Lerdorf & Tatroe, _Programming PHP_ (O'Reilly: 2002)
+* Welling & Thomson, _MySQL Tutorial_ (MySQL Press: 2004)
+* Michael Hernandez, _Database Design for Mere Mortals,_ 2d ed. (Addison-Wesley: 2003)
+* Peter van der Linden, _Just Java 2,_ 6th ed. (Sun Microsystems Press: 2006)
+* Sierra & Bates, _Sun Certified Programmer for Java 5: Study Guide_ (McGraw-Hill/Osborne: 2006)
 
 ## March 2007
-* Steve McConnell, __Code Complete,__ 2d ed. (Microsoft Press: 2004)
-* Hunt & Thomas, __The Pragmatic Programmer: from journeyman to master__ (Addison-Wesley: 2000)
-* Jeffrey Friedl, __Mastering Regular Expressions,__ 3d ed. (O'Reilly: 2006)
+* Steve McConnell, _Code Complete,_ 2d ed. (Microsoft Press: 2004)
+* Hunt & Thomas, _The Pragmatic Programmer: from journeyman to master_ (Addison-Wesley: 2000)
+* Jeffrey Friedl, _Mastering Regular Expressions,_ 3d ed. (O'Reilly: 2006)
