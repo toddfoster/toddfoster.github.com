@@ -10,6 +10,7 @@ Books I've read recently:
 ## February 2017
 * Mark Buchanan, _Your God is Too Safe: Rediscovering the Wonder of a God You Can't Control_ (Multnomah: 2001)
 * Mark Buchanan, _The Holy Wild: Trusting in the Character of God_ (Multnomah: 2003)
+* Mark Buchanan, _The Rest of God: Restoring Your Soul by Restoring Sabbath_ (W Publishing Group: 2006)
 
 ## January 2017
 * Scot McKnight, _Fasting (The Ancient Practices Series)_ (Thomas Nelson: 2009)
