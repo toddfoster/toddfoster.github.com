@@ -12,6 +12,7 @@ Books I've read recently:
 * Mark Buchanan, _The Holy Wild: Trusting in the Character of God_ (Multnomah: 2003)
 * Mark Buchanan, _The Rest of God: Restoring Your Soul by Restoring Sabbath_ (W Publishing Group: 2006)
 * Colson Whitehead, _The Underground Railroad_ (Doubleday: 2016)
+* Esther de Waal, _Seeking God: The Way of St. Benedict_ (The Liturgical Press: 2001)
 
 ## January 2017
 * Scot McKnight, _Fasting (The Ancient Practices Series)_ (Thomas Nelson: 2009)
