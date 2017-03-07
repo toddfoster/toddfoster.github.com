@@ -6,6 +6,12 @@ layout: default
 Recent Sermons and other Materials
 ----------------------------------
 
+*2017*
+* [8 January 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf))
+* [5 February 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170205.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-5A-20170205.pdf))
+* [1 March 2017 (Ash Wednesday) at Epiphany](http://cdn.boidem.org/2017/Epiphany20170301.mp3) ([pdf](http://cdn.boidem.org/2017/AshWed-2017.pdf))
+
+
 *2016*
 
 * [31 January 2016 at St. Paul's, Bellingham](http://cdn.boidem.org/2016/StPBhm201601310900.mp3)
@@ -14,6 +20,9 @@ Recent Sermons and other Materials
 * [17 July 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160717.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160717.pdf))
 * [7 August 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160807.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160807.pdf))
 * [28 August 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20160828.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20160828.pdf))
+* [16 October 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20161016.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20161016.pdf))
+* [27 November 2016 at Epiphany](http://cdn.boidem.org/2016/Epiphany20161127.mp3) ([pdf](http://cdn.boidem.org/2016/Epiphany20161127.pdf))
+* [25 December 2016 at Epiphany - pdf only](http://cdn.boidem.org/2016/Epiphany20161225.pdf))
 
 
 *2015*
