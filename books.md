@@ -10,6 +10,7 @@ Books I've read recently:
 ## March 2017
 * Sam Quinones, _Dreamland: The STrue Tale of America's Opiate Epidemic_ (Bloomsbury Press: 2015)
 * Bryan Stevenson, _Just Mercy: A Story of Justice and Redemption_ (Spiegel & Grau: 2014)
+* Charles Duhigg, _Smarter, Faster, Better: The Secrets of Being Productive in Life and Business_ (Random House: 2016)
 
 ## February 2017
 * Mark Buchanan, _Your God is Too Safe: Rediscovering the Wonder of a God You Can't Control_ (Multnomah: 2001)
