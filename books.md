@@ -8,9 +8,11 @@ layout: default
 Books I've read recently:
 
 ## March 2017
-* Sam Quinones, _Dreamland: The STrue Tale of America's Opiate Epidemic_ (Bloomsbury Press: 2015)
+* Sam Quinones, _Dreamland: The True Tale of America's Opiate Epidemic_ (Bloomsbury Press: 2015)
 * Bryan Stevenson, _Just Mercy: A Story of Justice and Redemption_ (Spiegel & Grau: 2014)
 * Charles Duhigg, _Smarter, Faster, Better: The Secrets of Being Productive in Life and Business_ (Random House: 2016)
+* Richard Rohr, _The Divine Dance: The Trinity and Your Transformation_ (Whitaker House: 2016)
+* Gary Younge, _Another Day in the Death of America: A Chronicle of Ten Short Lives_ (Nation Books: 2016)
 
 ## February 2017
 * Mark Buchanan, _Your God is Too Safe: Rediscovering the Wonder of a God You Can't Control_ (Multnomah: 2001)
