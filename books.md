@@ -14,6 +14,7 @@ Books I've read recently:
 * Richard Rohr, _The Divine Dance: The Trinity and Your Transformation_ (Whitaker House: 2016)
 * Gary Younge, _Another Day in the Death of America: A Chronicle of Ten Short Lives_ (Nation Books: 2016)
 * Rowan Williams, _Being CHristian: Baptism, Bible, Eucharist, Prayer_ (William B. Eerdmans: 2014)
+* James S. A. Corey, _Caliban's War_ (Orbit: 2012)
 
 ## February 2017
 * Mark Buchanan, _Your God is Too Safe: Rediscovering the Wonder of a God You Can't Control_ (Multnomah: 2001)
