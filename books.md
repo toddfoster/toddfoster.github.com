@@ -13,7 +13,7 @@ Books I've read recently:
 * Charles Duhigg, _Smarter, Faster, Better: The Secrets of Being Productive in Life and Business_ (Random House: 2016)
 * Richard Rohr, _The Divine Dance: The Trinity and Your Transformation_ (Whitaker House: 2016)
 * Gary Younge, _Another Day in the Death of America: A Chronicle of Ten Short Lives_ (Nation Books: 2016)
-* Rowan Williams, _Being CHristian: Baptism, Bible, Eucharist, Prayer_ (William B. Eerdmans: 2014)
+* Rowan Williams, _Being Christian: Baptism, Bible, Eucharist, Prayer_ (William B. Eerdmans: 2014)
 * James S. A. Corey, _Caliban's War_ (Orbit: 2012)
 
 ## February 2017
