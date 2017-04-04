@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## April 2017
+* Keith Lamdin, _Finding Your Leadership Style: A guide for ministers_ (SPCK: 2012)
+
 ## March 2017
 * Sam Quinones, _Dreamland: The True Tale of America's Opiate Epidemic_ (Bloomsbury Press: 2015)
 * Bryan Stevenson, _Just Mercy: A Story of Justice and Redemption_ (Spiegel & Grau: 2014)
