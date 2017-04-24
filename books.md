@@ -9,6 +9,8 @@ Books I've read recently:
 
 ## April 2017
 * Keith Lamdin, _Finding Your Leadership Style: A guide for ministers_ (SPCK: 2012)
+* Susan Scott, _Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time_ (Berkley Trade Publishing Group: 2002)
+* Nadia Bolz-Weber, _Accidental Saints: Finding God in All the Wrong People_ (Convergent: 2015)
 
 ## March 2017
 * Sam Quinones, _Dreamland: The True Tale of America's Opiate Epidemic_ (Bloomsbury Press: 2015)
