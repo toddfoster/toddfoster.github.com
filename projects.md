@@ -10,7 +10,7 @@ Recent Sermons and other Materials
 * [8 January 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf))
 * [5 February 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170205.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-5A-20170205.pdf))
 * [1 March 2017 Ash Wednesday at Epiphany](http://cdn.boidem.org/2017/Epiphany20170301.mp3) ([pdf](http://cdn.boidem.org/2017/AshWed-2017.pdf))
-* [15 April 2017 Easter Vigil at Epiphany](http://cdn.boidem.org/2017/Epiphany20170415.mp3) ([pdf](http://cdn.boidem.org/2017/EasterVigil2017.pdf))
+* [15 April 2017 Easter Vigil at Epiphany](http://cdn.boidem.org/2017/Epiphany20170415-Vigil.mp3) ([pdf](http://cdn.boidem.org/2017/EasterVigil2017.pdf))
 * [23 April 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170423.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-2A-20170423.pdf))
 
 
