@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## May 2017
+* Cory Doctorow, _Walkaway_ (Tor: 2017)
+
 ## April 2017
 * Keith Lamdin, _Finding Your Leadership Style: A guide for ministers_ (SPCK: 2012)
 * Susan Scott, _Fierce Conversations: Achieving Success at Work and in Life One Conversation at a Time_ (Berkley Trade Publishing Group: 2002)
