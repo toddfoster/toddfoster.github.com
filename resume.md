@@ -126,6 +126,8 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 	Hospice Volunteer Chaplain Training
 
 
+------------
+
 ## Personal Information
 * Married 20 years to Becky raising daughter Aviva, 14, and son Eli, 12.
 * Enjoy family, music, languages & cultures, travel, reading, being outdoors.
