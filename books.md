@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## May 2017
 * Cory Doctorow, _Walkaway_ (Tor: 2017)
+* John Gorsuch, _An Invitation to the Spiritual Journey_ (Paulist Press: 1990)
 
 ## April 2017
 * Keith Lamdin, _Finding Your Leadership Style: A guide for ministers_ (SPCK: 2012)
