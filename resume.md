@@ -108,25 +108,26 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 * 	B.S., Computer Science
 
 
+---
 ## Additional Training
 
 **College for Congregational Development,** Diocese of Olympia	2016-2017
-	Summer Intensives
+> Summer Intensives
 
 **Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014
-	CALL Program: Anglican Immersion and online classes
+> CALL Program: Anglican Immersion and online classes
 
 **General Theological Seminary,** New York, NY 	2005-2006
-	Hebrew Readings/Poetry
+> Hebrew Readings/Poetry
 
 **Escuela de la Lengua Española,** A.C., Guadalajara, Jalisco, México	2000
-	Level 5 Spanish Language Study and Immersion (3 months)
+> Level 5 Spanish Language Study and Immersion (3 months)
 
 **Hendrick Hospice Care,** Abilene, TX	1999
-	Hospice Volunteer Chaplain Training
+> Hospice Volunteer Chaplain Training
 
 
-------------
+---
 
 ## Personal Information
 * Married 20 years to Becky raising daughter Aviva, 14, and son Eli, 12.
