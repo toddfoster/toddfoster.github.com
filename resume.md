@@ -102,7 +102,7 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 ## Degrees Earned
 
 **Abilene Christian University,** Abilene, TX 	1996-2006
-> M.S., Biblical and Related Studies
+> M.S., Biblical and Related Studies  
 > Master of Divinity
 
 **Virginia Polytechnic and State University,** Blacksburg, VA 	1991-1995
@@ -112,11 +112,11 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 ---
 ## Additional Training
 
-**College for Congregational Development,** Diocese of Olympia	2016-2017
-> Summer Intensives
+**College for Congregational Development,** Diocese of Olympia	2016-2017  
+    Summer Intensives
 
-**Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014
-> CALL Program: Anglican Immersion and online classes
+**Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014  
+    CALL Program: Anglican Immersion and online classes
 
 **General Theological Seminary,** New York, NY 	2005-2006
 > Hebrew Readings/Poetry
