@@ -8,13 +8,13 @@ layout: default
 _(Contact information omitted from online version)_
 
 
+---
 ## Objective
-
 To serve as Rector of a program-size parish that is passionate about: beautiful liturgy, biblical formation, and loving its neighbors.
 
 
+---
 ## Ministry Specialities
-
 * Engage corporate worship with a clear sense of purpose and a love of sung liturgy
 * Depend upon the Bible as a source of preaching & teaching good news for life today
 * Adapt church life to welcome and empower diverse groups
@@ -23,8 +23,8 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 * Implement the ancient Catechumenate, recruiting leaders and creating material resources
 
 
+---
 ## Professional Experience
-
 **Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-present
 	_Priest Associate / Curate_
 * Presider, preacher, cantor, confessor
@@ -98,14 +98,15 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 * Builder of infrastructure for a new, growing business
 
 
+---
 ## Degrees Earned
 
 **Abilene Christian University,** Abilene, TX 	1996-2006
-* 	M.S., Biblical and Related Studies
-* 	Master of Divinity
+> M.S., Biblical and Related Studies
+> Master of Divinity
 
 **Virginia Polytechnic and State University,** Blacksburg, VA 	1991-1995
-* 	B.S., Computer Science
+> B.S., Computer Science
 
 
 ---
