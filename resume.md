@@ -101,31 +101,31 @@ To serve as Rector of a program-size parish that is passionate about: beautiful 
 ---
 ## Degrees Earned
 
-**Abilene Christian University,** Abilene, TX 	1996-2006
-> M.S., Biblical and Related Studies  
-> Master of Divinity
+**Abilene Christian University,** Abilene, TX 	1996-2006  
+M.S., Biblical and Related Studies  
+Master of Divinity
 
-**Virginia Polytechnic and State University,** Blacksburg, VA 	1991-1995
-> B.S., Computer Science
+**Virginia Polytechnic and State University,** Blacksburg, VA 	1991-1995  
+B.S., Computer Science
 
 
 ---
 ## Additional Training
 
 **College for Congregational Development,** Diocese of Olympia	2016-2017  
-    Summer Intensives
+Summer Intensives
 
 **Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014  
-    CALL Program: Anglican Immersion and online classes
+CALL Program: Anglican Immersion and online classes
 
-**General Theological Seminary,** New York, NY 	2005-2006
-> Hebrew Readings/Poetry
+**General Theological Seminary,** New York, NY 	2005-2006  
+Hebrew Readings/Poetry
 
-**Escuela de la Lengua Española,** A.C., Guadalajara, Jalisco, México	2000
-> Level 5 Spanish Language Study and Immersion (3 months)
+**Escuela de la Lengua Española,** A.C., Guadalajara, Jalisco, México	2000  
+Level 5 Spanish Language Study and Immersion (3 months)
 
-**Hendrick Hospice Care,** Abilene, TX	1999
-> Hospice Volunteer Chaplain Training
+**Hendrick Hospice Care,** Abilene, TX	1999  
+Hospice Volunteer Chaplain Training
 
 
 ---
