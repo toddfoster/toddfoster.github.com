@@ -13,6 +13,7 @@ Recent Sermons and other Materials
 * [15 April 2017 Easter Vigil at Epiphany](http://cdn.boidem.org/2017/Epiphany20170415-Vigil.mp3) ([pdf](http://cdn.boidem.org/2017/EasterVigil2017.pdf))
 * [23 April 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170423.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-2A-20170423.pdf))
 * [20 May 2017 - Jack Gorsuch Memorial at Epiphany](http://cdn.boidem.org/2017/GorsuchMemorialHomily-20170520.mp3) ([pdf](http://cdn.boidem.org/2017/GorsuchHomily.pdf)) ([entire service](http://cdn.boidem.org/2017/GorsuchMemorial-20170520.mp3))
+* [28 May 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170528.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-7A-20170528.pdf))
 
 
 *2016*
