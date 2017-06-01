@@ -77,7 +77,7 @@ _(Contact information omitted from online version)_
 * Technician and technical strategist (sound system, computers) for mission team
 
 **University Church of Christ,** Abilene, TX 	2000-2001
-	_Associate for the Hispanic c_ommunity
+	_Associate for the Hispanic community_
 * Preacher, teacher for minority community in a large, bi-cultural church
 
 **First Christian Church,** DeLeon, TX 	1998-2000
