@@ -9,11 +9,6 @@ _(Contact information omitted from online version)_
 
 
 ---
-## Objective
-To serve as Rector of a program-size parish that is passionate about: beautiful liturgy, biblical formation, and loving its neighbors.
-
-
----
 ## Ministry Specialities
 * Engage corporate worship with a clear sense of purpose and a love of sung liturgy
 * Depend upon the Bible as a source of preaching & teaching good news for life today
