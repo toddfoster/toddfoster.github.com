@@ -85,8 +85,7 @@ _(Contact information omitted from online version)_
 * Preacher, teacher, presider, pastoral caregiver
 * Organizer of local ecumenical gatherings
 
-**Supply Chain Consultants,** Newark, DE 	(1994-1999)  
-    _Systems Analyst_
+**Supply Chain Consultants,** Newark, DE, 1994-1999: _Systems Analyst_
 * Consultant to major multinational manufacturers on supply chain management
 * Developer of software and tools
 * Organizer of internal continuing education program
