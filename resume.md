@@ -20,8 +20,7 @@ _(Contact information omitted from online version)_
 
 ---
 ## Professional Experience
-**Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-present
-	_Priest Associate / Curate_
+**Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-present: _Priest Associate / Curate_
 * Presider, preacher, cantor, confessor
 * Teacher of classes on Bible, christian spiritual practices, christian ministry
 * Manager & trainer for lay ministry leaders
@@ -37,8 +36,7 @@ _(Contact information omitted from online version)_
 * Collaborator in hiring new staff (Music Director, Communications Director, etc.)
 
 
-**St. Paul's Episcopal Church,** Bellingham, WA (ASA 324, Budget $0.73M)	2012-2016
-	_Business Administrator, Transitional Deacon_
+**St. Paul's Episcopal Church,** Bellingham, WA (ASA 324, Budget $0.73M)	2012-2016: _Business Administrator, Transitional Deacon_
 * Manager of staff transitions, budget, salaries, health insurance, pledges, parochial report
 * Overseer of building & systems maintenance, improvements, emergency repairs
 * Coordinator for installation of new columbarium & transfer of remains from old one
@@ -47,41 +45,34 @@ _(Contact information omitted from online version)_
 * Developer of Catechumenal process
 * Pastoral caregiver
 
-**St. Paul’s Episcopal Church,** Mt. Vernon, WA 2015-2016
-	_Field Education Ministry Intern_
+**St. Paul’s Episcopal Church,** Mt. Vernon, WA 2015-2016: _Field Education Ministry Intern_
 * Preacher, presider at Morning Prayer, planner of liturgies
 * Provider of liturgical assistance to a variety of priests in a church cluster
 
-**Iglesia de la Resurrección,** Mt. Vernon, WA  	2014-2016
-	_Subdeacon, Lay Preacher_
+**Iglesia de la Resurrección,** Mt. Vernon, WA  	2014-2016: _Subdeacon, Lay Preacher_
 * Preacher in Spanish
 * Instructor for Lutheran priests who don’t know the Episcopal liturgy, and for Episcopal priests who don’t know Spanish
 
-**Logos Bible Software,** Bellingham, WA	2010-2012
-	_Software Developer_
+**Logos Bible Software,** Bellingham, WA	2010-2012: _Software Developer_
 * Developer of cross-platform (Mac/Windows) church presentation software
 * Resource for questions about biblical Greek and Hebrew
 * Mentor for new team members
 
-**Interactive Network Technologies,** Inc., Houston, TX 	2007-2010
-	_Software Developer_
+**Interactive Network Technologies,** Inc., Houston, TX 	2007-2010: _Software Developer_
 * Developer of navigation software for ships involved in oil & gas exploration
 * Project lead, mentoring a multi-site team for an international client
 
-**Bronx Fellowship of Christ,** Bronx, NY  	2001-2007
-	_Missionary, Church Planter_
+**Bronx Fellowship of Christ,** Bronx, NY  	2001-2007: _Missionary, Church Planter_
 * Missionary establishing new house churches in an urban setting
 * Preacher, teacher, organizer for 120 people representing 20 different nations
 * Publisher of a hymnal that united our diverse community in song
 * Communicator to help ministry benefactors understand what their partnership achieves
 * Technician and technical strategist (sound system, computers) for mission team
 
-**University Church of Christ,** Abilene, TX 	2000-2001
-	_Associate for the Hispanic community_
+**University Church of Christ,** Abilene, TX 	2000-2001: _Associate for the Hispanic community_
 * Preacher, teacher for minority community in a large, bi-cultural church
 
-**First Christian Church,** DeLeon, TX 	1998-2000
-	_Pastor_
+**First Christian Church,** DeLeon, TX 	1998-2000: _Pastor_
 * Preacher, teacher, presider, pastoral caregiver
 * Organizer of local ecumenical gatherings
 
