@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## June 2017
+* Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc., 2003)
+
 ## May 2017
 * Cory Doctorow, _Walkaway_ (Tor: 2017)
 * John Gorsuch, _An Invitation to the Spiritual Journey_ (Paulist Press: 1990)
