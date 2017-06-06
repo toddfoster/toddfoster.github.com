@@ -10,6 +10,7 @@ Books I've read recently:
 ## June 2017
 * Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc., 2003)
 * Asaf Hanika, _The Realist_ (Archaia, 2015)
+* Brian McLaren, _The Great Spiritual Migration: How the world's largest religion is seeking a better way to be Christian_ (Convergent: 2016)
 
 ## May 2017
 * Cory Doctorow, _Walkaway_ (Tor: 2017)
