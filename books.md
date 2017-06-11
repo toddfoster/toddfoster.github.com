@@ -8,9 +8,10 @@ layout: default
 Books I've read recently:
 
 ## June 2017
-* Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc., 2003)
-* Asaf Hanika, _The Realist_ (Archaia, 2015)
+* Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc.: 2003)
+* Asaf Hanika, _The Realist_ (Archaia: 2015)
 * Brian McLaren, _The Great Spiritual Migration: How the world's largest religion is seeking a better way to be Christian_ (Convergent: 2016)
+* William Bridges, _The Character of Organizations: Using Personality Type in Organization Development,_ updated edition (Davies-Black Publishing: 2000)
 
 ## May 2017
 * Cory Doctorow, _Walkaway_ (Tor: 2017)
