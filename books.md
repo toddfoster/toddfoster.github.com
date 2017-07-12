@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## July 2017
+* Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Trasnform the Way You Think and Feel About Everything_ (HarperOne: 2017)
+
 ## June 2017
 * Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc.: 2003)
 * Asaf Hanika, _The Realist_ (Archaia: 2015)
