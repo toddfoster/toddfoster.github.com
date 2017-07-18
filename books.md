@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## July 2017
 * Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything_ (HarperOne: 2017)
+* Sinclair Lewis, _It Can't Happen Here_ (Signet Classics: 1935/2014)
 
 ## June 2017
 * Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc.: 2003)
