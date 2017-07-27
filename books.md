@@ -10,12 +10,13 @@ Books I've read recently:
 ## July 2017
 * Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything_ (HarperOne: 2017)
 * Sinclair Lewis, _It Can't Happen Here_ (Signet Classics: 1935/2014)
+* C. Andrew Doyle, _Small Batch: Local, Organic, and Sustainable Church_ (Xlibris: 2016)
 
 ## June 2017
 * Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc.: 2003)
 * Asaf Hanika, _The Realist_ (Archaia: 2015)
 * Brian McLaren, _The Great Spiritual Migration: How the world's largest religion is seeking a better way to be Christian_ (Convergent: 2016)
-* William Bridges, _The Character of Organizations: Using Personality Type in Organization Development,_ updated edition (Davies-Black Publishing: 2000)
+* William Bridges, _ThE Character of Organizations: Using Personality Type in Organization Development,_ updated edition (Davies-Black Publishing: 2000)
 * J.D. Vance, _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ (Harper: 2016)
 * Martin Thornton, _Christian Proficiency_ (Cowley Publications: 1959/1988)
 
