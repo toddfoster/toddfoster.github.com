@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2017
+* Rowan Williams, _Being Disciples: Essentials of the Christian Life_ (William B. Eerdmans Publishing Company: 2016)
+
 ## July 2017
 * Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything_ (HarperOne: 2017)
 * Sinclair Lewis, _It Can't Happen Here_ (Signet Classics: 1935/2014)
