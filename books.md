@@ -9,6 +9,8 @@ Books I've read recently:
 
 ## August 2017
 * Rowan Williams, _Being Disciples: Essentials of the Christian Life_ (William B. Eerdmans Publishing Company: 2016)
+* Christopher Brown, _Tropic of Kansas_ (Harper Voyage: 2017)
+* James S. A. Corey, _Abaddon's Gate_ (Orbit: 2013)
 
 ## July 2017
 * Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything_ (HarperOne: 2017)
