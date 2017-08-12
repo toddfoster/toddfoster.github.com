@@ -12,6 +12,7 @@ Books I've read recently:
 * Christopher Brown, _Tropic of Kansas_ (Harper Voyage: 2017)
 * James S. A. Corey, _Abaddon's Gate_ (Orbit: 2013)
 * James S. A. Corey, _Cibola Burn_ (Orbit: 2014)
+* Joseph Berger, _The Pious Ones: The World of Hasidim and Their Battles with America_ (Harper Perennial: 2014)
 
 ## July 2017
 * Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything_ (HarperOne: 2017)
