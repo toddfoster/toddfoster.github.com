@@ -24,7 +24,7 @@ Books I've read recently:
 * Killen & Murphy, _Introduction to Type and Conflict_ (CPP Inc.: 2003)
 * Asaf Hanika, _The Realist_ (Archaia: 2015)
 * Brian McLaren, _The Great Spiritual Migration: How the world's largest religion is seeking a better way to be Christian_ (Convergent: 2016)
-* William Bridges, _ThE Character of Organizations: Using Personality Type in Organization Development,_ updated edition (Davies-Black Publishing: 2000)
+* William Bridges, _The Character of Organizations: Using Personality Type in Organization Development,_ updated edition (Davies-Black Publishing: 2000)
 * J.D. Vance, _Hillbilly Elegy: A Memoir of a Family and Culture in Crisis_ (Harper: 2016)
 * Martin Thornton, _Christian Proficiency_ (Cowley Publications: 1959/1988)
 
