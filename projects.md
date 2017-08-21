@@ -15,6 +15,8 @@ Recent Sermons and other Materials
 * [20 May 2017 - Jack Gorsuch Memorial at Epiphany](http://cdn.boidem.org/2017/GorsuchMemorialHomily-20170520.mp3) ([pdf](http://cdn.boidem.org/2017/GorsuchHomily.pdf)) ([entire service](http://cdn.boidem.org/2017/GorsuchMemorial-20170520.mp3))
 * [28 May 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170528.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-7A-20170528.pdf))
 * [9 July 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170709.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-9A-20170709.pdf))
+* [God Works with All the Parts](http://cdn.boidem.org/2017/Epiphany-11A-20170723.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-11A-20170723.pdf)): 23 July 2017 at Epiphany
+* [Double-edged Swords](http://cdn.boidem.org/2017/Epiphany-15A-20170820.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-15A-20170820.pdf)): 20 August 2017 at Epiphany
 
 
 *2016*
