@@ -7,16 +7,17 @@ Recent Sermons and other Materials
 ----------------------------------
 
 *2017*
-* [8 January 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf))
-* [5 February 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170205.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-5A-20170205.pdf))
-* [1 March 2017 Ash Wednesday at Epiphany](http://cdn.boidem.org/2017/Epiphany20170301.mp3) ([pdf](http://cdn.boidem.org/2017/AshWed-2017.pdf))
-* [15 April 2017 Easter Vigil at Epiphany](http://cdn.boidem.org/2017/Epiphany20170415-Vigil.mp3) ([pdf](http://cdn.boidem.org/2017/EasterVigil2017.pdf))
-* [23 April 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170423.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-2A-20170423.pdf))
-* [20 May 2017 - Jack Gorsuch Memorial at Epiphany](http://cdn.boidem.org/2017/GorsuchMemorialHomily-20170520.mp3) ([pdf](http://cdn.boidem.org/2017/GorsuchHomily.pdf)) ([entire service](http://cdn.boidem.org/2017/GorsuchMemorial-20170520.mp3))
-* [28 May 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170528.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-7A-20170528.pdf))
-* [9 July 2017 at Epiphany](http://cdn.boidem.org/2017/Epiphany20170709.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-9A-20170709.pdf))
-* [God Works with All the Parts](http://cdn.boidem.org/2017/Epiphany-11A-20170723.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-11A-20170723.pdf)): 23 July 2017 at Epiphany
-* [Double-edged Swords](http://cdn.boidem.org/2017/Epiphany-15A-20170820.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-15A-20170820.pdf)): 20 August 2017 at Epiphany
+* [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
+* [Righteousness is About Relationship](http://cdn.boidem.org/2017/Epiphany20170205.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-5A-20170205.pdf)): 5 February 2017 [at Epiphany](http://www.epiphanyseattle.org/righteousness-is-about-relationship/)
+* [Ash Wednesday](http://cdn.boidem.org/2017/Epiphany20170301.mp3) ([pdf](http://cdn.boidem.org/2017/AshWed-2017.pdf)): 1 March 2017 [at Epiphany](http://www.epiphanyseattle.org/ash-wednesday-2/)
+* [Your Super-power: Discernment](http://cdn.boidem.org/2017/Epiphany20170326.mp3) ([pdf](http://cdn.boidem.org/2017/Lent-4A-20170326.pdf)): 26 March 2017 [at Epiphany](http://www.epiphanyseattle.org/your-super-power-discernment/)
+* [Easter Vigil](http://cdn.boidem.org/2017/Epiphany20170415-Vigil.mp3) ([pdf](http://cdn.boidem.org/2017/EasterVigil2017.pdf)): 15 April 2017 [at Epiphany](http://www.epiphanyseattle.org/what-is-different/)
+* [Who's Afraid of Doubt?](http://cdn.boidem.org/2017/Epiphany20170423.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-2A-20170423.pdf)):  23 April 2017 [at Epiphany](http://www.epiphanyseattle.org/the-story-of-the-disciples-thomas/)
+* [Jack Gorsuch Memorial](http://cdn.boidem.org/2017/GorsuchMemorialHomily-20170520.mp3) ([pdf](http://cdn.boidem.org/2017/GorsuchHomily.pdf)) ([entire service](http://cdn.boidem.org/2017/GorsuchMemorial-20170520.mp3)): 20 May 2017 at Epiphany
+* [You will be My Witnesses](http://cdn.boidem.org/2017/Epiphany20170528.mp3) ([pdf](http://cdn.boidem.org/2017/Easter-7A-20170528.pdf)): 28 May 2017 [at Epiphany](http://www.epiphanyseattle.org/you-will-be-my-witnesses/)
+* [A Tale of Two Men](http://cdn.boidem.org/2017/Epiphany20170709.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-9A-20170709.pdf)): 9 July 2017 [at Epiphany](http://www.epiphanyseattle.org/a-tale-of-two-men/)
+* [God Works with All the Parts](http://cdn.boidem.org/2017/Epiphany-11A-20170723.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-11A-20170723.pdf)): 23 July 2017 [at Epiphany](http://www.epiphanyseattle.org/god-works-with-all-the-parts/)
+* [Double-edged Swords](http://cdn.boidem.org/2017/Epiphany-15A-20170820.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-15A-20170820.pdf)): 20 August 2017 [at Epiphany](http://www.epiphanyseattle.org/we-are-all-beloved-children-of-god/)
 
 
 *2016*
