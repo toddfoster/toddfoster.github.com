@@ -3,7 +3,7 @@ title: Projects
 layout: default
 ---
 
-Recent Sermons and other Materials
+Recent Sermons and Other Materials
 ----------------------------------
 
 *2017*
