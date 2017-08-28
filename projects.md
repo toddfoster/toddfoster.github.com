@@ -18,6 +18,7 @@ Recent Sermons and Other Materials
 * [A Tale of Two Men](http://cdn.boidem.org/2017/Epiphany20170709.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-9A-20170709.pdf)): 9 July 2017 [at Epiphany](http://www.epiphanyseattle.org/a-tale-of-two-men/)
 * [God Works with All the Parts](http://cdn.boidem.org/2017/Epiphany-11A-20170723.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-11A-20170723.pdf)): 23 July 2017 [at Epiphany](http://www.epiphanyseattle.org/god-works-with-all-the-parts/)
 * [Double-edged Swords](http://cdn.boidem.org/2017/Epiphany-15A-20170820.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-15A-20170820.pdf)): 20 August 2017 [at Epiphany](http://www.epiphanyseattle.org/we-are-all-beloved-children-of-god/)
+* [Breakthrough!](http://cdn.boidem.org/2017/Epiphany20170827.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-16A-20170827.pdf)): 27 August 2017 [at Epiphany](http://www.epiphanyseattle.org/breakthrough-god-is-faithful-to-reveal-gods-self/)
 
 
 *2016*
