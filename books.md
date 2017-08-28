@@ -14,6 +14,7 @@ Books I've read recently:
 * James S. A. Corey, _Cibola Burn_ (Orbit: 2014)
 * Joseph Berger, _The Pious Ones: The World of Hasidim and Their Battles with America_ (Harper Perennial: 2014)
 * Naomi Klein, _No is Not Enough: Resisting Trump's Shock Politics and Winning the World We Need_ (Haymarket Books: 2017)
+* Thich Nhat Hanh, _Anger: Wisdom for Cooling the Flames_ (Riverhead Books: 2001)
 
 ## July 2017
 * Rob Bell, _What Is the Bible? How an Ancient Library of Poems, Letters, and Stories Can Transform the Way You Think and Feel About Everything_ (HarperOne: 2017)
