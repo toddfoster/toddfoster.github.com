@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## September 2017
+* Richard Rohr, _Everything Belongs: The Gift of Contemplative Prayer_ (Crossroad Publishing: 2003)
+
 ## August 2017
 * Rowan Williams, _Being Disciples: Essentials of the Christian Life_ (William B. Eerdmans Publishing Company: 2016)
 * Christopher Brown, _Tropic of Kansas_ (Harper Voyage: 2017)
