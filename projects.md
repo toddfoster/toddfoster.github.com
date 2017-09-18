@@ -19,7 +19,7 @@ Recent Sermons and Other Materials
 * [God Works with All the Parts](http://cdn.boidem.org/2017/Epiphany-11A-20170723.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-11A-20170723.pdf)): 23 July 2017 [at Epiphany](http://www.epiphanyseattle.org/god-works-with-all-the-parts/)
 * [Double-edged Swords](http://cdn.boidem.org/2017/Epiphany-15A-20170820.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-15A-20170820.pdf)): 20 August 2017 [at Epiphany](http://www.epiphanyseattle.org/we-are-all-beloved-children-of-god/)
 * [Breakthrough!](http://cdn.boidem.org/2017/Epiphany20170827.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-16A-20170827.pdf)): 27 August 2017 [at Epiphany](http://www.epiphanyseattle.org/breakthrough-god-is-faithful-to-reveal-gods-self/)
-* [Faith and Fear: Storm Surge](http://cdn.boidem.org/2017/Epiphany20170917.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-19A.pdf)) ([Video of Full Service](http://cdn.boidem.org/2017/Epiphany20170917-Full.mp4)): 17 September 2017 [at Epiphany](http://www.epiphanyseattle.org/faith-and-fear-storm-surge/)
+* [Faith and Fear: Storm Surge](http://cdn.boidem.org/2017/Epiphany20170917.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-19A.pdf)) ([video of entire service](http://cdn.boidem.org/2017/Epiphany20170917-Full.mp4)): 17 September 2017 [at Epiphany](http://www.epiphanyseattle.org/faith-and-fear-storm-surge/)
 
 
 *2016*
