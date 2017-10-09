@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## October 2017
+* Richard Rohr, _Hope Against Darkness: The Transforming Vision of Saint Francis in an Age of Anxety_ (Franciscan Media: 2001)
+
 ## September 2017
 * Richard Rohr, _Everything Belongs: The Gift of Contemplative Prayer_ (Crossroad Publishing: 2003)
 
