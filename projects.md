@@ -20,7 +20,7 @@ Recent Sermons and Other Materials
 * [Double-edged Swords](http://cdn.boidem.org/2017/Epiphany-15A-20170820.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-15A-20170820.pdf)): 20 August 2017 [at Epiphany](http://www.epiphanyseattle.org/we-are-all-beloved-children-of-god/)
 * [Breakthrough!](http://cdn.boidem.org/2017/Epiphany20170827.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-16A-20170827.pdf)): 27 August 2017 [at Epiphany](http://www.epiphanyseattle.org/breakthrough-god-is-faithful-to-reveal-gods-self/)
 * [Faith and Fear: Storm Surge](http://cdn.boidem.org/2017/Epiphany20170917.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-19A.pdf)) ([video of entire service](http://cdn.boidem.org/2017/Epiphany20170917-Full.mp4)): 17 September 2017 [at Epiphany](http://www.epiphanyseattle.org/faith-and-fear-storm-surge/)
-* [Evensong](http://cdn.boidem.org/2017/Evensong20171001.mp4): 1 October 2017 at Epiphany
+* [Evensong (video)](http://cdn.boidem.org/2017/Evensong20171001.mp4): 1 October 2017 at Epiphany
 
 
 *2016*
