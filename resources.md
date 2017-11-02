@@ -8,13 +8,13 @@ These are various links that I find (or once found) helpful or interesting.
 
 ## Vocation
 
+Prayer: [BCP](http://justus.anglican.org/resources/bcp/)([pdf](http://www.episcopalchurch.org/sites/default/files/downloads/book_of_common_prayer.pdf))  [Daily Prayer for All Seasons](https://www.episcopalchurch.org/library/document/daily-prayer-all-seasons) [Ormonde Plater's Prayers](http://www.episcopaldeacons.org/ormonde-plater-archive.html)
 Reference: [Encyclopedia Brittanica](http://www.eb.com) [Wikipedia](http://wikipedia.org) [Catholic Encyclopedia](http://newadvent.org/cathen/) [Episcopal Glossary](http://library.episcopalchurch.org/glossary)  
 Lectionaries: [RCL](http://lectionary.library.vanderbilt.edu/) [(pdf's,](http://lectionary.library.vanderbilt.edu/pdfs.php) [ical)](webcal://lectionary.library.vanderbilt.edu/feeds/lectionary.ics) [LectionaryPage.Net](http://lectionarypage.net)  [(ical)](http://www.lectionarypage.net/Resources/LiturgicalCalendar.ics) [Leccionario Común Revisado](http://www.blakleycreative.com/jtb/StMarksNet/ld.htm) [CCT](http://www.commontexts.org/publications/index.html) [Comments](http://www.montreal.anglican.org/comments/)  
 Lectionary Sermon Prep: [Preaching Peace](http://www.preachingpeace.org/teaching-resources/lectionary-commentary.html) [Edge of the Enclosure](http://www.edgeofenclosure.org)  
 English Bibles: [Bible](http://bible.oremus.org) [ESV](http://www.gnpcb.org/esv/browse/) ([mobile](http://www.gnpcb.org/esv/mobile/))  
 Non-English Bibles: [Tanach](http://www.tanach.us) ([text](http://www.tanach.us/TextFiles/Tanach.acc.txt.zip) [pdf](http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip)) [SBLGNT](http://sblgnt.com/) ([pdf](http://sblgnt.com/download/SBLGNTpdf.zip))  
-Texts: [BCP](http://justus.anglican.org/resources/bcp/)([pdf](http://www.episcopalchurch.org/sites/default/files/downloads/book_of_common_prayer.pdf))  
-History: [Timeline](http://justus.anglican.org/resources/timeline/timeline.html)  
+History: [Timeline](http://justus.anglican.org/resources/timeline/timeline.html) 
 Lectures: [Basics of Biblical Greek](http://www.biblicaltraining.org/biblical-greek/william-mounce) [Nadia](http://www.onbeing.org/program/nadia-bolz-weber-on-seeing-the-underside-and-seeing-god-tattoos-tradition-and-grace) [Francis](http://www.americamagazine.org/print/1563) [Preaching Peace](http://www.preachingpeace.org/)  [Hebrew](http://dailydoseofhebrew.com) ([Vowel Changes](http://dailydoseofhebrew.com) ) [Greek](http://dailydoseofgreek.com)  
 Other: [Hymnal 1982](http://smallchurchmusic.weebly.com/-hymnal-us-1982.html)  
 
