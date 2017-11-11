@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## November 2017
+* Robert Benson, _In Constant Prayer (The Ancient Practices Series)_ (Thomas Nelson: 2008)
+
 ## October 2017
 * Richard Rohr, _Hope Against Darkness: The Transforming Vision of Saint Francis in an Age of Anxety_ (Franciscan Media: 2001)
 * Matthew Desmond, _Evicted: Poverty and Profit in the American City_ (Crown Publishers: 2016)
