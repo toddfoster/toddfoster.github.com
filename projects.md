@@ -22,6 +22,7 @@ Recent Sermons and Other Materials
 * [Faith and Fear: Storm Surge](http://cdn.boidem.org/2017/Epiphany20170917.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-19A.pdf)) ([video of entire service](http://cdn.boidem.org/2017/Epiphany20170917-Full.mp4)): 17 September 2017 [at Epiphany](http://www.epiphanyseattle.org/faith-and-fear-storm-surge/)
 * [Evensong (video)](http://cdn.boidem.org/2017/Evensong20171001.mp4): 1 October 2017 at Epiphany
 * [The Greatest Command](http://cdn.boidem.org/2017/Epiphany20171029.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-25A-20171029.pdf)) ([video of entire service](http://cdn.boidem.org/2017/Epiphany20171029.mp4)): 29 October 2017 [at Epiphany](http://www.epiphanyseattle.org/the-greatest-command/)
+* [Evensong for the Feast of Christ the King (video)](http://cdn.boidem.org/2017/Evensong20171126.mp4): 26 November 2017 at Epiphany
 
 
 *2016*
