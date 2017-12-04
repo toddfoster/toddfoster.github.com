@@ -23,6 +23,7 @@ Recent Sermons and Other Materials
 * [Evensong (video)](http://cdn.boidem.org/2017/Evensong20171001.mp4): 1 October 2017 at Epiphany
 * [The Greatest Command](http://cdn.boidem.org/2017/Epiphany20171029.mp3) ([pdf](http://cdn.boidem.org/2017/Proper-25A-20171029.pdf)) ([video of entire service](http://cdn.boidem.org/2017/Epiphany20171029.mp4)): 29 October 2017 [at Epiphany](http://www.epiphanyseattle.org/the-greatest-command/)
 * [Evensong for the Feast of Christ the King (video)](http://cdn.boidem.org/2017/Evensong20171126.mp4): 26 November 2017 at Epiphany
+* [A Time to Wait](http://cdn.boidem.org/2017/Epiphany20171203.mp3) ([pdf](http://cdn.boidem.org/2017/Advent-1B-20171203.pdf)): 3 December 2017 [at Epiphany](http://www.epiphanyseattle.org/a-time-to-wait/)
 
 
 *2016*
