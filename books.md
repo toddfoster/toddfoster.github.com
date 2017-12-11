@@ -11,6 +11,7 @@ Books I've read recently:
 * Robert Benson, _In Constant Prayer (The Ancient Practices Series)_ (Thomas Nelson: 2008)
 * Kim Stanley Robinson, _New York 2140_ (Orbit: 2017)
 * Charles Foster, _The Sacred Journey (The Ancient Practices Series)_ (Thomas Nelson: 2010)
+* Nora Gallagher, _The Sacred Meal (The Ancient Practices Series)_ (Thomas Nelson: 2009)
 
 ## October 2017
 * Richard Rohr, _Hope Against Darkness: The Transforming Vision of Saint Francis in an Age of Anxety_ (Franciscan Media: 2001)
