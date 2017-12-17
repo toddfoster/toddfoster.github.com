@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## December 2017
+* Evelyn Underhill, _The Spiritual Life_ (Harper & Row: 1977)
+
 ## November 2017
 * Robert Benson, _In Constant Prayer (The Ancient Practices Series)_ (Thomas Nelson: 2008)
 * Kim Stanley Robinson, _New York 2140_ (Orbit: 2017)
