@@ -26,6 +26,7 @@ Recent Sermons and Other Materials
 * [A Time to Wait](http://cdn.boidem.org/2017/Epiphany20171203.mp3) ([pdf](http://cdn.boidem.org/2017/Advent-1B-20171203.pdf)): 3 December 2017 [at Epiphany](http://www.epiphanyseattle.org/a-time-to-wait/)
 * [An Unplanned Pregnancy](http://cdn.boidem.org/2017/Epiphany20171224.mp3) ([pdf](http://cdn.boidem.org/2017/Advent-4B-20171224.pdf)): 24 December 2017 [at Epiphany](http://www.epiphanyseattle.org/an-unplanned-pregnancy/)
 * [In the Beginning](http://cdn.boidem.org/2017/Epiphany20171225.mp3) ([pdf](http://cdn.boidem.org/2017/ChristmasIII-20171225.pdf)): 25 December 2017 at Epiphany
+* ["God Bless America" sung by the Epiphany Choir + guests for the Harlem Globetrotters (video)](http://cdn.boidem.org/2017/EpiphanyGlobetrotters20171229-sm.mp4): 29 December 2017 at Key Arena, Seattle
 
 
 *2016*
