@@ -6,9 +6,8 @@
 
 This is a test of [nanogallery](https://nanogallery2.nanostudio.org/) [(docs)](https://nanogallery2.nanostudio.org/documentation.html#ngy2_gallery) on jekyll on github.
 
-v. 2348
+v. 2350
 
-<!-- nanogallery2 -->
 <div id="nanogallery2-1" data-nanogallery2='{
         "itemsBaseURL": "http://photos.boidem.org/2011/tn/",
 		"thumbnailLabel":  { "position" : "onBottom" },
@@ -52,6 +51,5 @@ Another gallery
 <a href="T Ball.med.JPG" data-ngthumb="T Ball.JPG">T Ball</a>
 <a href="Wintertime in Bellingham.med.JPG" data-ngthumb="Wintertime in Bellingham.JPG">Wintertime in Bellingham</a>
 </div>
-<!-- end nanogallery2 -->
 
 
