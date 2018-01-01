@@ -13,7 +13,7 @@ v. 2330
         "itemsBaseURL": "http://photos.boidem.org/2011/tn/",
 		"thumbnailLabel":  { "position" : "onBottom" },
         "thumbnailHeight": "auto",
-        "thumbnailWidth":  "auto"
+        "thumbnailWidth":  200
       }'>>
 <a href="100_1085.med.JPG" data-ngthumb="100_1085.JPG">100_1085</a>
 <a href="100_1110.med.JPG" data-ngthumb="100_1110.JPG">100_1110</a>
