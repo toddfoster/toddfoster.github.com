@@ -1,12 +1,12 @@
-<script type="text/javascript" src="http://cdn.boidem.org/js/xdomain.min.js" slave="http://cdn.boidem.org/js/proxy.html"></script>
 <link href="http://cdn.boidem.org/js/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.boidem.org/js/css/nanogallery2.woff.min.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery.nanogallery2.min.js"></script>
 
 
 This is a test of [nanogallery](https://nanogallery2.nanostudio.org/) [(docs)](https://nanogallery2.nanostudio.org/documentation.html#ngy2_gallery) on jekyll on github.
 
-v. 2203
+v. 2225
 
 <!-- nanogallery2 -->
 <div id="nanogallery2" data-nanogallery2>
