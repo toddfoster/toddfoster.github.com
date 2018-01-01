@@ -6,16 +6,12 @@
 
 This is a test of [nanogallery](https://nanogallery2.nanostudio.org/) [(docs)](https://nanogallery2.nanostudio.org/documentation.html#ngy2_gallery) on jekyll on github.
 
-v. 2312
+v. 2321
 
 <!-- nanogallery2 -->
 <div id="nanogallery2" data-nanogallery2='{
         "itemsBaseURL": "http://photos.boidem.org/2011/tn/",
-        "thumbnailWidth": "200",
-        "galleryDisplayMode": "rows",
-        "galleryMaxRows": 1,
-        "thumbnailAlignment": "center",
-        "galleryMaxItems": 1
+        "thumbnailAlignment": "left",
       }'>>
 <a href="100_1085.med.JPG" data-ngthumb="100_1085.JPG">100_1085</a>
 <a href="100_1110.med.JPG" data-ngthumb="100_1110.JPG">100_1110</a>
