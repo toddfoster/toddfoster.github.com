@@ -4,11 +4,9 @@
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery.nanogallery2.min.js"></script>
 
 
-This is a test of [nanogallery](https://nanogallery2.nanostudio.org/)[(docs)](https://nanogallery2.nanostudio.org/documentation.html#ngy2_gallery) on jekyll on github.
+This is a test of [nanogallery](https://nanogallery2.nanostudio.org/) [(docs)](https://nanogallery2.nanostudio.org/documentation.html#ngy2_gallery) on jekyll on github.
 
-
-
-With nanogallery:
+v. 2203
 
 <!-- nanogallery2 -->
 <div id="nanogallery2" data-nanogallery2>
