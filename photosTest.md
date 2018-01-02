@@ -1,12 +1,27 @@
 <link href="http://cdn.boidem.org/js/css/nanogallery2.min.css" rel="stylesheet" type="text/css">
 <link href="http://cdn.boidem.org/js/css/nanogallery2.woff.min.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.boidem.org/js/css/reset.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.boidem.org/js/css/audioplayer.css" rel="stylesheet" type="text/css">
+
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery.nanogallery2.min.js"></script>
+<script type="text/javascript" src="http://cdn.boidem.org/js/audioplayer.js"></script>
 
+v. 0949
+
+-----
+
+Testing audioplayer
+
+Dr. Sam Torvend, 13 October 2012:
+<audio preload="auto" controls><source src="http://cdn.boidem.org/Torvend20121013.mp3"></audio>
+
+Did it work?
+
+-----
 
 This is a test of [nanogallery](https://nanogallery2.nanostudio.org/) [(docs)](https://nanogallery2.nanostudio.org/documentation.html#ngy2_gallery) on jekyll on github.
 
-v. 2350
 
 <div id="nanogallery2-1" data-nanogallery2='{
         "itemsBaseURL": "http://photos.boidem.org/2011/tn/",
