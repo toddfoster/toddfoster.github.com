@@ -16,7 +16,14 @@ Testing audioplayer
 Dr. Sam Torvend, 13 October 2012:
 <audio preload="auto" controls><source src="http://cdn.boidem.org/Torvend20121013.mp3"></audio>
 
-Did it work?
+----
+
+Raw audio:
+![ Dr. Sam Torvend, 13 October 2012](http://cdn.boidem.org/Torvend20121013.mp3)
+
+Raw video:
+![Globetrotters](http://cdn.boidem.org/2017/EpiphanyGlobetrotters20171229-sm.mp4)
+
 
 -----
 
