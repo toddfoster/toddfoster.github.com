@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## January 2018
+* Neal O. Michell, _How to Hit the Ground Running: A Quick-Start Guide For Congregations With New Leadership_ (Church Publishing: 2005)
+
 ## December 2017
 * Evelyn Underhill, _The Spiritual Life_ (Harper & Row: 1977)
 
