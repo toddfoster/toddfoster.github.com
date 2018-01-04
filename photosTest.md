@@ -2,10 +2,12 @@
 <link href="http://cdn.boidem.org/js/css/nanogallery2.woff.min.css" rel="stylesheet" type="text/css">
 <link href="http://cdn.boidem.org/js/css/reset.css" rel="stylesheet" type="text/css">
 <link href="http://cdn.boidem.org/js/css/audioplayer.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.boidem.org/js/css/video-js.min.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="http://cdn.boidem.org/js/jquery.nanogallery2.min.js"></script>
 <script type="text/javascript" src="http://cdn.boidem.org/js/audioplayer.js"></script>
+<script type="text/javascript" src="http://cdn.boidem.org/js/video.min.js"></script>
 
 v. 0949
 
@@ -24,6 +26,16 @@ Raw audio:
 Raw video:
 ![Globetrotters](http://cdn.boidem.org/2017/EpiphanyGlobetrotters20171229-sm.mp4)
 
+----
+
+Testing video.js
+
+<video controls preload="auto" data-setup='{}'><source src="http://cdn.boidem.org/2017/EpiphanyGlobetrotters20171229-sm.mp4" type="video/mp4"></source></video>
+
+
+Audio only:
+
+<audio controls preload="auto" data-setup='{}'><source src="http://cdn.boidem.org/Torvend20121013.mp3" type="audio/mp3"></source></audio>
 
 -----
 
