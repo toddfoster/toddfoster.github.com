@@ -30,12 +30,12 @@ Raw video:
 
 Testing video.js
 
-<video controls preload="auto" data-setup='{}'><source src="http://cdn.boidem.org/2017/EpiphanyGlobetrotters20171229-sm.mp4" type="video/mp4"></source></video>
+<video id="video1" class="video-js vjs-default-skin" controls preload="auto" data-setup='{}'><source src="http://cdn.boidem.org/2017/EpiphanyGlobetrotters20171229-sm.mp4" type="video/mp4"></source></video>
 
 
 Audio only:
 
-<audio controls preload="auto" data-setup='{}'><source src="http://cdn.boidem.org/Torvend20121013.mp3" type="audio/mp3"></source></audio>
+<audio id="video1" class="video-js vjs-default-skin" controls preload="auto" data-setup='{}'><source src="http://cdn.boidem.org/Torvend20121013.mp3" type="audio/mp3"></source></audio>
 
 -----
 
