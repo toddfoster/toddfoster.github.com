@@ -6,6 +6,10 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2018*
+* [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
+* [Repent!](http://cdn.boidem.org/2018/Epiphany201801211700.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-3B-20180121.pdf)): 21 January 2018 [at Epiphany](http://www.epiphanyseattle.org/category/sermons/)
+
 *2017*
 * [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
 * [Righteousness is About Relationship](http://cdn.boidem.org/2017/Epiphany20170205.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-5A-20170205.pdf)): 5 February 2017 [at Epiphany](http://www.epiphanyseattle.org/righteousness-is-about-relationship/)
