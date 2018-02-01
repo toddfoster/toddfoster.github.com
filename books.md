@@ -11,6 +11,7 @@ Books I've read recently:
 * Neal O. Michell, _How to Hit the Ground Running: A Quick-Start Guide For Congregations With New Leadership_ (Church Publishing: 2005)
 * Henri J.M. Nouwen, _In the Name of Jesus: Reflections on Christian Leadership_ (The Crossroad Publishing Company: 1989)
 * William S. McFeely, _Frederick Douglass_ (W. W. Norton and Company: 1991)
+* Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_
 
 ## December 2017
 * Evelyn Underhill, _The Spiritual Life_ (Harper & Row: 1977)
