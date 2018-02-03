@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## February 2018
+* Lionel L. Mitchell, _Planning the Church Year_ (Morehouse Publishing: 1991)
+
 ## January 2018
 * Neal O. Michell, _How to Hit the Ground Running: A Quick-Start Guide For Congregations With New Leadership_ (Church Publishing: 2005)
 * Henri J.M. Nouwen, _In the Name of Jesus: Reflections on Christian Leadership_ (The Crossroad Publishing Company: 1989)
