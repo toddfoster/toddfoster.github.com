@@ -36,6 +36,7 @@ Uncategorized: [Bono'sPrayer](http://www.americanrhetoric.com/speeches/bononatio
 
 ## Programming
 
+Net: [Free DNS](http://freedns.afraid.org/)
 Javascript: [Introductory Videos:](http://yuilibrary.com/theater/) [(1](http://www.youtube.com/watch?v=JxAXlJEmNMg) [2](http://www.youtube.com/watch?v=RO1Wnu-xKoY) [3](http://www.youtube.com/watch?v=ya4UHuXNygM) [4](http://www.youtube.com/watch?v=Fv9qT9joc0M) [5](http://www.youtube.com/watch?v=47Ceot8yqeI) [6](http://www.youtube.com/watch?v=QgwSUtYSUqA) [7](http://www.youtube.com/watch?v=UTEqr0IlFKY) [8)](http://www.youtube.com/watch?v=taaEzHI9xyY) [Crockford](http://javascript.crockford.com/) [good parts](http://googlecode.blogspot.com/2009/03/doug-crockford-javascript-good-parts.html) [essentials](http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/) [reference](http://www.devguru.com/technologies/ecmascript/quickref/javascript_index.html) [fiddle](http://jsfiddle.net)  
 Libs/Utils: [jasmine](http://pivotal.github.com/jasmine/user-guide.html) [jslint](http://www.jslint.com/) [jsmin](http://javascript.crockford.com/jsmin.html) [require](http://requirejs.org) [frameworks](http://microjs.com) [lawnchair](http://westcoastlogic.com/lawnchair/)  
 Python: [home](http://www.python.org/) [docs](http://docs.python.org) [pleac-python](http://pleac.sourceforge.net/pleac_python/)  
