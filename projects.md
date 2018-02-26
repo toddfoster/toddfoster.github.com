@@ -9,6 +9,10 @@ Recent Sermons and Other Materials
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
 * [Repent!](http://cdn.boidem.org/2018/Epiphany201801211700.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-3B-20180121.pdf)): 21 January 2018 [at Epiphany](http://www.epiphanyseattle.org/category/sermons/)
+* [Listen to Him!](http://cdn.boidem.org/2018/StT20180211.mp3) ([pdf](http://cdn.boidem.org/2018/EpiphanyLastB-20180211.pdf)): 11 February 2018 at [St. Thomas](http://www.stthomasglassboronj.org)
+* [Invitation to Spiritual Disciplines](http://cdn.boidem.org/2018/StT20180214.mp3) ([pdf](http://cdn.boidem.org/2018/AshWedB-20180214.pdf)): 14 February 2018 (Ash Wednesday) at [St. Thomas](http://www.stthomasglassboronj.org)
+* [Testing for Truth](http://cdn.boidem.org/2018/StT20180218.mp3) ([pdf](http://cdn.boidem.org/2018/Lent1B-20180218.pdf)): 18 February 2018 at [St. Thomas](http://www.stthomasglassboronj.org)
+* [Turning from Illusion](http://cdn.boidem.org/2018/StT20180224.mp3) ([pdf](http://cdn.boidem.org/2018/Lent2B-20180224.pdf)): 24 February 2018 at [St. Thomas](http://www.stthomasglassboronj.org)
 
 *2017*
 * [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
