@@ -20,20 +20,23 @@ _(Contact information omitted from online version)_
 
 ---
 ## Professional Experience
-**Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-present: _Priest Associate / Curate_
+**St. Thomas' Episcopal Church,** Glassboro, NJ        2018-present: _Rector_
 * Presider, preacher, cantor, confessor
 * Teacher of classes on Bible, christian spiritual practices, christian ministry
-* Manager & trainer for lay ministry leaders
-* Coach & encourager for staff
-* Organizer & launcher of small groups
-* Builder of community via parish events
 * Pastoral caregiver bringing community and Christ’s presence to the hurting
-* Writer of newsletter articles that stimulate Christian thought and action
+* Propose, coordinate, implement outreach & church development efforts
+* Manage staff, budget, campus
+* Networker creating links between the parish and our neighbors
+* Writer of parish communications that stimulate Christian thought and action
+
+
+**Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
+* Presider, preacher, teacher, cantor, confessor
+* Manager & trainer for lay ministry leaders
+* Organizer & launcher of small groups
 * Exegetical, homiletical adviser to participants in our sermon preparation process
 * Welcomer and integrator of newcomers with letters, visits, receptions
-* Networker creating links between the parish and our neighbors
 * Instructor for baptismal candidates (or their parents)
-* Collaborator in hiring new staff (Music Director, Communications Director, etc.)
 
 
 **St. Paul's Episcopal Church,** Bellingham, WA (ASA 324, Budget $0.73M)	2012-2016: _Business Administrator, Transitional Deacon_
