@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## March 2018
+* Richard Beck, _Reviving Old Scratch: Demons and the Devil for Doubters and the Disenchanted_ (Fortress Press: 2016)
+
 ## February 2018
 * Lionel L. Mitchell, _Planning the Church Year_ (Morehouse Publishing: 1991)
 
