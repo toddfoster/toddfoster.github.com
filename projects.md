@@ -14,6 +14,7 @@ Recent Sermons and Other Materials
 * [Testing for Truth](http://cdn.boidem.org/2018/StT20180218.mp3) ([pdf](http://cdn.boidem.org/2018/Lent1B-20180218.pdf)): 18 February 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 * [Turning from Illusion](http://cdn.boidem.org/2018/StT20180224.mp3) ([pdf](http://cdn.boidem.org/2018/Lent2B-20180224.pdf)): 24 February 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 * [Doing the Unstuck](http://cdn.boidem.org/2018/StT20180304.mp3) ([pdf](http://cdn.boidem.org/2018/Lent3B-20180304.pdf)): 4 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
+* [The Son of Man Must Be Raised Up](http://cdn.boidem.org/2018/StT20180311.mp3) ([pdf](http://cdn.boidem.org/2018/Lent4B-20180311.pdf)): 11 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 
 *2017*
 * [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
