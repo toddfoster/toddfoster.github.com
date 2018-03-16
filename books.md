@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## March 2018
 * Richard Beck, _Reviving Old Scratch: Demons and the Devil for Doubters and the Disenchanted_ (Fortress Press: 2016)
+* Esther L. DeEugenio, _Reflections; St. Thomas' Episcopal Church, Glassboro, New Jersey_ (Standard Publishing Co.:1995)
 
 ## February 2018
 * Lionel L. Mitchell, _Planning the Church Year_ (Morehouse Publishing: 1991)
