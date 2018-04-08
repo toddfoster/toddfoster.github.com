@@ -22,7 +22,7 @@ _(Contact information omitted from online version)_
 ## Professional Experience
 **St. Thomas' Episcopal Church,** Glassboro, NJ        2018-present: _Rector_
 * Presider, preacher, cantor, confessor
-* Teacher of classes on Bible, christian spiritual practices, christian ministry
+* Teacher of classes on Bible, Christian spiritual practices, Christian ministry
 * Pastoral caregiver bringing community and Christ’s presence to the hurting
 * Propose, coordinate, implement outreach & church development efforts
 * Manage staff, budget, campus
