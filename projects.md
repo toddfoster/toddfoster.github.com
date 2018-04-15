@@ -19,6 +19,8 @@ Recent Sermons and Other Materials
 * [Maundy Thursday -- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180329-JH.mp3): 29 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 * [Good Friday](http://cdn.boidem.org/2018/StT20180330.mp3) ([pdf](http://cdn.boidem.org/2018/GoodFriday-20180330.pdf)): 30 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 * [Easter - Be Not Afraid!](http://cdn.boidem.org/2018/StT20180401.mp3) ([pdf](http://cdn.boidem.org/2018/Easter1B-20180401.pdf)): 1 April 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
+* [Do not be afraid of questions!](http://cdn.boidem.org/2018/StT20180408.mp3) ([pdf](http://cdn.boidem.org/2018/Easter2B-20180408.pdf)): 8 April 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
+* [Death and Taxes](http://cdn.boidem.org/2018/StT20180415.mp3) ([pdf](http://cdn.boidem.org/2018/Easter3B-20180415.pdf)): 15 April 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 
 *2017*
 * [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
