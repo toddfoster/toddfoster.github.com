@@ -6,21 +6,23 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2018 at [St. Thomas'](http://www.stthomasglassboro.org)*
+* [Listen to Him!](http://cdn.boidem.org/2018/StT20180211.mp3) ([pdf](http://cdn.boidem.org/2018/EpiphanyLastB-20180211.pdf)): 11 February 2018
+* [Invitation to Spiritual Disciplines](http://cdn.boidem.org/2018/StT20180214.mp3) ([pdf](http://cdn.boidem.org/2018/AshWedB-20180214.pdf)): 14 February 2018 (Ash Wednesday)
+* [Testing for Truth](http://cdn.boidem.org/2018/StT20180218.mp3) ([pdf](http://cdn.boidem.org/2018/Lent1B-20180218.pdf)): 18 February 2018
+* [Turning from Illusion](http://cdn.boidem.org/2018/StT20180224.mp3) ([pdf](http://cdn.boidem.org/2018/Lent2B-20180224.pdf)): 24 February 2018
+* [Doing the Unstuck](http://cdn.boidem.org/2018/StT20180304.mp3) ([pdf](http://cdn.boidem.org/2018/Lent3B-20180304.pdf)): 4 March 2018
+* [The Son of Man Must Be Raised Up](http://cdn.boidem.org/2018/StT20180311.mp3) ([pdf](http://cdn.boidem.org/2018/Lent4B-20180311.pdf)): 11 March 2018
+* [Forgiveness -- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180318-JH.mp3): 18 March 2018
+* [Maundy Thursday -- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180329-JH.mp3): 29 March 2018
+* [Good Friday](http://cdn.boidem.org/2018/StT20180330.mp3) ([pdf](http://cdn.boidem.org/2018/GoodFriday-20180330.pdf)): 30 March 2018
+* [Easter - Be Not Afraid!](http://cdn.boidem.org/2018/StT20180401.mp3) ([pdf](http://cdn.boidem.org/2018/Easter1B-20180401.pdf)): 1 April 2018
+* [Do not be afraid of questions!](http://cdn.boidem.org/2018/StT20180408.mp3) ([pdf](http://cdn.boidem.org/2018/Easter2B-20180408.pdf)): 8 April 2018
+* [Death and Taxes](http://cdn.boidem.org/2018/StT20180415.mp3) ([pdf](http://cdn.boidem.org/2018/Easter3B-20180415.pdf)): 15 April 2018
+
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
 * [Repent!](http://cdn.boidem.org/2018/Epiphany201801211700.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-3B-20180121.pdf)): 21 January 2018 [at Epiphany](http://www.epiphanyseattle.org/category/sermons/)
-* [Listen to Him!](http://cdn.boidem.org/2018/StT20180211.mp3) ([pdf](http://cdn.boidem.org/2018/EpiphanyLastB-20180211.pdf)): 11 February 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Invitation to Spiritual Disciplines](http://cdn.boidem.org/2018/StT20180214.mp3) ([pdf](http://cdn.boidem.org/2018/AshWedB-20180214.pdf)): 14 February 2018 (Ash Wednesday) at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Testing for Truth](http://cdn.boidem.org/2018/StT20180218.mp3) ([pdf](http://cdn.boidem.org/2018/Lent1B-20180218.pdf)): 18 February 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Turning from Illusion](http://cdn.boidem.org/2018/StT20180224.mp3) ([pdf](http://cdn.boidem.org/2018/Lent2B-20180224.pdf)): 24 February 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Doing the Unstuck](http://cdn.boidem.org/2018/StT20180304.mp3) ([pdf](http://cdn.boidem.org/2018/Lent3B-20180304.pdf)): 4 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [The Son of Man Must Be Raised Up](http://cdn.boidem.org/2018/StT20180311.mp3) ([pdf](http://cdn.boidem.org/2018/Lent4B-20180311.pdf)): 11 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Forgiveness -- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180318-JH.mp3): 18 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Maundy Thursday -- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180329-JH.mp3): 29 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Good Friday](http://cdn.boidem.org/2018/StT20180330.mp3) ([pdf](http://cdn.boidem.org/2018/GoodFriday-20180330.pdf)): 30 March 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Easter - Be Not Afraid!](http://cdn.boidem.org/2018/StT20180401.mp3) ([pdf](http://cdn.boidem.org/2018/Easter1B-20180401.pdf)): 1 April 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Do not be afraid of questions!](http://cdn.boidem.org/2018/StT20180408.mp3) ([pdf](http://cdn.boidem.org/2018/Easter2B-20180408.pdf)): 8 April 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
-* [Death and Taxes](http://cdn.boidem.org/2018/StT20180415.mp3) ([pdf](http://cdn.boidem.org/2018/Easter3B-20180415.pdf)): 15 April 2018 at [St. Thomas'](http://www.stthomasglassboro.org)
 
 *2017*
 * [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
