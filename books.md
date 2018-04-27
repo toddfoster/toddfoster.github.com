@@ -10,6 +10,7 @@ Books I've read recently:
 ## April 2018
 * Madeline L'Engle, _A Wrinkle in Time_ (Square Fish: 1962)
 * Evelyn Underhill, _The Fruits of the Spirit_ (Longmans: 1949)
+* Joseph Conrad, _Heart of Darkness_ (Longmans, Green and Co.: 1929)
 
 ## March 2018
 * Richard Beck, _Reviving Old Scratch: Demons and the Devil for Doubters and the Disenchanted_ (Fortress Press: 2016)
