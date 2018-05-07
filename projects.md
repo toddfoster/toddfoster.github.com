@@ -19,6 +19,9 @@ Recent Sermons and Other Materials
 * [Easter - Be Not Afraid!](http://cdn.boidem.org/2018/StT20180401.mp3) ([pdf](http://cdn.boidem.org/2018/Easter1B-20180401.pdf)): 1 April 2018
 * [Do not be afraid of questions!](http://cdn.boidem.org/2018/StT20180408.mp3) ([pdf](http://cdn.boidem.org/2018/Easter2B-20180408.pdf)): 8 April 2018
 * [Death and Taxes](http://cdn.boidem.org/2018/StT20180415.mp3) ([pdf](http://cdn.boidem.org/2018/Easter3B-20180415.pdf)): 15 April 2018
+* [The Good Shepherd](http://cdn.boidem.org/2018/StT20180422.mp3) ([pdf](http://cdn.boidem.org/2018/Easter4B-20180422.pdf)): 22 April 2018
+* [Vine and Branches](http://cdn.boidem.org/2018/StT20180429.mp3) ([pdf](http://cdn.boidem.org/2018/Easter5B-20180429.pdf)): 29 April 2018
+* [May is Mental Health Month](http://cdn.boidem.org/2018/StT20180506.mp3) ([pdf](http://cdn.boidem.org/2018/Easter6B-20180506.pdf)): 6 May 2018
 
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
