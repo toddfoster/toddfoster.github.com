@@ -22,6 +22,7 @@ Recent Sermons and Other Materials
 * [The Good Shepherd](http://cdn.boidem.org/2018/StT20180422.mp3) ([pdf](http://cdn.boidem.org/2018/Easter4B-20180422.pdf)): 22 April 2018
 * [Vine and Branches](http://cdn.boidem.org/2018/StT20180429.mp3) ([pdf](http://cdn.boidem.org/2018/Easter5B-20180429.pdf)): 29 April 2018
 * [May is Mental Health Month](http://cdn.boidem.org/2018/StT20180506.mp3) ([pdf](http://cdn.boidem.org/2018/Easter6B-20180506.pdf)): 6 May 2018
+* [Mothers' Day-- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180512-JH.mp3): 12 May 2018
 
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
