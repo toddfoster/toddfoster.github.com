@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## May 2018
+* Robert Logan & Tara Miller, _Becoming Barnabas: A Ministry of Coming Alongside_ (ChurchSmart Resources: 2014)
+
 ## April 2018
 * Madeline L'Engle, _A Wrinkle in Time_ (Square Fish: 1962)
 * Evelyn Underhill, _The Fruits of the Spirit_ (Longmans: 1949)
