@@ -10,6 +10,7 @@ Books I've read recently:
 ## May 2018
 * Robert Logan & Tara Miller, _Becoming Barnabas: A Ministry of Coming Alongside_ (ChurchSmart Resources: 2014)
 * Richard J. Mouw, _He Shines in All That's Fair: Culture and Common Grace_ (William B. Eerdmans Publishing Company: 2001)
+*Henri J. M. Nouwen, _The Wounded Healer: Ministry in Contemporary Society_ (Doubleday & Company, Inc.: 1972)
 
 ## April 2018
 * Madeline L'Engle, _A Wrinkle in Time_ (Square Fish: 1962)
