@@ -24,6 +24,7 @@ Recent Sermons and Other Materials
 * [May is Mental Health Month](http://cdn.boidem.org/2018/StT20180506.mp3) ([pdf](http://cdn.boidem.org/2018/Easter6B-20180506.pdf)): 6 May 2018
 * [Mothers' Day-- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180512-JH.mp3): 12 May 2018
 * [Pentecost: The Age of the Spirit](http://cdn.boidem.org/2018/StT20180520.mp3): 20 May 2018
+* [A Spirit in Balance](http://cdn.boidem.org/2018/StT20180527.mp3) ([pdf](http://cdn.boidem.org/2018/TrinityB-20180527.pdf)): 27 May 2018
 
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
