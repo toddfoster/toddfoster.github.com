@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## June 2018
+* Justo L. Gonzalez, _Santa Biblia: The Bible Through Hispanic Eyes_ (Abingdon Press: 1996)
+
 ## May 2018
 * Robert Logan & Tara Miller, _Becoming Barnabas: A Ministry of Coming Alongside_ (ChurchSmart Resources: 2014)
 * Richard J. Mouw, _He Shines in All That's Fair: Culture and Common Grace_ (William B. Eerdmans Publishing Company: 2001)
