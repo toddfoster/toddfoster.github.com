@@ -10,10 +10,13 @@ Books I've read recently:
 ## June 2018
 * Justo L. Gonzalez, _Santa Biblia: The Bible Through Hispanic Eyes_ (Abingdon Press: 1996)
 
+## June 2018
+* Henri J. M. Nouwen, _Creative Ministry_ (Image Books: 2003 / 1971)
+
 ## May 2018
 * Robert Logan & Tara Miller, _Becoming Barnabas: A Ministry of Coming Alongside_ (ChurchSmart Resources: 2014)
 * Richard J. Mouw, _He Shines in All That's Fair: Culture and Common Grace_ (William B. Eerdmans Publishing Company: 2001)
-*Henri J. M. Nouwen, _The Wounded Healer: Ministry in Contemporary Society_ (Doubleday & Company, Inc.: 1972)
+* Henri J. M. Nouwen, _The Wounded Healer: Ministry in Contemporary Society_ (Doubleday & Company, Inc.: 1972)
 * James K. A. Smith, _You are What You Love; The Spiritual Power of Habit_ (Brazos Press: 2016)
 * Frederick Buechner, _Godric_ (HarperOne: 1980)
 
