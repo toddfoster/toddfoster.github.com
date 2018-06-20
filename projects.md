@@ -25,6 +25,11 @@ Recent Sermons and Other Materials
 * [Mothers' Day-- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180512-JH.mp3): 12 May 2018
 * [Pentecost: The Age of the Spirit](http://cdn.boidem.org/2018/StT20180520.mp3): 20 May 2018
 * [A Spirit in Balance](http://cdn.boidem.org/2018/StT20180527.mp3) ([pdf](http://cdn.boidem.org/2018/TrinityB-20180527.pdf)): 27 May 2018
+* [Recovery Sunday -- by the Rev. Cathy Brunson](http://cdn.boidem.org/2018/StT201806031000-CB.mp3): 3 June 2018 
+* [Casting Out Demons](http://cdn.boidem.org/2018/StT201806100800.mp3): 10 June 2018
+* [Fathers' Day -- by the Rev. John Hanson](http://cdn.boidem.org/2018/StTJH201806170800.mp3): 17 June 2018
+ 
+
 
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
