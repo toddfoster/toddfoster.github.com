@@ -28,6 +28,7 @@ Recent Sermons and Other Materials
 * [Recovery Sunday -- by the Rev. Cathy Brunson](http://cdn.boidem.org/2018/StT201806031000-CB.mp3): 3 June 2018 
 * [Casting Out Demons](http://cdn.boidem.org/2018/StT201806100800.mp3): 10 June 2018
 * [Fathers' Day -- by the Rev. John Hanson](http://cdn.boidem.org/2018/StTJH201806170800.mp3): 17 June 2018
+* [Little Faith, Great Faith](http://cdn.boidem.org/2018/StT201806241000.mp3): 24 June 2018
  
 
 
