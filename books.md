@@ -8,10 +8,11 @@ layout: default
 Books I've read recently:
 
 ## June 2018
-* Justo L. Gonzalez, _Santa Biblia: The Bible Through Hispanic Eyes_ (Abingdon Press: 1996)
-
-## June 2018
 * Henri J. M. Nouwen, _Creative Ministry_ (Image Books: 2003 / 1971)
+* Justo L. Gonzalez, _Santa Biblia: The Bible Through Hispanic Eyes_ (Abingdon Press: 1996)
+* James S. A. Corey, _Nemesis Games_ (Orbit: 2015)
+* James S. A. Corey, _Babylon's Ashes_ (Orbit: 2016)
+* Suzanne Guthrie, _Praying the Hours_ (2000: Cloister Books)
 
 ## May 2018
 * Robert Logan & Tara Miller, _Becoming Barnabas: A Ministry of Coming Alongside_ (ChurchSmart Resources: 2014)
