@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## July 2018
+* Georges Bernanos, _The Diary of a Country Priest_ (Image Books: 1955 / 1937)
+
 ## June 2018
 * Henri J. M. Nouwen, _Creative Ministry_ (Image Books: 2003 / 1971)
 * Justo L. Gonzalez, _Santa Biblia: The Bible Through Hispanic Eyes_ (Abingdon Press: 1996)
