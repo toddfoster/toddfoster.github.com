@@ -29,6 +29,7 @@ Recent Sermons and Other Materials
 * [Casting Out Demons](http://cdn.boidem.org/2018/StT201806100800.mp3): 10 June 2018
 * [Fathers' Day -- by the Rev. John Hanson](http://cdn.boidem.org/2018/StTJH201806170800.mp3): 17 June 2018
 * [Little Faith, Great Faith](http://cdn.boidem.org/2018/StT201806241000.mp3): 24 June 2018
+* [Come Away and Rest](http://cdn.boidem.org/2018/StT201807221000.mp3): 22 July 2018
  
 
 
