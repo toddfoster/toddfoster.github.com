@@ -25,12 +25,13 @@ Recent Sermons and Other Materials
 * [Mothers' Day-- by The Rev. John Hanson](http://cdn.boidem.org/2018/StT20180512-JH.mp3): 12 May 2018
 * [Pentecost: The Age of the Spirit](http://cdn.boidem.org/2018/StT20180520.mp3): 20 May 2018
 * [A Spirit in Balance](http://cdn.boidem.org/2018/StT20180527.mp3) ([pdf](http://cdn.boidem.org/2018/TrinityB-20180527.pdf)): 27 May 2018
-* [Recovery Sunday -- by the Rev. Cathy Brunson](http://cdn.boidem.org/2018/StT201806031000-CB.mp3): 3 June 2018 
+* [Recovery Sunday -- by the Rev. Cathy Brunson](http://cdn.boidem.org/2018/StT201806031000-CB.mp3): 3 June 2018
 * [Casting Out Demons](http://cdn.boidem.org/2018/StT201806100800.mp3): 10 June 2018
 * [Fathers' Day -- by the Rev. John Hanson](http://cdn.boidem.org/2018/StTJH201806170800.mp3): 17 June 2018
 * [Little Faith, Great Faith](http://cdn.boidem.org/2018/StT201806241000.mp3): 24 June 2018
 * [Come Away and Rest](http://cdn.boidem.org/2018/StT201807221000.mp3): 22 July 2018
- 
+* [Escape Room](http://cdn.boidem.org/2018/StT201807291000.mp3): 29 July 2018
+
 
 
 *2018*
