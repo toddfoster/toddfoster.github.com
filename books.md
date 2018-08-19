@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2018
+* Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
+
 ## July 2018
 * Georges Bernanos, _The Diary of a Country Priest_ (Image Books: 1955 / 1937)
 
