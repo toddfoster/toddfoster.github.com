@@ -31,6 +31,7 @@ Recent Sermons and Other Materials
 * [Little Faith, Great Faith](http://cdn.boidem.org/2018/StT201806241000.mp3): 24 June 2018
 * [Come Away and Rest](http://cdn.boidem.org/2018/StT201807221000.mp3): 22 July 2018
 * [Escape Room](http://cdn.boidem.org/2018/StT201807291000.mp3): 29 July 2018
+* [Strange Words](http://cdn.boidem.org/2018/StT201808191000.mp3): 19 August 2018
 
 
 
