@@ -10,6 +10,7 @@ Books I've read recently:
 ## August 2018
 * Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
 * Eric H. F. Law & Stephanie Spellars, _The Episcopal Way_ (Morehouse Publishing: 2014)
+* Thomas C. Ferguson, _The Episcopal Story: Birth and Rebirth_ (Morehouse Publishing: 2015)
 
 ## July 2018
 * Georges Bernanos, _The Diary of a Country Priest_ (Image Books: 1955 / 1937)
