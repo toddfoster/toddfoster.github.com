@@ -9,8 +9,9 @@ Books I've read recently:
 
 ## August 2018
 * Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
-* Eric H. F. Law & Stephanie Spellars, _The Episcopal Way_ (Morehouse Publishing: 2014)
-* Thomas C. Ferguson, _The Episcopal Story: Birth and Rebirth_ (Morehouse Publishing: 2015)
+* Eric H. F. Law & Stephanie Spellars, _The Episcopal Way: Church's Teachings for a Changing World, Vol. 1_ (Morehouse Publishing: 2014)
+* Thomas C. Ferguson, _The Episcopal Story: Birth and Rebirth: Church's Teachings for a Changing World, Vol. 2_ (Morehouse Publishing: 2015)
+* Jesse Zink, _A Faith for the Future: Church's Teachings for a Changing World, Vol. 3_ (Morehouse Publishing: 2016)
 
 ## July 2018
 * Georges Bernanos, _The Diary of a Country Priest_ (Image Books: 1955 / 1937)
@@ -61,7 +62,7 @@ Books I've read recently:
 * Richard Rohr, _Hope Against Darkness: The Transforming Vision of Saint Francis in an Age of Anxety_ (Franciscan Media: 2001)
 * Matthew Desmond, _Evicted: Poverty and Profit in the American City_ (Crown Publishers: 2016)
 * Dolores R. Leckey, _The Ordinary Way: A Family Spirituality_ (The Crossroad Publishing Company: 1982)
-* Lauren F. Winner, _A Word to Live By: Church's Teaching for a Changing World, Vol. 7_ (Church Publishing: 2017)
+* Lauren F. Winner, _A Word to Live By: Church's Teachings for a Changing World, Vol. 7_ (Church Publishing: 2017)
 
 ## September 2017
 * Richard Rohr, _Everything Belongs: The Gift of Contemplative Prayer_ (Crossroad Publishing: 2003)
