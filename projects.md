@@ -34,6 +34,7 @@ Recent Sermons and Other Materials
 * [Strange Words](http://cdn.boidem.org/2018/StT201808191000.mp3): 19 August 2018
 * [Knowing and Believing](http://cdn.boidem.org/2018/StT201808261000.mp3): 26 August 2018
 * [Passion](http://cdn.boidem.org/2018/StT201809021000.mp3): 2 September 2018
+* [Kickoff Sunday](http://cdn.boidem.org/2018/StT201809091000.mp3): 9 September 2018
 
 
 
