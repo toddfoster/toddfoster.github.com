@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## September 2018
+* Michael B. Curry, et al, _Following the Way of Jesus: Church's Teachings for a Changing World, Vol. 6_ (Morehouse Publishing: 2017)
+
 ## August 2018
 * Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
 * Eric H. F. Law & Stephanie Spellars, _The Episcopal Way: Church's Teachings for a Changing World, Vol. 1_ (Morehouse Publishing: 2014)
