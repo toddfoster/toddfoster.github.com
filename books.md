@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## September 2018
 * Michael B. Curry, et al, _Following the Way of Jesus: Church's Teachings for a Changing World, Vol. 6_ (Morehouse Publishing: 2017)
+* Douglas Leblanc, _Tithing: Test Me in This (The Ancient Practices Series)_ (Thomas Nelson: 2010)
 
 ## August 2018
 * Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
