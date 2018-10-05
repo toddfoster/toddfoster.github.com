@@ -7,13 +7,16 @@ layout: default
 
 Books I've read recently:
 
+## October 2018
+* Jeffrey Lee & Dent Davidson, _Gathered for God: Churches Teachings for a Changing World, Vol. 8_ (Morehouse Publishing: 2018)
+
 ## September 2018
 * Michael B. Curry, et al, _Following the Way of Jesus: Church's Teachings for a Changing World, Vol. 6_ (Morehouse Publishing: 2017)
 * Douglas Leblanc, _Tithing: Test Me in This (The Ancient Practices Series)_ (Thomas Nelson: 2010)
 
 ## August 2018
 * Joseph J. Keenan, _Breaking Out of Beginner's Spanish_ (University of Texas Press: 1994)
-* Eric H. F. Law & Stephanie Spellars, _The Episcopal Way: Church's Teachings for a Changing World, Vol. 1_ (Morehouse Publishing: 2014)
+* Eric H. F. Law & Stephanie Spellers, _The Episcopal Way: Church's Teachings for a Changing World, Vol. 1_ (Morehouse Publishing: 2014)
 * Thomas C. Ferguson, _The Episcopal Story: Birth and Rebirth: Church's Teachings for a Changing World, Vol. 2_ (Morehouse Publishing: 2015)
 * Jesse Zink, _A Faith for the Future: Church's Teachings for a Changing World, Vol. 3_ (Morehouse Publishing: 2016)
 
