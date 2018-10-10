@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## October 2018
 * Jeffrey Lee & Dent Davidson, _Gathered for God: Churches Teachings for a Changing World, Vol. 8_ (Morehouse Publishing: 2018)
+* Ijeoma Oluo, _So You Want to Talk About Race_ (Seal Press: 2018)
 
 ## September 2018
 * Michael B. Curry, et al, _Following the Way of Jesus: Church's Teachings for a Changing World, Vol. 6_ (Morehouse Publishing: 2017)
