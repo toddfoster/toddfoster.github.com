@@ -38,6 +38,7 @@ Recent Sermons and Other Materials
 * [Who is Jesus?](http://cdn.boidem.org/2018/StT201809161000.mp3): 16 September 2018
 * [Servants of Christ -- by the Rev. John Hanson](http://cdn.boidem.org/2018/StTJH201809300800.mp3): 30 September 2018
 * [Divorce and Stewardship](http://cdn.boidem.org/2018/StT201810071000.mp3) ([pdf](http://cdn.boidem.org/2018/StT20181007-StewardshipKickoff.pdf)): 7 October 2018
+* [Stewardship: Missing Something](http://cdn.boidem.org/2018/StT201810141000.mp3): 14 October 2018
 
 
 *2018*
