@@ -42,6 +42,7 @@ Recent Sermons and Other Materials
 * [Stewardship: Giving Proportionally](http://cdn.boidem.org/2018/StT201810211000.mp3): 21 October 2018
 * [Stewardship: Giving First](http://cdn.boidem.org/2018/StT201810281000.mp3) ([pdf](http://cdn.boidem.org/2018/StT20181028-StewardshipGiveFirst.pdf)): 28 October 2018
 * [Baptism Inside & Out](http://cdn.boidem.org/2018/StT201811041000.mp3) ([pdf](http://cdn.boidem.org/2018/StT20181104-AllSaints.pdf)): 4 November 2018
+* [The Widow's Mite -- by the Rev. Dr. John Hanson](http://cdn.boidem.org/2018/StT201811111000JH.mp3): 11 November 2018
 
 
 *2018*
