@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+## November 2018
+* Walter Brueggemann, _Cadences of Home: Preaching among Exiles_ (Westminster John Knox Press: 1997)
+* Blake Crouch, _Dark Matter_ (Crown: 2016)
+
 ## October 2018
 * Jeffrey Lee & Dent Davidson, _Gathered for God: Churches Teachings for a Changing World, Vol. 8_ (Morehouse Publishing: 2018)
 * Ijeoma Oluo, _So You Want to Talk About Race_ (Seal Press: 2018)
