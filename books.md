@@ -11,6 +11,7 @@ Books I've read recently:
 * Walter Brueggemann, _Cadences of Home: Preaching among Exiles_ (Westminster John Knox Press: 1997)
 * Blake Crouch, _Dark Matter_ (Crown: 2016)
 * Sue Annis Hammond, _The Thin Book of Appreciative Inquiry_ (Thin Book Publishing Co: 1996)
+* Henri J. M. Nouwen, _A Spirituality of Fundraising_ (Upper Room Books: 2010)
 
 ## October 2018
 * Jeffrey Lee & Dent Davidson, _Gathered for God: Churches Teachings for a Changing World, Vol. 8_ (Morehouse Publishing: 2018)
