@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## December 2018
+* Ian Morgan Cron and Suzanne Stabile, _The Road Back to You: An Enneagram Journey to Self-Discovery_ (InterVarsity Press: 2016)
+
 ## November 2018
 * Walter Brueggemann, _Cadences of Home: Preaching among Exiles_ (Westminster John Knox Press: 1997)
 * Blake Crouch, _Dark Matter_ (Crown: 2016)
