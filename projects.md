@@ -46,6 +46,7 @@ Recent Sermons and Other Materials
 * [What Beautiful Stones!](http://cdn.boidem.org/2018/StT201811181000.mp3) ([pdf](http://cdn.boidem.org/2018/Proper28B-20181118-BibleSunday.pdf)): 18 November 2018
 * [Christ the King](http://cdn.boidem.org/2018/StT20181125.mp3) ([pdf](http://cdn.boidem.org/2018/Proper29B-20181125.pdf)): 25 November 2018
 * [Advent](http://cdn.boidem.org/2018/StT20181202.mp3) ([pdf](http://cdn.boidem.org/2018/Advent1C-20181202.pdf)): 2 December 2018
+* [Isaiah's Dream](http://cdn.boidem.org/2018/StT20181209.mp3) ([pdf](http://cdn.boidem.org/2018/Advent2C-20181209.pdf)): 9 December 2018
 
 
 *2018*
