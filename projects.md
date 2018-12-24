@@ -49,6 +49,7 @@ Recent Sermons and Other Materials
 * [Isaiah's Dream](http://cdn.boidem.org/2018/StT20181209.mp3) ([pdf](http://cdn.boidem.org/2018/Advent2C-20181209.pdf)): 9 December 2018
 * [Encountering Change -- by the Rev. Dr. John Hanson](http://cdn.boidem.org/2018/StT20181216JH.mp3): 16 December 2018
 * [Longest Night](http://cdn.boidem.org/2018/StT20181219.mp3) ([pdf](http://cdn.boidem.org/2018/LongestNight20181219.pdf)): 19 December 2018
+* [A Different Kind of Ruler](http://cdn.boidem.org/2018/StT20181223.mp3) ([pdf](http://cdn.boidem.org/2018/Advent4C-20181223.pdf)): 23 December 2018
 
 
 *2018*
