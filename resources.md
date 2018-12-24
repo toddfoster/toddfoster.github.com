@@ -22,7 +22,7 @@ Other: [Music for Small Chuches](https://www.sjmp.com) [Hymnal 1982](http://smal
 
 ## Misc
 
-TechRef: [kramdown](http://kramdown.gettalong.org/quickref.html)  
+TechRef: [LearnXinYminutes](https://learnxinyminutes.com/), [kramdown](http://kramdown.gettalong.org/quickref.html)  
 Security: [riseup.net](https://riseup.net) [Tails](https://tails.boum.org) [whonix](https://www.whonix.org) [Qubes](https://www.qubes-os.org)  
 Radio streams: [KPLU](http://icy1.abacast.com/kplu-newsjazzaac-64.m3u) [Jazz24](http://icy1.abacast.com/kplu-jazz24aac-64.m3u) [Grateful Dead Radio](http://gdradio.net) [(stream)](http://72.13.82.10:26260) [Classical](http://theclassicalstation.org/internet.shtml) [(ogg)](http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u) [KUHF](http://kuhf.org)([hd1-news](http://129.7.48.199:80/KUHF-HD1-128K) [hd2-music](http://129.7.48.199:80/KUHF-HD2-128K) [hd3-esp](http://129.7.48.199:80/KUHF-HD3-128K)) [WNYC](http://wnyc.org)([hd1](http://wnycfm.streamguys.com/) [hd2](http://wnycfm2.streamguys.com/) [hd3](http://wnycfm3.streamguys.com/))  
 News/comics: [bhmWx](http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bellingham%2C+WA) [houWx](http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=IAH) [bxWx](http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bronx%2C+NY) [xkcd](http://xkcd.com) [boingboing](http://boingboing.net) [schneier](http://schneier.com/blog/) [bbc](http://news.bbc.co.uk/) [nyt](http://nytimes.com/) [ap](http://www.nytimes.com/pages/aponline/news/index.html)  
