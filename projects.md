@@ -52,6 +52,7 @@ Recent Sermons and Other Materials
 * [A Different Kind of Ruler](http://cdn.boidem.org/2018/StT20181223.mp3) ([pdf](http://cdn.boidem.org/2018/Advent4C-20181223.pdf)): 23 December 2018
 * [Christmas Eve](http://cdn.boidem.org/2018/StT20181224.mp3) ([pdf](http://cdn.boidem.org/2018/ChristmasC1-20181224.pdf)): 24 December 2018
 * [Confidence Before the Judge](http://cdn.boidem.org/2018/StT20181225.mp3) ([pdf](http://cdn.boidem.org/2018/ChristmasC3-20181225.pdf)): 25 December 2018
+* [Something New is Born](http://cdn.boidem.org/2018/StT20181230.mp3) ([pdf](http://cdn.boidem.org/2018/ChristmasPlus1C-20181230.pdf)): 30 December 2018
 
 
 *2018*
