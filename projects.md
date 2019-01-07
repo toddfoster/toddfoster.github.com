@@ -6,6 +6,10 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2019*
+* [Stranger Danger](http://cdn.boidem.org/2019/StT20190106.mp3) ([pdf](http://cdn.boidem.org/2019/Epiphany0C-20190106.pdf)): 6 January 2019
+
+
 *2018 at [St. Thomas'](http://www.stthomasglassboro.org)*
 * [Listen to Him!](http://cdn.boidem.org/2018/StT20180211.mp3) ([pdf](http://cdn.boidem.org/2018/EpiphanyLastB-20180211.pdf)): 11 February 2018
 * [Invitation to Spiritual Disciplines](http://cdn.boidem.org/2018/StT20180214.mp3) ([pdf](http://cdn.boidem.org/2018/AshWedB-20180214.pdf)): 14 February 2018 (Ash Wednesday)
@@ -58,6 +62,7 @@ Recent Sermons and Other Materials
 *2018*
 * [God's Fingerprints](http://cdn.boidem.org/2018/Epiphany20180106.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-20180106.pdf)): 6 January 2018 [at Epiphany](http://www.epiphanyseattle.org/epiphany/)
 * [Repent!](http://cdn.boidem.org/2018/Epiphany201801211700.mp3) ([pdf](http://cdn.boidem.org/2018/Epiphany-3B-20180121.pdf)): 21 January 2018 [at Epiphany](http://www.epiphanyseattle.org/category/sermons/)
+
 
 *2017*
 * [Baptism](http://cdn.boidem.org/2017/Epiphany20170108.mp3) ([pdf](http://cdn.boidem.org/2017/Epiphany-1A-20170108.pdf)): 8 January 2017 [at Epiphany](http://www.epiphanyseattle.org/baptism/)
