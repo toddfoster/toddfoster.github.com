@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## January 2019
+* Winnie Varghese, _Church Meets World: Churches Teachings for a Changing World, Vol. 4_ (Morehouse Publishing: 2016)
+
 ## December 2018
 * Ian Morgan Cron and Suzanne Stabile, _The Road Back to You: An Enneagram Journey to Self-Discovery_ (InterVarsity Press: 2016)
 * Robert Gass and Kathleen Brehony, _Chanting: Discovering Spirit in Sound_ (Broadway Books: 1999)
