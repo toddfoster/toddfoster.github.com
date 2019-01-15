@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## January 2019
 * Winnie Varghese, _Church Meets World: Churches Teachings for a Changing World, Vol. 4_ (Morehouse Publishing: 2016)
+* Rob Bell, _Love Wins: A Book About Heaven, Hell, and the Fate of Every Person Who Ever Lived_ (HarperOne: 2011)
 
 ## December 2018
 * Ian Morgan Cron and Suzanne Stabile, _The Road Back to You: An Enneagram Journey to Self-Discovery_ (InterVarsity Press: 2016)
