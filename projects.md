@@ -7,6 +7,8 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Words of Liberation](http://cdn.boidem.org/2019/StT20190203-BJ.mp3) by the Rev. Canon Dr. Brian Jemmott: 3 February 2019
+* [The Love of God](http://cdn.boidem.org/2019/StT20190202-JH.mp3) by the Rev. Dr. John Hanson: 2 February 2019
 * [Life is Changing](http://cdn.boidem.org/2019/StT20190127.mp3) ([pdf](http://cdn.boidem.org/2019/Epiphany3C-20190127.pdf)): 27 January 2019
 * [Jars of Wine](http://cdn.boidem.org/2019/StT20190120.mp3) ([pdf](http://cdn.boidem.org/2019/Epiphany2C-20190120.pdf)): 20 January 2019
 * [With the Holy Spirit and with Fire](http://cdn.boidem.org/2019/StT20190113.mp3) ([pdf](http://cdn.boidem.org/2019/Epiphany1C-20190113.pdf)) ([whole service](http://cdn.boidem.org/2019/StThomasService20190113.mp3): 13 January 2019
