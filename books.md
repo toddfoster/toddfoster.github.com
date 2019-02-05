@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## February 2019
+* Toni Morrison, _The Origin of Others_ (Harvard University Press: 2017)
+
 ## January 2019
 * Winnie Varghese, _Church Meets World: Churches Teachings for a Changing World, Vol. 4_ (Morehouse Publishing: 2016)
 * Rob Bell, _Love Wins: A Book About Heaven, Hell, and the Fate of Every Person Who Ever Lived_ (HarperOne: 2011)
