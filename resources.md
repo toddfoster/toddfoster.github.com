@@ -17,7 +17,7 @@ English Bibles: [Bible](http://bible.oremus.org) [ESV](http://www.gnpcb.org/esv/
 Non-English Bibles: [Tanach](http://www.tanach.us) ([text](http://www.tanach.us/TextFiles/Tanach.acc.txt.zip) [pdf](http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip)) [SBLGNT](http://sblgnt.com/) ([pdf](http://sblgnt.com/download/SBLGNTpdf.zip))  
 History: [Timeline](http://justus.anglican.org/resources/timeline/timeline.html) 
 Lectures: [Basics of Biblical Greek](http://www.biblicaltraining.org/biblical-greek/william-mounce) [Nadia](http://www.onbeing.org/program/nadia-bolz-weber-on-seeing-the-underside-and-seeing-god-tattoos-tradition-and-grace) [Francis](http://www.americamagazine.org/print/1563) [Preaching Peace](http://www.preachingpeace.org/)  [Hebrew](http://dailydoseofhebrew.com) ([Vowel Changes](http://dailydoseofhebrew.com) ) [Greek](http://dailydoseofgreek.com)  
-Other: [Music for Small Chuches](https://www.sjmp.com) [Hymnal 1982](http://smallchurchmusic.weebly.com/-hymnal-us-1982.html) [Gun Violence Archive](http://www.gunviolencearchive.org/)  [LilyBin](http://lilybin.com)[(docs)](http://lilypond.org/website/development.html) [Episcopal Church Research and Statistics](https://www.episcopalchurch.org/research-and-statistics)
+Other: [Music for Small Chuches](https://www.sjmp.com) [Hymnal 1982](http://smallchurchmusic.weebly.com/-hymnal-us-1982.html) [Gun Violence Archive](http://www.gunviolencearchive.org/)  [LilyBin](http://lilybin.com)[(docs)](http://lilypond.org/website/development.html) [Episcopal Church Research and Statistics](https://www.episcopalchurch.org/research-and-statistics) [Brueggemann in audio](https://www.walterbrueggemann.com/resources/audio/) [or video](https://www.walterbrueggemann.com/resources/video/)
 
 
 ## Misc
