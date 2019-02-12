@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## February 2019
 * Toni Morrison, _The Origin of Others_ (Harvard University Press: 2017)
+* Christopher L. Heuertz, _The Sacred Enneagram: Finding Your Unique Path to Spiritual Growth_ (Zondervan: 2017)
 
 ## January 2019
 * Winnie Varghese, _Church Meets World: Churches Teachings for a Changing World, Vol. 4_ (Morehouse Publishing: 2016)
