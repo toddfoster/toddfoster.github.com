@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Loving My Enemies](http://cdn.boidem.org/2019/StT20190224-JH.mp3) by the Rev. Dr. John Hanson: 24 February 2019
 * [Trust in God](http://cdn.boidem.org/2019/StT20190217-KC.mp3) by the Rev. Ken Carpinelli: 17 February 2019
 * [The Sermon on the Plain](http://cdn.boidem.org/2019/StT20190216.mp3): 16 February 2019
 * [No Other God](http://cdn.boidem.org/2019/StT20190210.mp3) ([pdf](http://cdn.boidem.org/2019/Epiphany5C-20190210.pdf)): 10 February 2019
