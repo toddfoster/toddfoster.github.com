@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [The Great Litany and Temptation](http://cdn.boidem.org/2019/StT20190310.mp3) ([pdf](http://cdn.boidem.org/2019/Lent1C-20190310.pdf)): 10 March 2019
 * [A Lentan Epiphany](http://cdn.boidem.org/2019/StT20190303.mp3) ([pdf](http://cdn.boidem.org/2019/EpiphanyLastC-20190303.pdf)): 3 March 2019
 * [Loving My Enemies](http://cdn.boidem.org/2019/StT20190224-JH.mp3) by the Rev. Dr. John Hanson: 24 February 2019
 * [Trust in God](http://cdn.boidem.org/2019/StT20190217-KC.mp3) by the Rev. Ken Carpinelli: 17 February 2019
