@@ -10,6 +10,7 @@ Books I've read recently:
 ## March 2019
 * David Foster Wallace, _This Is Water_ (Little, Brown and Company: 2009)
 * N. T. Wright, _Following Jesus: Biblical Reflections on Discipleship_ (William B. Eerdmans Publishing Company: 1994)
+* Mary Jane Linn, et al, _Healing the Dying_ (Paulist Press: 1979)
 
 ## February 2019
 * Toni Morrison, _The Origin of Others_ (Harvard University Press: 2017)
