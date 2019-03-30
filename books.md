@@ -13,6 +13,7 @@ Books I've read recently:
 * Mary Jane Linn, et al, _Healing the Dying_ (Paulist Press: 1979)
 * Becky Chambers, _The Long Way to a Small, Angry Planet_ (Harper Voyager: 2014)
 * Becky Chambers, _A Closed and Common Orbit_ (Harper Voyager: 2016)
+* Thomas Keating, _Open Mind Open Heart; The Contemplative Dimension of the Gospel_ (Continuum: 1986)
 
 ## February 2019
 * Toni Morrison, _The Origin of Others_ (Harvard University Press: 2017)
