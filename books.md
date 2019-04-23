@@ -9,6 +9,8 @@ Books I've read recently:
 
 ## April 2019
 * Scott Bader-Saye, _Formed by Love: Churches Teachings for a Changing World, Vol. 5_ (Morehouse Publishing: 2017)
+* Cory Doctorow, _Radicalized: Four Tales of our Present Moment_ (Tor: 2019)
+* _The Spiritual Exercises of St. Ignatius_, trans. Anthony Mottola (Image Books: 1964)
 
 ## March 2019
 * David Foster Wallace, _This Is Water_ (Little, Brown and Company: 2009)
