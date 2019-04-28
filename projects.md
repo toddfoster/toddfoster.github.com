@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Superheroes & Witnesses](http://cdn.boidem.org/2019/StT20190428.mp3) ([pdf](http://cdn.boidem.org/2019/Easter2C-20190428.pdf)): 28 April 2019
 * [Why do you seek the living among the dead?](http://cdn.boidem.org/2019/StT20190421.mp3) ([pdf](http://cdn.boidem.org/2019/EasterC-20190421a.pdf)): 21 April 2019
 * [In Perspective](http://cdn.boidem.org/2019/StT20190407.mp3) ([pdf](http://cdn.boidem.org/2019/Lent5C-20190407.pdf)): 7 April 2019
 * [The Prodigal Son](http://cdn.boidem.org/2019/StT20190331-JH.mp3) by the Rev. Dr. John Hanson: 31 March 2019
