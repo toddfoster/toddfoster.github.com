@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## May 2019
+* Becky Chambers, _Record of a Spaceborn Few_ (Harper Voyager: 2018)
+
 ## April 2019
 * Scott Bader-Saye, _Formed by Love: Churches Teachings for a Changing World, Vol. 5_ (Morehouse Publishing: 2017)
 * Cory Doctorow, _Radicalized: Four Tales of our Present Moment_ (Tor: 2019)
