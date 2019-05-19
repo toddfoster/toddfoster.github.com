@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Baccalaureate Homily](http://cdn.boidem.org/2019/StT20190519-BA.mp3) by Dr. Bryan Appleby-Wineberg: 19 May 2019
 * [Tabitha](http://cdn.boidem.org/2019/StT20190512-JH.mp3) by the Rev. Dr. John Hanson: 12 May 2019
 * [Words Have Power](http://cdn.boidem.org/2019/StT20190505.mp3) ([pdf](http://cdn.boidem.org/2019/Easter3C-20190505.pdf)): 5 May 2019
 * [Superheroes & Witnesses](http://cdn.boidem.org/2019/StT20190428.mp3) ([pdf](http://cdn.boidem.org/2019/Easter2C-20190428.pdf)): 28 April 2019
