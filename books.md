@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## May 2019
 * Becky Chambers, _Record of a Spaceborn Few_ (Harper Voyager: 2018)
+* Gene Robinson, _In the Eye of the Storm: Swept to the Center by God_ (Seabury Books: 2008)
 
 ## April 2019
 * Scott Bader-Saye, _Formed by Love: Churches Teachings for a Changing World, Vol. 5_ (Morehouse Publishing: 2017)
