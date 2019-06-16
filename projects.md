@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [On Fathers' Day](http://cdn.boidem.org/2019/StT20190616-JH.mp3) by the Rev. Dr. John Hanson: 16 June 2019
 * [Enough](http://cdn.boidem.org/2019/StT20190609.mp3) ([pdf](http://cdn.boidem.org/2019/Pentecost-20190609.pdf)): 9 June 2019
 * [Jean Vanier](http://cdn.boidem.org/2019/StT20190602.mp3) ([pdf](http://cdn.boidem.org/2019/Easter7C-20190602.pdf)): 2 June 2019
 * [On a Mission From God](http://cdn.boidem.org/2019/StT20190526.mp3) ([pdf](http://cdn.boidem.org/2019/Easter6C-20190526.pdf)): 26 May 2019
