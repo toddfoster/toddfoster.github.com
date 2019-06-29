@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+## June 2019
+* James S. A. Corey, _Persepolis Rising_ (Orbit: 2017)
+* Henry Cloud, _The Power of the Other_ (HarperCollins: 2016)
+
 ## May 2019
 * Becky Chambers, _Record of a Spaceborn Few_ (Harper Voyager: 2018)
 * Gene Robinson, _In the Eye of the Storm: Swept to the Center by God_ (Seabury Books: 2008)
