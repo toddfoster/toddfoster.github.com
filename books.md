@@ -20,7 +20,7 @@ Books I've read recently:
 * Scott Bader-Saye, _Formed by Love: Churches Teachings for a Changing World, Vol. 5_ (Morehouse Publishing: 2017)
 * Cory Doctorow, _Radicalized: Four Tales of our Present Moment_ (Tor: 2019)
 * _The Spiritual Exercises of St. Ignatius_, trans. Anthony Mottola (Image Books: 1964)
-* _Anxious Church Anxious People: How to Lead Change in an Age of Anxiety_ (Charis Works: 2018)
+* Jack Shitama, _Anxious Church Anxious People: How to Lead Change in an Age of Anxiety_ (Charis Works: 2018)
 
 ## March 2019
 * David Foster Wallace, _This Is Water_ (Little, Brown and Company: 2009)
