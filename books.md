@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+## July 2019
+* Lew Wallace, _Ben-Hur: A Tale of the Christ_ (Project Gutenberg: 1880/2014)
+* Jean Vanier, _Community & Growth: Our Pilgrimmage Together_ (Paulist Press: 1979)
+
 ## June 2019
 * James S. A. Corey, _Persepolis Rising_ (Orbit: 2017)
 * Henry Cloud, _The Power of the Other_ (HarperCollins: 2016)
