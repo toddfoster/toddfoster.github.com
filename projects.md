@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Prophetic Bananas](http://cdn.boidem.org/2019/StT20190721.mp3) ([pdf](http://cdn.boidem.org/2019/Proper11C-20190721.pdf)): 21 July 2019
 * [Won't you be my neighbor?](http://cdn.boidem.org/2019/StT20190714-JH.mp3) by the Rev. Dr. John Hanson: 14 July 2019
 * [One in Christ](http://cdn.boidem.org/2019/StT20190623.mp3) ([pdf](http://cdn.boidem.org/2019/Proper7C-20190623.pdf)): 23 June 2019
 * [On Fathers' Day](http://cdn.boidem.org/2019/StT20190616-JH.mp3) by the Rev. Dr. John Hanson: 16 June 2019
