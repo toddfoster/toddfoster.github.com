@@ -11,6 +11,7 @@ Books I've read recently:
 * Lew Wallace, _Ben-Hur: A Tale of the Christ_ (Project Gutenberg: 1880/2014)
 * Jean Vanier, _Community & Growth: Our Pilgrimmage Together_ (Paulist Press: 1979)
 * David Zahl, _Seculosity: How Career, Parenting, Technology, Food, Politics, and Romance Became Our New Religion and What to Do about It_ (Fortress Press: 2019)
+* Sam Portaro, _Sheer Christianity: Conjectures on a Catechism_ (Cowley Publications: 2004)
 
 ## June 2019
 * James S. A. Corey, _Persepolis Rising_ (Orbit: 2017)
