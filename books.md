@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## August 2019
 * David Allen, _Getting Things Done: The Art of Stress-Free Productivity_ (Penguin: 2001)
+* Sonia Nazario, _Enrique's Journey_ (Random House: 2014)
 
 ## July 2019
 * Lew Wallace, _Ben-Hur: A Tale of the Christ_ (Project Gutenberg: 1880/2014)
