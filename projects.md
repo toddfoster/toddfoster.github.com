@@ -8,8 +8,9 @@ Recent Sermons and Other Materials
 
 *2019*
 * [Where your Treasure is](http://cdn.boidem.org/2019/StJohns20190811-TF.mp3) ([pdf](http://cdn.boidem.org/2019/Proper14C-20190811.pdf)): 11 August 2019
+* [Religion vs. Faith](http://cdn.boidem.org/2019/StT20190811-CM.mp3) by the Rev. Chuck Messer: 11 August 2019
 * [The Rich Man's Barns](http://cdn.boidem.org/2019/StPeters20190804-TF.mp3) ([video](http://cdn.boidem.org/2019/StPeters20190804-TF.mp4)) ([pdf](http://cdn.boidem.org/2019/Proper13C-20190804.pdf)): 4 August 2019
-* [A Day at the Beach](http://cdn.boidem.org/2019/StT20190804-BF.mp3) ([video](http://cdn.boidem.org/2019/StT20190804-BF.mp4)): 4 August 2019
+* [A Day at the Beach](http://cdn.boidem.org/2019/StT20190804-BF.mp3) ([video](http://cdn.boidem.org/2019/StT20190804-BF.mp4)) by the Rev. Bob Fitzpatrick: 4 August 2019
 * [God's Heartache](http://cdn.boidem.org/2019/StT20190728.mp3) ([pdf](http://cdn.boidem.org/2019/Proper12C-20190728.pdf)): 28 July 2019
 * [Prophetic Bananas](http://cdn.boidem.org/2019/StT20190721.mp3) ([pdf](http://cdn.boidem.org/2019/Proper11C-20190721.pdf)): 21 July 2019
 * [Won't you be my neighbor?](http://cdn.boidem.org/2019/StT20190714-JH.mp3) by the Rev. Dr. John Hanson: 14 July 2019
