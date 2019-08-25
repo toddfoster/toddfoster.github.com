@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Why do you go to church?](http://cdn.boidem.org/2019/HolyTrinity20190825-TF.mp3) ([pdf](http://cdn.boidem.org/2019/Proper16C-20190825.pdf)) preached at [Holy Trinity Episcopal Church, Wenonah NJ](https://www.holytrinitywenonah.org/): 25 August 2019
 * [Fire](http://cdn.boidem.org/2019/GoodShepherd20190818-TF.mp3) ([pdf](http://cdn.boidem.org/2019/Proper15C-20190818.pdf)) preached at [Good Shepherd Episcopal Church, Pitman NJ](https://goodshepherdpitman.org/): 11 August 2019
 * [Where your Treasure is](http://cdn.boidem.org/2019/StJohns20190811-TF.mp3) ([pdf](http://cdn.boidem.org/2019/Proper14C-20190811.pdf)) preached at [St. John's Episcopal Church, Salem NJ](http://stjohnssalemnj.org/): 11 August 2019
 * [Religion vs. Faith](http://cdn.boidem.org/2019/StT20190811-CM.mp3) by the Rev. Chuck Messer: 11 August 2019
