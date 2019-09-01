@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
-* [ISEC Opening](http://cdn.boidem.org/2019/StT20190901-Rowan.mp3) ([pdf](http://cdn.boidem.org/2019/ISECOpening-20190901.pdf)): 1 September 2019
+* [ISEC Opening](http://cdn.boidem.org/2019/StT20190901-Rowan.mp3) ([pdf](http://cdn.boidem.org/2019/ISECOpening-20190901.pdf)) delivered in the [Rowan University](https://rowan.edu) [Interfaith and Spiritual Exploration Center](https://sites.rowan.edu/sjicr/centers-programs/interfaith/index.html): 1 September 2019
 * [Cracked Cisterns](http://cdn.boidem.org/2019/StT20190901.mp3) ([pdf](http://cdn.boidem.org/2019/Proper17C-20190901.pdf)): 1 September 2019
 * [You Are Set Free](http://cdn.boidem.org/2019/StT20190825-BM.mp3) by the Rev. Ben Maddison: 25 August 2019
 * [Why do you go to church?](http://cdn.boidem.org/2019/HolyTrinity20190825-TF.mp3) ([pdf](http://cdn.boidem.org/2019/Proper16C-20190825.pdf)) preached at [Holy Trinity Episcopal Church, Wenonah NJ](https://www.holytrinitywenonah.org/): 25 August 2019
