@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [God's Persistent Call](http://cdn.boidem.org/2019/StT20190922-JH.mp3) by the Rev. Dr. John Hanson: 22 September 2019
 * [Joy and Grumbling](http://cdn.boidem.org/2019/StT20190915.mp3) ([pdf](http://cdn.boidem.org/2019/Proper19C-20190915.pdf)): 15 September 2019
 * [The Way of Love: Turn](http://cdn.boidem.org/2019/StT20190908.mp3) ([pdf](http://cdn.boidem.org/2019/Proper18C-20190908.pdf)): 8 September 2019
 * [ISEC Opening](http://cdn.boidem.org/2019/StT20190901-Rowan.mp3) ([pdf](http://cdn.boidem.org/2019/ISECOpening-20190901.pdf)) delivered in the [Rowan University](https://rowan.edu) [Interfaith and Spiritual Exploration Center](https://sites.rowan.edu/sjicr/centers-programs/interfaith/index.html): 1 September 2019
