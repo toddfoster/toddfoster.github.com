@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## September 2019
 * Ian S. Markham, _Why Suffering? A Little Book of Guidance_ (Church Publishing: 2018)
+* C.S. Lewis, _The Great Divorce_ (Macmillan Publishing Company: 1946)
 
 ## August 2019
 * David Allen, _Getting Things Done: The Art of Stress-Free Productivity_ (Penguin: 2001)
