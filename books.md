@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## October 2019
+* Martin Buber, _Tales of the Hasidim (Book One: The Early Masters and Book Two: The Later Masters)_ (Schocken Books Inc.: 1947)
+
 ## September 2019
 * Ian S. Markham, _Why Suffering? A Little Book of Guidance_ (Church Publishing: 2018)
 * C.S. Lewis, _The Great Divorce_ (Macmillan Publishing Company: 1946)
