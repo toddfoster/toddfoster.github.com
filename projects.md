@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
-* [The Mustard Seed](http://cdn.boidem.org/2019/StT20191006.mp3) ([pdf](http://cdn.boidem.org/2019/Proper22C-20191006.pdf)): 6 October 2019
+* [The Mustard Seed](http://cdn.boidem.org/2019/StT20191006.mp3) ([pdf](http://cdn.boidem.org/2019/Proper21C-20191006.pdf)): 6 October 2019
 * [Who Fixed the Chasm?](http://cdn.boidem.org/2019/StT20190929.mp3) ([pdf](http://cdn.boidem.org/2019/Proper21C-20190929.pdf)): 29 September 2019
 * [God's Persistent Call](http://cdn.boidem.org/2019/StT20190922-JH.mp3) by the Rev. Dr. John Hanson: 22 September 2019
 * [Joy and Grumbling](http://cdn.boidem.org/2019/StT20190915.mp3) ([pdf](http://cdn.boidem.org/2019/Proper19C-20190915.pdf)): 15 September 2019
