@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Stewardship & Bible Sunday](http://cdn.boidem.org/2019/StT20191117-JH.mp3) by the Rev. Dr. John Hanson: 17 November 2019
 * [Stewardship Kickoff](http://cdn.boidem.org/2019/StT20191110.mp3) ([pdf](http://cdn.boidem.org/2019/Proper27C-20191110.pdf)): 10 November 2019
 * [Blessings and Woes](http://cdn.boidem.org/2019/StT20191103.mp3) ([pdf](http://cdn.boidem.org/2019/AllSaints-20191103.pdf)): 3 November 2019
 * [A Tale of Two Prayers](http://cdn.boidem.org/2019/StT20191027.mp3) ([pdf](http://cdn.boidem.org/2019/Proper25C-20191027.pdf)): 27 October 2019
@@ -49,7 +50,7 @@ Recent Sermons and Other Materials
 * [Loving My Enemies](http://cdn.boidem.org/2019/StT20190224-JH.mp3) by the Rev. Dr. John Hanson: 24 February 2019
 * [Trust in God](http://cdn.boidem.org/2019/StT20190217-KC.mp3) by the Rev. Ken Carpinelli: 17 February 2019
 * [The Sermon on the Plain](http://cdn.boidem.org/2019/StT20190216.mp3): 16 February 2019
-* [No Other God](http://cdn.boidem.org/2019/StT20190210.mp3)([pdf](http://cdn.boidem.org/2019/Epiphany5C-20190210.pdf)): 10 February 2019 
+* [No Other God](http://cdn.boidem.org/2019/StT20190210.mp3)([pdf](http://cdn.boidem.org/2019/Epiphany5C-20190210.pdf)): 10 February 2019
 * [Words of Liberation](http://cdn.boidem.org/2019/StT20190203-BJ.mp3) by the Rev. Canon Dr. Brian Jemmott: 3 February 2019
 * [The Love of God](http://cdn.boidem.org/2019/StT20190202-JH.mp3) by the Rev. Dr. John Hanson: 2 February 2019
 * [Life is Changing](http://cdn.boidem.org/2019/StT20190127.mp3) ([pdf](http://cdn.boidem.org/2019/Epiphany3C-20190127.pdf)): 27 January 2019
