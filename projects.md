@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Rejoice!](http://cdn.boidem.org/2019/StT20191215-JH.mp3) by the Rev. Dr. John Hanson: 15 December 2019
 * [God's Advent in Mystery](http://cdn.boidem.org/2019/StT20191208.mp3) ([pdf](http://cdn.boidem.org/2019/Advent2A-20191208.pdf)): 8 December 2019
 * [God's Advent in History](http://cdn.boidem.org/2019/StT20191201.mp3) ([pdf](http://cdn.boidem.org/2019/Advent1A-20191201.pdf)): 1 December 2019
 * [It's Good to be King](http://cdn.boidem.org/2019/StT20191124.mp3) ([pdf](http://cdn.boidem.org/2019/Proper29C-20191124.pdf)): 24 November 2019
