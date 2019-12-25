@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## December 2019
+* Fleming Rutledge, _The Crucifixion: Understanding the Death of Jesus Christ_ (Wm. B. Eerdmans Publishing Co.: 2015)
+
 ## October 2019
 * Martin Buber, _Tales of the Hasidim (Book One: The Early Masters and Book Two: The Later Masters)_ (Schocken Books Inc.: 1947)
 
