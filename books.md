@@ -9,6 +9,8 @@ Books I've read recently:
 
 ## December 2019
 * Fleming Rutledge, _The Crucifixion: Understanding the Death of Jesus Christ_ (Wm. B. Eerdmans Publishing Co.: 2015)
+* Becky Chambers, _To Be Taught, If Fortunate_ (Harper Voyager: 2019)
+* Orson Scott Card, _Lost and Found_ (Black Stone Publishing: 2019)
 
 ## October 2019
 * Martin Buber, _Tales of the Hasidim (Book One: The Early Masters and Book Two: The Later Masters)_ (Schocken Books Inc.: 1947)
