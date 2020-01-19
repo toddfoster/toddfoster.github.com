@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2019*
+* [Behold! The Lamb of God!](http://cdn.boidem.org/2020/StT20200119.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany2-20200119.pdf)): 19 January 2020
 * [The Baptism of Our Lord](http://cdn.boidem.org/2020/StT20200112.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany1-20200112.pdf)): 12 January 2020
 * [Christmas Celebrations](http://cdn.boidem.org/2020/StT20200105.mp3) ([pdf](http://cdn.boidem.org/2020/Christmas2-20200105.pdf)): 5 January 2020
 * [True Light](http://cdn.boidem.org/2019/StT20191229.mp3) ([pdf](http://cdn.boidem.org/2019/ChristmasIII-20191225.pdf)): 29 December 2019
