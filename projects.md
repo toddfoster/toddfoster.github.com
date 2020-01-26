@@ -6,10 +6,13 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
-*2019*
+*2020*
+* [Church at Mission](http://cdn.boidem.org/2020/StT20200126-JH.mp3) by the Rev. Dr. John Hanson: 26 January 2020
 * [Behold! The Lamb of God!](http://cdn.boidem.org/2020/StT20200119.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany2-20200119.pdf)): 19 January 2020
 * [The Baptism of Our Lord](http://cdn.boidem.org/2020/StT20200112.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany1-20200112.pdf)): 12 January 2020
 * [Christmas Celebrations](http://cdn.boidem.org/2020/StT20200105.mp3) ([pdf](http://cdn.boidem.org/2020/Christmas2-20200105.pdf)): 5 January 2020
+
+*2019*
 * [True Light](http://cdn.boidem.org/2019/StT20191229.mp3) ([pdf](http://cdn.boidem.org/2019/ChristmasIII-20191225.pdf)): 29 December 2019
 * [Light Shines in Darkness](http://cdn.boidem.org/2019/StT20191224.mp3) ([pdf](http://cdn.boidem.org/2019/ChristmasI-20191224.pdf)): 24 December 2019
 * [God's Advent in Majesty](http://cdn.boidem.org/2019/StT20191222.mp3) ([pdf](http://cdn.boidem.org/2019/Advent4A-20191222.pdf)): 22 December 2019
