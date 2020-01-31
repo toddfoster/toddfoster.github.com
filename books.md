@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## January 2020
 * James E. Griffiss, _The Anglican Vision, The New Church's Teaching Series, Vol. 1_ (Cowley Publications, 1997)
+* Ibram X. Kendi, _How to be an Antiracist_ (One World: 2019)
 
 ## December 2019
 * Fleming Rutledge, _The Crucifixion: Understanding the Death of Jesus Christ_ (Wm. B. Eerdmans Publishing Co.: 2015)
