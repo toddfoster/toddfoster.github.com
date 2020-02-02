@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Presentation of Our Lord](http://cdn.boidem.org/2020/StT20200202.mp3) ([pdf](http://cdn.boidem.org/2020/Presentation-20200202.pdf)): 2 February 2020
 * [Church at Mission](http://cdn.boidem.org/2020/StT20200126-JH.mp3) by the Rev. Dr. John Hanson: 26 January 2020
 * [Behold! The Lamb of God!](http://cdn.boidem.org/2020/StT20200119.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany2-20200119.pdf)): 19 January 2020
 * [The Baptism of Our Lord](http://cdn.boidem.org/2020/StT20200112.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany1-20200112.pdf)): 12 January 2020
