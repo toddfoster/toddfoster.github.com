@@ -7,6 +7,9 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+
+* [Black History Month - Social Justice](http://cdn.boidem.org/2020/StT20200223-JO.mp3) by the Rev. Canon Jayne Oasin: 23 February 2020
+* [Transfiguration](http://cdn.boidem.org/2020/StT20200222.mp3) ([pdf](http://cdn.boidem.org/2020/EpiphanyLast-20200223.pdf)): 22 February 2020
 * [Imagine](http://cdn.boidem.org/2020/StT20200216.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany6-20200216.pdf)): 16 February 2020
 * [Righteousness that Exceeds](http://cdn.boidem.org/2020/StT20200209.mp3) ([pdf](http://cdn.boidem.org/2020/Epiphany5-20200209.pdf)): 9 February 2020
 * [Doing Torah](http://cdn.boidem.org/2020/StT20200202.mp3) ([pdf](http://cdn.boidem.org/2020/Presentation-20200202.pdf)): 2 February 2020
