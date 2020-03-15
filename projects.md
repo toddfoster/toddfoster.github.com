@@ -8,6 +8,7 @@ Recent Sermons and Other Materials
 
 *2020*
 
+* [The Samaritan Woman](http://cdn.boidem.org/2020/StT20200314-JM.mp3) by Jeannie Marcucci: 14 March 2020
 * [Born Again](http://cdn.boidem.org/2020/StT20200308.mp3) ([pdf](http://cdn.boidem.org/2020/Lent2A-20200308.pdf)): 8 March 2020
 * [The Temptation of Jesus](http://cdn.boidem.org/2020/StT20200301.mp3) ([pdf](http://cdn.boidem.org/2020/Lent1A-20200301.pdf)): 1 March 2020
 * [Black History Month - Social Justice](http://cdn.boidem.org/2020/StT20200223-JO.mp3) by the Rev. Canon Jayne Oasin: 23 February 2020
