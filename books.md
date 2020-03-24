@@ -7,8 +7,11 @@ layout: default
 
 Books I've read recently:
 
+## March 2020
+* Peter Watts, _Blindsight_ (Tor: 2006)
+
 ## January 2020
-* James E. Griffiss, _The Anglican Vision, The New Church's Teaching Series, Vol. 1_ (Cowley Publications, 1997)
+* James E. Griffiss, _The Anglican Vision, The New Church's Teaching Series, Vol. 1_ (Cowley Publications: 1997)
 * Ibram X. Kendi, _How to be an Antiracist_ (One World: 2019)
 
 ## December 2019
