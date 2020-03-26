@@ -103,50 +103,50 @@ Celebrant:
 #### On the return of the procession, we say aloud:
 **Psalm 118:1-2, 19-29** --- _Confitemini Domino_
 > 1 Give thanks to the Lord, for he is good; *\\
-> his mercy endures for ever.\\
+> his mercy endures for ever.
 >
 >2 Let Israel now proclaim, *\\
-> "His mercy endures for ever."\\
+> "His mercy endures for ever."
 >
 > 19 Open for me the gates of righteousness; *\\
-> I will enter them; I will offer thanks to the Lord.\\
+> I will enter them; I will offer thanks to the Lord.
 >
 > **Antiphon: 	Hosanna in the highest.**\\
 >
 > 20 "This is the gate of the Lord; *\\
-> he who is righteous may enter."\\
+> he who is righteous may enter."
 >
 > 21 I will give thanks to you, for you answered me *\\
-> and have become my salvation.\\
+> and have become my salvation.
 >
-> **Antiphon: 	Hosanna in the highest.**\\
+> **Antiphon: 	Hosanna in the highest.**
 >
 > 22 The same stone which the builders rejected *\\
-> has become the chief cornerstone.\\
+> has become the chief cornerstone.
 >
 > 23 This is the Lord's doing, *\\
-> and it is marvelous in our eyes.\\
+> and it is marvelous in our eyes.
 >
-> **Antiphon: 	Hosanna in the highest.**\\
+> **Antiphon: 	Hosanna in the highest.**
 >
 > 24 On this day the Lord has acted; *\\
-> we will rejoice and be glad in it.\\
+> we will rejoice and be glad in it.
 >
 > 25 Hosannah, Lord, hosannah! *\\
-> Lord, send us now success.\\
+> Lord, send us now success.
 >
-> **Antiphon: 	Hosanna in the highest.**\\
+> **Antiphon: 	Hosanna in the highest.**
 >
 > 26 Blessed is he who comes in the name of the Lord; *\\
-> we bless you from the house of the Lord.\\
+> we bless you from the house of the Lord.
 >
 > 27 God is the Lord; he has shined upon us; *\\
-> form a procession with branches up to the horns of the altar.\\
+> form a procession with branches up to the horns of the altar.
 >
-> **Antiphon: 	Hosanna in the highest.**\\
+> **Antiphon: 	Hosanna in the highest.**
 >
 > 28 "You are my God, and I will thank you; *\\
-> you are my God, and I will exalt you."\\
+> you are my God, and I will exalt you."
 >
 > 29 Give thanks to the Lord, for he is good; *\\
 > his mercy endures for ever.
@@ -155,51 +155,64 @@ Celebrant:
 #### The people find their seats.
 
 ## The Liturgy of the Word
-The People stand.
-Salutation
-Presider:	The Lord be with you.
-People:	And also with you.
-Presider:	Let us pray.
+#### The People stand.
+### Salutation
+Presider:
+> The Lord be with you.
 
-The Collect Proper to the Day
-Presider:	Almighty and everliving God, in your tender love for the human race you sent your Son our Savior Jesus Christ to take upon him our nature, and to suffer death upon the cross, giving us the example of his great humility: Mercifully grant that we may walk in the way of his suffering, and also share in his resurrection; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.
-The People are seated.
+**People:**
+> **And also with you.**
 
-We Hear God’s Word
-The First Lesson	Isaiah 50:4–9
-Reader:	A Reading from the book of Isaiah.
-The Lord God has given me
-   the tongue of a teacher,
-that I may know how to sustain
-   the weary with a word.
-Morning by morning he wakens—
-   wakens my ear
-   to listen as those who are taught.
-The Lord God has opened my ear,
-   and I was not rebellious,
-   I did not turn backwards.
-I gave my back to those who struck me,
-   and my cheeks to those who pulled out the beard;
-I did not hide my face
-   from insult and spitting.
-The Lord God helps me;
-   therefore I have not been disgraced;
-therefore I have set my face like flint,
-   and I know that I shall not be put to shame;
-   he who vindicates me is near.
-Who will contend with me?
-   Let us stand up together.
-Who are my adversaries?
-   Let them confront me.
-It is the Lord God who helps me;
-   who will declare me guilty?
-All of them will wear out like a garment;
-   the moth will eat them up.
-(Isa 50.4–9 NRSV)
-Reader:	The Word of the Lord.
-People:	Thanks be to God.
+Presider:
+> Let us pray.
 
-Psalm 31.9–16	In te, Domine, speravi
+### The Collect Proper to the Day
+Presider:
+> Almighty and everliving God, in your tender love for the human race you sent your Son our Savior Jesus Christ to take upon him our nature, and to suffer death upon the cross, giving us the example of his great humility: Mercifully grant that we may walk in the way of his suffering, and also share in his resurrection; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. **Amen.**
+
+####The People are seated.
+
+### We Hear God’s Word
+**The First Lesson** ---	_(Isaiah 50:4–9 NRSV)_
+
+Reader:
+> A Reading from the book of Isaiah.
+>
+>> The Lord God has given me\\
+>>    the tongue of a teacher,\\
+>> that I may know how to sustain\\
+>>    the weary with a word.\\
+>> Morning by morning he wakens—\\
+>>    wakens my ear\\
+>>    to listen as those who are taught.\\
+>> The Lord God has opened my ear,\\
+>>    and I was not rebellious,\\
+>>    I did not turn backwards.\\
+>> I gave my back to those who struck me,\\
+>>    and my cheeks to those who pulled out the beard;\\
+>> I did not hide my face\\
+>>    from insult and spitting.\\
+>> The Lord God helps me;\\
+>>    therefore I have not been disgraced;\\
+>> therefore I have set my face like flint,\\
+>>    and I know that I shall not be put to shame;\\
+>>    he who vindicates me is near.\\
+>> Who will contend with me?\\
+>>    Let us stand up together.\\
+>> Who are my adversaries?\\
+>>    Let them confront me.\\
+>> It is the Lord God who helps me;\\
+>>    who will declare me guilty?\\
+>> All of them will wear out like a garment;\\
+>>    the moth will eat them up.\\
+
+Reader:
+> The Word of the Lord.
+
+**People:**
+> **Thanks be to God.**
+
+**Psalm 31.9–16** --- _In te, Domine, speravi_ --- _(BCP 623)_
 9 Have mercy on me, O Lord, for I am in trouble; *
 my eye is consumed with sorrow,
 	and also my throat and my belly.
