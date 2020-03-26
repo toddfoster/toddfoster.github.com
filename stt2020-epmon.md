@@ -10,18 +10,17 @@ _6 April 2020_
 
 ## TODO QR Code, Link to texts only, Index page
 
-## Preparing for the Liturgy
+### Preparing for the Liturgy
 Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else).
 
 _The Officiant begins the service with the following sentence of Scripture:_\\
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_
 
-## Confession of Sin
+### Confession of Sin
 Officiant:
 > Let us confess our sins against God and our neighbor.
 
-All:
-
+**All:**
 > **Most merciful God,\\
 we confess that we have sinned against you\\
 in thought, word, and deed,\\
@@ -43,18 +42,18 @@ Officiant:
 > strengthen us in all goodness,\\
 > and by the power of the Holy Spirit keep us in eternal life. **Amen.**
 
-## The Invitatory and Psalter
+### The Invitatory and Psalter
 Officiant:
 > O God, make speed to save us.
 
-People:
+**People:**
 > **O Lord, make haste to help us.**
 
 All:
 > **Glory to the Father, and to the Son, and to the Holy Spirit:\\
 > as it was in the beginning, is now, and will be for ever.  Amen.\\
 
-All:
+*All:*
 > O Gracious Light	Phos hilaron\\
 > O gracious light,\\
 > pure brightness of the everliving Father in heaven,\\
@@ -68,7 +67,7 @@ All:
 > O Son of God, O Giver of Life,\\
 > and to be glorified through all the worlds.**
 
-## The Psalm Appointed
+### The Psalm Appointed
 #### The People are seated.
 #### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
 
@@ -103,25 +102,66 @@ Psalm 36.5–11 **Dixit injustus**
 
 ## The Lessons
 
-Monday
-Reader:A Reading from the prophet Isaiah.
+Reader:
+> A Reading from the prophet Isaiah.
+
+
+
 Isaiah 42:1-9
 
 
 
+Here is my servant, whom I uphold,
+my chosen, in whom my soul delights;
+
+I have put my spirit upon him;
+he will bring forth justice to the nations.
+
+He will not cry or lift up his voice,
+or make it heard in the street;
+
+a bruised reed he will not break,
+and a dimly burning wick he will not quench;
+he will faithfully bring forth justice.
+
+He will not grow faint or be crushed
+until he has established justice in the earth;
+and the coastlands wait for his teaching.
 
 
 
-Tuesday
-Reader:A Reading from the prophet Isaiah.
-Isaiah 49:1-7
+Thus says God, the Lord,
+who created the heavens and stretched them out,
+who spread out the earth and what comes from it,
 
-Wednesday
-Reader:A Reading from the prophet Isaiah.
-Isaiah 50:4-9a
+who gives breath to the people upon it
+and spirit to those who walk in it:
 
-Reader:	The Word of the Lord.
-People:	Thanks be to God.
+I am the Lord, I have called you in righteousness,
+I have taken you by the hand and kept you;
+
+I have given you as a covenant to the people,
+a light to the nations,
+to open the eyes that are blind,
+
+to bring out the prisoners from the dungeon,
+from the prison those who sit in darkness.
+
+I am the Lord, that is my name;
+my glory I give to no other,
+nor my praise to idols.
+
+See, the former things have come to pass,
+and new things I now declare;
+
+before they spring forth,
+I tell you of them.
+
+Reader:
+> The Word of the Lord.
+
+**People:**
+> **Thanks be to God.**
 
 The People stand as able.
 The Song of Mary	Magnificat	Luke 1:46-55
