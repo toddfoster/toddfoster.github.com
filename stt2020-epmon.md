@@ -18,6 +18,7 @@ Officiant:
 > Let us confess our sins against God and our neighbor.
 
 All:
+~changed~
 > **Most merciful God,\\
 > we confess that we have sinned against you\\
 > in thought, word, and deed,\\
@@ -37,7 +38,7 @@ Officiant:
 > Almighty God have mercy on us,\\
 > forgive us all our sins through our Lord Jesus Christ,\\
 > strengthen us in all goodness,\\
-> and by the power of the Holy Spirit keep us in eternal life. Amen.
+> and by the power of the Holy Spirit keep us in eternal life. **Amen.**
 
 ## The Invitatory and Psalter
 Officiant:
