@@ -4,6 +4,7 @@ html, body{
   margin:0;
   padding:0;
   text-align:center;
+  background-image: url(boidem-bg-topgradient.jpg);
   background-repeat: repeat-x;
   background-color:black;
   text-align:center; /* IE centering hack */
@@ -24,10 +25,14 @@ html, body{
   height:135px;
   margin:0;
   padding:0;
+/*
   background-image: url(boidem-header-notxt.jpg);
+*/
   background-repeat: no-repeat;
   background-position: right top;
-  background-color: #1D529A;
+/*
+background-color: #1D529A;
+*/
 }
 
 
