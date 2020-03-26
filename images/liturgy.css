@@ -186,7 +186,7 @@ li.unlink {
 }
 
 /* Begin Special Font styles */
-#onecol h1, h2 {
+#onecol h1, h2, h3, h4 {
   font-family:Georgia, "Times New Roman", Times, serif;
   margin:1em;
 }
@@ -218,7 +218,7 @@ li.unlink {
 /* Minor headings */
 #onecol h3 {
   font-style: italic;
-  font-weight: normal;
+  font-weight: bold;
   text-align: left;
 }
 
