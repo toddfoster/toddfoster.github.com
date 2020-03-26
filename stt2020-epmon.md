@@ -3,10 +3,8 @@ title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
 ---
 # Daily Evening Prayer: Rite Two
-<center><em>
-according to the Book of Common Prayer (p. 115)<br />
-Monday, 6 April 2020
-</em></center>
+_according to the Book of Common Prayer (p. 115)\\
+Monday, 6 April 2020_
 
 ------------
 
@@ -23,12 +21,10 @@ Invite someone to scan this QR code to pray with you.
 
 -----------
 
-
 ## Preparing for the Liturgy
 _Preparations for Evening Prayer need not be complex. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else). These roles can be combined or traded._
 
 -------------
-
 
 #### The Officiant begins the service with the following sentence of Scripture:
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_

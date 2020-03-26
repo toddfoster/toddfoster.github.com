@@ -6,7 +6,6 @@ layout: liturgy
 _according to the Book of Common Prayer (p. 270)\\
 5 April 2020_
 
-
 ------------
 
 ## Share These Prayers
@@ -111,7 +110,7 @@ Celebrant:
 > 19 Open for me the gates of righteousness; *\\
 > I will enter them; I will offer thanks to the Lord.
 >
-> **Antiphon: 	Hosanna in the highest.**\\
+> **Antiphon: 	Hosanna in the highest.**
 >
 > 20 "This is the gate of the Lord; *\\
 > he who is righteous may enter."
@@ -170,7 +169,7 @@ Presider:
 Presider:
 > Almighty and everliving God, in your tender love for the human race you sent your Son our Savior Jesus Christ to take upon him our nature, and to suffer death upon the cross, giving us the example of his great humility: Mercifully grant that we may walk in the way of his suffering, and also share in his resurrection; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. **Amen.**
 
-####The People are seated.
+##### The People are seated.
 
 ### We Hear God’s Word
 **The First Lesson** --- _Isaiah 50:4–9 NRSV_
@@ -204,7 +203,7 @@ Reader:
 >> It is the Lord God who helps me;\\
 >>    who will declare me guilty?\\
 >> All of them will wear out like a garment;\\
->>    the moth will eat them up.\\
+>>    the moth will eat them up.
 
 Reader:
 > The Word of the Lord.
@@ -269,7 +268,7 @@ Reader:
 >>    in heaven and on earth and under the earth,\\
 >> and every tongue should confess\\
 >>    that Jesus Christ is Lord,\\
->>    to the glory of God the Father.\\
+>>    to the glory of God the Father.
 
 Reader:
 > The Word of the Lord.

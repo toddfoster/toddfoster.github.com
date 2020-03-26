@@ -3,10 +3,8 @@ title: Evening Prayer for Tuesday, 7 April 2020
 layout: liturgy
 ---
 # Daily Evening Prayer: Rite Two
-<center><em>
-according to the Book of Common Prayer (p. 115)<br />
-Tuesday, 7 April 2020
-</em></center>
+_according to the Book of Common Prayer (p. 115)\\
+Tuesday, 7 April 2020_
 
 ------------
 
@@ -22,12 +20,10 @@ Invite someone to scan this QR code to pray with you.
 
 -----------
 
-
 ## Preparing for the Liturgy
 _Preparations for Evening Prayer need not be complex. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else). These roles can be combined or traded._
 
 -------------
-
 
 #### The Officiant begins the service with the following sentence of Scripture:
 > Yours is the day, O God, yours also the night; you established the moon and the sun.  You fixed all the boundaries of the earth; you made both summer and winter.  _(Psalm 74:15,16)_
