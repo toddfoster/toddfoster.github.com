@@ -93,7 +93,7 @@ Officiant:
 > O Lord, make haste to help me.
 >
 > **2 Let those who seek my life be ashamed
->> and altogether dismayed; *\\
+>> and altogether dismayed; *
 > let those who take pleasure in my misfortune
 >> draw back and be disgraced.**
 >
@@ -228,7 +228,7 @@ Reader:
 
 ### The Apostles' Creed
 #### Officiant and People together, all standing
->> I believe in God, the Father almighty,\\
+>> **I believe in God, the Father almighty,\\
 >> creator of heaven and earth.\\
 > I believe in Jesus Christ, his only Son, our Lord.\\
 >> He was conceived by the power of the Holy Spirit\\
@@ -245,7 +245,7 @@ Reader:
 >> the communion of saints,\\
 >> the forgiveness of sins,\\
 >> the resurrection of the body,\\
->> and the life everlasting.  Amen.
+>> and the life everlasting.  Amen.**
 
 ## The Prayers
 #### The people stand or kneel
@@ -260,19 +260,19 @@ Officiant:
 
 **Officiant and People:**
 > Our Father in heaven,
->> **hallowed be your Name,
->> your kingdom come,
->> your will be done,
->> on earth as in heaven.
+> **hallowed be your Name,
+> your kingdom come,
+> your will be done,
+> on earth as in heaven.
 > Give us today our daily bread.
 > Forgive us our sins
->> as we forgive those
->> 	who sin against us.
+> as we forgive those
+> 	who sin against us.
 > Save us from the time of trial,
->> and deliver us from evil.
+> and deliver us from evil.
 > For the kingdom, the power,
->> and the glory are yours,
->> now and for ever.  Amen**
+> and the glory are yours,
+> now and for ever.  Amen**
 
 ### Suffrages
 Officiant:
