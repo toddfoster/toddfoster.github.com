@@ -92,17 +92,17 @@ Officiant:
 > 1 Be pleased, O God, to deliver me; *\\
 > O Lord, make haste to help me.
 >
-> **2 Let those who seek my life be ashamed
->> and altogether dismayed; *
-> let those who take pleasure in my misfortune
->> draw back and be disgraced.**
+> **2 Let those who seek my life be ashamed \\
+> and altogether dismayed; *\\
+> let those who take pleasure in my misfortune\\
+> draw back and be disgraced.**
 >
 > 3 Let those who say to me "Aha!" and gloat over me turn back, *\\
 > because they are ashamed.
 >
 > **4 Let all who seek you rejoice and be glad in you; *\\
-> let those who love your salvation say for ever,
->> "Great is the Lord!"**
+> let those who love your salvation say for ever,\\
+> "Great is the Lord!"**
 >
 > 5 But as for me, I am poor and needy; *\\
 > come to me speedily, O God.
@@ -228,24 +228,24 @@ Reader:
 
 ### The Apostles' Creed
 #### Officiant and People together, all standing
->> **I believe in God, the Father almighty,\\
->> creator of heaven and earth.\\
+> **I believe in God, the Father almighty,\\
+> creator of heaven and earth.\\
 > I believe in Jesus Christ, his only Son, our Lord.\\
->> He was conceived by the power of the Holy Spirit\\
->> 	and born of the Virgin Mary.\\
->> He suffered under Pontius Pilate,\\
->> 	was crucified, died, and was buried.\\
->> He descended to the dead.\\
->> On the third day he rose again.\\
->> He ascended into heaven,\\
->> 	and is seated at the right hand of the Father.\\
->> He will come again to judge the living and the dead.\\
+> He was conceived by the power of the Holy Spirit\\
+> 	and born of the Virgin Mary.\\
+> He suffered under Pontius Pilate,\\
+> 	was crucified, died, and was buried.\\
+> He descended to the dead.\\
+> On the third day he rose again.\\
+> He ascended into heaven,\\
+> 	and is seated at the right hand of the Father.\\
+> He will come again to judge the living and the dead.\\
 > I believe in the Holy Spirit,\\
->> the holy catholic Church,\\
->> the communion of saints,\\
->> the forgiveness of sins,\\
->> the resurrection of the body,\\
->> and the life everlasting.  Amen.**
+> the holy catholic Church,\\
+> the communion of saints,\\
+> the forgiveness of sins,\\
+> the resurrection of the body,\\
+> and the life everlasting.  Amen.**
 
 ## The Prayers
 #### The people stand or kneel
