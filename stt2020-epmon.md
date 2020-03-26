@@ -121,8 +121,6 @@ Reader:
 >> until he has established justice in the earth;\\
 >> and the coastlands wait for his teaching.\\
 >> \\
->> \\
->> \\
 >> Thus says God, the Lord,\\
 >> who created the heavens and stretched them out,\\
 >> who spread out the earth and what comes from it,\\
@@ -162,7 +160,6 @@ Reader:
 
 > **My soul proclaims the greatness of the Lord,\\
 > 	my spirit rejoices in God my Savior; *\\
-> for he has looked with favor on his lowly servant.\\
 > From this day all generations will call me blessed: *\\
 > the Almighty has done great things for me,\\
 > 	and holy is his Name.\\
@@ -183,100 +180,92 @@ Reader:
 
 #### The People are seated.
 
+Reader:
+> A Reading from the book of Hebrews.
+>
+>> When Christ came as a high priest of the good things that have come, then through the greater and perfect tent (not made with hands, that is, not of this creation), he entered once for all into the Holy Place, not with the blood of goats and calves, but with his own blood, thus obtaining eternal redemption. For if the blood of goats and bulls, with the sprinkling of the ashes of a heifer, sanctifies those who have been defiled so that their flesh is purified, how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to worship the living God!
+>>
+>> For this reason he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant. _(Hebrews 9:11-15 NRSV)_
 
-Reader:A Reading from the book of Hebrews.
-Hebrews 9:11-15
+Reader:
+> The Word of the Lord.
 
+**People:**
+> **Thanks be to God.**
 
+#### The People stand as able.
 
-
-
-
-Tuesday
-Reader:A Reading from Paul’s first letter to the church in Corinth.
-1 Corinthians 1:18-31
-
-Wednesday
-Reader:A Reading from the book of Hebrews.
-Hebrews 12:1-3
-
-Reader:	The Word of the Lord.
-People:	Thanks be to God.
-
-
-The People stand as able.
-The Song of Simeon	Nunc Dimittis	Luke 2:29-32
-Lord, you now have set your servant free *
-to go in peace as you have promised;
-For these eyes of mine have seen the Savior, *
-whom you have prepared for all the world to see:
-A Light to enlighten the nations, *
-and the glory of your people Israel.
-Glory to the Father, and to the Son, and to the Holy Spirit: *
-as it was in the beginning, is now, and will be for ever. Amen.
-
-Monday
-Reader:A Reading from John’s Gospel.
-John 12:1-11
+**The Song of Simeon** --- _Nunc Dimittis_  --- _Luke 2:29-32_
+> Lord, you now have set your servant free *\\
+to go in peace as you have promised;\\
+For these eyes of mine have seen the Savior, *\\
+whom you have prepared for all the world to see:\\
+A Light to enlighten the nations, *\\
+and the glory of your people Israel.\\
+Glory to the Father, and to the Son, and to the Holy Spirit: *\\
+as it was in the beginning, is now, and will be for ever. Amen.\\
 
 
+#### The People are seated.
+Reader:
+> A Reading from John’s Gospel.
+>
+>> Six days before the Passover Jesus came to Bethany, the home of Lazarus, whom he had raised from the dead. There they gave a dinner for him. Martha served, and Lazarus was one of those at the table with him. Mary took a pound of costly perfume made of pure nard, anointed Jesus' feet, and wiped them with her hair. The house was filled with the fragrance of the perfume. But Judas Iscariot, one of his disciples (the one who was about to betray him), said, "Why was this perfume not sold for three hundred denarii and the money given to the poor?" (He said this not because he cared about the poor, but because he was a thief; he kept the common purse and used to steal what was put into it.) Jesus said, "Leave her alone. She bought it so that she might keep it for the day of my burial. You always have the poor with you, but you do not always have me." When the great crowd of the Jews learned that he was there, they came not only because of Jesus but also to see Lazarus, whom he had raised from the dead. So the chief priests planned to put Lazarus to death as well, since it was on account of him that many of the Jews were deserting and were believing in Jesus. _(John 12:1-11)_
 
+Reader:
+> The Word of the Lord.
 
+**People:**
+> **Thanks be to God.**
 
+#### A brief homily, spiritual conversation, or moment of silence may be placed here. A homily for this night be found on our website, www.stthomasglassboro.org (linked by the QR code at right).
 
-Tuesday
-Reader:A Reading from John’s Gospel.
-John 12:20-36
+### The Apostles' Creed
+#### Officiant and People together, all standing
+>> I believe in God, the Father almighty,\\
+>> creator of heaven and earth.\\
+> I believe in Jesus Christ, his only Son, our Lord.\\
+>> He was conceived by the power of the Holy Spirit\\
+>>> 	and born of the Virgin Mary.\\
+>> He suffered under Pontius Pilate,\\
+>>> 	was crucified, died, and was buried.\\
+>> He descended to the dead.\\
+>> On the third day he rose again.\\
+>> He ascended into heaven,\\
+>> 	and is seated at the right hand of the Father.\\
+>> He will come again to judge the living and the dead.\\
+> I believe in the Holy Spirit,\\
+>> the holy catholic Church,\\
+>> the communion of saints,\\
+>> the forgiveness of sins,\\
+>> the resurrection of the body,\\
+>> and the life everlasting.  Amen.
 
-Wednesday
-Reader:A Reading from John’s Gospel.
-John 13:21-32
+## The Prayers
+#### The people stand or kneel
+Officiant:
+> The Lord be with you.
+**People:**
+> **And also with you.**
+Officiant:
+> Let us pray.
+**Officiant and People:**
+> Our Father in heaven,
+>> **hallowed be your Name,
+>> your kingdom come,
+>> your will be done,
+>>> on earth as in heaven.
+> Give us today our daily bread.
+> Forgive us our sins
+>> as we forgive those
+>>> 	who sin against us.
+> Save us from the time of trial,
+>> and deliver us from evil.
+> For the kingdom, the power,
+>> and the glory are yours,
+>> now and for ever.  Amen**
 
-Reader:	The Word of the Lord.
-People:	Thanks be to God.
-A brief homily, spiritual conversation, or moment of silence may be placed here. A homily for this night be found on our website, www.stthomasglassboro.org (linked by the QR code at right).
-
-The Apostles' Creed
-Officiant and People together, all standing
-I believe in God, the Father almighty,
-creator of heaven and earth.
-I believe in Jesus Christ, his only Son, our Lord.
-He was conceived by the power of the Holy Spirit
-	and born of the Virgin Mary.
-He suffered under Pontius Pilate,
-	was crucified, died, and was buried.
-He descended to the dead.
-On the third day he rose again.
-He ascended into heaven,
-	and is seated at the right hand of the Father.
-He will come again to judge the living and the dead.
-I believe in the Holy Spirit,
-the holy catholic Church,
-the communion of saints,
-the forgiveness of sins,
-the resurrection of the body,
-and the life everlasting.  Amen.
-The Prayers
-The people stand or kneel
-Officiant:	The Lord be with you.
-People:	And also with you.
-Officiant:	Let us pray.
-Officiant and People
-Our Father in heaven,
-hallowed be your Name,
-your kingdom come,
-your will be done,
-on earth as in heaven.
-Give us today our daily bread.
-Forgive us our sins
-as we forgive those
-	who sin against us.
-Save us from the time of trial,
-and deliver us from evil.
-For the kingdom, the power,
-and the glory are yours,
-now and for ever.  Amen
-Suffrages
+### Suffrages
 Officiant:	That this evening may be holy, good, and peaceful,
 People:	We entreat you, O Lord.
 
