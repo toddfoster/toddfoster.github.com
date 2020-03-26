@@ -1,6 +1,9 @@
 ---
 title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
+kramdown:
+  input: GFM
+  hard_wrap: true
 ---
 
 # Evening Prayer
@@ -13,9 +16,10 @@ Preparations for Evening Prayer need not be complex. Because there are different
 _The Officiant begins the service with the following sentence of Scripture:_
 Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _Psalm 141:2_
 
-## Confession of Sin_
+## Confession of Sin
 Officiant:
 > Let us confess our sins against God and our neighbor.
+
 All:
 > **Most merciful God,
 > we confess that we have sinned against you
