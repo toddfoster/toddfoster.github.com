@@ -2,16 +2,26 @@
 title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
 ---
-
 # Evening Prayer
 _according to the Book of Common Prayer (p. 115)_\\
 _6 April 2020_
 
+------------
 
-## TODO QR Code, Link to texts only, Index page
+## Share These Prayers
+
+Let someone scan this QR code to pray with you: ![http://www.boidem.org/st2020-epmon](images/qr/epmon.gif)
+
+[Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html#ps1)
+
+-----------
+
 
 ### Preparing for the Liturgy
 _Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else)._
+
+-------------
+
 
 #### The Officiant begins the service with the following sentence of Scripture:
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_
@@ -346,5 +356,5 @@ Officiant:
 > **Thanks be to God.**
 
 #### The Officiant then concludes with the following sentence of scripture:
-The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. Amen.
+The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. **Amen.**
 _(2 Corinthians 13:14)_
