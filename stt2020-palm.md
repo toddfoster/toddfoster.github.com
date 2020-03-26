@@ -1,13 +1,11 @@
 ---
-title: The Sunday of the Passion:
-Palm Sunday
+title: The Sunday of the Passion: Palm Sunday
 layout: liturgy
 ---
 # The Sunday of the Passion: Palm Sunday
-<center><em>
-according to the Book of Common Prayer (p. 270)<br />
-5 April 2020
-</em></center>
+_according to the Book of Common Prayer (p. 270)\\
+5 April 2020_
+
 
 ------------
 
@@ -23,7 +21,7 @@ Invite someone to scan this QR code to pray with you.
 
 -----------
 
-### Preparing for the Liturgy
+## Preparing for the Liturgy
 
 _Palms or other greens may be gathered to carry in procession. Choose a Celebrant and a reader. Light a candle. If you wish to participate in the congregation’s worship online at 10am, go to: [https://zoom.us/j/6676782042](https://zoom.us/j/6676782042) or to call in with a telephone, dial (646) 558-8656 and use Meeting ID: 667 678 2042. (Alternate phone numbers: (312)626-6799 or (301)715-8592)_
 
@@ -49,15 +47,15 @@ Celebrant:
 >> ‘Tell the daughter of Zion,\\
 >>	Look, your king is coming to you,\\
 >>	humble, and mounted on a donkey,\\
->>	and on a colt, the foal of a donkey.’\\
+>>	and on a colt, the foal of a donkey.’
 >>
->> The disciples went and did as Jesus had directed them; they brought the donkey and the colt, and put their cloaks on them, and he sat on them. A very large crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. The crowds that went ahead of him and that followed were shouting,\\
+>> The disciples went and did as Jesus had directed them; they brought the donkey and the colt, and put their cloaks on them, and he sat on them. A very large crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. The crowds that went ahead of him and that followed were shouting,
 >>
 >>	‘Hosanna to the Son of David!\\
 >>	Blessed is the one who comes in the name of the Lord!\\
->> 	Hosanna in the highest heaven!’\\
+>> 	Hosanna in the highest heaven!’
 >>
->> When he entered Jerusalem, the whole city was in turmoil, asking, ‘Who is this?’ The crowds were saying, ‘This is the prophet Jesus from Nazareth in Galilee.’ (Matthew 21.1–11 NRSV)
+>> When he entered Jerusalem, the whole city was in turmoil, asking, ‘Who is this?’ The crowds were saying, ‘This is the prophet Jesus from Nazareth in Galilee.’ _(Matthew 21.1–11 NRSV)_
 
 Celebrant:
 > The Word of the Lord.
