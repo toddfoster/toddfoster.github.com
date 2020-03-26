@@ -98,6 +98,8 @@ Celebrant:
 **Hymn 154: All glory, laud, and honor**
 #### [Hear this hymn played](https://www.youtube.com/watch?v=h3a8fTTrAdE)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h3a8fTTrAdE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe>
+
 #### While singing, take your palms and, if possible, process out and around your residence. If it is better to stay inside, process around your living spaces, bringing Jesus into every space. Upon reaching the point furthest from the worship space, stop and pray the following Collect:
 **People:**
 > **Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ our Lord. Amen.**
