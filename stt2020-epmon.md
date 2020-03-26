@@ -1,6 +1,6 @@
 ---
 title: Evening Prayer for Monday, 6 April 2020
-layout: default
+layout: liturgy
 ---
 
 # Test Evening Prayer
