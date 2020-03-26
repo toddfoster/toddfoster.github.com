@@ -5,7 +5,7 @@ layout: liturgy
 # Daily Evening Prayer: Rite Two
 <center><em>
 according to the Book of Common Prayer (p. 115)<br />
-6 April 2020
+Monday, 6 April 2020
 </em></center>
 
 ------------
@@ -163,7 +163,7 @@ Reader:
 >> \\
 >> before they spring forth,\\
 >> I tell you of them.\\
->> _(Isaiah 42:1-9 NRSV)_
+>> _(Isaiah 42:1--9 NRSV)_
 
 Reader:
 > The Word of the Lord.
@@ -201,7 +201,7 @@ Reader:
 >
 >> When Christ came as a high priest of the good things that have come, then through the greater and perfect tent (not made with hands, that is, not of this creation), he entered once for all into the Holy Place, not with the blood of goats and calves, but with his own blood, thus obtaining eternal redemption. For if the blood of goats and bulls, with the sprinkling of the ashes of a heifer, sanctifies those who have been defiled so that their flesh is purified, how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to worship the living God!
 >>
->> For this reason he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant. _(Hebrews 9:11-15 NRSV)_
+>> For this reason he is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, because a death has occurred that redeems them from the transgressions under the first covenant. _(Hebrews 9:11--15 NRSV)_
 
 Reader:
 > The Word of the Lord.
@@ -226,7 +226,7 @@ as it was in the beginning, is now, and will be for ever. Amen.\\
 Reader:
 > A Reading from John’s Gospel.
 >
->> Six days before the Passover Jesus came to Bethany, the home of Lazarus, whom he had raised from the dead. There they gave a dinner for him. Martha served, and Lazarus was one of those at the table with him. Mary took a pound of costly perfume made of pure nard, anointed Jesus' feet, and wiped them with her hair. The house was filled with the fragrance of the perfume. But Judas Iscariot, one of his disciples (the one who was about to betray him), said, "Why was this perfume not sold for three hundred denarii and the money given to the poor?" (He said this not because he cared about the poor, but because he was a thief; he kept the common purse and used to steal what was put into it.) Jesus said, "Leave her alone. She bought it so that she might keep it for the day of my burial. You always have the poor with you, but you do not always have me." When the great crowd of the Jews learned that he was there, they came not only because of Jesus but also to see Lazarus, whom he had raised from the dead. So the chief priests planned to put Lazarus to death as well, since it was on account of him that many of the Jews were deserting and were believing in Jesus. _(John 12:1-11)_
+>> Six days before the Passover Jesus came to Bethany, the home of Lazarus, whom he had raised from the dead. There they gave a dinner for him. Martha served, and Lazarus was one of those at the table with him. Mary took a pound of costly perfume made of pure nard, anointed Jesus' feet, and wiped them with her hair. The house was filled with the fragrance of the perfume. But Judas Iscariot, one of his disciples (the one who was about to betray him), said, "Why was this perfume not sold for three hundred denarii and the money given to the poor?" (He said this not because he cared about the poor, but because he was a thief; he kept the common purse and used to steal what was put into it.) Jesus said, "Leave her alone. She bought it so that she might keep it for the day of my burial. You always have the poor with you, but you do not always have me." When the great crowd of the Jews learned that he was there, they came not only because of Jesus but also to see Lazarus, whom he had raised from the dead. So the chief priests planned to put Lazarus to death as well, since it was on account of him that many of the Jews were deserting and were believing in Jesus. _(John 12:1--11 NRSV)_
 
 Reader:
 > The Word of the Lord.
@@ -234,7 +234,7 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-#### A brief homily, spiritual conversation, or moment of silence may be placed here. A homily for this night be found on our website, www.stthomasglassboro.org (linked by the QR code at right).
+#### A brief homily, spiritual conversation, or moment of silence may be placed here. A homily for this night may be found on our website, [www.stthomasglassboro.org](www.stthomasglassboro.org).
 
 ### The Apostles' Creed
 #### Officiant and People together, all standing
@@ -324,13 +324,13 @@ Officiant:
 #### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
 _Collect Proper to the Day_
-> Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.
+> Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.  **Amen.**
 
 _A Collect for the Presence of Christ_
-> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  Amen.
+> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  **Amen.**
 
 _A Prayer for Mission_
-> Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  Amen.
+> Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  **Amen.**
 
 #### Here may be sung a hymn or anthem.
 
@@ -365,5 +365,4 @@ Officiant:
 > **Thanks be to God.**
 
 #### The Officiant then concludes with the following sentence of scripture:
-The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. **Amen.**
-_(2 Corinthians 13:14)_
+The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. **Amen.** _(2 Corinthians 13:14)_

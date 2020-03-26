@@ -6,6 +6,8 @@ layout: liturgy
 
 ### Full Liturgies
 * [Holy Monday](http://www.boidem.org/stt2020-epmon)
+* [Holy Tuesday](http://www.boidem.org/stt2020-eptue)
+* [Holy Wednesday](http://www.boidem.org/stt2020-epwed)
 
 ### Readings Only
 * [Sunday of the Passion: Palm Sunday](https://lectionarypage.net/YearA_RCL/HolyWk/APalmSun_RCL.html)
