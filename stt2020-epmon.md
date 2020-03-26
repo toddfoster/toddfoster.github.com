@@ -77,46 +77,32 @@ Psalm 36.5–11 **Dixit injustus**
 #### BCP 632
 
 > 5 Your love, O Lord, reaches to the heavens, *
-and your faithfulness to the clouds.
+> and your faithfulness to the clouds.
+>
+> **6 Your righteousness is like the strong mountains,
+> your justice like the great deep; *
+> you save both man and beast, O Lord.**
+>
+> 7 How priceless is your love, O God! *
+> your people take refuge under the shadow of your wings.
+>
+> **8 They feast upon the abundance of your house; *
+> you give them drink from the river of your delights.**
+>
+> 9 For with you is the well of life, *
+> and in your light we see light.
+>
+> **10 Continue your loving-kindness to those who know you, *
+> and your favor to those who are true of heart.**
+>
+> 11 Let not the foot of the proud come near me, *
+> nor the hand of the wicked push me aside.
+>
+> **Glory to the Father, and to the Son, and to the Holy Spirit: *
+> as it was in the beginning, is now, and will be for ever. Amen.**
 
-6 Your righteousness is like the strong mountains,
-your justice like the great deep; *
-you save both man and beast, O Lord.
+## The Lessons
 
-7 How priceless is your love, O God! *
-your people take refuge under the shadow of your wings.
-
-8 They feast upon the abundance of your house; *
-you give them drink from the river of your delights.
-
-9 For with you is the well of life, *
-and in your light we see light.
-
-10 Continue your loving-kindness to those who know you, *
-and your favor to those who are true of heart.
-
-11 Let not the foot of the proud come near me, *
-nor the hand of the wicked push me aside.
-
-
-
-
-
-
-
-Tuesday
-Psalm 71.1–14
-BCP 683
-
-Wednesday
-Psalm 70
-BCP 682
-
-At the end of the Psalms is sung or said:
-Glory to the Father, and to the Son, and to the Holy Spirit: *
-as it was in the beginning, is now, and will be for ever. Amen.
-
-The Lessons
 Monday
 Reader:A Reading from the prophet Isaiah.
 Isaiah 42:1-9
