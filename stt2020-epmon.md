@@ -71,8 +71,7 @@ Officiant:
 ### The Psalm Appointed
 #### The People are seated.
 #### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
-**Psalm 36.5–11** --- _Dixit injustus_
-#### BCP 632
+**Psalm 36.5–11** --- _Dixit injustus_ --- _BCP 632_
 
 > 5 Your love, O Lord, reaches to the heavens, *\\
 > and your faithfulness to the clouds.
@@ -226,9 +225,9 @@ Reader:
 >> creator of heaven and earth.\\
 > I believe in Jesus Christ, his only Son, our Lord.\\
 >> He was conceived by the power of the Holy Spirit\\
->>> 	and born of the Virgin Mary.\\
+>> 	and born of the Virgin Mary.\\
 >> He suffered under Pontius Pilate,\\
->>> 	was crucified, died, and was buried.\\
+>> 	was crucified, died, and was buried.\\
 >> He descended to the dead.\\
 >> On the third day he rose again.\\
 >> He ascended into heaven,\\
