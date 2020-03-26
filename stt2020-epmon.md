@@ -25,7 +25,7 @@ Invite someone to scan this QR code to pray with you.
 
 
 ### Preparing for the Liturgy
-_Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else)._
+_Preparations for Evening Prayer need not be complex. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else). These roles can be combined or traded._
 
 -------------
 
