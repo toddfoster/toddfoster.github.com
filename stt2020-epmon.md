@@ -3,16 +3,17 @@ title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
 ---
 # Evening Prayer
-<center><ital>
-_according to the Book of Common Prayer (p. 115)_\\
-_6 April 2020_
-</ital></center>
+<center><em>
+according to the Book of Common Prayer (p. 115)<br />
+6 April 2020
+</em></center>
 
 ------------
 
 ## Share These Prayers
 
 ![http://www.boidem.org/st2020-epmon](images/qr/epmon.gif)
+
 Let someone scan this QR code to pray with you.
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html#ps1)
