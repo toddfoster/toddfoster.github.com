@@ -70,9 +70,7 @@ All:
 ### The Psalm Appointed
 #### The People are seated.
 #### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
-
-
-Psalm 36.5–11 **Dixit injustus**
+**Psalm 36.5–11 --- Dixit injustus**
 #### BCP 632
 
 > 5 Your love, O Lord, reaches to the heavens, *\\
@@ -107,55 +105,54 @@ Reader:
 
 
 
-Isaiah 42:1-9
 
 
-
-Here is my servant, whom I uphold,
-my chosen, in whom my soul delights;
-
-I have put my spirit upon him;
-he will bring forth justice to the nations.
-
-He will not cry or lift up his voice,
-or make it heard in the street;
-
-a bruised reed he will not break,
-and a dimly burning wick he will not quench;
-he will faithfully bring forth justice.
-
-He will not grow faint or be crushed
-until he has established justice in the earth;
-and the coastlands wait for his teaching.
-
-
-
-Thus says God, the Lord,
-who created the heavens and stretched them out,
-who spread out the earth and what comes from it,
-
-who gives breath to the people upon it
-and spirit to those who walk in it:
-
-I am the Lord, I have called you in righteousness,
-I have taken you by the hand and kept you;
-
-I have given you as a covenant to the people,
-a light to the nations,
-to open the eyes that are blind,
-
-to bring out the prisoners from the dungeon,
-from the prison those who sit in darkness.
-
-I am the Lord, that is my name;
-my glory I give to no other,
-nor my praise to idols.
-
-See, the former things have come to pass,
-and new things I now declare;
-
-before they spring forth,
-I tell you of them.
+Here is my servant, whom I uphold,\\
+> my chosen, in whom my soul delights;\\
+> \\
+> I have put my spirit upon him;\\
+> he will bring forth justice to the nations.\\
+> \\
+> He will not cry or lift up his voice,\\
+> or make it heard in the street;\\
+> \\
+> a bruised reed he will not break,\\
+> and a dimly burning wick he will not quench;\\
+> he will faithfully bring forth justice.\\
+> \\
+> He will not grow faint or be crushed\\
+> until he has established justice in the earth;\\
+> and the coastlands wait for his teaching.\\
+> \\
+> \\
+> \\
+> Thus says God, the Lord,\\
+> who created the heavens and stretched them out,\\
+> who spread out the earth and what comes from it,\\
+> \\
+> who gives breath to the people upon it\\
+> and spirit to those who walk in it:\\
+> \\
+> I am the Lord, I have called you in righteousness,\\
+> I have taken you by the hand and kept you;\\
+> \\
+> I have given you as a covenant to the people,\\
+> a light to the nations,\\
+> to open the eyes that are blind,\\
+> \\
+> to bring out the prisoners from the dungeon,\\
+> from the prison those who sit in darkness.\\
+> \\
+> I am the Lord, that is my name;\\
+> my glory I give to no other,\\
+> nor my praise to idols.\\
+> \\
+> See, the former things have come to pass,\\
+> and new things I now declare;\\
+> \\
+> before they spring forth,\\
+> I tell you of them.\\
+> _(Isaiah 42:1-9 NRSV)_
 
 Reader:
 > The Word of the Lord.
@@ -163,31 +160,33 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-The People stand as able.
-The Song of Mary	Magnificat	Luke 1:46-55
-My soul proclaims the greatness of the Lord,
-	my spirit rejoices in God my Savior; *
-for he has looked with favor on his lowly servant.
-From this day all generations will call me blessed: *
-the Almighty has done great things for me,
-	and holy is his Name.
-He has mercy on those who fear him *
-in every generation.
-He has shown the strength of his arm, *
-he has scattered the proud in their conceit.
-He has cast down the mighty from their thrones, *
-and has lifted up the lowly.
-He has filled the hungry with good things, *
-and the rich he has sent away empty.
-He has come to the help of his servant Israel, *
-for he has remembered his promise of mercy,
-The promise he made to our fathers, *
-to Abraham and his children for ever.
-Glory to the Father and to the Son, and to the Holy Spirit: *
-as it was in the beginning, is now, and will be for ever. Amen.
+#### The People stand as able.
+**The Song of Mary**	--- _Magnificat_ --- _Luke 1:46-55_
 
-The People are seated.
-Monday
+> **My soul proclaims the greatness of the Lord,\\
+> 	my spirit rejoices in God my Savior; *\\
+> for he has looked with favor on his lowly servant.\\
+> From this day all generations will call me blessed: *\\
+> the Almighty has done great things for me,\\
+> 	and holy is his Name.\\
+> He has mercy on those who fear him *\\
+> in every generation.\\
+> He has shown the strength of his arm, *\\
+> he has scattered the proud in their conceit.\\
+> He has cast down the mighty from their thrones, *\\
+> and has lifted up the lowly.\\
+> He has filled the hungry with good things, *\\
+> and the rich he has sent away empty.\\
+> He has come to the help of his servant Israel, *\\
+> for he has remembered his promise of mercy,\\
+> The promise he made to our fathers, *\\
+> to Abraham and his children for ever.\\
+> Glory to the Father and to the Son, and to the Holy Spirit: *\\
+> as it was in the beginning, is now, and will be for ever. Amen.**
+
+#### The People are seated.
+
+
 Reader:A Reading from the book of Hebrews.
 Hebrews 9:11-15
 
