@@ -266,45 +266,54 @@ Officiant:
 >> now and for ever.  Amen**
 
 ### Suffrages
-Officiant:	That this evening may be holy, good, and peaceful,
-People:	We entreat you, O Lord.
+Officiant:
+> That this evening may be holy, good, and peaceful,
+**People:**
+> **We entreat you, O Lord.**
 
-Officiant:	That your holy angels may lead us in paths of peace and goodwill,
-People:	We entreat you, O Lord.
+Officiant:
+> That your holy angels may lead us in paths of peace and goodwill,
+**People:**
+> **We entreat you, O Lord.**
 
-Officiant:	That we may be pardoned and forgiven for our sins and offenses,
-People:	We entreat you, O Lord.
+Officiant:
+> That we may be pardoned and forgiven for our sins and offenses,
+**People:**
+> **We entreat you, O Lord.**
 
-Officiant:	That there may be peace to your Church and to the whole world,
-People:	We entreat you, O Lord.
+Officiant:
+> That there may be peace to your Church and to the whole world,
+**People:**
+> **We entreat you, O Lord.**
 
-Officiant:	That we may depart this life in your faith and fear, and not be condemned before the great judgment seat of Christ,
-People:	We entreat you, O Lord.
+Officiant:
+> That we may depart this life in your faith and fear, and not be condemned before the great judgment seat of Christ,
+**People:**
+> **We entreat you, O Lord.**
 
-Officiant:	That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, Blessed Thomas, and all your saints, entrusting one another and all our life to Christ,
-People:	We entreat you, O Lord.
+Officiant:
+> That we may be bound together by your Holy Spirit in the communion of the Blessed Virgin Mary, Blessed Thomas, and all your saints, entrusting one another and all our life to Christ,
+**People:**
+> **We entreat you, O Lord.**
 
-Collects may be said by the Officiant or by the people together, or they may be said in turn.
-Monday
-Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.
-Tuesday
-O God, by the passion of your blessed Son you made an instrument of shameful death to be for us the means of life: Grant us so to glory in the cross of Christ, that we may gladly suffer shame and loss for the sake of your Son our Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.
-Wednesday
-Lord God, whose blessed Son our Savior gave his body to be whipped and his face to be spit upon: Give us grace to accept joyfully the sufferings of the present time, confident of the glory that shall be revealed; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.
+#### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
-A Collect for the Presence of Christ
-Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  Amen.
+_Collect Proper to the Day_
+> Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen.
 
-A Prayer for Mission
-Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  Amen.
+_A Collect for the Presence of Christ_
+> Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  Amen.
 
-Here may be sung a hymn or anthem.
+_A Prayer for Mission_
+> Keep watch, dear Lord, with those who work, or watch, or weep this night, and give your angels charge over those who sleep.  Tend the sick, Lord Christ; give rest to the weary, bless the dying, soothe the suffering, pity the afflicted, shield the joyous; and all for your love's sake.  Amen.
 
-Intercessions and thanksgivings may follow.
+#### Here may be sung a hymn or anthem.
 
-The General Thanksgiving
-Officiant and People
-Almighty God, Father of all mercies,
+#### Intercessions and thanksgivings may follow.
+
+_The General Thanksgiving_
+**Officiant and People:**
+> Almighty God, Father of all mercies,
 we your unworthy servants give you humble thanks
 for all your goodness and loving-kindness
 to us and to all whom you have made.
@@ -323,14 +332,11 @@ through Jesus Christ our Lord,
 to whom, with you and the Holy Spirit,
 be honor and glory throughout all ages.  Amen.
 
-Officiant:	Let us bless the Lord.
-People:	Thanks be to God.
+Officiant:
+> Let us bless the Lord.
+**People:**
+> **Thanks be to God.**
 
-The Officiant  then concludes with one of the following sentences of scripture:
-Monday
+#### The Officiant then concludes with the following sentence of scripture:
 The grace of our Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with us all evermore. Amen.
- 2 Corinthians 13:14
-Tuesday
-May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit.  Amen. Romans 15:13
-Wednesday
-Glory to God whose power, working in us, can do infinitely more than we can ask or imagine:  Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. Amen. Ephesians 3:20,21
+_(2 Corinthians 13:14)_
