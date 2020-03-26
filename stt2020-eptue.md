@@ -244,14 +244,14 @@ Reader:
 #### The People stand as able.
 
 **The Song of Simeon** --- _Nunc Dimittis_  --- _Luke 2:29-32_
-> Lord, you now have set your servant free *\\
+> **Lord, you now have set your servant free *\\
 to go in peace as you have promised;\\
 For these eyes of mine have seen the Savior, *\\
 whom you have prepared for all the world to see:\\
 A Light to enlighten the nations, *\\
 and the glory of your people Israel.\\
 Glory to the Father, and to the Son, and to the Holy Spirit: *\\
-as it was in the beginning, is now, and will be for ever. Amen.\\
+as it was in the beginning, is now, and will be for ever. Amen.**
 
 
 #### The People are seated.
@@ -274,7 +274,7 @@ Reader:
 
 ### The Apostles' Creed
 #### Officiant and People together, all standing
-> I believe in God, the Father almighty,\\
+> I believe in God, **the Father almighty,\\
 > creator of heaven and earth.\\
 > I believe in Jesus Christ, his only Son, our Lord.\\
 > He was conceived by the power of the Holy Spirit\\
@@ -291,7 +291,7 @@ Reader:
 > the communion of saints,\\
 > the forgiveness of sins,\\
 > the resurrection of the body,\\
-> and the life everlasting.  Amen.
+> and the life everlasting.  Amen.**
 
 ## The Prayers
 #### The people stand or kneel
