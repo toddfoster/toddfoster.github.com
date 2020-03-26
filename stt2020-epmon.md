@@ -10,7 +10,8 @@ _6 April 2020_
 
 ## Share These Prayers
 
-Let someone scan this QR code to pray with you: ![http://www.boidem.org/st2020-epmon](images/qr/epmon.gif)
+![http://www.boidem.org/st2020-epmon](images/qr/epmon.gif)
+Let someone scan this QR code to pray with you.
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html#ps1)
 
