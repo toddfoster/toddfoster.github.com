@@ -7,31 +7,35 @@ layout: liturgy
 _according to the Book of Common Prayer (p. 115)_\\
 _6 April 2020_
 
+
+## TODO QR Code, Link to texts only, Index page
+
 ## Preparing for the Liturgy
 Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else).
 
-_The Officiant begins the service with the following sentence of Scripture:_
-> Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _Psalm 141:2_
+_The Officiant begins the service with the following sentence of Scripture:_\\
+> Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_
 
 ## Confession of Sin
 Officiant:
 > Let us confess our sins against God and our neighbor.
 
 All:
+
 > **Most merciful God,\\
-> we confess that we have sinned against you\\
-> in thought, word, and deed,\\
-> by what we have done,\\
-> and by what we have left undone.\\
-> We have not loved you with our whole heart;\\
-> we have not loved our neighbors as ourselves.\\
-> We are truly sorry and we humbly repent.\\
-> For the sake of your Son Jesus Christ,\\
-> have mercy on us and forgive us;\\
-> that we may delight in your will,\\
-> and walk in your ways,\\
-> to the glory of your\\
-> Name. Amen.**
+we confess that we have sinned against you\\
+in thought, word, and deed,\\
+by what we have done,\\
+and by what we have left undone.\\
+We have not loved you with our whole heart;\\
+we have not loved our neighbors as ourselves.\\
+We are truly sorry and we humbly repent.\\
+For the sake of your Son Jesus Christ,\\
+have mercy on us and forgive us;\\
+that we may delight in your will,
+and walk in your ways,
+to the glory of your
+Name. Amen.**
 
 Officiant:
 > Almighty God have mercy on us,\\
@@ -43,12 +47,14 @@ Officiant:
 Officiant:
 > O God, make speed to save us.
 
-People:\\
+People:
 > **O Lord, make haste to help us.**
 
 All:
 > **Glory to the Father, and to the Son, and to the Holy Spirit:\\
 > as it was in the beginning, is now, and will be for ever.  Amen.\\
+
+All:
 > O Gracious Light	Phos hilaron\\
 > O gracious light,\\
 > pure brightness of the everliving Father in heaven,\\
