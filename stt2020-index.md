@@ -5,6 +5,7 @@ layout: liturgy
 # Holy Week Resources for 2020
 
 ### Full Liturgies
+* [The Sunday of the Passion: Palm Sunday](http://www.boidem.org/stt2020-palm)
 * [Holy Monday](http://www.boidem.org/stt2020-epmon)
 * [Holy Tuesday](http://www.boidem.org/stt2020-eptue)
 * [Holy Wednesday](http://www.boidem.org/stt2020-epwed)
