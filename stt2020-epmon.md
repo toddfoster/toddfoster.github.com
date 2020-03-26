@@ -1,9 +1,6 @@
 ---
 title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
-kramdown:
-  input: GFM
-  hard_wrap: true
 ---
 
 # Evening Prayer
