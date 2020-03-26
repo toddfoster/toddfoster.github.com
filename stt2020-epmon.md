@@ -3,42 +3,40 @@ title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
 ---
 
-# Test Evening Prayer
+# Evening Prayer
+_according to the Book of Common Prayer (p. 115)_
+_6 April 2020_
 
-Evening Prayer
-according to the Book of Common Prayer (p. 115)
-6 April 2020
-
-Preparing for the Liturgy
+## Preparing for the Liturgy
 Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else).
 
-The Officiant begins the service with one of the following sentences of Scripture:
-Monday
-Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  Psalm 141:2
-Tuesday
-Yours is the day, O God, yours also the night; you established the moon and the sun.  You fixed all the boundaries of the earth; you made both summer and winter.  Psalm 74:15,16
-Wednesday
-I will bless the Lord who gives me counsel; my heart teaches me, night after night.  I have set the Lord always before me; because he is at my right hand, I shall not fall.  Psalm 16:7,8
+_The Officiant begins the service with the following sentence of Scripture:_
+Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _Psalm 141:2_
 
-Confession of Sin
-Officiant:	Let us confess our sins against God and our neighbor.
-All:		Most merciful God,
-we confess that we have sinned against you
-in thought, word, and deed,
-by what we have done,
-and by what we have left undone.
-We have not loved you with our whole heart;
-we have not loved our neighbors as ourselves.
-We are truly sorry and we humbly repent.
-For the sake of your Son Jesus Christ,
-have mercy on us and forgive us;
-that we may delight in your will,
-and walk in your ways,
-to the glory of your Name. Amen.
-Officiant:	Almighty God have mercy on us,
-forgive us all our sins through our Lord Jesus Christ,
-strengthen us in all goodness,
-and by the power of the Holy Spirit keep us in eternal life. Amen.
+## Confession of Sin_
+Officiant:
+> Let us confess our sins against God and our neighbor.
+All:
+> **Most merciful God,
+> we confess that we have sinned against you
+> in thought, word, and deed,
+> by what we have done,
+> and by what we have left undone.
+> We have not loved you with our whole heart;
+> we have not loved our neighbors as ourselves.
+> We are truly sorry and we humbly repent.
+> For the sake of your Son Jesus Christ,
+> have mercy on us and forgive us;
+> that we may delight in your will,
+> and walk in your ways,
+> to the glory of your
+> Name. Amen.**
+
+Officiant:
+> Almighty God have mercy on us,
+> forgive us all our sins through our Lord Jesus Christ,
+> strengthen us in all goodness,
+> and by the power of the Holy Spirit keep us in eternal life. Amen.
 
 The Invitatory and Psalter
 Officiant:	O God, make speed to save us.
