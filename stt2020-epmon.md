@@ -14,7 +14,7 @@ according to the Book of Common Prayer (p. 115)<br />
 
 ![http://www.boidem.org/st2020-epmon](images/qr/epmon.gif)
 
-Let someone scan this QR code to pray with you.
+Invite someone to scan this QR code to pray with you.
 
 [Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html)
 
