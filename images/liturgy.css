@@ -243,6 +243,27 @@ li.unlink {
 
 
 /* Begin Special Font styles */
+# h4 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: small;
+    font-style: italic;
+    font-weight: normal;
+    text-align: left;
+}
+
+# h1 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+# h2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bold;
+    text-align: left;
+}
+
 #rightcol h1, h2 {
   font-family:Georgia, "Times New Roman", Times, serif;
   margin:1em;

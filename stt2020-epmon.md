@@ -32,9 +32,9 @@ we have not loved our neighbors as ourselves.\\
 We are truly sorry and we humbly repent.\\
 For the sake of your Son Jesus Christ,\\
 have mercy on us and forgive us;\\
-that we may delight in your will,
-and walk in your ways,
-to the glory of your
+that we may delight in your will,\\
+and walk in your ways,\\
+to the glory of your\\
 Name. Amen.**
 
 Officiant:
@@ -68,12 +68,36 @@ All:
 > O Son of God, O Giver of Life,\\
 > and to be glorified through all the worlds.**
 
-The Psalm or Psalms Appointed
-The People are seated.
-The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
-Monday
-Psalm 36.5–11
-BCP BCP 632
+## The Psalm Appointed
+#### The People are seated.
+#### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
+
+
+Psalm 36.5–11 **Dixit injustus**
+#### BCP 632
+
+> 5 Your love, O Lord, reaches to the heavens, *
+and your faithfulness to the clouds.
+
+6 Your righteousness is like the strong mountains,
+your justice like the great deep; *
+you save both man and beast, O Lord.
+
+7 How priceless is your love, O God! *
+your people take refuge under the shadow of your wings.
+
+8 They feast upon the abundance of your house; *
+you give them drink from the river of your delights.
+
+9 For with you is the well of life, *
+and in your light we see light.
+
+10 Continue your loving-kindness to those who know you, *
+and your favor to those who are true of heart.
+
+11 Let not the foot of the proud come near me, *
+nor the hand of the wicked push me aside.
+
 
 
 
