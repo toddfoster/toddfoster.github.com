@@ -11,9 +11,9 @@ _6 April 2020_
 ## TODO QR Code, Link to texts only, Index page
 
 ### Preparing for the Liturgy
-Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else).
+_Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else)._
 
-_The Officiant begins the service with the following sentence of Scripture:_\\
+_The Officiant begins the service with the following sentence of Scripture:_
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_
 
 ### Confession of Sin
@@ -49,17 +49,18 @@ Officiant:
 **People:**
 > **O Lord, make haste to help us.**
 
-All:
+**All:**
 > **Glory to the Father, and to the Son, and to the Holy Spirit:\\
 > as it was in the beginning, is now, and will be for ever.  Amen.\\
 
-*All:*
-> O Gracious Light	Phos hilaron\\
-> O gracious light,\\
+**O Gracious Light	Phos hilaron
+
+**All:**
+> **O gracious light,\\
 > pure brightness of the everliving Father in heaven,\\
-> O Jesus Christ, holy and blessed!**\\
+> O Jesus Christ, holy and blessed!\\
 >\\
-> **Now as we come to the setting of the sun,\\
+> Now as we come to the setting of the sun,\\
 > and our eyes behold the vesper light,\\
 > we sing your praised, O God:  Father, Son, and Holy Spirit.\\
 >\\
