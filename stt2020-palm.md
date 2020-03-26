@@ -28,7 +28,7 @@ _Palms or other greens may be gathered to carry in procession. Choose a Celebran
 -------------
 
 ## The Liturgy of the Palms
-#### The People stand.
+##### The People stand.
 Celebrant:
 > Blessed is the King who comes in the name of the Lord.
 
@@ -42,7 +42,7 @@ Celebrant:
 Celebrant:
 > A Reading from Matthew’s Gospel.
 
->> When they had come near Jerusalem and had reached Bethphage, at the Mount of Olives, Jesus sent two disciples, saying to them, ‘Go into the village ahead of you, and immediately you will find a donkey tied, and a colt with her; untie them and bring them to me. If anyone says anything to you, just say this, “The Lord needs them.” And he will send them immediately.’ This took place to fulfil what had been spoken through the prophet, saying,\\
+>> When they had come near Jerusalem and had reached Bethphage, at the Mount of Olives, Jesus sent two disciples, saying to them, ‘Go into the village ahead of you, and immediately you will find a donkey tied, and a colt with her; untie them and bring them to me. If anyone says anything to you, just say this, “The Lord needs them.” And he will send them immediately.’ This took place to fulfil what had been spoken through the prophet, saying,
 >>
 >> ‘Tell the daughter of Zion,\\
 >>	Look, your king is coming to you,\\
@@ -94,13 +94,13 @@ Celebrant:
 > **In the name of Christ. Amen.**
 
 **Hymn 154: All glory, laud, and honor**
-#### [Hear this hymn played](https://www.youtube.com/watch?v=h3a8fTTrAdE)
+###### [Hear this hymn played](https://www.youtube.com/watch?v=h3a8fTTrAdE)
 
-#### While singing, take your palms and, if possible, process out and around your residence. If it is better to stay inside, process around your living spaces, bringing Jesus into every space. Upon reaching the point furthest from the worship space, stop and pray the following Collect:
+###### While singing, take your palms and, if possible, process out and around your residence. If it is better to stay inside, process around your living spaces, bringing Jesus into every space. Upon reaching the point furthest from the worship space, stop and pray the following Collect:
 **People:**
 > **Almighty God, whose most dear Son went not up to joy but first he suffered pain, and entered not into glory before he was crucified: Mercifully grant that we, walking in the way of the cross, may find it none other than the way of life and peace; through Jesus Christ our Lord. Amen.**
 
-#### On the return of the procession, we say aloud:
+###### On the return of the procession, we say aloud:
 **Psalm 118:1-2, 19-29** --- _Confitemini Domino_
 > 1 Give thanks to the Lord, for he is good; *\\
 > his mercy endures for ever.
@@ -152,10 +152,10 @@ Celebrant:
 > his mercy endures for ever.
 >
 > **Antiphon: 	Hosanna in the highest.**
-#### The people find their seats.
+###### The people find their seats.
 
 ## The Liturgy of the Word
-#### The People stand.
+###### The People stand.
 ### Salutation
 Presider:
 > The Lord be with you.
@@ -278,9 +278,9 @@ Reader:
 > **Thanks be to God.**
 
 ***The Passion*** ---	_Matthew 26.14–27.66_
-#### Separate Passion reading booklets are provided at [https://is.gd/PassionMatthew](https://is.gd/PassionMatthew). The congregation may be seated for the first part of the Passion. **At the verse which mentions the arrival at Golgotha all stand.**
+###### Separate Passion reading booklets are provided at [https://is.gd/PassionMatthew](https://is.gd/PassionMatthew). The congregation may be seated for the first part of the Passion. **At the verse which mentions the arrival at Golgotha all stand.**
 
-#### There follows a great silence. Please remain standing if you are able.
+###### There follows a great silence. Please remain standing if you are able.
 
 ### The Prayers of the People
 TODO: Provide in full-- finish with the Lord’s Prayer!
