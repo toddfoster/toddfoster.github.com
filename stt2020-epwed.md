@@ -87,112 +87,71 @@ Officiant:
 ### The Psalm Appointed
 #### The People are seated.
 #### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
+**Psalm 70** --- _Deus, in adjutorium_ --- _BCP 682_
 
+> 1 Be pleased, O God, to deliver me; *\\
+> O Lord, make haste to help me.
+>
+> **2 Let those who seek my life be ashamed
+>> and altogether dismayed; *\\
+> let those who take pleasure in my misfortune
+>> draw back and be disgraced.**
+>
+> 3 Let those who say to me "Aha!" and gloat over me turn back, *\\
+> because they are ashamed.
+>
+> **4 Let all who seek you rejoice and be glad in you; *\\
+> let those who love your salvation say for ever,
+>> "Great is the Lord!"**
+>
+> 5 But as for me, I am poor and needy; *\\
+> come to me speedily, O God.
+>
+> **6 You are my helper and my deliverer; *\\
+> O Lord, do not tarry.**
 
-**Psalm 71:1-14** --- _In te, Domine, speravi_ --- _BCP 683_
-
-> 1 In you, O Lord, have I taken refuge; *
-> let me never be ashamed.
->
-> **2 In your righteousness, deliver me and set me free; *
-> incline your ear to me and save me.**
->
-> 3 Be my strong rock, a castle to keep me safe; *
-> you are my crag and my stronghold.
->
-> **4 Deliver me, my God, from the hand of the wicked, *
-> from the clutches of the evildoer and the oppressor.**
->
-> 5 For you are my hope, O Lord God, *
-> my confidence since I was young.
->
-> **6 I have been sustained by you ever since I was born;
-> from my mother's womb you have been my strength; *
-> my praise shall be always of you.**
->
-> 7 I have become a portent to many; *
-> but you are my refuge and my strength.
->
-> **8 Let my mouth be full of your praise *
-> and your glory all the day long.**
->
-> 9 Do not cast me off in my old age; *
-> forsake me not when my strength fails.
->
-> **10 For my enemies are talking against me, *
-> and those who lie in wait for my life take counsel together.**
->
-> 11 They say, "God has forsaken him;
-> go after him and seize him; *
-> because there is none who will save."
->
-> **12 O God, be not far from me; *
-> come quickly to help me, O my God.**
->
-> 13 Let those who set themselves against me be put to shame and be disgraced; *
-> let those who seek to do me evil be covered with scorn and reproach.
->
-> **14 But I shall always wait in patience, *
-> and shall praise you more and more.**
->
-> **Glory to the Father, and to the Son, and to the Holy Spirit: *\\
-> as it was in the beginning, is now, and will be for ever. Amen.**
 
 ## The Lessons
 
 Reader:
 > A Reading from the prophet Isaiah.
 >
->> Listen to me, O coastlands,\\
->> pay attention, you peoples from far away!\\
+>> The Lord God has given me\\
+>> the tongue of a teacher,\\
 >> \\
->> The Lord called me before I was born,\\
->> while I was in my mother's womb he named me.\\
+>> that I may know how to sustain\\
+>> the weary with a word.\\
 >> \\
->> He made my mouth like a sharp sword,\\
->> in the shadow of his hand he hid me;\\
+>> Morning by morning he wakens--\\
+>> wakens my ear\\
+>> to listen as those who are taught.\\
 >> \\
->> he made me a polished arrow,\\
->> in his quiver he hid me away.\\
+>> The Lord God has opened my ear,\\
+>> and I was not rebellious,\\
+>> I did not turn backward.\\
 >> \\
->> And he said to me, "You are my servant,\\
->> Israel, in whom I will be glorified."\\
+>> I gave my back to those who struck me,\\
+>> and my cheeks to those who pulled out the beard;\\
 >> \\
->> But I said, "I have labored in vain,\\
->> I have spent my strength for nothing and vanity;\\
+>> I did not hide my face\\
+>> from insult and spitting.\\
 >> \\
->> yet surely my cause is with the Lord,\\
->> and my reward with my God."\\
+>> The Lord God helps me;\\
+>> therefore I have not been disgraced;\\
 >> \\
->> And now the Lord says,\\
->> who formed me in the womb to be his servant,\\
+>> therefore I have set my face like flint,\\
+>> and I know that I shall not be put to shame;\\
+>> he who vindicates me is near.\\
 >> \\
->> to bring Jacob back to him,\\
->> and that Israel might be gathered to him,\\
+>> Who will contend with me?\\
+>> Let us stand up together.\\
 >> \\
->> for I am honored in the sight of the Lord,\\
->> and my God has become my strength--\\
+>> Who are my adversaries?\\
+>> Let them confront me.\\
 >> \\
->> he says,\\
->> \\
->> "It is too light a thing that you should be my servant\\
->> to raise up the tribes of Jacob and to restore the survivors of Israel;\\
->> \\
->> I will give you as a light to the nations,\\
->> that my salvation may reach to the end of the earth."\\
->> \\
->> Thus says the Lord,\\
->> the Redeemer of Israel and his Holy One,\\
->> \\
->> to one deeply despised, abhorred by the nations,\\
->> the slave of rulers,\\
->> \\
->> "Kings shall see and stand up,\\
->> princes, and they shall prostrate themselves,\\
->> \\
->> because of the Lord, who is faithful,\\
->> the Holy One of Israel, who has chosen you."\\
->> _(Isaiah 49:1--7 NRSV)_
+>> It is the Lord God who helps me;\\
+>> who will declare me guilty?\\
+>> _(Isaiah 50:4--9a)_
 
 Reader:
 > The Word of the Lord.
@@ -226,16 +185,11 @@ Reader:
 #### The People are seated.
 
 Reader:
-> A Reading from Paul's first letter to the church in Corinth.
+> A Reading from the book of Hebrews.
 >
->> The message about the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God. For it is written,
+>> Since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and the sin that clings so closely, and let us run with perseverance the race that is set before us, looking to Jesus the pioneer and perfecter of our faith, who for the sake of the joy that was set before him endured the cross, disregarding its shame, and has taken his seat at the right hand of the throne of God.
 >>
->> "I will destroy the wisdom of the wise,\\
->> and the discernment of the discerning I will thwart."
->>
->> Where is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world? For since, in the wisdom of God, the world did not know God through wisdom, God decided, through the foolishness of our proclamation, to save those who believe. For Jews demand signs and Greeks desire wisdom, but we proclaim Christ crucified, a stumbling block to Jews and foolishness to Gentiles, but to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God. For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength.
->>
->> Consider your own call, brothers and sisters: not many of you were wise by human standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, things that are not, to reduce to nothing things that are, so that no one might boast in the presence of God. He is the source of your life in Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption, in order that, as it is written, "Let the one who boasts, boast in the Lord." _(1 Corinthians 1:18--31)_
+>> Consider him who endured such hostility against himself from sinners, so that you may not grow weary or lose heart. _(Hebrews 12:1--3)_
 
 Reader:
 > The Word of the Lord.
@@ -260,11 +214,9 @@ as it was in the beginning, is now, and will be for ever. Amen.\\
 Reader:
 > A Reading from John’s Gospel.
 >
->> Among those who went up to worship at the festival were some Greeks. They came to Philip, who was from Bethsaida in Galilee, and said to him, "Sir, we wish to see Jesus." Philip went and told Andrew; then Andrew and Philip went and told Jesus. Jesus answered them, "The hour has come for the Son of Man to be glorified. Very truly, I tell you, unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. Those who love their life lose it, and those who hate their life in this world will keep it for eternal life. Whoever serves me must follow me, and where I am, there will my servant be also. Whoever serves me, the Father will honor.
+>> At supper with his friends, Jesus was troubled in spirit, and declared, "Very truly, I tell you, one of you will betray me." The disciples looked at one another, uncertain of whom he was speaking. One of his disciples-- the one whom Jesus loved-- was reclining next to him; Simon Peter therefore motioned to him to ask Jesus of whom he was speaking. So while reclining next to Jesus, he asked him, "Lord, who is it?" Jesus answered, "It is the one to whom I give this piece of bread when I have dipped it in the dish." So when he had dipped the piece of bread, he gave it to Judas son of Simon Iscariot. After he received the piece of bread, Satan entered into him. Jesus said to him, "Do quickly what you are going to do." Now no one at the table knew why he said this to him. Some thought that, because Judas had the common purse, Jesus was telling him, "Buy what we need for the festival"; or, that he should give something to the poor. So, after receiving the piece of bread, he immediately went out. And it was night.
 >>
->> "Now my soul is troubled. And what should I say-- `Father, save me from this hour'? No, it is for this reason that I have come to this hour. Father, glorify your name." Then a voice came from heaven, "I have glorified it, and I will glorify it again." The crowd standing there heard it and said that it was thunder. Others said, "An angel has spoken to him." Jesus answered, "This voice has come for your sake, not for mine. Now is the judgment of this world; now the ruler of this world will be driven out. And I, when I am lifted up from the earth, will draw all people to myself." He said this to indicate the kind of death he was to die. The crowd answered him, "We have heard from the law that the Messiah remains forever. How can you say that the Son of Man must be lifted up? Who is this Son of Man?" Jesus said to them, "The light is with you for a little longer. Walk while you have the light, so that the darkness may not overtake you. If you walk in the darkness, you do not know where you are going. While you have the light, believe in the light, so that you may become children of light."
->>
->> After Jesus had said this, he departed and hid from them. _(John 12:20-36)_
+>> When he had gone out, Jesus said, "Now the Son of Man has been glorified, and God has been glorified in him. If God has been glorified in him, God will also glorify him in himself and will glorify him at once." _(John 13:21-32)_
 
 Reader:
 > The Word of the Lord.
@@ -362,7 +314,7 @@ Officiant:
 #### Collects may be said by the Officiant or by the people together, or they may be said in turn.
 
 _Collect Proper to the Day_
-> O God, by the passion of your blessed Son you made an instrument of shameful death to be for us the means of life: Grant us so to glory in the cross of Christ, that we may gladly suffer shame and loss for the sake of your Son our Savior Jesus Christ; who lives and reigns with you and the Holy Spirit, one God, for ever and ever.  **Amen.**
+> Lord God, whose blessed Son our Savior gave his body to be whipped and his face to be spit upon: Give us grace to accept joyfully the sufferings of the present time, confident of the glory that shall be revealed; through Jesus Christ your Son our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.  **Amen.**
 
 _A Collect for the Presence of Christ_
 > Lord Jesus, stay with us, for evening is at hand and the day is past; be our companion in the way, kindle our hearts, and awaken hope, that we may know you as you are revealed in Scripture and the breaking of bread.  Grant this for the sake of your love.  **Amen.**
@@ -403,4 +355,4 @@ Officiant:
 > **Thanks be to God.**
 
 #### The Officiant then concludes with the following sentence of scripture:
-May the God of hope fill us with all joy and peace in believing through the power of the Holy Spirit.  **Amen.** _(Romans 15:13)_
+Glory to God whose power, working in us, can do infinitely more than we can ask or imagine:  Glory to him from generation to generation in the Church, and in Christ Jesus for ever and ever. **Amen.** _(Ephesians 3:20,21)_

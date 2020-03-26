@@ -87,54 +87,54 @@ Officiant:
 ### The Psalm Appointed
 #### The People are seated.
 #### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
-**Psalm 71:1-14** --- _In te, Domine, speravi_ --- _BCP 683_
+**Psalm 71:1--14** --- _In te, Domine, speravi_ --- _BCP 683_
 
-> 1 In you, O Lord, have I taken refuge; *
+> 1 In you, O Lord, have I taken refuge; *\\
 > let me never be ashamed.
 >
-> **2 In your righteousness, deliver me and set me free; *
+> **2 In your righteousness, deliver me and set me free; *\\
 > incline your ear to me and save me.**
 >
-> 3 Be my strong rock, a castle to keep me safe; *
+> 3 Be my strong rock, a castle to keep me safe; *\\
 > you are my crag and my stronghold.
 >
-> **4 Deliver me, my God, from the hand of the wicked, *
+> **4 Deliver me, my God, from the hand of the wicked, *\\
 > from the clutches of the evildoer and the oppressor.**
 >
-> 5 For you are my hope, O Lord God, *
+> 5 For you are my hope, O Lord God, *\\
 > my confidence since I was young.
 >
 > **6 I have been sustained by you ever since I was born;
-> from my mother's womb you have been my strength; *
+> from my mother's womb you have been my strength; *\\
 > my praise shall be always of you.**
 >
-> 7 I have become a portent to many; *
+> 7 I have become a portent to many; *\\
 > but you are my refuge and my strength.
 >
-> **8 Let my mouth be full of your praise *
+> **8 Let my mouth be full of your praise *\\
 > and your glory all the day long.**
 >
-> 9 Do not cast me off in my old age; *
+> 9 Do not cast me off in my old age; *\\
 > forsake me not when my strength fails.
 >
-> **10 For my enemies are talking against me, *
+> **10 For my enemies are talking against me, *\\
 > and those who lie in wait for my life take counsel together.**
 >
-> 11 They say, "God has forsaken him;
-> go after him and seize him; *
+> 11 They say, "God has forsaken him;\\
+> go after him and seize him; *\\
 > because there is none who will save."
 >
-> **12 O God, be not far from me; *
+> **12 O God, be not far from me; *\\
 > come quickly to help me, O my God.**
 >
-> 13 Let those who set themselves against me be put to shame and be disgraced; *
+> 13 Let those who set themselves against me be put to shame and be disgraced; *\\
 > let those who seek to do me evil be covered with scorn and reproach.
 >
-> **14 But I shall always wait in patience, *
+> **14 But I shall always wait in patience, *\\
 > and shall praise you more and more.**
 >
 > **Glory to the Father, and to the Son, and to the Holy Spirit: *\\
-> as it was in the beginning, is now, and will be for ever. Amen.**
+> as it was in the beginning, is now, and will be for ever. Amen.**\\
 
 ## The Lessons
 

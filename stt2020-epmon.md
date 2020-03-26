@@ -88,7 +88,7 @@ Officiant:
 ### The Psalm Appointed
 #### The People are seated.
 #### The Psalm is sung or said In a suitable manner (e.g., responsively by verse or unison).
-**Psalm 36.5–11** --- _Dixit injustus_ --- _BCP 632_
+**Psalm 36.5–-11** --- _Dixit injustus_ --- _BCP 632_
 
 > 5 Your love, O Lord, reaches to the heavens, *\\
 > and your faithfulness to the clouds.
