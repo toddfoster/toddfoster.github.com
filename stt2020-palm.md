@@ -342,7 +342,7 @@ Celebrant:
 **People:**
 > **And also with you.**
 
-### We greet one another in the name of the Lord.
+#### We greet one another in the name of the Lord.
 
 ### Prayer Over the People
 Celebrant:
