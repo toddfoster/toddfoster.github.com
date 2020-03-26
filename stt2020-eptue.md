@@ -305,19 +305,19 @@ Officiant:
 > Let us pray.
 
 **Officiant and People:**
-> Our Father in heaven,
-> **hallowed be your Name,
-> your kingdom come,
-> your will be done,
-> on earth as in heaven.
-> Give us today our daily bread.
-> Forgive us our sins
-> as we forgive those
-> 	who sin against us.
-> Save us from the time of trial,
-> and deliver us from evil.
-> For the kingdom, the power,
-> and the glory are yours,
+> Our Father in heaven,\\
+> **hallowed be your Name,\\
+> your kingdom come,\\
+> your will be done,\\
+> on earth as in heaven.\\
+> Give us today our daily bread.\\
+> Forgive us our sins\\
+> as we forgive those\\
+> 	who sin against us.\\
+> Save us from the time of trial,\\
+> and deliver us from evil.\\
+> For the kingdom, the power,\\
+> and the glory are yours,\\
 > now and for ever.  Amen**
 
 ### Suffrages
