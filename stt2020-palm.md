@@ -43,14 +43,14 @@ Celebrant:
 
 >> When they had come near Jerusalem and had reached Bethphage, at the Mount of Olives, Jesus sent two disciples, saying to them, ‘Go into the village ahead of you, and immediately you will find a donkey tied, and a colt with her; untie them and bring them to me. If anyone says anything to you, just say this, “The Lord needs them.” And he will send them immediately.’ This took place to fulfil what had been spoken through the prophet, saying,
 >>
->> ‘Tell the daughter of Zion,\\
+>> 'Tell the daughter of Zion,\\
 >>	Look, your king is coming to you,\\
 >>	humble, and mounted on a donkey,\\
 >>	and on a colt, the foal of a donkey.’
 >>
 >> The disciples went and did as Jesus had directed them; they brought the donkey and the colt, and put their cloaks on them, and he sat on them. A very large crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. The crowds that went ahead of him and that followed were shouting,
 >>
->>	‘Hosanna to the Son of David!\\
+>>	'Hosanna to the Son of David!\\
 >>	Blessed is the one who comes in the name of the Lord!\\
 >> 	Hosanna in the highest heaven!’
 >>
