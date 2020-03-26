@@ -13,7 +13,7 @@ _6 April 2020_
 ### Preparing for the Liturgy
 _Preparations for Evening Prayer need not be complex. Because there are different readings for different nights, they have been left for you to locate separately, either by looking up the provided scripture references in your Bible/BCP, or by using the camera application on your cell phone to scan the QR codes in order to find the scriptures online. Locate the readings ahead of time so they will be ready. Light a candle if possible. Invite anyone else who might be in your home to pray with you. There are three traditional roles in Evening Prayer: the officiant, the lector, and the people of God (everyone else)._
 
-_The Officiant begins the service with the following sentence of Scripture:_
+#### The Officiant begins the service with the following sentence of Scripture:
 > Let my prayer be set forth in your sight as incense, the lifting up of my hands as the evening sacrifice.  _(Psalm 141:2)_
 
 ### Confession of Sin
@@ -51,9 +51,9 @@ Officiant:
 
 **All:**
 > **Glory to the Father, and to the Son, and to the Holy Spirit:\\
-> as it was in the beginning, is now, and will be for ever.  Amen.\\
+> as it was in the beginning, is now, and will be for ever.  Amen.**
 
-**O Gracious Light	Phos hilaron
+**O Gracious Light** ---   _Phos hilaron_
 
 **All:**
 > **O gracious light,\\
