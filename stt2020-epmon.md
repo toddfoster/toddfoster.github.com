@@ -4,7 +4,7 @@ layout: liturgy
 ---
 
 # Evening Prayer
-_according to the Book of Common Prayer (p. 115)_
+_according to the Book of Common Prayer (p. 115)_\\
 _6 April 2020_
 
 ## Preparing for the Liturgy
@@ -18,30 +18,34 @@ Officiant:
 > Let us confess our sins against God and our neighbor.
 
 All:
-> **Most merciful God,
-> we confess that we have sinned against you
-> in thought, word, and deed,
-> by what we have done,
-> and by what we have left undone.
-> We have not loved you with our whole heart;
-> we have not loved our neighbors as ourselves.
-> We are truly sorry and we humbly repent.
-> For the sake of your Son Jesus Christ,
-> have mercy on us and forgive us;
-> that we may delight in your will,
-> and walk in your ways,
-> to the glory of your
+> **Most merciful God,\\
+> we confess that we have sinned against you\\
+> in thought, word, and deed,\\
+> by what we have done,\\
+> and by what we have left undone.\\
+> We have not loved you with our whole heart;\\
+> we have not loved our neighbors as ourselves.\\
+> We are truly sorry and we humbly repent.\\
+> For the sake of your Son Jesus Christ,\\
+> have mercy on us and forgive us;\\
+> that we may delight in your will,\\
+> and walk in your ways,\\
+> to the glory of your\\
 > Name. Amen.**
 
 Officiant:
-> Almighty God have mercy on us,
-> forgive us all our sins through our Lord Jesus Christ,
-> strengthen us in all goodness,
+> Almighty God have mercy on us,\\
+> forgive us all our sins through our Lord Jesus Christ,\\
+> strengthen us in all goodness,\\
 > and by the power of the Holy Spirit keep us in eternal life. Amen.
 
-The Invitatory and Psalter
-Officiant:	O God, make speed to save us.
-People:	O Lord, make haste to help us.
+## The Invitatory and Psalter
+Officiant:
+> O God, make speed to save us.
+
+People:\\
+> O Lord, make haste to help us.
+
 All:		Glory to the Father, and to the Son, and to the Holy Spirit:
 as it was in the beginning, is now, and will be for ever.  Amen.
 O Gracious Light	Phos hilaron
