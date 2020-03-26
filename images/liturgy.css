@@ -35,7 +35,10 @@ background-color: #1D529A;
 */
 }
 
-
+#headerimg {
+  width: 100%;
+  height: auto;
+}
 /* Main Menu Navigation styles */
 
 #mainmenu {

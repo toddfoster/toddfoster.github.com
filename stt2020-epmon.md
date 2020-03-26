@@ -2,7 +2,7 @@
 title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
 ---
-# Evening Prayer
+# Daily Evening Prayer: Rite Two
 <center><em>
 according to the Book of Common Prayer (p. 115)<br />
 6 April 2020
