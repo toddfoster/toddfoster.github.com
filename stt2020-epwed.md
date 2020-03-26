@@ -4,7 +4,7 @@ layout: liturgy
 ---
 # Daily Evening Prayer: Rite Two
 _according to the Book of Common Prayer (p. 115)\\
-Wednesday, 8 April 2020__
+Wednesday, 8 April 2020_
 
 ------------
 

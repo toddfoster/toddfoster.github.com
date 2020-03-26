@@ -1,7 +1,8 @@
 ---
-title: The Sunday of the Passion: Palm Sunday
+title: The Sunday of the Passion --- Palm Sunday
 layout: liturgy
 ---
+
 # The Sunday of the Passion: Palm Sunday
 _according to the Book of Common Prayer (p. 270)\\
 5 April 2020_
