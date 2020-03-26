@@ -12,7 +12,7 @@ Monday, 6 April 2020
 
 ## Share These Prayers
 
-![http://www.boidem.org/st2020-epmon](images/qr/epmon.gif)
+![http://www.boidem.org/stt2020-epmon](images/qr/epmon.gif)
 
 Invite someone to scan this QR code to pray with you.
 

@@ -12,7 +12,7 @@ Wednesday, 8 April 2020
 
 ## Share These Prayers
 
-![http://www.boidem.org/st2020-epwed](images/qr/epwed.gif)
+![http://www.boidem.org/stt2020-epwed](images/qr/epwed.gif)
 
 Invite someone to scan this QR code to pray with you.
 

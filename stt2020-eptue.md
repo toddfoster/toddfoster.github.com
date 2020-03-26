@@ -12,7 +12,7 @@ Tuesday, 7 April 2020
 
 ## Share These Prayers
 
-![http://www.boidem.org/st2020-eptue](images/qr/eptue.gif)
+![http://www.boidem.org/stt2020-eptue](images/qr/eptue.gif)
 
 Invite someone to scan this QR code to pray with you.
 
