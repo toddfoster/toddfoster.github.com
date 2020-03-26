@@ -16,7 +16,7 @@ according to the Book of Common Prayer (p. 115)<br />
 
 Let someone scan this QR code to pray with you.
 
-[Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html#ps1)
+[Click here to see just the lessons for this liturgy.](https://lectionarypage.net/YearABC_RCL/HolyWk/HolyMon_RCL.html)
 
 -----------
 
