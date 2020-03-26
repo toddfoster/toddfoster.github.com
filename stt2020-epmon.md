@@ -3,8 +3,10 @@ title: Evening Prayer for Monday, 6 April 2020
 layout: liturgy
 ---
 # Evening Prayer
+<center><ital>
 _according to the Book of Common Prayer (p. 115)_\\
 _6 April 2020_
+</ital></center>
 
 ------------
 
