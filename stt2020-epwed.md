@@ -220,7 +220,7 @@ Reader:
 **People:**
 > **Thanks be to God.**
 
-#### A brief homily, spiritual conversation, or moment of silence may be placed here. A homily for this night may be found on our website, [www.stthomasglassboro.org](www.stthomasglassboro.org).
+#### A brief homily, spiritual conversation, or moment of silence may be placed here.
 
 ### The Apostles' Creed
 #### Officiant and People together, all standing
