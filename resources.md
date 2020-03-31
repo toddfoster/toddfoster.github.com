@@ -9,28 +9,46 @@ These are various links that I find (or once found) helpful or interesting.
 ## Vocation
 
 Prayer: [BCP](http://justus.anglican.org/resources/bcp/)([pdf](http://www.episcopalchurch.org/sites/default/files/downloads/book_of_common_prayer.pdf))  [Daily Prayer for All Seasons](https://www.episcopalchurch.org/library/document/daily-prayer-all-seasons) [Ormonde Plater's Prayers](http://www.episcopaldeacons.org/ormonde-plater-archive.html) [New Zealand Prayer Book](http://anglicanprayerbook.org.nz/) [English Common Worship](https://www.churchofengland.org/prayer-worship/worship/texts.aspx)
+
 Formation: [Enter the Bible](https://www.enterthebible.org) [Lesson Plans That Work](https://episcopaldigitalnetwork.com/lessons/) [Building Faith](https://www.buildfaith.org/) [Sunday Connection](https://www.loyolapress.com/our-catholic-faith/liturgical-year) [Worshiping With Children](https://worshipingwithchildren.blogspot.com/p/lectionary-index.html) [Benedictine Youth Ministry](http://myfaithmylife.org/wp-content/uploads/sites/1227/2017/08/Gamber-Benedictine-youth-series.pdf) [Story Path](http://storypath.upsem.edu/lectionary-links/lectionary-links-revised-common-lectionary/) [Godly Play Blog](https://exploreandexpress-sheila.blogspot.com/)
+
 Reference: [Encyclopedia Brittanica](http://www.eb.com) [Wikipedia](http://wikipedia.org) [Catholic Encyclopedia](http://newadvent.org/cathen/) [Episcopal Glossary](http://library.episcopalchurch.org/glossary) [For All The Saints (pdf)](http://www.anglican.org.nz/Resources/Lectionary-and-Worship/For-All-the-Saints-A-Resource-for-the-Commemorations-of-the-Calendar) [Free Liturgical Calendars for your devices](http://episcotech.org/)
+
 Lectionaries: [RCL](http://lectionary.library.vanderbilt.edu/) [(pdf's,](http://lectionary.library.vanderbilt.edu/pdfs.php) [ical)](webcal://lectionary.library.vanderbilt.edu/feeds/lectionary.ics) [LectionaryPage.Net](http://lectionarypage.net)  [(ical)](http://www.lectionarypage.net/Resources/LiturgicalCalendar.ics) [Leccionario Común Revisado](http://www.blakleycreative.com/jtb/StMarksNet/ld.htm) [CCT](http://www.commontexts.org/publications/index.html) [Comments](http://www.montreal.anglican.org/comments/) [Narrative Lectionary](https://www.workingpreacher.org/?lectionary=nl)
+
 Lectionary Sermon Prep: [Preaching Peace](http://www.preachingpeace.org/teaching-resources/lectionary-commentary.html) [Edge of the Enclosure](http://www.edgeofenclosure.org) [Working Preacher](https://www.workingpreacher.org)
+
 English Bibles: [Bible](http://bible.oremus.org) [ESV](http://www.gnpcb.org/esv/browse/) ([mobile](http://www.gnpcb.org/esv/mobile/))
+
 Non-English Bibles: [Tanach](http://www.tanach.us) ([text](http://www.tanach.us/TextFiles/Tanach.acc.txt.zip) [pdf](http://www.tanach.us/PDFFiles/Tanach.acc.pdf.zip)) [SBLGNT](http://sblgnt.com/) ([pdf](http://sblgnt.com/download/SBLGNTpdf.zip))
+
 History: [Timeline](http://justus.anglican.org/resources/timeline/timeline.html)
+
 Lectures: [Basics of Biblical Greek](http://www.biblicaltraining.org/biblical-greek/william-mounce) [Nadia](http://www.onbeing.org/program/nadia-bolz-weber-on-seeing-the-underside-and-seeing-god-tattoos-tradition-and-grace) [Francis](http://www.americamagazine.org/print/1563) [Preaching Peace](http://www.preachingpeace.org/)  [Hebrew](http://dailydoseofhebrew.com) ([Vowel Changes](http://dailydoseofhebrew.com) ) [Greek](http://dailydoseofgreek.com)
+
 Other: [Music for Small Chuches](https://www.sjmp.com) [Hymnal 1982](http://smallchurchmusic.weebly.com/-hymnal-us-1982.html) [Gun Violence Archive](http://www.gunviolencearchive.org/)  [LilyBin](http://lilybin.com)[(docs)](http://lilypond.org/website/development.html) [Episcopal Church Research and Statistics](https://www.episcopalchurch.org/research-and-statistics) [Brueggemann in audio](https://www.walterbrueggemann.com/resources/audio/) [or video](https://www.walterbrueggemann.com/resources/video/)
 
 
 ## Misc
 
 TechRef: [LearnXinYminutes](https://learnxinyminutes.com/), [kramdown](http://kramdown.gettalong.org/quickref.html)
+
 Security: [riseup.net](https://riseup.net) [Tails](https://tails.boum.org) [whonix](https://www.whonix.org) [Qubes](https://www.qubes-os.org)
+
 Radio streams: [KPLU](http://icy1.abacast.com/kplu-newsjazzaac-64.m3u) [Jazz24](http://icy1.abacast.com/kplu-jazz24aac-64.m3u) [Grateful Dead Radio](http://gdradio.net) [(stream)](http://72.13.82.10:26260) [Classical](http://theclassicalstation.org/internet.shtml) [(ogg)](http://audio-ogg.ibiblio.org:8000/wcpe.ogg.m3u) [KUHF](http://kuhf.org)([hd1-news](http://129.7.48.199:80/KUHF-HD1-128K) [hd2-music](http://129.7.48.199:80/KUHF-HD2-128K) [hd3-esp](http://129.7.48.199:80/KUHF-HD3-128K)) [WNYC](http://wnyc.org)([hd1](http://wnycfm.streamguys.com/) [hd2](http://wnycfm2.streamguys.com/) [hd3](http://wnycfm3.streamguys.com/))
+
 News/comics: [bhmWx](http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bellingham%2C+WA) [houWx](http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=IAH) [bxWx](http://mobile.wunderground.com/cgi-bin/findweather/getForecast?brand=mobile&query=Bronx%2C+NY) [xkcd](http://xkcd.com) [boingboing](http://boingboing.net) [schneier](http://schneier.com/blog/) [bbc](http://news.bbc.co.uk/) [nyt](http://nytimes.com/) [ap](http://www.nytimes.com/pages/aponline/news/index.html)
+
 Texts: [ESV](http://www.gnpcb.org/esv/browse/)([mobile](http://www.gnpcb.org/esv/mobile/)) [CCEL](http://www.ccel.org) [E-Texts](http://etext.library.adelaide.edu.au/colls.html) [EarlyChristianWritings](http://www.earlychristianwritings.com/) [EarlyJewishWritings](http://www.earlyjewishwritings.com/) [IPL](http://www.ipl.org/div/books) [SacredTexts](http://www.sacred-texts.com/index.htm) [OpenContent](http://www.opencontent.org) [OxfordTextArchive](http://ota.ahds.ac.uk/menu/index.html) [Gutenberg](http://www.gutenberg.org) [Bartleby](http://www.columbia.edu/acis/bartleby/index.html) [TEXTFILES](http://www.textfiles.com) [TLG](http://www.tlg.uci.edu/~tlg/)
+
 Kids: [starfall](http://www.starfall.com/) [pbs](http://pbskids.org/) [rainbow magic](http://www.rainbowmagiconline.com/index.html) [webkinz](http://www.webkinz.com/us_en/)
-Media: [Grooveshark](http://grooveshark.com) [AlbinoBlacksheep](http://www.albinoblacksheep.com/flash/) [Aleph-Beth](http://www.animatedhebrew.com/aleph_bet/aleph_bet.html) [DoctorWho](http://www.bbc.co.uk/doctorwho/video/index.shtml) [BerkeleyGroks](http://www.ocf.berkeley.edu/~clgroks/) [bt.etree.org](http://bt.etree.org/browse.php) [CarTalk](http://www.cartalk.com/Radio/Show/online.html) [CreativeCommons](http://creativecommons.org) [ImprovEverywhere: We Cause Scenes](http://improveverywhere.com) [InternetArchive](http://www.archive.org/movies) [KUAT Classical FM](http://kuatfm.org/streaming/optimize1of2.cfm) [Pandora](http://www.pandora.com) [PBS Kids](http://pbskids.org) [Hebrew](http://www.animatedhebrew.com/)
+
+Media: [Grooveshark](http://grooveshark.com) [AlbinoBlacksheep](http://www.albinoblacksheep.com/flash/) [Aleph-Beth](http://www.animatedhebrew.com/aleph_bet/index.html) [DoctorWho](http://www.bbc.co.uk/doctorwho/video/index.shtml) [BerkeleyGroks](http://www.ocf.berkeley.edu/~clgroks/) [bt.etree.org](http://bt.etree.org/browse.php) [CarTalk](http://www.cartalk.com/Radio/Show/online.html) [CreativeCommons](http://creativecommons.org) [ImprovEverywhere: We Cause Scenes](http://improveverywhere.com) [InternetArchive](http://www.archive.org/movies) [KUAT Classical FM](http://kuatfm.org/streaming/optimize1of2.cfm) [Pandora](http://www.pandora.com) [PBS Kids](http://pbskids.org) [Hebrew](http://www.animatedhebrew.com/)
+
 Music: [ChordFind](http://chordfind.com) [GDChords](http://www.rukind.com) [OLGA](http://www.olga.net)
+
 Transit: [BWI](http://baltwashintlairport.com) [DART](http://www.dtc.edu/dart) [MTA](http://www.mta.nyc.ny.us/) [NJ](http://www.njtransit.state.nj.us) [SEPTA](http://www.septa.org)
+
 Uncategorized: [Bono'sPrayer](http://www.americanrhetoric.com/speeches/bononationalprayerbreakfast.htm) [CaringForYourIntrovert](http://www.theatlantic.com/doc/200303/rauch) [Pedometer](http://gmap-pedometer.com) [HackADay](http://www.hackaday.com) [Illich](http://philosophy.la.psu.edu/illich/index.html) [MLS](http://www.realtor.com/FindHome/default.asp) [Satelites](http://www2.gsoc.dlr.de/scripts/satvis/satvis.asp) [Unatics](http://www.newyorkunicycle.com) [Unicycle.com](http://www.unicycle.com) [Time](http://tycho.usno.navy.mil/what.html)
 
 
