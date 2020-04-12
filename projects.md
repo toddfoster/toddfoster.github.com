@@ -8,7 +8,9 @@ Recent Sermons and Other Materials
 
 *2020*
 
-* [The Humility of Love (Maundy Thursday)](http://cdn.boidem.org/2020/StT20200409-JH.mp3) by the Rev. Dr. John Hanson: 9 April 2020
+* [Two Angels (Easter Sunday)](http://cdn.boidem.org/2020/StT20200412.mp3) ([pdf](http://cdn.boidem.org/2020/Easter1A-20200412.pdf), [video](https://vimeo.com/406649837)): 12 April 2020
+* [Are you his disciple? (Good Friday)](http://cdn.boidem.org/2020/StT20200410.mp3) ([pdf](http://cdn.boidem.org/2020/GoodFriday-20200410.pdf), [video](https://vimeo.com/405446858)): 10 April 2020
+* [The Humility of Love (Maundy Thursday)](http://cdn.boidem.org/2020/StT20200409-JH.mp3) ([video](https://vimeo.com/405879667)) by the Rev. Dr. John Hanson: 9 April 2020
 * [Holy Tuesday](http://cdn.boidem.org/2020/StT20200407-JM.mp3) by Jeannie Marcucci: 7 April 2020
 * [A Faith for Times of Crisis](http://cdn.boidem.org/2020/StT20200328-JH.mp3) by the Rev. Dr. John Hanson: 28 March 2020
 * [The Man Born Blind](http://cdn.boidem.org/2020/StT20200322.mp3) ([pdf](http://cdn.boidem.org/2020/Lent4A-20200322.pdf)): 22 March 2020
