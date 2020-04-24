@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## April 2020
+* Debra Cameron, et al, _Learning GNU Emacs_ (O'Reilly Media, Inc.: 2005)
+
 ## March 2020
 * Peter Watts, _Blindsight_ (Tor: 2006)
 * N.T. Wright, _The Case for the Psalms: Why they are Essential_ (HarperOne: 2013)
