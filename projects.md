@@ -8,7 +8,7 @@ Recent Sermons and Other Materials
 
 *2020*
 
-* [Giving Voice](http://cdn.boidem.org/2020/sermons/StT20200510-JM.mp3) ([video](https://vimeo.com/416720594)): 10 May 2020
+* [Giving Voice](http://cdn.boidem.org/2020/sermons/StT20200510-JM.mp3) ([video](https://vimeo.com/416720594)) by Jeannie Marcucci: 10 May 2020
 * [The Good Shepherd](http://cdn.boidem.org/2020/sermons/StT20200503.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Easter4A-20200503.pdf), [video](https://vimeo.com/414326330)): 3 May 2020
 * [Exile, Fear, and Jesus](http://cdn.boidem.org/2020/sermons/StT20200426.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Easter3A-20200426.pdf), [video](https://vimeo.com/411904775)): 26 April 2020
 * [The Breath of Jesus](http://cdn.boidem.org/2020/StT20200419-JM.mp3) by Jeannie Marcucci: 19 April 2020
