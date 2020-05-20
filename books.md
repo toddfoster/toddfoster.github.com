@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## May 2020
+* N.T. Wright, _The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion_ (HarperOne: 2016)
+
 ## April 2020
 * Debra Cameron, et al, _Learning GNU Emacs_ (O'Reilly Media, Inc.: 2005)
 
