@@ -8,6 +8,8 @@ Recent Sermons and Other Materials
 
 *2020*
 
+* [Miracles](http://cdn.boidem.org/2020/sermons/StT20200524-JH.mp3) ([video](https://vimeo.com/422036341)) by the Rev. Dr. John Hanson: 24 April 2020
+* [Ascension](http://cdn.boidem.org/2020/sermons/StT20200521.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Ascension-20200521.pdf), [video](https://vimeo.com/421339894)): 21 May 2020
 * [The Science of Faith](http://cdn.boidem.org/2020/sermons/StT20200517.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Easter6A-20200517.pdf), [video](https://vimeo.com/419405443)): 17 May 2020
 * [Giving Voice](http://cdn.boidem.org/2020/sermons/StT20200510-JM.mp3) ([video](https://vimeo.com/416720594)) by Jeannie Marcucci: 10 May 2020
 * [The Good Shepherd](http://cdn.boidem.org/2020/sermons/StT20200503.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Easter4A-20200503.pdf), [video](https://vimeo.com/414326330)): 3 May 2020
