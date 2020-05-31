@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
-
+* [A Violent Wind and Fire](http://cdn.boidem.org/2020/sermons/StT20200531.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/PentecostA-20200531.pdf), [video](https://vimeo.com/424361817)): 31 May 2020
 * [Miracles](http://cdn.boidem.org/2020/sermons/StT20200524-JH.mp3) ([video](https://vimeo.com/422036341)) by the Rev. Dr. John Hanson: 24 April 2020
 * [Ascension](http://cdn.boidem.org/2020/sermons/StT20200521.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Ascension-20200521.pdf), [video](https://vimeo.com/421339894)): 21 May 2020
 * [The Science of Faith](http://cdn.boidem.org/2020/sermons/StT20200517.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Easter6A-20200517.pdf), [video](https://vimeo.com/419405443)): 17 May 2020
