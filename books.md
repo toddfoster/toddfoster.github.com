@@ -55,7 +55,7 @@ Books I've read recently:
 * Gene Robinson, _In the Eye of the Storm: Swept to the Center by God_ (Seabury Books: 2008)
 
 ## April 2019
-* Scott Bader-Saye, _Formed by Love: Churches Teachings for a Changing World, Vol. 5_ (Morehouse Publishing: 2017)
+* Scott Bader-Saye, _Formed by Love: Church's Teachings for a Changing World, Vol. 5_ (Morehouse Publishing: 2017)
 * Cory Doctorow, _Radicalized: Four Tales of our Present Moment_ (Tor: 2019)
 * _The Spiritual Exercises of St. Ignatius_, trans. Anthony Mottola (Image Books: 1964)
 * Jack Shitama, _Anxious Church Anxious People: How to Lead Change in an Age of Anxiety_ (Charis Works: 2018)
