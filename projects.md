@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [A Call to Solidarity](http://cdn.boidem.org/2020/sermons/StT20200614.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper6-20200614.pdf), [video](https://vimeo.com/428955298)): 14 June 2020
 * [A Seat at the Table](http://cdn.boidem.org/2020/sermons/StT20200606-JM.mp3) ([image](http://s3.amazonaws.com/cdn.boidem.org/2020/pics/RublevTrinity.jpg), [video](https://vimeo.com/426640382)) by Jeannie Marcucci: 6 June 2020
 * [A Violent Wind and Fire](http://cdn.boidem.org/2020/sermons/StT20200531.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/PentecostA-20200531.pdf), [video](https://vimeo.com/424361817)): 31 May 2020
 * [Miracles](http://cdn.boidem.org/2020/sermons/StT20200524-JH.mp3) ([video](https://vimeo.com/422036341)) by the Rev. Dr. John Hanson: 24 April 2020
