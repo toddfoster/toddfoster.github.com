@@ -8,7 +8,7 @@ layout: default
 Books I've read recently:
 
 ## June 2020
-* Edward Snoden, _Permanent Record_ (Metropolitan Books: 2019)
+* Edward Snowden, _Permanent Record_ (Metropolitan Books: 2019)
 
 ## May 2020
 * N.T. Wright, _The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion_ (HarperOne: 2016)
@@ -76,7 +76,7 @@ Books I've read recently:
 * Christopher L. Heuertz, _The Sacred Enneagram: Finding Your Unique Path to Spiritual Growth_ (Zondervan: 2017)
 
 ## January 2019
-* Winnie Varghese, _Church Meets World: Churches Teachings for a Changing World, Vol. 4_ (Morehouse Publishing: 2016)
+* Winnie Varghese, _Church Meets World: Church's Teachings for a Changing World, Vol. 4_ (Morehouse Publishing: 2016)
 * Rob Bell, _Love Wins: A Book About Heaven, Hell, and the Fate of Every Person Who Ever Lived_ (HarperOne: 2011)
 
 ## December 2018
