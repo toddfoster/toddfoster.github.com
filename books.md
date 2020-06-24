@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## June 2020
 * Edward Snowden, _Permanent Record_ (Metropolitan Books: 2019)
+* Peter J. Gomes, _The Scandalous Gospel of Jesus: What's So Good About the Good News?_ (HarperOne: 2007)
 
 ## May 2020
 * N.T. Wright, _The Day the Revolution Began: Reconsidering the Meaning of Jesus's Crucifixion_ (HarperOne: 2016)
