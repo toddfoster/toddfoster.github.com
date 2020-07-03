@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## July 2020
 * Paul Beatty, _The Sellout_ (Farrar, Straus and Giroux: 2015)
+* Mark Bowden, _The Last Stone_ (Atlantic Monthly Press: 2019)
 
 ## June 2020
 * Edward Snowden, _Permanent Record_ (Metropolitan Books: 2019)
