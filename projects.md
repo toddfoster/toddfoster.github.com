@@ -7,6 +7,8 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [The Parable of the Sower](http://cdn.boidem.org/2020/sermons/StT20200712-JM.mp3) ([video](https://vimeo.com/437501142)) by Jeannie Marcucci: 12 July 2020
+* [Independence Day](http://cdn.boidem.org/2020/sermons/StT20200705.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper9-20200705.pdf), [video](https://vimeo.com/434453906#t=1132s)): 5 July 2020
 * [Interruption](http://cdn.boidem.org/2020/sermons/StT20200628.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper8A-20200628.pdf), [video](https://vimeo.com/433207960#t=16m54s)): 28 June 2020
 * [Fathers' Day](http://cdn.boidem.org/2020/sermons/StT20200621-JH.mp3) ([video](https://vimeo.com/430995688)) by the Rev. Dr. John Hanson: 21 June 2020
 * [A Call to Solidarity](http://cdn.boidem.org/2020/sermons/StT20200614.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper6-20200614.pdf), [video](https://vimeo.com/428955298)): 14 June 2020
