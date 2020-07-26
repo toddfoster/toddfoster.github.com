@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Who shall separate us from the love of God?](http://cdn.boidem.org/2020/sermons/StT20200726-JH.mp3) ([video](https://vimeo.com/441667870#t=1009s)) by the Rev. Dr. John Hanson: 26 July 2020
 * [Bethel](http://cdn.boidem.org/2020/sermons/StT20200719.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper11-20200719.pdf), [video](https://vimeo.com/439642251#t=1053s)): 19 July 2020
 * [The Parable of the Sower](http://cdn.boidem.org/2020/sermons/StT20200712-JM.mp3) ([video](https://vimeo.com/437501142)) by Jeannie Marcucci: 12 July 2020
 * [Independence Day](http://cdn.boidem.org/2020/sermons/StT20200705.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper9-20200705.pdf), [video](https://vimeo.com/434453906#t=1132s)): 5 July 2020
