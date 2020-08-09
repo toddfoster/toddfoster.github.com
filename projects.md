@@ -8,6 +8,7 @@ Recent Sermons and Other Materials
 
 *2020*
 * [Walking on Water](http://cdn.boidem.org/2020/sermons/StT20200809.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper14-20200809.pdf), [video](https://vimeo.com/445918707#t=17m26s)): 9 August 2020
+* [Compassion, Prayer, Action](http://cdn.boidem.org/2020/sermons/StT20200802.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper13-20200802.pdf), [video](https://vimeo.com/443864713#t=825s)): 2 August 2020
 * [Who shall separate us from the love of God?](http://cdn.boidem.org/2020/sermons/StT20200726-JH.mp3) ([video](https://vimeo.com/441667870#t=1009s)) by the Rev. Dr. John Hanson: 26 July 2020
 * [Bethel](http://cdn.boidem.org/2020/sermons/StT20200719.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper11-20200719.pdf), [video](https://vimeo.com/439642251#t=1053s)): 19 July 2020
 * [The Parable of the Sower](http://cdn.boidem.org/2020/sermons/StT20200712-JM.mp3) ([video](https://vimeo.com/437501142)) by Jeannie Marcucci: 12 July 2020
