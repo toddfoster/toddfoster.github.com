@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## August 2020
 * Jemar Tisby, _The Color of Compromise: The Truth about the American Church's Complicity in Racism_ (Zondervan Reflective: 2019)
+* Richard Powers, _The Overstory_ (W. W. Norton & Company: 2018)
 
 ## July 2020
 * Paul Beatty, _The Sellout_ (Farrar, Straus and Giroux: 2015)
