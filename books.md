@@ -11,6 +11,7 @@ Books I've read recently:
 * Jemar Tisby, _The Color of Compromise: The Truth about the American Church's Complicity in Racism_ (Zondervan Reflective: 2019)
 * Richard Powers, _The Overstory_ (W. W. Norton & Company: 2018)
 * H. A. Walter, _Soul Surgery_ (Oxford University Press) [online](https://stepstudy.org/)
+* Sandy Tolan, _The Lemon Tree: An Arab, a Jew, and the Heart of the Middle East_ (Bloomsbury: 2006)
 
 ## July 2020
 * Paul Beatty, _The Sellout_ (Farrar, Straus and Giroux: 2015)
