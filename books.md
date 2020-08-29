@@ -14,6 +14,7 @@ Books I've read recently:
 * Sandy Tolan, _The Lemon Tree: An Arab, a Jew, and the Heart of the Middle East_ (Bloomsbury: 2006)
 * William D. Mounce, _Basics of Biblical Greek_ (Zondervan: 1993)
 * The Rev. Fergus Butler-Gallie, _Priests De La Resistance! The Loose Canons Who Fought Fascism in the Twentieth Century_ (Oneworld: 2019)
+* Walter Brueggemann, _The Threat of Life: Sermons on Pain, Power, and Weakness_ (Augsburg Fortress: 1996)
 
 ## July 2020
 * Paul Beatty, _The Sellout_ (Farrar, Straus and Giroux: 2015)
