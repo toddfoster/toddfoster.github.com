@@ -7,6 +7,10 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Boasting in Mercy](http://cdn.boidem.org/2020/sermons/StT20200906.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper18-20200906.pdf), [video](https://vimeo.com/455082242#t=884)): 6 September 2020
+* [Bearing our Cross](http://cdn.boidem.org/2020/sermons/StT20200830-JH.mp3) by the Rev. Dr. John Hanson: 30 August 2020
+* [Who do you say I am?](https://youtu.be/t0n8AzIdH4A) by the Rev. Ryan Paetzold: 23 August 2020
+* [Syro-phonecian Lives Matter](https://youtu.be/5AoyhfG1zHQ) by the Rev. Ryan Paetzold: 16 August 2020
 * [Walking on Water](http://cdn.boidem.org/2020/sermons/StT20200809.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper14-20200809.pdf), [video](https://vimeo.com/445918707#t=17m26s)): 9 August 2020
 * [Compassion, Prayer, Action](http://cdn.boidem.org/2020/sermons/StT20200802.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper13-20200802.pdf), [video](https://vimeo.com/443864713#t=825s)): 2 August 2020
 * [Who shall separate us from the love of God?](http://cdn.boidem.org/2020/sermons/StT20200726-JH.mp3) ([video](https://vimeo.com/441667870#t=1009s)) by the Rev. Dr. John Hanson: 26 July 2020
