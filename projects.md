@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
-* [God's Abundance](http://cdn.boidem.org/2020/sermons/StT20200920.mp3) ([video](https://vimeo.com/459776354#t=1057)): 20 September 2020
+* [God's Abundance](http://cdn.boidem.org/2020/sermons/StT20200920.mp3) ([video](https://vimeo.com/459776354#t=1057)) by Jeannie Marcucci: 20 September 2020
 * [Limits on Forgiveness](http://cdn.boidem.org/2020/sermons/StT20200913.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper19-20200913.pdf), [video](https://vimeo.com/457314823#t=1040)): 13 September 2020
 * [Boasting in Mercy](http://cdn.boidem.org/2020/sermons/StT20200906.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper18-20200906.pdf), [video](https://vimeo.com/455082242#t=884)): 6 September 2020
 * [Bearing our Cross](http://cdn.boidem.org/2020/sermons/StT20200830-JH.mp3) by the Rev. Dr. John Hanson: 30 August 2020
