@@ -9,7 +9,7 @@ Books I've read recently:
 
 ## September 2020
 * Robert Barron, _Arguing Religion: A Bishop Speaks at Facebook and Google_ (Word on Fire: 2018)
-
+* Anonymous 14th c., _The Cloud of Unknowing_ with an Introduction by Evelyn Underhill, 2d ed. (John M. Watkins: 1922) ([Online resource from the Christian Classics Ethereal Library](https://ccel.org/ccel/anonymous2/cloud.html))
 ## August 2020
 * Jemar Tisby, _The Color of Compromise: The Truth about the American Church's Complicity in Racism_ (Zondervan Reflective: 2019)
 * Richard Powers, _The Overstory_ (W. W. Norton & Company: 2018)
