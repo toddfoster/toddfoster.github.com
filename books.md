@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## October 2020
+* Pete Ward, _Introducing Practical Theology: Mission, Ministry, and the Life of the Church_ (Baker Academic: 2017)
+
 ## September 2020
 * Robert Barron, _Arguing Religion: A Bishop Speaks at Facebook and Google_ (Word on Fire: 2018)
 * Anonymous 14th c., _The Cloud of Unknowing_ with an Introduction by Evelyn Underhill, 2d ed. (John M. Watkins: 1922) ([Online resource from the Christian Classics Ethereal Library](https://ccel.org/ccel/anonymous2/cloud.html))
