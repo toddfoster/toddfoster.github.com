@@ -9,19 +9,19 @@ Books I've read recently:
 
 ## October 2020
 * Pete Ward, _Introducing Practical Theology: Mission, Ministry, and the Life of the Church_ (Baker Academic: 2017)
-* Pope Francis, _Fratelli Tutti; On Fraternity and Social Friendship_ [online](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)
+* Pope Francis, _Fratelli Tutti; On Fraternity and Social Friendship_ ([online](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html))
 * Heather Lanier, _Raising a Rare Girl: A Memoir_ (Penguin Press: 2020)
 
 ## September 2020
 * Robert Barron, _Arguing Religion: A Bishop Speaks at Facebook and Google_ (Word on Fire: 2018)
-* Anonymous 14th c., _The Cloud of Unknowing_ with an Introduction by Evelyn Underhill, 2d ed. (John M. Watkins: 1922) ([Online resource from the Christian Classics Ethereal Library](https://ccel.org/ccel/anonymous2/cloud.html))
+* Anonymous 14th c., _The Cloud of Unknowing_ with an Introduction by Evelyn Underhill, 2d ed. (John M. Watkins: 1922) ([online](https://ccel.org/ccel/anonymous2/cloud.html))
 * _Tehillim Simchas Yehoshua; The Artscroll Interlinear Tehillim-Psalms_ (Mesorah Publications, Ltd.: 2001)
 * Robin Diangelo, _White Fragility: Why It's So Hard for White People to Talk About Racism_ (Beacon Press: 2018)
 
 ## August 2020
 * Jemar Tisby, _The Color of Compromise: The Truth about the American Church's Complicity in Racism_ (Zondervan Reflective: 2019)
 * Richard Powers, _The Overstory_ (W. W. Norton & Company: 2018)
-* H. A. Walter, _Soul Surgery_ (Oxford University Press) [online](https://stepstudy.org/)
+* H. A. Walter, _Soul Surgery_ (Oxford University Press) ([online](https://stepstudy.org/))
 * Sandy Tolan, _The Lemon Tree: An Arab, a Jew, and the Heart of the Middle East_ (Bloomsbury: 2006)
 * William D. Mounce, _Basics of Biblical Greek_ (Zondervan: 1993)
 * The Rev. Fergus Butler-Gallie, _Priests De La Resistance! The Loose Canons Who Fought Fascism in the Twentieth Century_ (Oneworld: 2019)
@@ -36,7 +36,7 @@ Books I've read recently:
 ## June 2020
 * Edward Snowden, _Permanent Record_ (Metropolitan Books: 2019)
 * Peter J. Gomes, _The Scandalous Gospel of Jesus: What's So Good About the Good News?_ (HarperOne: 2007)
-* Pope Francis, _Praise Be to You; Laudato Si'; On Care For Our Common Home_ (Beacon Publishing: 2015) [online](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
+* Pope Francis, _Praise Be to You; Laudato Si'; On Care For Our Common Home_ (Beacon Publishing: 2015) ([online](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html))
 * Walter Brueggemann, _Preaching from the Old Testament_ (Fortress Press: 2019)
 
 ## May 2020
@@ -640,7 +640,7 @@ Books I've read recently:
 * Charles Stross, _Halting State_ (Ace Hardcover: 2007)
 
 ## July 2008
-* Cory Doctorow, _Little Brother_ [Available online](http://craphound.com/littlebrother/download/) under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License: 2007)
+* Cory Doctorow, _Little Brother_ (Tor: 2007) ([online](http://craphound.com/littlebrother/download/))
 * Michael Crichton, _The Andromeda Strain_ (Dell Publishing Co., Inc.: 1969)
 * Noah Gordon, _The Last Jew_ (Sphere: 2000)
 * Robert Heinlein, _The Cat Who Walks Through Walls_ (Ace: 1998)
