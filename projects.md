@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Butterflies](http://cdn.boidem.org/2020/sermons/StT20201011-JM.mp3) ([video](https://vimeo.com/467106972#t=1020)) by Jeannie Marcucci: 11 October 2020
 * [Hear the Cry](http://cdn.boidem.org/2020/sermons/StT20201004.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper22A-20201004-alt.pdf), [video](https://vimeo.com/464625294#t=710)): 4 October 2020
 * [Who's the Boss?](http://cdn.boidem.org/2020/sermons/StT20200927-JH.mp3) ([video](https://vimeo.com/462257089#t=660)) by the Rev. Dr. John Hanson: 27 September 2020
 * [God's Abundance](http://cdn.boidem.org/2020/sermons/StT20200920.mp3) ([video](https://vimeo.com/459776354#t=1057)) by Jeannie Marcucci: 20 September 2020
