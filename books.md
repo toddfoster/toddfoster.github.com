@@ -9,6 +9,8 @@ Books I've read recently:
 
 ## October 2020
 * Pete Ward, _Introducing Practical Theology: Mission, Ministry, and the Life of the Church_ (Baker Academic: 2017)
+* Pope Francis, _Fratelli Tutti; On Fraternity and Social Friendship_ [online](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)
+* Heather Lanier, _Raising a Rare Girl: A Memoir_ (Penguin Press: 2020)
 
 ## September 2020
 * Robert Barron, _Arguing Religion: A Bishop Speaks at Facebook and Google_ (Word on Fire: 2018)
@@ -34,6 +36,7 @@ Books I've read recently:
 ## June 2020
 * Edward Snowden, _Permanent Record_ (Metropolitan Books: 2019)
 * Peter J. Gomes, _The Scandalous Gospel of Jesus: What's So Good About the Good News?_ (HarperOne: 2007)
+* Pope Francis, _Praise Be to You; Laudato Si'; On Care For Our Common Home_ (Beacon Publishing: 2015) [online](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)
 * Walter Brueggemann, _Preaching from the Old Testament_ (Fortress Press: 2019)
 
 ## May 2020
