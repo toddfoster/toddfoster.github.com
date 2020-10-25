@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Love God, Love Neighbor](http://cdn.boidem.org/2020/sermons/StT20201025.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper25-20201025.pdf), [video](https://vimeo.com/471902178#t=645)): 25 October 2020
 * [Stewardship Sunday for the Diocese of New Jersey](http://cdn.boidem.org/2020/sermons/StT20201018-CS.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/StT20201018-CS.pdf), [video](https://youtu.be/Eyout-fUHOQ)) by the Right Rev. William H. Stokes: 18 October 2020
 * [Butterflies](http://cdn.boidem.org/2020/sermons/StT20201011-JM.mp3) ([video](https://vimeo.com/467106972#t=1020)) by Jeannie Marcucci: 11 October 2020
 * [Hear the Cry](http://cdn.boidem.org/2020/sermons/StT20201004.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper22A-20201004-alt.pdf), [video](https://vimeo.com/464625294#t=710)): 4 October 2020
