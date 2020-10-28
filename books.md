@@ -12,6 +12,7 @@ Books I've read recently:
 * Pope Francis, _Fratelli Tutti; On Fraternity and Social Friendship_ ([online](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html))
 * Heather Lanier, _Raising a Rare Girl: A Memoir_ (Penguin Press: 2020)
 * Jürgen Moltmann, _The Crucified God_ (Harper & Row: 1974)
+* Cory Doctorow, _Attack Surface_ (Tor: 2020)
 
 ## September 2020
 * Robert Barron, _Arguing Religion: A Bishop Speaks at Facebook and Google_ (Word on Fire: 2018)
