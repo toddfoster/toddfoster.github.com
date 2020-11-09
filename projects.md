@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Giving First](http://cdn.boidem.org/2020/sermons/StT20201108-JH.mp3) ([video](https://vimeo.com/476757823#t=880)) by the Rev. Dr. John Hanson: 8 November 2020
 * [The Feast of All Saints](http://cdn.boidem.org/2020/sermons/StT20201031.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/AllSaints-20201101.pdf), [video](https://vimeo.com/474275261#t=680)): 1 November 2020
 * [Love God, Love Neighbor](http://cdn.boidem.org/2020/sermons/StT20201025.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper25-20201025.pdf), [video](https://vimeo.com/471902178#t=645)): 25 October 2020
 * [Stewardship Sunday for the Diocese of New Jersey](http://cdn.boidem.org/2020/sermons/StT20201018-CS.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/StT20201018-CS.pdf), [video](https://youtu.be/Eyout-fUHOQ)) by the Right Rev. William H. Stokes: 18 October 2020
