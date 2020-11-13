@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## November 2020
+* Robert P. Jones, _White Too Long: The Legacy of White Supremacy in American Christianity_ (Simon & Schuster: 2020)
+
 ## October 2020
 * Pete Ward, _Introducing Practical Theology: Mission, Ministry, and the Life of the Church_ (Baker Academic: 2017)
 * Pope Francis, _Fratelli Tutti; On Fraternity and Social Friendship_ ([online](http://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html))
