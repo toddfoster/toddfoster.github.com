@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Giving: 100% Participation](http://cdn.boidem.org/2020/sermons/StT20201122.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper29-20201122.pdf), [video](https://vimeo.com/482181641#t=855)): 22 November 2020
 * [Giving Proportionally](http://cdn.boidem.org/2020/sermons/StT20201114-JM.mp3) ([video](https://vimeo.com/479418323#t=787)) by Jeannie Marcucci: 14 November 2020
 * [Giving First](http://cdn.boidem.org/2020/sermons/StT20201108-JH.mp3) ([video](https://vimeo.com/476757823#t=880)) by the Rev. Dr. John Hanson: 8 November 2020
 * [The Feast of All Saints](http://cdn.boidem.org/2020/sermons/StT20201031.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/AllSaints-20201101.pdf), [video](https://vimeo.com/474275261#t=680)): 1 November 2020
