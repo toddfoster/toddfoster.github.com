@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## December 2020
+* Christopher L. Heuertz, _The Sacred Enneagram: Finding Your Unique Path to Spiritual Growth_ (Zondervan: 2017)
+
 ## November 2020
 * Robert P. Jones, _White Too Long: The Legacy of White Supremacy in American Christianity_ (Simon & Schuster: 2020)
 
