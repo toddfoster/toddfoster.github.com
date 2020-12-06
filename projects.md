@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [In the Wilderness](http://cdn.boidem.org/2020/sermons/StT20201206.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Advent2-20201206.pdf), [video](https://vimeo.com/487694769#t=600)): 6 December 2020
 * [Keep Awake!](http://cdn.boidem.org/2020/sermons/StT20201129.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Advent1-20201129.pdf), [video](https://vimeo.com/484955899#t=590)): 29 November 2020
 * [Thanksgiving ](http://cdn.boidem.org/2020/sermons/StT20201126.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Thanksgiving-20201126.pdf), [video](https://vimeo.com/484179051#t=537)): 26 November 2020
 * [Giving: 100% Participation](http://cdn.boidem.org/2020/sermons/StT20201122.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Proper29-20201122.pdf), [video](https://vimeo.com/482181641#t=855)): 22 November 2020
