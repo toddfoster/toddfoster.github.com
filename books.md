@@ -11,6 +11,7 @@ Books I've read recently:
 * Christopher L. Heuertz, _The Sacred Enneagram: Finding Your Unique Path to Spiritual Growth_ (Zondervan: 2017)
 * Brené Brown, _Dare to Lead: Daring Greatly and Rising Strong at Work_ (Random House: 2018)
 * Phyllis Tickle, _The Great Emergence: How Christianity is Changing and Why_ (Baker Books: 2008)
+* Christopher A. Beeley, _Leading God's People: Wisdom from the Early Church for Today_ (William B. Eerdmans Publishing Company: 2012)
 
 ## November 2020
 * Robert P. Jones, _White Too Long: The Legacy of White Supremacy in American Christianity_ (Simon & Schuster: 2020)
