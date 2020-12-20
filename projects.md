@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2020*
+* [Great Expectations](http://cdn.boidem.org/2020/sermons/StT20201220-JM.mp3) by Jeannie Marcucci: 19 December 2020
 * [The Meaning of Christmas](http://cdn.boidem.org/2020/sermons/StT20201213-JH.mp3) ([video](https://vimeo.com/490499171#t=546)) by the Rev. Dr. John Hanson: 12 December 2020
 * [In the Wilderness](http://cdn.boidem.org/2020/sermons/StT20201206.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Advent2-20201206.pdf), [video](https://vimeo.com/487694769#t=600)): 6 December 2020
 * [Keep Awake!](http://cdn.boidem.org/2020/sermons/StT20201129.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Advent1-20201129.pdf), [video](https://vimeo.com/484955899#t=590)): 29 November 2020
