@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## January 2021
+* Dolores S. Williams, _Sisters in the Wilderness: The Challenge of Womanist God-Talk_ (Orbis Books: 1993)
+
 ## December 2020
 * Christopher L. Heuertz, _The Sacred Enneagram: Finding Your Unique Path to Spiritual Growth_ (Zondervan: 2017)
 * Brené Brown, _Dare to Lead: Daring Greatly and Rising Strong at Work_ (Random House: 2018)
