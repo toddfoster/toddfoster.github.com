@@ -11,7 +11,7 @@ Recent Sermons and Other Materials
 
 
 *2020*
-* [Garments of Salvation](http://cdn.boidem.org/2020/sermons/StT20201227.mp3) (([pdf](http://cdn.boidem.org/2020/sermons/Xmas1-20201227.pdf), [video](https://vimeo.com/494961490#t=746)): 27 December 2020
+* [Garments of Salvation](http://cdn.boidem.org/2020/sermons/StT20201227.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Xmas1-20201227.pdf), [video](https://vimeo.com/494961490#t=746)): 27 December 2020
 * [Great Expectations](http://cdn.boidem.org/2020/sermons/StT20201220-JM.mp3) ([video](https://vimeo.com/493102189#t=662)) by Jeannie Marcucci: 19 December 2020
 * [The Meaning of Christmas](http://cdn.boidem.org/2020/sermons/StT20201213-JH.mp3) ([video](https://vimeo.com/490499171#t=546)) by the Rev. Dr. John Hanson: 12 December 2020
 * [In the Wilderness](http://cdn.boidem.org/2020/sermons/StT20201206.mp3) ([pdf](http://cdn.boidem.org/2020/sermons/Advent2-20201206.pdf), [video](https://vimeo.com/487694769#t=600)): 6 December 2020
