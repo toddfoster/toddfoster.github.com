@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [Praying with St. Thomas'](http://cdn.boidem.org/2021/sermons/StT20210131-JM.mp3) ([video](https://vimeo.com/506645059#t=595)) by Jeannie Marcucci: 31 January 2021
 * [The Comedy of Jonah](http://cdn.boidem.org/2021/sermons/StT20210124.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Epiphany3-20210124.pdf), [video](https://vimeo.com/504034695#t=540)): 24 January 2021
 * [God meets us](http://cdn.boidem.org/2021/sermons/StT20210117-JM.mp3) ([video](https://vimeo.com/501483741#t=770)) by Jeannie Marcucci: 17 January 2021
 * [The Temptation of Jesus](http://cdn.boidem.org/2021/sermons/StT20210110.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Epiphany1-20210110.pdf), [video](https://vimeo.com/498931787#t=497)): 10 January 2021
