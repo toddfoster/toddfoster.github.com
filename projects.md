@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [Repentence](http://cdn.boidem.org/2021/sermons/StT20210217-JH.mp3) ([video](https://vimeo.com/513823626#t=686)) by the Rev. Dr. John Hanson: 17 February 2021
 * [The Transfiguration](http://cdn.boidem.org/2021/sermons/StT20210214.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/EpiphanyLast-20210214.pdf), [video](https://vimeo.com/512188750#t=620)): 14 February 2021
 * [Civil Rights and the Church](http://cdn.boidem.org/2021/sermons/StT20210207-JW.mp3) ([video](https://vimeo.com/509485435#t=680)) by Jonathan Wilson, PhD: 7 February 2021
 * [The Comedy of Jonah](http://cdn.boidem.org/2021/sermons/StT20210124.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Epiphany3-20210124.pdf), [video](https://vimeo.com/504034695#t=540)): 24 January 2021
