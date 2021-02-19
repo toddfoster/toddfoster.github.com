@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## February 2021
+* Joan Chittister, _The Time is Now: A Call to Uncommon Courage_ (Convergent Books: 2019)
+
 ## January 2021
 * Dolores S. Williams, _Sisters in the Wilderness: The Challenge of Womanist God-Talk_ (Orbis Books: 1993)
 * Rowan Williams, _Silence and Honey Cakes: The Wisdom of the Desert_ (Medio Media, Lion: 2003)
