@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## February 2021
 * Joan Chittister, _The Time is Now: A Call to Uncommon Courage_ (Convergent Books: 2019)
+* James H. Cone, _The Cross and the Lynching Tree_ (Orbis Books: 2011)
 
 ## January 2021
 * Dolores S. Williams, _Sisters in the Wilderness: The Challenge of Womanist God-Talk_ (Orbis Books: 1993)
