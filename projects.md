@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [Zeal for Your House](http://cdn.boidem.org/2021/sermons/StT20210307.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Lent3-20210307.pdf), [video](https://vimeo.com/520470055#t=930)): 7 March 2021
 * [Following Jesus](http://cdn.boidem.org/2021/sermons/StT20210228-JH-b.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/StT20210228-JH.pdf), [video](https://vimeo.com/517673579#t=830)) by the Rev. Dr. John Hanson: 28 February 2021
 * [The Lentiest Lent](http://cdn.boidem.org/2021/sermons/StT20210221.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Lent1-20210221.pdf), [video](https://vimeo.com/514982820#t=845)): 21 February 2021
 * [Repentence](http://cdn.boidem.org/2021/sermons/StT20210217-JH.mp3) ([video](https://vimeo.com/513823626#t=686)) by the Rev. Dr. John Hanson: 17 February 2021
