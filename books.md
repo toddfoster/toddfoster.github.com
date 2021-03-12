@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## March 2021
+* Ijeoma Oluo, _Mediocre: The Dangerous Legacy of White Male America_ (Seal Press: 2020)
+
 ## February 2021
 * Joan Chittister, _The Time is Now: A Call to Uncommon Courage_ (Convergent Books: 2019)
 * James H. Cone, _The Cross and the Lynching Tree_ (Orbis Books: 2011)
