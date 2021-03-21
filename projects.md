@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [We Want to See Jesus](http://cdn.boidem.org/2021/sermons/StT20210321.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Lent5-20210321.pdf), [video](https://vimeo.com/526746897#t=755)): 21 March 2021
 * [Confirmations](http://cdn.boidem.org/2021/sermons/StT20210314-WS.mp3) ([video](https://vimeo.com/523527119#t=550)) by the Right Rev. William Stokes, D.D., XII Bishop of New Jersey: 14 March 2021
 * [John 3:16](http://cdn.boidem.org/2021/sermons/StT20210313-JH.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/StT20210313-JH.pdf), [video](https://vimeo.com/523478845)) by the Rev. Dr. John Hanson: 14 March 2021
 * [Zeal for Your House](http://cdn.boidem.org/2021/sermons/StT20210307.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Lent3-20210307.pdf), [video](https://vimeo.com/520470055#t=930)): 7 March 2021
