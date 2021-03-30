@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## March 2021
 * Ijeoma Oluo, _Mediocre: The Dangerous Legacy of White Male America_ (Seal Press: 2020)
+* Bendicta Ward, _The Desert Christian: The Sayings of the Desert Fathers_ also known as _Apophthegmata Patrum_ (MacMillan Publishing Co., Inc.: 1975)
 
 ## February 2021
 * Joan Chittister, _The Time is Now: A Call to Uncommon Courage_ (Convergent Books: 2019)
