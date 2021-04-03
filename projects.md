@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
-* [Good Friday: The Sign on the Cross](http://cdn.boidem.org/2021/sermons/StT20210402.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/GoodFriday-20210402.pdf), [video](https://vimeo.com/532592486#t=1636)): 2 April 2021
+* [Good Friday: The Sign on the Cross](http://cdn.boidem.org/2021/sermons/StT20210402.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/GoodFriday-20210402.pdf), [video](https://vimeo.com/532592486#t=1626)): 2 April 2021
 * [Maundy Thursday](http://cdn.boidem.org/2021/sermons/StT20210401-JH.mp3) ([video](https://vimeo.com/532336226#t=842)) by the Rev. Dr. John Hanson: 1 April 2021
 * [We Want to See Jesus](http://cdn.boidem.org/2021/sermons/StT20210321.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Lent5-20210321.pdf), [video](https://vimeo.com/526746897#t=755)): 21 March 2021
 * [Confirmations](http://cdn.boidem.org/2021/sermons/StT20210314-WS.mp3) ([video](https://vimeo.com/523527119#t=550)) by the Right Rev. William Stokes, D.D., XII Bishop of New Jersey: 14 March 2021
