@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+## April 2021
+* Richard Beck, _Trains, Jesus, and Murder: The Gospel According to Johnny Cash_ (Fortress Press: 2019)
+* Elden H. Luffman, _Bringing God To War: Glimpses of a Chaplain's Ministry with U.S. Marines in Vietnam_ (Phillips Publications: 2006)
+
 ## March 2021
 * Ijeoma Oluo, _Mediocre: The Dangerous Legacy of White Male America_ (Seal Press: 2020)
 * Bendicta Ward, _The Desert Christian: The Sayings of the Desert Fathers_ also known as _Apophthegmata Patrum_ (MacMillan Publishing Co., Inc.: 1975)
