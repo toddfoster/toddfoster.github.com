@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [The New Normal](http://cdn.boidem.org/2021/sermons/StT20210411-SC.mp3) ([video](https://vimeo.com/535377834#t=675)) by Scott Carr, M.Div.: 10 April 2021
 * [Easter Sunday: On Showing Up](http://cdn.boidem.org/2021/sermons/StT20210404.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter1-20210404.pdf), [video](https://vimeo.com/532849084#t=540)): 4 April 2021
 * [Good Friday: The Sign on the Cross](http://cdn.boidem.org/2021/sermons/StT20210402.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/GoodFriday-20210402.pdf), [video](https://vimeo.com/532592486#t=1626)): 2 April 2021
 * [Maundy Thursday](http://cdn.boidem.org/2021/sermons/StT20210401-JH.mp3) ([video](https://vimeo.com/532336226#t=842)) by the Rev. Dr. John Hanson: 1 April 2021
