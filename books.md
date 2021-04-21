@@ -11,6 +11,7 @@ Books I've read recently:
 * Richard Beck, _Trains, Jesus, and Murder: The Gospel According to Johnny Cash_ (Fortress Press: 2019)
 * Elden H. Luffman, _Bringing God To War: Glimpses of a Chaplain's Ministry with U.S. Marines in Vietnam_ (Phillips Publications: 2006)
 * Barbara C. Harris with Kelly Brown Douglas, _Hallelujah, Anyhow! A Memoir_ (Church Publishing Incorporated: 2018)
+* George Herbert, _A Priest to the Temple or The Country Parson with Selected Poems_ ed., Ronald Blythe (Canterbury Press: 2003)
 
 ## March 2021
 * Ijeoma Oluo, _Mediocre: The Dangerous Legacy of White Male America_ (Seal Press: 2020)
