@@ -6,9 +6,8 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
-[sttvimeo 538211641] 9:22 = 562
-
 *2021*
+* [Good Shepherds and Hired Hands](http://cdn.boidem.org/2021/sermons/StT20210425.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter4-20210425.pdf), [video](https://vimeo.com/541171294#t=585)): 25 April 2021
 * [Peace Be With You](http://cdn.boidem.org/2021/sermons/StT20210418.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter3-20210418.pdf), [video](https://vimeo.com/538211641#t=562)): 18 April 2021
 * [The New Normal](http://cdn.boidem.org/2021/sermons/StT20210411-SC.mp3) ([video](https://vimeo.com/535377834#t=675)) by Scott Carr, M.Div.: 10 April 2021
 * [Easter Sunday: On Showing Up](http://cdn.boidem.org/2021/sermons/StT20210404.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter1-20210404.pdf), [video](https://vimeo.com/532849084#t=540)): 4 April 2021
