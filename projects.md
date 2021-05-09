@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [A Mother's Love](http://cdn.boidem.org/2021/sermons/StT20210509.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter6-20210509.pdf), [video](https://vimeo.com/547012752#t=570): 9 May 2021
 * [Right Place, Right Time](http://cdn.boidem.org/2021/sermons/StT20210502-JH.mp3) ([video](https://vimeo.com/544125240#t=830)) by the Rev. Dr. John Hanson: 1 May 2021
 * [Good Shepherds and Hired Hands](http://cdn.boidem.org/2021/sermons/StT20210425.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter4-20210425.pdf), [video](https://vimeo.com/541171294#t=585)): 25 April 2021
 * [Peace Be With You](http://cdn.boidem.org/2021/sermons/StT20210418.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter3-20210418.pdf), [video](https://vimeo.com/538211641#t=562)): 18 April 2021
