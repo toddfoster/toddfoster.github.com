@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## May 2021
+* John Swinton and Harriet Mowat, _Practical Theology and Qualitative Research_, 2nd ed. (SCM Press: 2016)
+
 ## April 2021
 * Richard Beck, _Trains, Jesus, and Murder: The Gospel According to Johnny Cash_ (Fortress Press: 2019)
 * Elden H. Luffman, _Bringing God To War: Glimpses of a Chaplain's Ministry with U.S. Marines in Vietnam_ (Phillips Publications: 2006)
