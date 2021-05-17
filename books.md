@@ -10,6 +10,7 @@ Books I've read recently:
 ## May 2021
 * John Swinton and Harriet Mowat, _Practical Theology and Qualitative Research_, 2nd ed. (SCM Press: 2016)
 * Benedicta Ward, SLG, _The Wisdom of the Desert Fathers_ (SLG Press: 1986)
+* Leonardo Boff, _Ecology & Liberation: A New Paradigm_ (Orbis Books: 1995)
 
 ## April 2021
 * Richard Beck, _Trains, Jesus, and Murder: The Gospel According to Johnny Cash_ (Fortress Press: 2019)
