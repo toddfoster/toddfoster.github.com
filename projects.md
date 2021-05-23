@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [Pentecost](http://cdn.boidem.org/2021/sermons/StT20210523.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Pentecost-20210523.pdf), [video](https://vimeo.com/553827258#t=1100)): 23 May 2021
 * [Ascension and Baccalaureate](http://cdn.boidem.org/2021/sermons/StT20210516.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter7-20210516.pdf), [video](https://vimeo.com/549742852#t=597)): 16 May 2021
 * [A Mother's Love](http://cdn.boidem.org/2021/sermons/StT20210509.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Easter6-20210509.pdf), [video](https://vimeo.com/547012752#t=565)): 9 May 2021
 * [Right Place, Right Time](http://cdn.boidem.org/2021/sermons/StT20210502-JH.mp3) ([video](https://vimeo.com/544125240#t=830)) by the Rev. Dr. John Hanson: 1 May 2021
