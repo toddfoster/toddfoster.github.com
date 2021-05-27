@@ -12,6 +12,7 @@ Books I've read recently:
 * Benedicta Ward, SLG, _The Wisdom of the Desert Fathers_ (SLG Press: 1986)
 * Leonardo Boff, _Ecology & Liberation: A New Paradigm_ (Orbis Books: 1995)
 * Makoto Fujimura, _Culture Care: Reconnecting with Beauty for Our Common Life_ (InterVarsity Press: 2017)
+* Robert Kegan and Lisa Laskow Lahey, _Immunity to Change: How to Overcome it and Unlock the Potential in Yourself and Your Organization_ (Harvard Business Press: 2009)
 
 ## April 2021
 * Richard Beck, _Trains, Jesus, and Murder: The Gospel According to Johnny Cash_ (Fortress Press: 2019)
