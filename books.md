@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
+* Adrienne Maree Brown, _Emergent Strategy: Shaping Change, Changing Worlds_ (AK Press: 2017)
 
 ## May 2021
 * John Swinton and Harriet Mowat, _Practical Theology and Qualitative Research_, 2nd ed. (SCM Press: 2016)
