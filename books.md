@@ -11,6 +11,7 @@ Books I've read recently:
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
 * Adrienne Maree Brown, _Emergent Strategy: Shaping Change, Changing Worlds_ (AK Press: 2017)
 * Tyler Cowen, _Creative Destruction: How Globalization is Changing the World's Cultures_ (Princeton University Press: 2002)
+* Joshua Hayden, "Creative Destruction: Towards a Theology of Institutions" (DMin Thesis, Duke Divinity School, 2016)
 
 ## May 2021
 * John Swinton and Harriet Mowat, _Practical Theology and Qualitative Research_, 2nd ed. (SCM Press: 2016)
