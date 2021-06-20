@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
-* [Weathering the Storms of Life](http://cdn.boidem.org/2021/sermons/StT20210620-JH.mp3) ([video](https://vimeo.com/565117591#t=864)) by the Rev. Dr. John Hanson: 20 June 2021
+* [Weathering the Storms of Life](http://cdn.boidem.org/2021/sermons/StT20210620-JH.mp3) ([video](https://vimeo.com/565117591#t=856)) by the Rev. Dr. John Hanson: 20 June 2021
 * [Scattering Seeds](http://cdn.boidem.org/2021/sermons/StT20210613.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper6-20210613.pdf), [video](https://vimeo.com/562317363#t=900)): 13 June 2021
 * [Jesus' Sisters and Brothers](http://cdn.boidem.org/2021/sermons/StT20210606.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper5-20210606.pdf), [video](https://vimeo.com/559581079#t=770)): 6 June 2021
 * [Religion and Spirituality](http://cdn.boidem.org/2021/sermons/StT20210530.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Trinity-20210530.pdf), [video](https://vimeo.com/556889437#t=785)): 30 May 2021
