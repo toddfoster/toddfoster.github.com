@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## July 2021
+* Miguel Ruiz, _The Four Agreements: A Practical Guide to Personal Freedom_ (Amber-Allen Publishing: 2012)
+
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
 * Adrienne Maree Brown, _Emergent Strategy: Shaping Change, Changing Worlds_ (AK Press: 2017)
