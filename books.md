@@ -10,6 +10,7 @@ Books I've read recently:
 ## July 2021
 * Miguel Ruiz, _The Four Agreements: A Practical Guide to Personal Freedom_ (Amber-Allen Publishing: 2012)
 * Doug Schneider, _Ten Marathons: Searching for Soft Ground in a Hard World_ (Saybrook Publishing: 2019)
+* Becky Chambers, _The Galaxy, and the Ground Within_ (Harper Voyager: 2021)
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
