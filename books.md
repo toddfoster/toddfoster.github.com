@@ -12,6 +12,7 @@ Books I've read recently:
 * Doug Schneider, _Ten Marathons: Searching for Soft Ground in a Hard World_ (Saybrook Publishing: 2019)
 * Becky Chambers, _The Galaxy, and the Ground Within_ (Harper Voyager: 2021)
 * Kim Stanley Robinson, _The Minsitry for the Future_ (Orbit: 2020)
+* Pete Buttigieg, _Shortest Way Home: One Mayor's Challenge and a Model for America's Future_ (Liveright Publishing Corporation: 2019)
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
