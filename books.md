@@ -16,6 +16,7 @@ Books I've read recently:
 * Octavia Butler, _Parable of the Sower_ (Grand Central Publishing: 1993/2000)
 * Erenest Callenbach, _Ecotopia_ (Bantam Books: 1975/1990)
 * Octavia Butler, _Parable of the Talents_ (Headline: 1998/2019)
+* William Adams, _Shaped by Images: One who Presides_ (The Church Hymnal Corporation: 1995)
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
