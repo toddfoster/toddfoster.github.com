@@ -17,6 +17,7 @@ Books I've read recently:
 * Erenest Callenbach, _Ecotopia_ (Bantam Books: 1975/1990)
 * Octavia Butler, _Parable of the Talents_ (Headline: 1998/2019)
 * William Adams, _Shaped by Images: One who Presides_ (The Church Hymnal Corporation: 1995)
+* Richard Beck, _Hunting Magic Eels; Recovering an Enchanted Faith in a Skeptical Age_ (Broadleaf Books: 2021)
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
