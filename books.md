@@ -14,7 +14,7 @@ Books I've read recently:
 * Kim Stanley Robinson, _The Minsitry for the Future_ (Orbit: 2020)
 * Pete Buttigieg, _Shortest Way Home: One Mayor's Challenge and a Model for America's Future_ (Liveright Publishing Corporation: 2019)
 * Octavia Butler, _Parable of the Sower_ (Grand Central Publishing: 1993/2000)
-* Erenest Callenbach, _Ecotopia_ (Bantam Books: 1975/1990)
+* Ernest Callenbach, _Ecotopia_ (Bantam Books: 1975/1990)
 * Octavia Butler, _Parable of the Talents_ (Headline: 1998/2019)
 * William Adams, _Shaped by Images: One who Presides_ (The Church Hymnal Corporation: 1995)
 * Richard Beck, _Hunting Magic Eels; Recovering an Enchanted Faith in a Skeptical Age_ (Broadleaf Books: 2021)
