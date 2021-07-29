@@ -19,6 +19,7 @@ Books I've read recently:
 * William Adams, _Shaped by Images: One who Presides_ (The Church Hymnal Corporation: 1995)
 * Richard Beck, _Hunting Magic Eels; Recovering an Enchanted Faith in a Skeptical Age_ (Broadleaf Books: 2021)
 * Howard Thurman, _Jesus and the Disinherited_ (Beacon Press: 1976/1997)
+* Octavia Butler, _Octavia E. Butler: Kindred, Fledgling, Collected Stories,_ Gerry Canavan & Nisi Shawl, eds. (Literary Classics of the United States, Inc.: 2020)
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
