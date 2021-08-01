@@ -25,6 +25,7 @@ Books I've read recently:
 * Richard Beck, _Hunting Magic Eels; Recovering an Enchanted Faith in a Skeptical Age_ (Broadleaf Books: 2021)
 * Howard Thurman, _Jesus and the Disinherited_ (Beacon Press: 1976/1997)
 * Octavia Butler, _Octavia E. Butler: Kindred, Fledgling, Collected Stories,_ Gerry Canavan & Nisi Shawl, eds. (Literary Classics of the United States, Inc.: 2020)
+* C.S. Lewis, _The Horse and His Boy (Book 5 in the Chronicles of Narnia)_ (Collier Books: 1954/1970)
 
 ## June 2021
 * Heifetz, Grashow, Linsky, _The Practice of Adaptive Leadership_ (Harvard Business Press: 2009)
