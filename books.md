@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2021
+* C.S. Lewis, _The Last Battle (Book 7 in the Chronicles of Narnia)_ (Collier Books: 1956/1970)
+
 ## July 2021
 * Miguel Ruiz, _The Four Agreements: A Practical Guide to Personal Freedom_ (Amber-Allen Publishing: 2012)
 * Doug Schneider, _Ten Marathons: Searching for Soft Ground in a Hard World_ (Saybrook Publishing: 2019)
