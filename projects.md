@@ -7,6 +7,8 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [God's House](http://cdn.boidem.org/2021/sermons/StT20210822.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper16-20210822.pdf), [video](https://vimeo.com/590394208#t=975)): 22 August 2021
+* [Look Again!](http://cdn.boidem.org/2021/sermons/StT20210815.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper15-20210815.pdf)): 15 August 2021
 * [St. Paul's Collection](http://cdn.boidem.org/2021/sermons/StT20210627.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper8-20210627.pdf), [video](https://vimeo.com/567963152#t=930)): 27 June 2021
 * [Weathering the Storms of Life](http://cdn.boidem.org/2021/sermons/StT20210620-JH.mp3) ([video](https://vimeo.com/565117591#t=856)) by the Rev. Dr. John Hanson: 20 June 2021
 * [Scattering Seeds](http://cdn.boidem.org/2021/sermons/StT20210613.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper6-20210613.pdf), [video](https://vimeo.com/562317363#t=900)): 13 June 2021
