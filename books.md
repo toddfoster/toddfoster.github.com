@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## August 2021
 * C.S. Lewis, _The Last Battle (Book 7 in the Chronicles of Narnia)_ (Collier Books: 1956/1970)
+* Natalie Zina Walschots, _Hench: A Novel_ (William Morrow: 2020)
 
 ## July 2021
 * Miguel Ruiz, _The Four Agreements: A Practical Guide to Personal Freedom_ (Amber-Allen Publishing: 2012)
