@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## September 2021
 * Mary McClintock Fulkerson, _Places of Redemption: Theology for a Worldly Church_ (Oxford University Press: 2007)
+* Thomas Merton, _New Seeds of Contemplation_ (New Directions Books: 1961/2007)
 
 ## August 2021
 * C.S. Lewis, _The Last Battle (Book 7 in the Chronicles of Narnia)_ (Collier Books: 1956/1970)
