@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [Salt and Fire](http://cdn.boidem.org/2021/sermons/StT20210926.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper21-20210926.pdf), [video](https://vimeo.com/614755948/#t=1002)): 26 September 2021
 * [Willing to Yield](http://cdn.boidem.org/2021/sermons/StT20210919.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper20-20210919.pdf), [video](https://vimeo.com/608532281/#t=903)): 19 September 2021
 * [Choosing Courageously](http://cdn.boidem.org/2021/sermons/StT20210912.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper19-20210912-alt.pdf), [video](https://vimeo.com/602830785#t=912)): 12 September 2021
 * [Faith with Works](http://cdn.boidem.org/2021/sermons/StT20210905-JH.mp3) ([video](https://vimeo.com/597976116#t=764)) by the Rev. Dr. John Hanson: 5 September  2021
