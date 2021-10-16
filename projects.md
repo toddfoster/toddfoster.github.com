@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
-* [Who's the Boss?](https://vimeo.com/634018706/#t=622)([pdf](http://cdn.boidem.org/2021/sermons/Proper24-20211017.pdf): 17 October 2021
+* [Who's the Boss?](https://vimeo.com/634018706/#t=725)([pdf](http://cdn.boidem.org/2021/sermons/Proper24-20211017.pdf): 17 October 2021
 * [Stewardship Sunday](https://youtu.be/VlwQlaFBORU) ([text](https://dioceseofnj.org/sermon/stewardship-sunday-the-rich-young-man/)) by the Right Rev. William H. Stokes, Bishop of New Jersey: 10 October 2021
 * [Abundance and Divorce](http://cdn.boidem.org/2021/sermons/StT20211003.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper22-20211003.pdf), [video](https://vimeo.com/621072028/#t=792)): 3 October 2021
 * [Salt and Fire](http://cdn.boidem.org/2021/sermons/StT20210926.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Proper21-20210926.pdf), [video](https://vimeo.com/614755948/#t=822)): 26 September 2021
