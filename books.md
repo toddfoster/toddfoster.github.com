@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## October 2021
+* Ernest J. Gaines, _A Lesson Before Dying_ (Vintage Contemporaries: 1993)
+
 ## September 2021
 * Mary McClintock Fulkerson, _Places of Redemption: Theology for a Worldly Church_ (Oxford University Press: 2007)
 * Thomas Merton, _New Seeds of Contemplation_ (New Directions Books: 1961/2007)
