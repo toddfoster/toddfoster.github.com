@@ -10,6 +10,7 @@ Books I've read recently:
 ## October 2021
 * Ernest J. Gaines, _A Lesson Before Dying_ (Vintage Contemporaries: 1993)
 * Perle Besserman, ed., _The Way of the Jewish Mystics_ (Shambhala: 1994)
+* Gerardo Marti, _A Mosaic of Believers: Diversity and Innovation in a Multiethnic Church_ (Indiana University Press: 2005/2009)
 
 ## September 2021
 * Mary McClintock Fulkerson, _Places of Redemption: Theology for a Worldly Church_ (Oxford University Press: 2007)
