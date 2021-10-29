@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+
 * [Healed by Faith](https://vimeo.com/638245109#t=763) by the Rev. Dr. John Hanson: 24 October  2021
 * [Who's the Boss?](https://vimeo.com/634018706/#t=725) ([pdf](http://cdn.boidem.org/2021/sermons/Proper24-20211017.pdf)): 17 October 2021
 * [Stewardship Sunday](https://youtu.be/VlwQlaFBORU) ([text](https://dioceseofnj.org/sermon/stewardship-sunday-the-rich-young-man/)) by the Right Rev. William H. Stokes, Bishop of New Jersey: 10 October 2021
