@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## November 2021
+* Helen Cameron, et al, _Talking About God in Practice: Theological Action Research and Practical Theology_ (SCM Press: 2010)
+
 ## October 2021
 * Ernest J. Gaines, _A Lesson Before Dying_ (Vintage Contemporaries: 1993)
 * Perle Besserman, ed., _The Way of the Jewish Mystics_ (Shambhala: 1994)
