@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [All Saints' Sunday](http://cdn.boidem.org/2021/sermons/StT20211107.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/AllSaints-20211107.pdf), [video](https://vimeo.com/643087386#t=570): 7 November 2021
 * [The First Commandment](https://vimeo.com/640770251#t=776)([pdf](http://cdn.boidem.org/2021/sermons/Proper26-20211031.pdf)): 31 October 2021
 * [Healed by Faith](https://vimeo.com/638245109#t=763) by the Rev. Dr. John Hanson: 24 October  2021
 * [Who's the Boss?](https://vimeo.com/634018706/#t=725) ([pdf](http://cdn.boidem.org/2021/sermons/Proper24-20211017.pdf)): 17 October 2021
