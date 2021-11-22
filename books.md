@@ -10,6 +10,7 @@ Books I've read recently:
 ## November 2021
 * Helen Cameron, et al, _Talking About God in Practice: Theological Action Research and Practical Theology_ (SCM Press: 2010)
 * Helen Cameron and Catherine Duce, _Researching Practice in Ministry and Mission: A Companion_ (SCM Press: 2013)
+* Samuel Torvend, _For the Life of the World: The Essentials of Episcopal Worship_ (Church Publishing Incorporated: 2021)
 
 ## October 2021
 * Ernest J. Gaines, _A Lesson Before Dying_ (Vintage Contemporaries: 1993)
