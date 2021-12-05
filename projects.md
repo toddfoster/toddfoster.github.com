@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2021*
+* [Spiritual Infrastructure](http://cdn.boidem.org/2021/sermons/StT20211204.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Advent2-20211205.pdf), [video](https://vimeo.com/653300352#t=635)): 4 December 2021
 * [Where You're Looking](http://cdn.boidem.org/2021/sermons/StT20211227.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Advent1.pdf), [video](https://vimeo.com/650709926#t=1172)): 27 November 2021
 * [Are you ready for the King?](http://cdn.boidem.org/2021/sermons/StT20211120-DF.mp3) ([video](https://vimeo.com/648804426#t=638)) by Donna Freidel: 20 November 2021
 * [Bible Sunday](http://cdn.boidem.org/2021/sermons/StT20211114-JH.mp3) ([video](https://vimeo.com/645640619#t=991)) by the Rev. Dr. John Hanson: 14 November 2021
