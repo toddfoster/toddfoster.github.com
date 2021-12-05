@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## December 2021
+* Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
+
 ## November 2021
 * Helen Cameron, et al, _Talking About God in Practice: Theological Action Research and Practical Theology_ (SCM Press: 2010)
 * Helen Cameron and Catherine Duce, _Researching Practice in Ministry and Mission: A Companion_ (SCM Press: 2013)
