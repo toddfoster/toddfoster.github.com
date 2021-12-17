@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## December 2021
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
+* Michael Emerson and Christian Smith, _Divided by Faith: Evangelical Religion and the Problem of Race in America_ (Oxford University Press: 2000)
 
 ## November 2021
 * Helen Cameron, et al, _Talking About God in Practice: Theological Action Research and Practical Theology_ (SCM Press: 2010)
