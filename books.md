@@ -11,6 +11,7 @@ Books I've read recently:
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
 * Michael Emerson and Christian Smith, _Divided by Faith: Evangelical Religion and the Problem of Race in America_ (Oxford University Press: 2000)
 * Korie Little Edwards, _The Elusive Dream: The Power of Race in Interracial Churches_ (Oxford University Press: 2008)
+* Robert Wuthnow, _After Heaven: Spirituality in America since the 1950s_ (University of California Press: 1998)
 
 ## November 2021
 * Helen Cameron, et al, _Talking About God in Practice: Theological Action Research and Practical Theology_ (SCM Press: 2010)
