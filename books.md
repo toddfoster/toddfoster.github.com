@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## January 2022
+* Ellie Roscher, _How Coffee Saved My Life: And Other Stories of Stumbling to Grace_ (Abingdon, 2009)
+
 ## December 2021
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
 * Michael Emerson and Christian Smith, _Divided by Faith: Evangelical Religion and the Problem of Race in America_ (Oxford University Press: 2000)
