@@ -6,6 +6,10 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2022*
+* [Free At Last](http://cdn.boidem.org/2021/sermons/StT20220115-JH.mp3) by the Rev. Dr. John Hanson: 15 January 2022
+* [Superheroes](http://cdn.boidem.org/2022/sermons/StT20220108.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany1-20220109.pdf)): 8 January 2022
+
 *2021*
 * [Songs of Praise](http://cdn.boidem.org/2021/sermons/StT20211218-JH.mp3) ([video](https://vimeo.com/658238360#t=715)) by the Rev. Dr. John Hanson: 18 December 2021
 * [Even Tax Collectors](http://cdn.boidem.org/2021/sermons/StT20211211.mp3) ([pdf](http://cdn.boidem.org/2021/sermons/Advent3-20211212.pdf), [video](https://vimeo.com/655761572#t=620)): 11 December 2021
