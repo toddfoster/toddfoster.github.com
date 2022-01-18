@@ -8,7 +8,9 @@ layout: default
 Books I've read recently:
 
 ## January 2022
-* Ellie Roscher, _How Coffee Saved My Life: And Other Stories of Stumbling to Grace_ (Abingdon, 2009)
+* Ellie Roscher, _How Coffee Saved My Life: And Other Stories of Stumbling to Grace_ (Abingdon: 2009)
+* Thomas Merton, _Contemplative Prayer_ (Image Books: 1971)
+* Evelyn Underhill, _Practical Mysticism_ (Dutton: 1960)
 
 ## December 2021
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
