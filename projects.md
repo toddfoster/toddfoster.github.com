@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
-* [Good News for the Poor](http://cdn.boidem.org/2022/sermons/StT20220123.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany3-20220123.pdf), [video](https://vimeo.com/669196912#t=940): 23 January 2022
+* [Good News for the Poor](http://cdn.boidem.org/2022/sermons/StT20220123.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany3-20220123.pdf), [video](https://vimeo.com/669196912#t=940)): 23 January 2022
 * [Free At Last](http://cdn.boidem.org/2022/sermons/StT20220115-JH.mp3) by the Rev. Dr. John Hanson: 15 January 2022
 * [Superheroes](http://cdn.boidem.org/2022/sermons/StT20220108.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany1-20220109.pdf)): 8 January 2022
 
