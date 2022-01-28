@@ -13,6 +13,7 @@ Books I've read recently:
 * Evelyn Underhill, _Practical Mysticism_ (Dutton: 1960)
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
 * Kevin O'Brien, SJ, _The Ignatian Adventure: Experiencing the Spiritual Exercises of Saint Ignatius in Daily Life_ (Loyola Press: 2011)
+John P. Gorsuch, _An Invitation to the Spiritual Journey_ (Paulist Press: 1990)
 
 ## December 2021
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
