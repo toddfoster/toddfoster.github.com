@@ -15,6 +15,7 @@ Books I've read recently:
 * Kevin O'Brien, SJ, _The Ignatian Adventure: Experiencing the Spiritual Exercises of Saint Ignatius in Daily Life_ (Loyola Press: 2011)
 * John P. Gorsuch, _An Invitation to the Spiritual Journey_ (Paulist Press: 1990)
 * Thomas Keating, _The Heart of the World: A Spiritual Catechism_ (Crossroad: 1981)
+* Lauren Artress, _Walking a Sacred Path: Rediscovering the Labyrinth as a Spiritual Practice (revised and updated)_ (Riverhead Books: 2006)
 
 ## December 2021
 * Martin Laird, _Into the Silent Land: A Guide to the Christian Practice of Contemplation_ (Oxford University Press: 2006)
