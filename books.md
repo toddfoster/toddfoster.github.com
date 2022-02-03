@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## February 2022
 * Rowan Williams, _Candles in the Dark: Faith, hope, and love in a time of pandemic_ (SPCK: 2020)
+* Thomas Keating, _Open Mind Open Heart: The Contemplative Dimension of the Gospel_ (Continuum: 1986)
 
 ## January 2022
 * Ellie Roscher, _How Coffee Saved My Life: And Other Stories of Stumbling to Grace_ (Abingdon: 2009)
