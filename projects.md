@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
-* [Transfiguration](http://cdn.boidem.org/2022/sermons/StT20220227.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany4-20220227.pdf)): 27 February 2022
+* [Transfiguration](http://cdn.boidem.org/2022/sermons/StT20220227.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/EpiphanyLast-20220227.pdf)): 27 February 2022
 * [Come Closer](http://cdn.boidem.org/2022/sermons/StT20220220.mp3): 20 February 2022
 * [A Bigger Mission](http://cdn.boidem.org/2022/sermons/StT20220130.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany4-20220130.pdf)): 30 January 2022
 * [Good News for the Poor](http://cdn.boidem.org/2022/sermons/StT20220123.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany3-20220123.pdf), [video](https://vimeo.com/669196912#t=940)): 23 January 2022
