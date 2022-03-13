@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
+* [Spiritual Warfare](http://cdn.boidem.org/2022/sermons/StT20220313.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Lent2-20220313.pdf)): 13 March 2022
 * [Jesus Tempted](http://cdn.boidem.org/2022/sermons/StT20220305.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Lent1-20220306.pdf)): 5 March 2022
 * [Transfiguration](http://cdn.boidem.org/2022/sermons/StT20220227.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/EpiphanyLast-20220227.pdf)): 27 February 2022
 * [Come Closer](http://cdn.boidem.org/2022/sermons/StT20220220.mp3): 20 February 2022
