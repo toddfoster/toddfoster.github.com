@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## March 2022
+Annette Lareau, _Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up_ (The University of Chicago Press: 2021)
+
 ## February 2022
 * Rowan Williams, _Candles in the Dark: Faith, hope, and love in a time of pandemic_ (SPCK: 2020)
 * Thomas Keating, _Open Mind Open Heart: The Contemplative Dimension of the Gospel_ (Continuum: 1986)
