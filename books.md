@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## March 2022
 Annette Lareau, _Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up_ (The University of Chicago Press: 2021)
+Ada Palmer, _Seven Surrenders_ (Tor: 2017)
 
 ## February 2022
 * Rowan Williams, _Candles in the Dark: Faith, hope, and love in a time of pandemic_ (SPCK: 2020)
