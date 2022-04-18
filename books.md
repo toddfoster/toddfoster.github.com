@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## April 2022
+Jennifer Egan, _A Visit from the Goon Squad_ (Anchor Books: 2010)
+
 ## March 2022
 Annette Lareau, _Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up_ (The University of Chicago Press: 2021)
 Ada Palmer, _Seven Surrenders_ (Tor: 2017)
