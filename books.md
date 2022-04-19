@@ -8,11 +8,12 @@ layout: default
 Books I've read recently:
 
 ## April 2022
-Jennifer Egan, _A Visit from the Goon Squad_ (Anchor Books: 2010)
+* Jennifer Egan, _A Visit from the Goon Squad_ (Anchor Books: 2010)
+* Mary Clark Moschella, _Ethnography as a Pastoral Practice: An Introduction_ (The Pilgrim Press: 2008)
 
 ## March 2022
-Annette Lareau, _Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up_ (The University of Chicago Press: 2021)
-Ada Palmer, _Seven Surrenders_ (Tor: 2017)
+* Annette Lareau, _Listening to People: A Practical Guide to Interviewing, Participant Observation, Data Analysis, and Writing It All Up_ (The University of Chicago Press: 2021)
+* Ada Palmer, _Seven Surrenders_ (Tor: 2017)
 
 ## February 2022
 * Rowan Williams, _Candles in the Dark: Faith, hope, and love in a time of pandemic_ (SPCK: 2020)
