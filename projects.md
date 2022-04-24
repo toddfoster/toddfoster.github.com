@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022
+* [St. Thomas Sunday](http://cdn.boidem.org/2022/sermons/StT20220423-JH.mp3) by the Rev. Dr. John Hanson: 23 April 2022
 * [A Father and Two Sons](http://cdn.boidem.org/2022/sermons/StT20220327.mp3): 27 March 2022
 * [The God of Second Chances](http://cdn.boidem.org/2022/sermons/StT20220320-JH.mp3) by the Rev. Dr. John Hanson: 20 March 2022
 * [Spiritual Warfare](http://cdn.boidem.org/2022/sermons/StT20220313.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Lent2-20220313.pdf)): 13 March 2022
