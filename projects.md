@@ -9,13 +9,20 @@ Recent Sermons and Other Materials
 *2022*
 * [Driving by Hindsight](http://cdn.boidem.org/2022/sermons/StT20220501.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Easter3-20220501.pdf)): 1 May 2022
 * [St. Thomas Sunday](http://cdn.boidem.org/2022/sermons/StT20220423-JH.mp3) by the Rev. Dr. John Hanson: 23 April 2022
+* [Easter Sunday](http://cdn.boidem.org/2022/sermons/StT20220417.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Easter1-20220417-john.pdf)): 17 April 2022
 * [Good Friday](http://cdn.boidem.org/2022/sermons/StT20220415.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/GoodFriday-20220415.pdf)): 15 April 2022
+* [Maundy Thursday](http://cdn.boidem.org/2022/sermons/StT20220414-JH.mp3) by the Rev. Dr. John Hanson: 14 April 2022
+* [Wednesday of Holy Week](http://cdn.boidem.org/2022/sermons/StT20220413-GD.mp3) by the Rev. Glenn Druce: 13 April 2022
+* [Tuesday of Holy Week](http://cdn.boidem.org/2022/sermons/StT20220412-DF.mp3) by Donna Freidel: 12 April 2022
+* [Monday of Holy Week](http://cdn.boidem.org/2022/sermons/StT20220411-SC.mp3) by Scott Carr: 11 April 2022
+* [Mary Shows the Way](http://cdn.boidem.org/2022/sermons/StT20220403.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Lent5-20220403.pdf)): 3 April 2022
 * [A Father and Two Sons](http://cdn.boidem.org/2022/sermons/StT20220327.mp3): 27 March 2022
 * [The God of Second Chances](http://cdn.boidem.org/2022/sermons/StT20220320-JH.mp3) by the Rev. Dr. John Hanson: 20 March 2022
 * [Spiritual Warfare](http://cdn.boidem.org/2022/sermons/StT20220313.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Lent2-20220313.pdf)): 13 March 2022
 * [Jesus Tempted](http://cdn.boidem.org/2022/sermons/StT20220305.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Lent1-20220306.pdf)): 5 March 2022
 * [Transfiguration](http://cdn.boidem.org/2022/sermons/StT20220227.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/EpiphanyLast-20220227.pdf)): 27 February 2022
 * [Come Closer](http://cdn.boidem.org/2022/sermons/StT20220220.mp3): 20 February 2022
+* [Sixth Sunday after Epiphany](http://cdn.boidem.org/2022/sermons/StT20220213-JH.mp3) by the Rev. Dr. John Hanson: 13 February  2022
 * [A Bigger Mission](http://cdn.boidem.org/2022/sermons/StT20220130.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany4-20220130.pdf)): 30 January 2022
 * [Good News for the Poor](http://cdn.boidem.org/2022/sermons/StT20220123.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Epiphany3-20220123.pdf), [video](https://vimeo.com/669196912#t=940)): 23 January 2022
 * [Free At Last](http://cdn.boidem.org/2022/sermons/StT20220115-JH.mp3) by the Rev. Dr. John Hanson: 15 January 2022
