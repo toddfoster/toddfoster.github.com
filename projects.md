@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
-* [Mothers' Day](http://cdn.boidem.org/2022/sermons/StT20220507-JH.mp3) by the Rev. Dr. John Hanson: 7 May 2022
+* [Mothers' Day](http://cdn.boidem.org/2022/sermons/StT20220508-JH.mp3) by the Rev. Dr. John Hanson: 7 May 2022
 * [Driving by Hindsight](http://cdn.boidem.org/2022/sermons/StT20220501.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Easter3-20220501.pdf)): 1 May 2022
 * [St. Thomas Sunday](http://cdn.boidem.org/2022/sermons/StT20220423-JH.mp3) by the Rev. Dr. John Hanson: 23 April 2022
 * [Easter Sunday](http://cdn.boidem.org/2022/sermons/StT20220417.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Easter1-20220417-john.pdf)): 17 April 2022
