@@ -11,6 +11,7 @@ Books I've read recently:
 * Philip K. Dick, _The Crystal Crypt_ (Project Gutenberg: 2009, orig. 1954)
 * H. G. Wells, _The Time Machine_ (Project Gutenberg: 1992, orig. 1895)
 * Chimamanda Ngozi Adichie, _Americanah_ (Anchor Books: 2014)
+* David Coghlan, Teresa Brannick, _Doing Action Research in Your Own Organization,_ 3rd ed. (Sage: 2010)
 
 ## April 2022
 * Jennifer Egan, _A Visit from the Goon Squad_ (Anchor Books: 2010)
