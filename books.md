@@ -13,6 +13,7 @@ Books I've read recently:
 * Chimamanda Ngozi Adichie, _Americanah_ (Anchor Books: 2014)
 * David Coghlan, Teresa Brannick, _Doing Action Research in Your Own Organization,_ 3rd ed. (Sage: 2010)
 * Frank A. Thomas, _How to Preach a Dangerous Sermon_ (Abingdon Press: 2018)
+* Sally A. Brown & Luke A. Powery, _Ways of the Word: Learning to Preach for Your Time and Place_ (Fortress Press: 2016)
 
 ## April 2022
 * Jennifer Egan, _A Visit from the Goon Squad_ (Anchor Books: 2010)
