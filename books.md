@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## June 2022
+Lisa Cron, _Story or Die_ (Ten Speed Press: 2021)
+
 ## May 2022
 * Philip K. Dick, _The Crystal Crypt_ (Project Gutenberg: 2009, orig. 1954)
 * H. G. Wells, _The Time Machine_ (Project Gutenberg: 1992, orig. 1895)
