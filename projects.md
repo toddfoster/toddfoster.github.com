@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
+* [Are we there yet?](http://cdn.boidem.org/2022/sermons/StT20220605.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Pentecost-20220605.pdf)): 5 June 2022
 * [Smashing Barriers](http://cdn.boidem.org/2022/sermons/StT20220515.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Easter5-20220515.pdf)): 15 May 2022
 * [Mothers' Day](http://cdn.boidem.org/2022/sermons/StT20220508-JH.mp3) by the Rev. Dr. John Hanson: 7 May 2022
 * [Driving by Hindsight](http://cdn.boidem.org/2022/sermons/StT20220501.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Easter3-20220501.pdf)): 1 May 2022

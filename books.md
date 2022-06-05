@@ -8,7 +8,7 @@ layout: default
 Books I've read recently:
 
 ## June 2022
-Lisa Cron, _Story or Die_ (Ten Speed Press: 2021)
+Lisa Cron, _Story or Die: How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life_ (Ten Speed Press: 2021)
 
 ## May 2022
 * Philip K. Dick, _The Crystal Crypt_ (Project Gutenberg: 2009, orig. 1954)
