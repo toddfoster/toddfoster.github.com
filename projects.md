@@ -8,7 +8,7 @@ Recent Sermons and Other Materials
 
 *2022*
 * [Two Voices](http://cdn.boidem.org/2022/sermons/StT20220703.mp3): 3 July 2022
-* [Jesus at the Center](http://cdn.boidem.org/2022/sermons/StT2022026-JH.mp3) by the Rev. Dr. John Hanson: 26 June 2022
+* [Jesus at the Center](http://cdn.boidem.org/2022/sermons/StT20220626-JH.mp3) by the Rev. Dr. John Hanson: 26 June 2022
 * [Silence](http://cdn.boidem.org/2022/sermons/StT20220619.mp3): 19 June 2022
 * [Pride Month](http://cdn.boidem.org/2022/sermons/StT20220612-KG.mp3) by Kathleen Gallinaro: 12 June 2022
 * [Are we there yet?](http://cdn.boidem.org/2022/sermons/StT20220605.mp3) ([pdf](http://cdn.boidem.org/2022/sermons/Pentecost-20220605.pdf)): 5 June 2022
