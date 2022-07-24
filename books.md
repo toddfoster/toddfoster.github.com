@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## July 2022
 * David S. Reynolds, _John Brown, Abolitionist; The Man Who Killed Slavery, Sparked the Civil War, and Seeded Civil Rights_ (Alfred A. Knopf: 2005)
+* Kim Stanley Robinson, _The Years of Rice and Salt_ (Bantam Books: 2002)
 
 ## June 2022
 * Lisa Cron, _Story or Die: How to Use Brain Science to Engage, Persuade, and Change Minds in Business and in Life_ (Ten Speed Press: 2021)
