@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
+* [Who is the Holy Spirit?](http://cdn.boidem.org/2022/sermons/StT20220730.mp3): 30 July 2022
 * [Two Voices](http://cdn.boidem.org/2022/sermons/StT20220703.mp3): 3 July 2022
 * [Jesus at the Center](http://cdn.boidem.org/2022/sermons/StT20220626-JH.mp3) by the Rev. Dr. John Hanson: 26 June 2022
 * [Silence](http://cdn.boidem.org/2022/sermons/StT20220619.mp3): 19 June 2022
