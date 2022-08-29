@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
-* [How is the Holy Spirit revealed in the New Covenant?](http://cdn.boidem.org/2022/sermons/StT20220827.mp3): 17 August 2022
+* [How is the Holy Spirit revealed in the New Covenant?](http://cdn.boidem.org/2022/sermons/StT20220827.mp3): 27 August 2022
 * [How is the Holy Spirit revealed in the Old Covenant?](http://cdn.boidem.org/2022/sermons/StT20220813.mp3): 13 August 2022
 * [Who is the Holy Spirit?](http://cdn.boidem.org/2022/sermons/StT20220730.mp3): 30 July 2022
 * [Two Voices](http://cdn.boidem.org/2022/sermons/StT20220703.mp3): 3 July 2022
