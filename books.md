@@ -11,6 +11,7 @@ Books I've read recently:
 * Matthew W. Hughey, _White Bound: Nationalists, Antiracists, and the Shared Meanings of Race_ (Stanford University Press: 2012)
 * Scott Gunn & Melody Wilson Shobe, _Walk in Love: Episcopal Beliefs and Practices_ (Forward Movement: 2018)
 * Gayle Fisher-Stewart, _Black and Episcopalian: The Struggle for Inclusion_ (Church Publishing Incorporated: 2022)
+* Willie James Jennings, _After Whiteness: An Education in Belonging_ (William B. Eerdmans Publishing Company: 2020)
 
 ## July 2022
 * David S. Reynolds, _John Brown, Abolitionist; The Man Who Killed Slavery, Sparked the Civil War, and Seeded Civil Rights_ (Alfred A. Knopf: 2005)
