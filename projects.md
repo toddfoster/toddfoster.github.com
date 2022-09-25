@@ -7,6 +7,10 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
+* [A Sure Investment](http://cdn.boidem.org/2022/sermons/StT20220925.mp3): 25 September  2022
+* [Serving](http://cdn.boidem.org/2022/sermons/StT20220918-JH.mp3): 18 September  2022
+* [Sinners](http://cdn.boidem.org/2022/sermons/StT20220911.mp3): 11 September  2022
+* [How do we recognize the truths taught by the Holy Spirit?](http://cdn.boidem.org/2022/sermons/StT20220903.mp3): 4 September  2022
 * [How is the Holy Spirit revealed in the New Covenant?](http://cdn.boidem.org/2022/sermons/StT20220827.mp3): 27 August 2022
 * [How is the Holy Spirit revealed in the Old Covenant?](http://cdn.boidem.org/2022/sermons/StT20220813.mp3): 13 August 2022
 * [Who is the Holy Spirit?](http://cdn.boidem.org/2022/sermons/StT20220730.mp3): 30 July 2022
