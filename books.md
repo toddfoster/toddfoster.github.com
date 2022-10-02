@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## September 2022
+* David Swanson, _Rediscipling the White Church: From Cheap Diversity to True Solidarity_ (InterVarsity Press: 2020)
+
 ## August 2022
 * Matthew W. Hughey, _White Bound: Nationalists, Antiracists, and the Shared Meanings of Race_ (Stanford University Press: 2012)
 * Scott Gunn & Melody Wilson Shobe, _Walk in Love: Episcopal Beliefs and Practices_ (Forward Movement: 2018)
