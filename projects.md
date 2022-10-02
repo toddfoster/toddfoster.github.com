@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
+* [Stuffies and Stewardship](http://cdn.boidem.org/2022/sermons/StT20221001.mp3): 1 October  2022
 * [A Sure Investment](http://cdn.boidem.org/2022/sermons/StT20220925.mp3): 25 September  2022
 * [Serving](http://cdn.boidem.org/2022/sermons/StT20220918-JH.mp3): 18 September  2022
 * [Sinners](http://cdn.boidem.org/2022/sermons/StT20220911.mp3): 11 September  2022
