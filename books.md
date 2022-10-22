@@ -8,9 +8,11 @@ layout: default
 Books I've read recently:
 
 ## October 2022
-* Allen K. Shin and Larry R. Benfield, eds. _Realizing Beloved Community: Report from the House of Bishops Theology Committee_ (Church Publishing Incorporated: 2022)
+* Allen K. Shin and Larry R. Benfield, eds., _Realizing Beloved Community: Report from the House of Bishops Theology Committee_ (Church Publishing Incorporated: 2022)
 * Toni Morrison, _The Bluest Eye_ (Plume: 1994, orig. 1970)
 * Stephanie Spellers, _The Church Cracked Open; Disruption, Decline, and New Hope for Beloved Community (Church Publishing Incorporated: 2021)
+* Westina Matthews, ed., _This Band of Sisterhood; Black Women Bishops on Race, Faith, and the Church_ (Morehouse Publishing: 2021)
+* Carla E. Roland Guzmán, _Unmasking Latinx Ministry for Episcopalians; An Anglican Approach_ (Church Publishing Incorporated: 2020)
 
 ## September 2022
 * David Swanson, _Rediscipling the White Church: From Cheap Diversity to True Solidarity_ (InterVarsity Press: 2020)
