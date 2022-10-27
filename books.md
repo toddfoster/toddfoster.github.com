@@ -13,6 +13,7 @@ Books I've read recently:
 * Stephanie Spellers, _The Church Cracked Open; Disruption, Decline, and New Hope for Beloved Community (Church Publishing Incorporated: 2021)
 * Westina Matthews, ed., _This Band of Sisterhood; Black Women Bishops on Race, Faith, and the Church_ (Morehouse Publishing: 2021)
 * Carla E. Roland Guzmán, _Unmasking Latinx Ministry for Episcopalians; An Anglican Approach_ (Church Publishing Incorporated: 2020)
+* Mary McClintock Fulkerson and Marcia W. Mount Shoop, _A Body Broken, A Body Betrayed; Race, Memory, and Eucharist in White-Dominant Churches_ (Cascade Books: 2015)
 
 ## September 2022
 * David Swanson, _Rediscipling the White Church: From Cheap Diversity to True Solidarity_ (InterVarsity Press: 2020)
