@@ -7,10 +7,10 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
-* [All Saints](http://cdn.boidem.org/2022/sermons/StT20221106-JH.mp3): 6 November 2022
+* [All Saints](http://cdn.boidem.org/2022/sermons/StT20221106-JH.mp3) by the Rev. Dr. John Hanson: 6 November 2022
 * [Ingathering](http://cdn.boidem.org/2022/sermons/StT20221030.mp3): 31 October 2022
-* [Proper 25](http://cdn.boidem.org/2022/sermons/StT20221023-JH.mp3): 23 October 2022
-* [Proper 24](http://cdn.boidem.org/2022/sermons/StT20221016-KM.mp3): 16 October 2022
+* [Proper 25](http://cdn.boidem.org/2022/sermons/StT20221023-JH.mp3) by the Rev. Dr. John Hanson: 23 October 2022
+* [Proper 24](http://cdn.boidem.org/2022/sermons/StT20221016-KM.mp3) by the Rev. Karin Mitchell: 16 October 2022
 * [Tithing Zombies](http://cdn.boidem.org/2022/sermons/StT20221009.mp3): 8 October  2022
 * [Stuffies and Stewardship](http://cdn.boidem.org/2022/sermons/StT20221001.mp3): 1 October  2022
 * [A Sure Investment](http://cdn.boidem.org/2022/sermons/StT20220925.mp3): 25 September  2022
