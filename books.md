@@ -7,6 +7,14 @@ layout: default
 
 Books I've read recently:
 
+## November 2022
+* Harold T. Lewis, _Yet with a Steady Beat: The African American Struggle for Recognition in the Episcopal Church_ (Trinity Press International: 1996)
+* Michelle MiJung Kim, _The Wake up: Closing the Gap between Good Intentions and Real Change_ (Hachette Go: 2021)
+* Thomas Norman DeWolf and Jodie Geddes, _The Little Book of Racial Healing: Coming to the Table for Truth-Telling, Liberation, and Transformation_ (Good Books: 2019)
+* Kelly Brown Douglas, _The Black Christ_ (Orbis: 1994)
+* Isabel Wilkerson, _Caste: The Origins of Our Discontents_ (Random House: 2020)
+* James H. Cone, _Risks of Faith: The Emergence of a Black Theology of Liberation, 1968 - 1998_ (Beacon Press: 1999)
+
 ## October 2022
 * Allen K. Shin and Larry R. Benfield, eds., _Realizing Beloved Community: Report from the House of Bishops Theology Committee_ (Church Publishing Incorporated: 2022)
 * Toni Morrison, _The Bluest Eye_ (Plume: 1994, orig. 1970)
