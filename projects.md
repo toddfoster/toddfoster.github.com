@@ -7,11 +7,15 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2022*
+* [What is sin?](http://cdn.boidem.org/2022/sermons/StT20221211.mp3): 11 December 2022
+* [The Candle of Hope](http://cdn.boidem.org/2022/sermons/StT20221204-JH.mp3): by the Rev. Dr. John Hanson: 4 December 2022
+* [Advent Waiting](http://cdn.boidem.org/2022/sermons/StT20221127.mp3): 27 November 2022
+* [Christ the King](http://cdn.boidem.org/2022/sermons/StT20221120-KM.mp3): by the Rev. Canon Karin Mitchell: 20 November 2022
 * [Greater than Billions](http://cdn.boidem.org/2022/sermons/StT20221113.mp3): 13 November 2022
 * [All Saints](http://cdn.boidem.org/2022/sermons/StT20221106-JH.mp3) by the Rev. Dr. John Hanson: 6 November 2022
 * [Ingathering](http://cdn.boidem.org/2022/sermons/StT20221030.mp3): 31 October 2022
 * [Proper 25](http://cdn.boidem.org/2022/sermons/StT20221023-JH.mp3) by the Rev. Dr. John Hanson: 23 October 2022
-* [Proper 24](http://cdn.boidem.org/2022/sermons/StT20221016-KM.mp3) by the Rev. Karin Mitchell: 16 October 2022
+* [Proper 24](http://cdn.boidem.org/2022/sermons/StT20221016-KM.mp3) by the Rev. Canon Karin Mitchell: 16 October 2022
 * [Tithing Zombies](http://cdn.boidem.org/2022/sermons/StT20221009.mp3): 8 October  2022
 * [Stuffies and Stewardship](http://cdn.boidem.org/2022/sermons/StT20221001.mp3): 1 October  2022
 * [A Sure Investment](http://cdn.boidem.org/2022/sermons/StT20220925.mp3): 25 September  2022
