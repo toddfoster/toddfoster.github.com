@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+# December 2022
+* W.E.B. Du Bois, _The Souls of Black Folk_ (Project Gutenberg: 1996; original: 1903)
+* Steven Charleston, _The Four Vision Quest of Jesus_ (Morehouse Publishing: 2015)
+
 ## November 2022
 * Harold T. Lewis, _Yet with a Steady Beat: The African American Struggle for Recognition in the Episcopal Church_ (Trinity Press International: 1996)
 * Michelle MiJung Kim, _The Wake up: Closing the Gap between Good Intentions and Real Change_ (Hachette Go: 2021)
