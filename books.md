@@ -10,6 +10,7 @@ Books I've read recently:
 # December 2022
 * W.E.B. Du Bois, _The Souls of Black Folk_ (Project Gutenberg: 1996; original: 1903)
 * Steven Charleston, _The Four Vision Quest of Jesus_ (Morehouse Publishing: 2015)
+* John Mabry, _Growing into God: A Beginner's Guide to Christian Mysticism_ (Quest Books: 2012)
 
 ## November 2022
 * Harold T. Lewis, _Yet with a Steady Beat: The African American Struggle for Recognition in the Episcopal Church_ (Trinity Press International: 1996)
