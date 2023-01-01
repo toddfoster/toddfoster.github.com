@@ -3,87 +3,68 @@ title: Resume
 layout: default
 ---
 
-# The Reverend Todd Foster
+# The Very Reverend Todd Foster
 
 _(Contact information omitted from online version)_
 
 
 ---
-## Ministry Specialities
-* Engage corporate worship with a clear sense of purpose and a love of sung liturgy
+## Ministry Specialties
+* Engage corporate worship with a clear sense of purpose and a love of music, including sung liturgy
 * Depend upon the Bible as a source of preaching & teaching good news for life today
-* Adapt church life to welcome and empower diverse groups
-* Inspire, equip, and support the priesthood of all believers
+* Inspire, equip, and support diverse groups: the priesthood of all believers
 * Organize adult formation programs, lead & delegate various types of small groups
-* Implement the ancient Catechumenate, recruiting leaders and creating material resources
-
+* Interests in Chant, Anglo-Catholic practice, Centering Prayer, Catechumenate
 
 ---
 ## Professional Experience
-**St. Thomas' Episcopal Church,** Glassboro, NJ        2018-present: _Rector_
-* Presider, preacher, cantor, confessor
-* Teacher of classes on Bible, Christian spiritual practices, Christian ministry
-* Pastoral caregiver bringing community and Christ’s presence to the hurting
-* Propose, coordinate, implement outreach & church development efforts
-* Manage staff, budget, campus
-* Networker creating links between the parish and our neighbors
-* Writer of parish communications that stimulate Christian thought and action
-
+**[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 100, Budget $260k)        2018-present: _Rector_
+* Teach about Jesus, Preach, Lead Worship, Visit the Sick
+* Promote missional vision, efforts for Rowan University
+* Balance budget, grow pledge base, empower stewardship leaders
+* Establish Morning Prayer podcast, inviting & training others to lead
+* Offer open door hours in the street-facing nave for individual prayer
+* Establish mid-week Eucharist
+* Develop music program of choir and accompanists, involving college student leaders
+* Organize Adult formation, Teen Confirmation, and ABCD's of Faith classes
+* Nurture and grow integration between children's chapel and adults
+* Coordinate multi-faith community clergy gatherings
+* _Dean, Woodbury Convocation_: caring for neighboring congregations & clergy (2022-present)
 
 **Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
 * Presider, preacher, teacher, cantor, confessor
-* Manager & trainer for lay ministry leaders
-* Organizer & launcher of small groups
-* Exegetical, homiletical adviser to participants in our sermon preparation process
-* Welcomer and integrator of newcomers with letters, visits, receptions
-* Instructor for baptismal candidates (or their parents)
-
+* Manage & train lay ministry leaders, small groups
+* Provide exegetical, homiletical support to participants in our sermon preparation process
+* Offer pastoral care newcomers, hospitalized, and elderly
 
 **St. Paul's Episcopal Church,** Bellingham, WA (ASA 324, Budget $0.73M)	2012-2016: _Business Administrator, Transitional Deacon_
-* Manager of staff transitions, budget, salaries, health insurance, pledges, parochial report
-* Overseer of building & systems maintenance, improvements, emergency repairs
-* Coordinator for installation of new columbarium & transfer of remains from old one
-* Director of building rentals & scheduling of building space
-* Volunteer as Lay Preacher, Teacher, Cantor, Catechist, Eucharistic Minister
-* Developer of Catechumenal process
-* Pastoral caregiver
+* Manage staff transitions, budget, salaries, health insurance, pledges, parochial report
+* Oversee building & systems maintenance, improvements, emergency repairs
+* Direct building rentals & scheduling of building space
+* Develop Catechumenal process
+* Lay Preacher, Teacher, Cantor, Catechist, Eucharistic Minister, Pastoral caregiver
 
 **St. Paul’s Episcopal Church,** Mt. Vernon, WA 2015-2016: _Field Education Ministry Intern_
-* Preacher, presider at Morning Prayer, planner of liturgies
-* Provider of liturgical assistance to a variety of priests in a church cluster
+* Preach, preside at Morning Prayer, plan of liturgies
+* Coordinate liturgical practice with a variety of priests in a church cluster
 
 **Iglesia de la Resurrección,** Mt. Vernon, WA  	2014-2016: _Subdeacon, Lay Preacher_
-* Preacher in Spanish
-* Instructor for Lutheran priests who don’t know the Episcopal liturgy, and for Episcopal priests who don’t know Spanish
+* Preach in Spanish
+* Assist Lutheran priests who don’t know the Episcopal liturgy, and Episcopal priests who don’t know Spanish
 
 **Logos Bible Software,** Bellingham, WA	2010-2012: _Software Developer_
-* Developer of cross-platform (Mac/Windows) church presentation software
-* Resource for questions about biblical Greek and Hebrew
-* Mentor for new team members
 
 **Interactive Network Technologies,** Inc., Houston, TX 	2007-2010: _Software Developer_
-* Developer of navigation software for ships involved in oil & gas exploration
-* Project lead, mentoring a multi-site team for an international client
 
 **Bronx Fellowship of Christ,** Bronx, NY  	2001-2007: _Missionary, Church Planter_
 * Missionary establishing new house churches in an urban setting
-* Preacher, teacher, organizer for 120 people representing 20 different nations
 * Publisher of a hymnal that united our diverse community in song
-* Communicator to help ministry benefactors understand what their partnership achieves
-* Technician and technical strategist (sound system, computers) for mission team
 
 **University Church of Christ,** Abilene, TX 	2000-2001: _Associate for the Hispanic community_
-* Preacher, teacher for minority community in a large, bi-cultural church
 
 **First Christian Church,** DeLeon, TX 	1998-2000: _Pastor_
-* Preacher, teacher, presider, pastoral caregiver
-* Organizer of local ecumenical gatherings
 
 **Supply Chain Consultants,** Newark, DE, 1994-1999: _Systems Analyst_
-* Consultant to major multinational manufacturers on supply chain management
-* Developer of software and tools
-* Organizer of internal continuing education program
-* Builder of infrastructure for a new, growing business
 
 
 ---
