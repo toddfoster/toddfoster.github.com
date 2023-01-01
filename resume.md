@@ -81,8 +81,11 @@ B.S., Computer Science
 ---
 ## Additional Training
 
+**General Theological Seminary,** New York, NY 	2021-present  
+Doctor of Ministry program
+
+
 **College for Congregational Development,** Diocese of Olympia	2016-2017  
-Summer Intensives
 
 **Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014  
 CALL Program: Anglican Immersion and online classes
@@ -100,10 +103,9 @@ Hospice Volunteer Chaplain Training
 ---
 
 ## Personal Information
-* Married 20 years to Becky raising daughter Aviva, 14, and son Eli, 12.
-* Enjoy family, music, languages & cultures, travel, reading, being outdoors.
-* Fluent in Spanish.
+* Married 25+ years to Becky, grown children Aviva and Eli
+* Enjoy family, music, languages (especially Spanish) & cultures, travel, reading, being outdoors.
 * Long habit of pursuing ecumenical relationships reading the Bible in its original languages.
-* Hobbies include motorcycles (maintenance, riding), Tae Kwon Do, hiking.
-* Some favorite theologians include Frederick Buechner, Dietrich Bonhoeffer, N.T. Wright.
+* Hobbies include motorcycles (maintenance, riding), martial arts, hiking.
+* Some favorite theologians include Walter Brueggemann, James Cone, David Steindl-Rast.
 
