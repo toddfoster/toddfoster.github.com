@@ -6,8 +6,12 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2023*
+* [Year of Thanksgiving](http://cdn.boidem.org/2023/sermons/StT20230101.mp3): 1 January 2023
+
 *2022*
-* [What is sin?](http://cdn.boidem.org/2022/sermons/StT20221211.mp3): 11 December 2022
+* [Christmas Gifts](http://cdn.boidem.org/2022/sermons/StT20221224.mp3): 24 December 2022
+* [A Mansion Prepared](http://cdn.boidem.org/2022/sermons/StT20221218.mp3): 18 December 2022
 * [The Candle of Hope](http://cdn.boidem.org/2022/sermons/StT20221204-JH.mp3): by the Rev. Dr. John Hanson: 4 December 2022
 * [Advent Waiting](http://cdn.boidem.org/2022/sermons/StT20221127.mp3): 27 November 2022
 * [Christ the King](http://cdn.boidem.org/2022/sermons/StT20221120-KM.mp3): by the Rev. Canon Karin Mitchell: 20 November 2022
