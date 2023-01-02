@@ -20,15 +20,14 @@ _(Contact information omitted from online version)_
 ---
 ## Professional Experience
 **[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 100, Budget $260k)        2018-present: _Rector_
-* Teach about Jesus, Preach, Lead Worship, Visit the Sick in a multi-ethnic congregation
-* Promote missional vision, efforts for Rowan University
-* Balance budget, grow pledge base, empower stewardship leaders
-* Establish Morning Prayer podcast, inviting & training others to lead
-* Offer open door hours in the street-facing nave for individual prayer
-* Establish mid-week Eucharist
-* Develop music program of choir and accompanists, involving college student leaders
+* Teach about Jesus, Preach, Lead worship, Visit the sick in a multi-ethnic congregation
+* Balance budget, grow pledge base, implement stewardship process, empower leaders
+* Invite & train others to lead prayer offices, establish Morning Prayer podcast
+* Establish mid-week Eucharist, Centering Prayer, open door for private prayer
 * Organize Adult formation, Teen Confirmation, and ABCD's of Faith classes
-* Nurture and grow integration between children's chapel and adults
+* Nurture children's ministry and integration with adults
+* Promote missional vision, efforts for Rowan University
+* Develop music program of choir and accompanists, involving college student leaders
 * Coordinate multi-faith community clergy gatherings
 * _Dean, Woodbury Convocation_: caring for neighboring congregations & clergy (2022-present)
 
