@@ -82,7 +82,7 @@ B.S., Computer Science
 ## Additional Training
 
 **General Theological Seminary,** New York, NY 	2021-present  
-Doctor of Ministry program
+Doctor of Ministry program with thesis project, "Lifting Up Black Voices" (WIP)
 
 
 **College for Congregational Development,** Diocese of Olympia	2016-2017  
