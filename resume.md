@@ -20,7 +20,7 @@ _(Contact information omitted from online version)_
 ---
 ## Professional Experience
 **[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 100, Budget $260k)        2018-present: _Rector_
-* Teach about Jesus, Preach, Lead Worship, Visit the Sick
+* Teach about Jesus, Preach, Lead Worship, Visit the Sick in a multi-ethnic congregation
 * Promote missional vision, efforts for Rowan University
 * Balance budget, grow pledge base, empower stewardship leaders
 * Establish Morning Prayer podcast, inviting & training others to lead
@@ -34,7 +34,7 @@ _(Contact information omitted from online version)_
 
 **Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
 * Presider, preacher, teacher, cantor, confessor
-* Manage & train lay ministry leaders, small groups
+* Manage & train lay ministry leaders, small groups, organize large events
 * Provide exegetical, homiletical support to participants in our sermon preparation process
 * Offer pastoral care newcomers, hospitalized, and elderly
 
@@ -76,11 +76,10 @@ B.S., Computer Science
 ---
 ## Additional Training
 
+**Regular participation in Episcopal Church Conferences & Trainings** such as Anti-Racism Training, Safeguarding God's Children (trainer), CEEP, FORMA, YACM, CREDO, the College for Congregational Development
+
 **General Theological Seminary,** New York, NY 	2021-present  
 Doctor of Ministry program with thesis project, "Lifting Up Black Voices" (WIP)
-
-
-**College for Congregational Development,** Diocese of Olympia	2016-2017  
 
 **Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014  
 CALL Program: Anglican Immersion and online classes
