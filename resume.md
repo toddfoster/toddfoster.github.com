@@ -16,6 +16,7 @@ _(Contact information omitted from online version)_
 * Organize adult formation programs, lead & delegate various types of small groups
 * Interests in Chant, Anglo-Catholic practice, Centering Prayer, Catechumenate
 
+
 ---
 ## Professional Experience
 **[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 100, Budget $260k)        2018-present: _Rector_
@@ -45,20 +46,14 @@ _(Contact information omitted from online version)_
 * Lay Preacher, Teacher, Cantor, Catechist, Eucharistic Minister, Pastoral caregiver
 
 **St. Paul’s Episcopal Church,** Mt. Vernon, WA 2015-2016: _Field Education Ministry Intern_
-* Preach, preside at Morning Prayer, plan of liturgies
-* Coordinate liturgical practice with a variety of priests in a church cluster
 
 **Iglesia de la Resurrección,** Mt. Vernon, WA  	2014-2016: _Subdeacon, Lay Preacher_
-* Preach in Spanish
-* Assist Lutheran priests who don’t know the Episcopal liturgy, and Episcopal priests who don’t know Spanish
 
 **Logos Bible Software,** Bellingham, WA	2010-2012: _Software Developer_
 
 **Interactive Network Technologies,** Inc., Houston, TX 	2007-2010: _Software Developer_
 
 **Bronx Fellowship of Christ,** Bronx, NY  	2001-2007: _Missionary, Church Planter_
-* Missionary establishing new house churches in an urban setting
-* Publisher of a hymnal that united our diverse community in song
 
 **University Church of Christ,** Abilene, TX 	2000-2001: _Associate for the Hispanic community_
 
@@ -101,7 +96,6 @@ Hospice Volunteer Chaplain Training
 
 
 ---
-
 ## Personal Information
 * Married 25+ years to Becky, grown children Aviva and Eli
 * Enjoy family, music, languages (especially Spanish) & cultures, travel, reading, being outdoors.
