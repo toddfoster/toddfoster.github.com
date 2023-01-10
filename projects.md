@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Beloved](http://cdn.boidem.org/2023/sermons/StT20230108.mp3): 8 January 2023
 * [Year of Thanksgiving](http://cdn.boidem.org/2023/sermons/StT20230101.mp3): 1 January 2023
 
 *2022*
