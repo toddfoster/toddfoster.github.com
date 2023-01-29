@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Sermon on the Mount People](http://cdn.boidem.org/2023/sermons/StT20230129.mp3): 29 January 2023
 * [Enough!](http://cdn.boidem.org/2023/sermons/StT20230122.mp3): 22 January 2023
 * [Brother Martin's Dream](http://cdn.boidem.org/2023/sermons/StT20230115-JH.mp3) by the Rev. Dr. John Hanson: 15 January 2023
 * [Beloved](http://cdn.boidem.org/2023/sermons/StT20230108.mp3): 8 January 2023
