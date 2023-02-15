@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+# February 2022
+* James Baldwin, _The Fire Next Time_ (Vintage International: 1962...1991)
+* Jeff Loveness, Jakub Rebelka, _Judas_ (Boom! Studios: 2020)
+
 # December 2022
 * W.E.B. Du Bois, _The Souls of Black Folk_ (Project Gutenberg: 1996; original: 1903)
 * Steven Charleston, _The Four Vision Quest of Jesus_ (Morehouse Publishing: 2015)
