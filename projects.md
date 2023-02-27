@@ -10,7 +10,7 @@ Recent Sermons and Other Materials
 * [Temptation](http://cdn.boidem.org/2023/sermons/StT20230226-JH.mp3) by the Rev. Dr. John Hanson: 26 January 2023
 * [Reparations](http://cdn.boidem.org/2023/sermons/StT20230219-BB.mp3) by Canon Barbie Bach: 19 February 2023
 * [Reparations](http://cdn.boidem.org/2023/sermons/StT20230219-TF.mp3) ([pdf](http://cdn.boidem.org/2023/sermons/EpiphanyLast-Reparations-20230218.pdf)) by the Very Rev. Todd Foster: 18 February 2023
-* [What I did not learn in seminary](http://cdn.boidem.org/2023/sermons/StT2023012-GD.mp3) by the Rev. Glenn Druce: 12 February 2023
+* [What I did not learn in seminary](http://cdn.boidem.org/2023/sermons/StT20230212-GD.mp3) by the Rev. Glenn Druce: 12 February 2023
 * [Why Black Lives Matter](http://cdn.boidem.org/2023/sermons/StT20230205.mp3) ([pdf](http://cdn.boidem.org/2023/sermons/Epiphany5A-20230205-manuscript.pdf)): 5 February 2023
 * [Sermon on the Mount People](http://cdn.boidem.org/2023/sermons/StT20230129.mp3): 29 January 2023
 * [Enough!](http://cdn.boidem.org/2023/sermons/StT20230122.mp3): 22 January 2023
