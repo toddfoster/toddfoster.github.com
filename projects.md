@@ -7,7 +7,9 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
-* [Temptation](http://cdn.boidem.org/2023/sermons/StT20230226-JH.mp3) by the Rev. Dr. John Hanson: 26 January 2023
+* [A Well in the Wrong Neighborhood](http://cdn.boidem.org/2023/sermons/StT20230312.mp3): 12 March 2023
+* [Finding Your Way in Lent](http://cdn.boidem.org/2023/sermons/StT20230305.mp3): 5 March 2023
+* [Temptation](http://cdn.boidem.org/2023/sermons/StT20230226-JH.mp3) by the Rev. Dr. John Hanson: 26 February 2023
 * [Reparations](http://cdn.boidem.org/2023/sermons/StT20230219-BB.mp3) by Canon Barbie Bach: 19 February 2023
 * [Reparations](http://cdn.boidem.org/2023/sermons/StT20230219-TF.mp3) ([pdf](http://cdn.boidem.org/2023/sermons/EpiphanyLast-Reparations-20230218.pdf)) by the Very Rev. Todd Foster: 18 February 2023
 * [What I did not learn in seminary](http://cdn.boidem.org/2023/sermons/StT20230212-GD.mp3) by the Rev. Glenn Druce: 12 February 2023
