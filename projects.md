@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Merciful Beyond Comprehension](http://cdn.boidem.org/2023/sermons/StT20230319-JH.mp3) by the Rev. Dr. John Hanson: 19 March 2023
 * [A Well in the Wrong Neighborhood](http://cdn.boidem.org/2023/sermons/StT20230312.mp3): 12 March 2023
 * [Finding Your Way in Lent](http://cdn.boidem.org/2023/sermons/StT20230305.mp3): 5 March 2023
 * [Temptation](http://cdn.boidem.org/2023/sermons/StT20230226-JH.mp3) by the Rev. Dr. John Hanson: 26 February 2023
