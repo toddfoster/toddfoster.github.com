@@ -7,6 +7,9 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [The Faith of St. Thomas](http://cdn.boidem.org/2023/sermons/StT20230416.mp3) by Cole Banning: 16 April 2023
+* [Easter Sunday](http://cdn.boidem.org/2023/sermons/StT20230409.mp3): 9 April 2023
+* [So that we might die with him](http://cdn.boidem.org/2023/sermons/StT20230326.mp3): 26 March 2023
 * [Merciful Beyond Comprehension](http://cdn.boidem.org/2023/sermons/StT20230319-JH.mp3) by the Rev. Dr. John Hanson: 19 March 2023
 * [A Well in the Wrong Neighborhood](http://cdn.boidem.org/2023/sermons/StT20230312.mp3): 12 March 2023
 * [Finding Your Way in Lent](http://cdn.boidem.org/2023/sermons/StT20230305.mp3): 5 March 2023
