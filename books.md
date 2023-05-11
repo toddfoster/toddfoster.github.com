@@ -7,11 +7,17 @@ layout: default
 
 Books I've read recently:
 
-# February 2022
+## May 2023
+* Alison Mariella Désir, _Running While Black: Finding Freedom in a Sport That Wasn't Built for Us_ (Portfolio / Penguin: 2022)
+* Michael Battle, _Ubuntu: I in You and You in Me_ (Seabury Books: 2009)
+* Peter Jarrett-Schell, _Reparations: A Plan for Churches_ (Church Publishing: 2023)
+* Howard Thurman, _The Search for Common Ground_ (Friends United Press: 1971)
+
+## February 
 * James Baldwin, _The Fire Next Time_ (Vintage International: 1962...1991)
 * Jeff Loveness, Jakub Rebelka, _Judas_ (Boom! Studios: 2020)
 
-# December 2022
+## December 2022
 * W.E.B. Du Bois, _The Souls of Black Folk_ (Project Gutenberg: 1996; original: 1903)
 * Steven Charleston, _The Four Vision Quest of Jesus_ (Morehouse Publishing: 2015)
 * John Mabry, _Growing into God: A Beginner's Guide to Christian Mysticism_ (Quest Books: 2012)
