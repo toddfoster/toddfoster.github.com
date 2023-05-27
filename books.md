@@ -12,6 +12,7 @@ Books I've read recently:
 * Michael Battle, _Ubuntu: I in You and You in Me_ (Seabury Books: 2009)
 * Peter Jarrett-Schell, _Reparations: A Plan for Churches_ (Church Publishing: 2023)
 * Howard Thurman, _The Search for Common Ground_ (Friends United Press: 1971)
+* Peter Jarrett-Schell, _Seeing My Skin: A Story of Wrestling with Whiteness_ (Church Publishing: 2019)
 
 ## February 
 * James Baldwin, _The Fire Next Time_ (Vintage International: 1962...1991)
