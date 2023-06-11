@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## June 2023
+* Ian McDonald, _Hopeland_ (Tor: 2023)
+
 ## May 2023
 * Alison Mariella Désir, _Running While Black: Finding Freedom in a Sport That Wasn't Built for Us_ (Portfolio / Penguin: 2022)
 * Michael Battle, _Ubuntu: I in You and You in Me_ (Seabury Books: 2009)
