@@ -7,6 +7,13 @@ layout: default
 
 Books I've read recently:
 
+## August 2023
+* Ada Palmer, _The Will to Battle_ (Tor: 2019)
+
+## July 2023
+* James S. A. Corey, _Memory's Legion : the Complete Expanse Story Collection_ (Orbit: 2022)
+* James S. A. Corey, _Leviathan Falls_ (Orbit: 2021)
+
 ## June 2023
 * Ian McDonald, _Hopeland_ (Tor: 2023)
 * Usrula K. Le Guin, _Earthsea: The First Four Books_ (Penguin Random House: 2016 (1968 and following))
