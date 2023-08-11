@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## August 2023
 * Ada Palmer, _The Will to Battle_ (Tor: 2019)
+* Chet Raymo, _The Dork of Cork_ (Warner Books: 1993)
 
 ## July 2023
 * James S. A. Corey, _Memory's Legion : the Complete Expanse Story Collection_ (Orbit: 2022)
