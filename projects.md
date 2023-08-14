@@ -7,6 +7,8 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Faith Takes Courage](http://cdn.boidem.org/2023/sermons/StT20230813.mp3): 13 August 2023
+* [Transfiguration](http://cdn.boidem.org/2023/sermons/StT20230806.mp3): 6 August 2023
 * [The Good Shepherd](http://cdn.boidem.org/2023/sermons/StT20230430-JH.mp3) by the Rev. Dr. John Hanson: 30 April 2023
 * [On the Road to Emmaus](http://cdn.boidem.org/2023/sermons/StT20230423.mp3): 23 April 2023
 * [The Faith of St. Thomas](http://cdn.boidem.org/2023/sermons/StT20230416-CB.mp3) by Cole Banning: 16 April 2023
