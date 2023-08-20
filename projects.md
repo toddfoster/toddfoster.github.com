@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Children and Dogs](http://cdn.boidem.org/2023/sermons/StT20230820.mp3): 20 August 2023
 * [Faith Takes Courage](http://cdn.boidem.org/2023/sermons/StT20230813.mp3): 13 August 2023
 * [Transfiguration](http://cdn.boidem.org/2023/sermons/StT20230806.mp3): 6 August 2023
 * [The Good Shepherd](http://cdn.boidem.org/2023/sermons/StT20230430-JH.mp3) by the Rev. Dr. John Hanson: 30 April 2023
