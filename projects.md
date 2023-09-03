@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [The Burning Bush](http://cdn.boidem.org/2023/sermons/StT20230903.mp3): 3 September 2023
 * [Being Transformed](http://cdn.boidem.org/2023/sermons/StT20230827-JH.mp3) by the Rev. Dr. John Hanson: 27 August 2023
 * [Children and Dogs](http://cdn.boidem.org/2023/sermons/StT20230820.mp3): 20 August 2023
 * [Faith Takes Courage](http://cdn.boidem.org/2023/sermons/StT20230813.mp3): 13 August 2023
