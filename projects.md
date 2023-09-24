@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Instructed Eucharist](http://cdn.boidem.org/2023/sermons/StT20230924.mp3): 24 September 2023
 * [Forgiveness Without Limit](http://cdn.boidem.org/2023/sermons/StT20230917-JH.mp3) by the Rev. Dr. John Hanson: 17 September 2023
 * [Ritual](http://cdn.boidem.org/2023/sermons/StT20230910.mp3): 10 September 2023
 * [The Burning Bush](http://cdn.boidem.org/2023/sermons/StT20230903.mp3): 3 September 2023
