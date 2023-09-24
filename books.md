@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## September 2023
+* James W. Farwell, _Ritual Excellence: Best Practices for Leading and Planning Liturgy_ (Seabury Books: 2023)
+
 ## August 2023
 * Ada Palmer, _The Will to Battle_ (Tor: 2019)
 * Chet Raymo, _The Dork of Cork_ (Warner Books: 1993)
