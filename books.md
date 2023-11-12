@@ -6,6 +6,11 @@ layout: default
 # Blog: A Book-Log
 
 Books I've read recently:
+## November 2023
+* Ward Silver, _The ARRL Extra Class License Manual for Ham Radio_ (The American Radio Relay League, Inc.: 2016)
+
+## October 2023
+* Ward Silver, _The ARRL Ham Radio License Manual, Level 1: Technician_ (The American Radio Relay League, Inc.: 2018)
 
 ## September 2023
 * James W. Farwell, _Ritual Excellence: Best Practices for Leading and Planning Liturgy_ (Seabury Books: 2023)

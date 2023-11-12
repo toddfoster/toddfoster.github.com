@@ -7,6 +7,8 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2023*
+* [Choosing](http://cdn.boidem.org/2023/sermons/StT20231112.mp3): 12 November 2023
+* [Holy Baptism](http://cdn.boidem.org/2023/sermons/StT20231105.mp3): 5 November 2023
 * [The Greatest Commandment](http://cdn.boidem.org/2023/sermons/StT20231029.mp3): 29 October 2023
 * [Stewardship: Giving Your Whole Self](http://cdn.boidem.org/2023/sermons/StT20231022-JH.mp3) by the Rev. Dr. John Hanson: 22 October 2023
 * [Stewardship: Why We Give](http://cdn.boidem.org/2023/sermons/StT20231015.mp3): 15 October 2023
