@@ -98,6 +98,6 @@ Hospice Volunteer Chaplain Training
 * Married 25+ years to Becky, grown children Aviva and Eli
 * Enjoy family, music, languages (especially Spanish) & cultures, travel, reading, being outdoors.
 * Long habit of pursuing ecumenical relationships reading the Bible in its original languages.
-* Hobbies include motorcycles (maintenance, riding), martial arts, hiking.
+* Hobbies include motorcycles (maintenance, riding), amateur radio (W2TEF, Amateur Extra Class), hiking.
 * Some favorite theologians include Walter Brueggemann, James Cone, David Steindl-Rast.
 
