@@ -6,6 +6,13 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2024*
+* [Jesus the Light of the World](http://cdn.boidem.org/2024/sermons/StT20240107.mp3): 7 January 2024
+* [Passing On the Faith](http://cdn.boidem.org/2024/sermons/StT20240114.mp3): 14 January 2024
+* [Jesus Calls You](http://cdn.boidem.org/2024/sermons/StT20240121.mp3): 21 January 2024
+* [Serving Christ](http://cdn.boidem.org/2024/sermons/StT20240128-JH.mp3) by the Rev. Dr. John Hanson: 28 February 2024
+* [Black History Month](http://cdn.boidem.org/2024/sermons/StT20240204.mp3): 4 February 2024
+
 *2023*
 * [Stay Awake!](http://cdn.boidem.org/2023/sermons/StT20231203.mp3): 3 December 2023
 * [Christ the King](http://cdn.boidem.org/2023/sermons/StT20231126.mp3): 26 November 2023
