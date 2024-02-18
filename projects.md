@@ -7,6 +7,8 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
+* [Lenten Invitation](http://cdn.boidem.org/2024/sermons/StT20240218.mp3): 18 February 2024
+* [Black History and The Episcopal Church](http://cdn.boidem.org/2024/sermons/StT20240211-AB.mp3) by Canon Annette Buchanan: 11 February 2024
 * [Black History Month](http://cdn.boidem.org/2024/sermons/StT20240204.mp3): 4 February 2024
 * [Serving Christ](http://cdn.boidem.org/2024/sermons/StT20240128-JH.mp3) by the Rev. Dr. John Hanson: 28 February 2024
 * [Jesus Calls You](http://cdn.boidem.org/2024/sermons/StT20240121.mp3): 21 January 2024
