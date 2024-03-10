@@ -9,7 +9,7 @@ Recent Sermons and Other Materials
 *2024*
 * [Snakes on the Plain](http://cdn.boidem.org/2024/sermons/StT20240310.mp3): 10 March 2024
 * [Ten Commandments](http://cdn.boidem.org/2024/sermons/StT20240303.mp3): 3 March 2024
-* [Take Up Your Cross](http://cdn.boidem.org/2024/sermons/StT20240224-JH.mp3) by the Rev. Dr. John Hanson: 24 February 2024
+* [Take Up Your Cross](http://cdn.boidem.org/2024/sermons/StT20240225-JH.mp3) by the Rev. Dr. John Hanson: 25 February 2024
 * [Black History and The Episcopal Church](http://cdn.boidem.org/2024/sermons/StT20240211-AB.mp3) by Canon Annette Buchanan: 11 February 2024
 * [Black History Month](http://cdn.boidem.org/2024/sermons/StT20240204.mp3): 4 February 2024
 * [Serving Christ](http://cdn.boidem.org/2024/sermons/StT20240128-JH.mp3) by the Rev. Dr. John Hanson: 28 January 2024
