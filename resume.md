@@ -75,9 +75,9 @@ _(Contact information omitted from online version)_
 ---
 ## Degrees Earned
 
-** General Theological Seminary,** New York, NY 2020-2024  
+**General Theological Seminary,** New York, NY	2020-2024  
 Doctor of Ministry  
-_Thesis Title:_ "Paying Attention to Black Voices: In Pursuit of Solidarity"
+_Thesis:_ [Paying Attention to Black Voices: In Pursuit of Solidarity](http://cdn.boidem.org/2023/PABV-TEF.pdf)
 
 **Abilene Christian University,** Abilene, TX 	1996-2006  
 M.S., Biblical and Related Studies  
@@ -110,7 +110,7 @@ Hebrew Readings/Poetry
 **Escuela de la Lengua Española, A.C.,** Guadalajara, Jalisco, México (2000)  
 Level 5 Spanish Language Study and Immersion (3 months)
 
-**Hendrick Hospice Care,** Abilene, TX (1999)
+**Hendrick Hospice Care,** Abilene, TX (1999)  
 Hospice Volunteer Chaplain Training
 
 
