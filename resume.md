@@ -3,66 +3,81 @@ title: Resume
 layout: default
 ---
 
-# The Very Reverend Todd Foster
+# The Very Reverend Dr. Todd Foster
 
 _(Contact information omitted from online version)_
 
 
 ---
 ## Ministry Specialties
-* Engage corporate worship with a clear sense of purpose and a love of music, including sung liturgy
+* Celebrate the special charisms of the Episcopal Church and the Book of Common Prayer
+* Pursue traditional Christian spiritual practices and rhythms of prayer, chant, and song
 * Depend upon the Bible as a source of preaching & teaching good news for life today
-* Inspire, equip, and support diverse groups: the priesthood of all believers
-* Organize adult formation programs, lead & delegate various types of small groups
-* Interests in Chant, Anglo-Catholic practice, Centering Prayer, Catechumenate
+* Speak the truth in love about white supremacy, LGBTQ+ inclusion, and financial stewardship
 
 
 ---
 ## Professional Experience
-**[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 100, Budget $260k)        2018-present: _Rector_
-* Teach about Jesus, Preach, Lead worship, Visit the sick in a multi-ethnic congregation
-* Balance budget, grow pledge base, implement stewardship process, empower leaders
-* Invite & train others to lead prayer offices, establish Morning Prayer podcast
-* Establish mid-week Eucharist, Centering Prayer, open door for private prayer
-* Organize Adult formation, Teen Confirmation, and ABCD's of Faith classes
-* Nurture children's ministry and integration with adults
-* Promote missional vision, efforts for Rowan University
-* Develop music program of choir and accompanists, involving college student leaders
-* Coordinate multi-faith community clergy gatherings
-* _Dean, Woodbury Convocation_: caring for neighboring congregations & clergy (2022-present)
+**[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 68, Budget $219k)        2018-present: _Rector_
+*  Pastor, priest, and teacher; administrator, coach, I/T resource
+*  Develop choir and music program, creatively involving local university students
+*  Establish Morning Prayer podcast, Centering Prayer & Evening Prayer services, including choral Evensong and sung Compline
+*  Build on practices of Black History Month and other Gospel-inspired efforts for justice
+*  Improve integration of children & young family programming with parish community
+*  Coordinate area parishes in outreach efforts to local state university
+*  Initiate small capital campaign to restore bell tower
+*  Dean of local Convocation, convener of occasional interfaith ministerium, advisory board member for Social Justice and Inclusion department at state university
 
 **Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
-* Presider, preacher, teacher, cantor, confessor
-* Manage & train lay ministry leaders, small groups, organize large events
-* Provide exegetical, homiletical support to participants in our sermon preparation process
-* Offer pastoral care newcomers, hospitalized, and elderly
+* Preside, preach, cantor, confessor, event organizer, lay ministry leader support
+* Teach classes on Bible, Christian spiritual practices, Christian ministry
 
 **St. Paul's Episcopal Church,** Bellingham, WA (ASA 324, Budget $0.73M)	2012-2016: _Business Administrator, Transitional Deacon_
 * Manage staff transitions, budget, salaries, health insurance, pledges, parochial report
 * Oversee building & systems maintenance, improvements, emergency repairs
 * Direct building rentals & scheduling of building space
+* Preach, teach, cantor, catechist, pastoral care
 * Develop Catechumenal process
-* Lay Preacher, Teacher, Cantor, Catechist, Eucharistic Minister, Pastoral caregiver
 
 **St. Paul’s Episcopal Church,** Mt. Vernon, WA 2015-2016: _Field Education Ministry Intern_
+* Preach, preside at Morning Prayer, plan liturgies
+* Provide liturgical assistance to a variety of priests in a church cooperative
 
 **Iglesia de la Resurrección,** Mt. Vernon, WA  	2014-2016: _Subdeacon, Lay Preacher_
+& Preach in Spanish
+* Assist Lutheran priests who don’t know the Episcopal liturgy, and Episcopal priests who don’t know Spanish
 
 **Logos Bible Software,** Bellingham, WA	2010-2012: _Software Developer_
+* Developer of cross-platform (Mac/Windows) software, mentor new team members
+* Resource for questions about biblical Greek and Hebrew
 
 **Interactive Network Technologies,** Inc., Houston, TX 	2007-2010: _Software Developer_
+* Project lead, mentoring a multi-site team for an international client in oil & gas
 
 **Bronx Fellowship of Christ,** Bronx, NY  	2001-2007: _Missionary, Church Planter_
+*  Missionary establishing new house churches in an urban setting in English & Spanish
+*  Preach, teach, organize 120 people representing 20 different nations
+*  Publish a hymnal that united our diverse community in song
+*  Communicate to ministry benefactors
+*  Technician and technical strategist (sound system, computers) for mission team
 
 **University Church of Christ,** Abilene, TX 	2000-2001: _Associate for the Hispanic community_
+* Preach, teach for Spanish-language minority community in a large, bi-cultural church
 
 **First Christian Church,** DeLeon, TX 	1998-2000: _Pastor_
+* Preach, teach, preside, pastoral care
+* Organize local ecumenical gatherings
 
 **Supply Chain Consultants,** Newark, DE, 1994-1999: _Systems Analyst_
+* Consultant to major multinational manufacturers on supply chain management
 
 
 ---
 ## Degrees Earned
+
+** General Theological Seminary,** New York, NY 2020-2024  
+Doctor of Ministry  
+_Thesis Title:_ "Paying Attention to Black Voices: In Pursuit of Solidarity"
 
 **Abilene Christian University,** Abilene, TX 	1996-2006  
 M.S., Biblical and Related Studies  
@@ -75,29 +90,34 @@ B.S., Computer Science
 ---
 ## Additional Training
 
-**Regular participation in Episcopal Church Conferences & Trainings** such as Anti-Racism Training, Safeguarding God's Children (trainer), CEEP, FORMA, YACM, CREDO, the College for Congregational Development
+**Anti-racism training,** Diocese of New Jersey (2019, 2022)  
+Innovative multi-day training from Diocese of NJ sets the standard for other Dioceses
 
-**General Theological Seminary,** New York, NY 	2021-present  
-Doctor of Ministry program with thesis project, "Lifting Up Black Voices" (WIP)
+**College for Congregational Development,** Diocese of Olympia (Western WA) (2016-2017)  
+Summer Intensives
 
-**Church Divinity School of the Pacific,** Berkeley, CA 	2013-2014  
+**Clinical Pastoral Education,** St. Joseph’s Medical Center, Bellingham, WA (2013-2014)  
+Two units, with hospital chaplaincy practicum
+
+**Church Divinity School of the Pacific,** Berkeley, CA (2013-2014)  
 CALL Program: Anglican Immersion and online classes
 
-**General Theological Seminary,** New York, NY 	2005-2006  
+**Safeguarding God's Children Trainer,** Bellingham, WA (2012-2016)
+
+**General Theological Seminary,** New York, NY (2005-2006)  
 Hebrew Readings/Poetry
 
-**Escuela de la Lengua Española,** A.C., Guadalajara, Jalisco, México	2000  
+**Escuela de la Lengua Española, A.C.,** Guadalajara, Jalisco, México (2000)  
 Level 5 Spanish Language Study and Immersion (3 months)
 
-**Hendrick Hospice Care,** Abilene, TX	1999  
+**Hendrick Hospice Care,** Abilene, TX (1999)
 Hospice Volunteer Chaplain Training
 
 
 ---
 ## Personal Information
-* Married 25+ years to Becky, grown children Aviva and Eli
+* Married 25+ years to Becky with young adult children Aviva and Eli.
 * Enjoy family, music, languages (especially Spanish) & cultures, travel, reading, being outdoors.
-* Long habit of pursuing ecumenical relationships reading the Bible in its original languages.
-* Hobbies include motorcycles (maintenance, riding), amateur radio (W2TEF, Amateur Extra Class), hiking.
-* Some favorite theologians include Walter Brueggemann, James Cone, David Steindl-Rast.
+* Hobbies include motorcycles (maintenance, riding), amateur radio (W2TEF), martial arts, hiking.
+* Some favorite theologians include James Cone, Walter Brueggemann, Dietrich Bonhoeffer.
 
