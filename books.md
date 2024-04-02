@@ -6,6 +6,9 @@ layout: default
 # Blog: A Book-Log
 
 Books I've read recently:
+## April 2024
+* Andy Weir, _Project Hail Mary_ (Ballantine Books: 2021)
+
 ## November 2023
 * Ward Silver, _The ARRL Extra Class License Manual for Ham Radio_ (The American Radio Relay League, Inc.: 2016)
 
