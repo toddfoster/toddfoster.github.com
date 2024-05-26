@@ -7,11 +7,11 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
-* [A Sacrifice of Praise](http://cdn.boidem.org/2024/sermons/StT20240525-JH.mp3) by the Rev. Deacon Dr. John Hanson: 26 May 2024
+* [A Sacrifice of Praise](http://cdn.boidem.org/2024/sermons/StT20240526-JH.mp3) by the Rev. Deacon Dr. John Hanson: 26 May 2024
 * [Pentecost](http://cdn.boidem.org/2024/sermons/StT20240519.mp3): 19 May 2024
 * [A Mother's Love](http://cdn.boidem.org/2024/sermons/StT20240512.mp3): 12 May 2024
 * [A New Command](http://cdn.boidem.org/2024/sermons/StT20240505.mp3): 5 May 2024
-* [Abiding in Jesus](http://cdn.boidem.org/2024/sermons/StT202428-JL.mp3): by the Rev. Justin Lanier: 28 April 2024
+* [Abiding in Jesus](http://cdn.boidem.org/2024/sermons/StT20240428-JL.mp3): by the Rev. Justin Lanier: 28 April 2024
 * [The Good Shepherd](http://cdn.boidem.org/2024/sermons/StT20240421-JH.mp3) by the Rev. Deacon Dr. John Hanson: 21 April 2024
 * [A New Identity](http://cdn.boidem.org/2024/sermons/StT20240414.mp3): 14 April 2024
 * [Easter 2](http://cdn.boidem.org/2024/sermons/StT20240407-GD.mp3) by the Rev. Glenn Druce: 7 April 2024
