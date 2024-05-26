@@ -26,7 +26,7 @@ _(Contact information omitted from online version)_
 *  Improve integration of children & young family programming with parish community
 *  Coordinate area parishes in outreach efforts to local state university
 *  Initiate small capital campaign to restore bell tower
-*  Dean of local Convocation, convener of occasional interfaith ministerium, advisory board member for Social Justice and Inclusion department at state university
+*  Dean of local Convocation, Vice-chair Diocesan Campus Ministry Foundation, Advisory Board member for Social Justice and Inclusion department at nearby state university, Convener of occasional interfaith ministerium
 
 **Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
 * Preside, preach, cantor, confessor, event organizer, lay ministry leader support
@@ -77,7 +77,7 @@ _(Contact information omitted from online version)_
 
 **General Theological Seminary,** New York, NY	2020-2024  
 Doctor of Ministry  
-_Thesis:_ [Paying Attention to Black Voices: In Pursuit of Solidarity](http://cdn.boidem.org/2023/PABV-TEF.pdf)
+_J. Wilson Sutton prize for thesis:_ [Paying Attention to Black Voices: In Pursuit of Solidarity](http://cdn.boidem.org/2023/PABV-TEF.pdf)
 
 **Abilene Christian University,** Abilene, TX 	1996-2006  
 M.S., Biblical and Related Studies  
