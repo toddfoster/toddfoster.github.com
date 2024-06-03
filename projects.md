@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
+* [Listening to God's Voice](http://cdn.boidem.org/2024/sermons/StT20240602.mp3): 2 June 2024
 * [A Sacrifice of Praise](http://cdn.boidem.org/2024/sermons/StT20240526-JH.mp3) by the Rev. Deacon Dr. John Hanson: 26 May 2024
 * [Pentecost](http://cdn.boidem.org/2024/sermons/StT20240519.mp3): 19 May 2024
 * [A Mother's Love](http://cdn.boidem.org/2024/sermons/StT20240512.mp3): 12 May 2024
