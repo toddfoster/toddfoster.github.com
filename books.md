@@ -6,6 +6,10 @@ layout: default
 # Blog: A Book-Log
 
 Books I've read recently:
+
+## June 2024
+* Emily Nagoski, Amelia Nagoski, _Bunrout: The Secret to Unlocking the Stress Cycle_ (Ballantine Books: 2019)
+
 ## April 2024
 * Andy Weir, _Project Hail Mary_ (Ballantine Books: 2021)
 
