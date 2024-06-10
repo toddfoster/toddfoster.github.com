@@ -8,7 +8,10 @@ layout: default
 Books I've read recently:
 
 ## June 2024
-* Emily Nagoski, Amelia Nagoski, _Bunrout: The Secret to Unlocking the Stress Cycle_ (Ballantine Books: 2019)
+* Emily Nagoski, Amelia Nagoski, _Burnout: The Secret to Unlocking the Stress Cycle_ (Ballantine Books: 2019)
+
+## May 2024
+* James E. Griffiss, _The Anglican Vision_ (Cowley Publications: 1997)
 
 ## April 2024
 * Andy Weir, _Project Hail Mary_ (Ballantine Books: 2021)
