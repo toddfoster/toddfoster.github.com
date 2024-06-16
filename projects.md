@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
+* [Fathers' Day](http://cdn.boidem.org/2024/sermons/StT20240616-JH.mp3) by the Rev. Deacon Dr. John Hanson: 16 June 2024
 * [Pride Month](http://cdn.boidem.org/2024/sermons/StT20240609.mp3): 9 June 2024
 * [Listening to God's Voice](http://cdn.boidem.org/2024/sermons/StT20240602.mp3): 2 June 2024
 * [A Sacrifice of Praise](http://cdn.boidem.org/2024/sermons/StT20240526-JH.mp3) by the Rev. Deacon Dr. John Hanson: 26 May 2024
