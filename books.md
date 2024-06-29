@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## June 2024
 * Emily Nagoski, Amelia Nagoski, _Burnout: The Secret to Unlocking the Stress Cycle_ (Ballantine Books: 2019)
+* Laura J. Mixon, _Up Against It_ (Tor/Forge: 2022)
 
 ## May 2024
 * James E. Griffiss, _The Anglican Vision_ (Cowley Publications: 1997)
