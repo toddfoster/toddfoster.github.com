@@ -7,6 +7,11 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
+
+* [Compassion](http://cdn.boidem.org/2024/sermons/StT20240721-JH.mp3) by the Rev. Deacon Dr. John Hanson: 21 July 2024
+* [Spiritual Blessings](http://cdn.boidem.org/2024/sermons/StT20240714.mp3): 14 July 2024
+* [When I Am Weak](http://cdn.boidem.org/2024/sermons/StT20240707.mp3): 7 July 2024
+* [Proper 8](http://cdn.boidem.org/2024/sermons/StT20240630-GD.mp3) by the Rev. Glenn Druce: 30 June 2024
 * [Fathers' Day](http://cdn.boidem.org/2024/sermons/StT20240616-JH.mp3) by the Rev. Deacon Dr. John Hanson: 16 June 2024
 * [Pride Month](http://cdn.boidem.org/2024/sermons/StT20240609.mp3): 9 June 2024
 * [Listening to God's Voice](http://cdn.boidem.org/2024/sermons/StT20240602.mp3): 2 June 2024
