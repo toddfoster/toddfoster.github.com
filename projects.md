@@ -8,6 +8,7 @@ Recent Sermons and Other Materials
 
 *2024*
 
+* [Things Temporal, Things Eternal](http://cdn.boidem.org/2024/sermons/StT20240728.mp3): 28 July 2024
 * [Compassion](http://cdn.boidem.org/2024/sermons/StT20240721-JH.mp3) by the Rev. Deacon Dr. John Hanson: 21 July 2024
 * [Spiritual Blessings](http://cdn.boidem.org/2024/sermons/StT20240714.mp3): 14 July 2024
 * [When I Am Weak](http://cdn.boidem.org/2024/sermons/StT20240707.mp3): 7 July 2024
