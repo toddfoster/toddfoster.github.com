@@ -8,6 +8,8 @@ Recent Sermons and Other Materials
 
 *2024*
 
+* [Whom do you love?](http://cdn.boidem.org/2024/sermons/StT20240811.mp3): 11 August 2024
+* [Jesus, the Bread of Life](http://cdn.boidem.org/2024/sermons/StT20240804.mp3): 4 August 2024
 * [Things Temporal, Things Eternal](http://cdn.boidem.org/2024/sermons/StT20240728.mp3): 28 July 2024
 * [Compassion](http://cdn.boidem.org/2024/sermons/StT20240721-JH.mp3) by the Rev. Deacon Dr. John Hanson: 21 July 2024
 * [Spiritual Blessings](http://cdn.boidem.org/2024/sermons/StT20240714.mp3): 14 July 2024
