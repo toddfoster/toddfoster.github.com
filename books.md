@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2024
+* Oliver Sacks, _Gratitude_ (Alfred A. Knopf: 2015)
+
 ## July 2024
 * Jeff Galloway, _Marathon: you can do it!_ (Shelter Publications: 2001)
 
