@@ -10,6 +10,7 @@ Books I've read recently:
 ## August 2024
 * Oliver Sacks, _Gratitude_ (Alfred A. Knopf: 2015)
 * Suzanne Farnham, et al, _Listening Hearts: Discerning Call in Community_ (Morehouse Publishing: 1991)
+* Alice Walker, _The Color Purple_ (Pocket Books: 1982)
 
 ## July 2024
 * Jeff Galloway, _Marathon: you can do it!_ (Shelter Publications: 2001)
