@@ -12,6 +12,7 @@ Books I've read recently:
 * Suzanne Farnham, et al, _Listening Hearts: Discerning Call in Community_ (Morehouse Publishing: 1991)
 * Alice Walker, _The Color Purple_ (Pocket Books: 1982)
 * Ada Palmer, _Perhaps the Stars_ (Tor: 2021)
+* Kelly Link, _The Book of Love_ (Random House: 2024)
 
 ## July 2024
 * Jeff Galloway, _Marathon: you can do it!_ (Shelter Publications: 2001)
