@@ -422,10 +422,7 @@ Recent Sermons and Other Materials
 * [Catechist Guide for 2013-2014](http://cdn.boidem.org/2013/CatechistGuide2014.pdf)
 * [25 August 2013 at St. Paul's, Bellingham](http://cdn.boidem.org/2013/StP201308251030.mp3)
 * [28 March 2013 at St. Paul's Bellingham](http://cdn.boidem.org/2013/StPBhm20130328.mp3)
-
-<center>
-<img alt="Rocky &amp; Todd at Good Friday 2013" src="http://cdn.boidem.org/2013/GoodFriday.JPG" width="400"/>
-</center>
+* [Good Friday Clipping](http://cdn.boidem.org/2013/GoodFriday.JPG)
 
 *From the Bronx*
 
