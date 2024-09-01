@@ -8,6 +8,7 @@ Recent Sermons and Other Materials
 
 *2024*
 
+* [Purity](http://cdn.boidem.org/2024/sermons/StT20240901.mp3): 1 September 2024
 * [The Whole Armor of God](http://cdn.boidem.org/2024/sermons/StT20240825-JH.mp3) by the Rev. Deacon Dr. John Hanson: 25 August 2024
 * [A Transformative Meal](http://cdn.boidem.org/2024/sermons/StT20240818-AW.mp3) by the Rev. Allen Wakabayashi: 18 August 2024
 * [Whom do you love?](http://cdn.boidem.org/2024/sermons/StT20240811.mp3): 11 August 2024
