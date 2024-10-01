@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## September 2024
 * Kara N. Slade, _The Fullness of Time: Jesus Christ, Science, and Modernity_ (Cascade Books: 2021)
+* Mariann Edgar Budde, _How We Learn to be Brave: Decisive Moments in Life an Faith_ (Avery: 2023)
 
 ## August 2024
 * Oliver Sacks, _Gratitude_ (Alfred A. Knopf: 2015)
