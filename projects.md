@@ -8,6 +8,12 @@ Recent Sermons and Other Materials
 
 *2024*
 
+* [The Rich Young Ruler](http://cdn.boidem.org/2024/sermons/StT20241013-JH.mp3) by the Rev. Deacon Dr. John Hanson: 13 October 2024
+* [Abundance](http://cdn.boidem.org/2024/sermons/StT20241006.mp3): 6 October 2024
+* [Called to Pray](http://cdn.boidem.org/2024/sermons/StT20240929.mp3): 29 September 2024
+* [Divine Wisdom](http://cdn.boidem.org/2024/sermons/StT20240922-JH.mp3) by the Rev. Deacon Dr. John Hanson: 22 September 2024
+* [The Power of the Tongue](http://cdn.boidem.org/2024/sermons/StT20240915.mp3): 15 September 2024
+* [Favoritism](http://cdn.boidem.org/2024/sermons/StT20240908.mp3): 8 September 2024
 * [Purity](http://cdn.boidem.org/2024/sermons/StT20240901.mp3): 1 September 2024
 * [The Whole Armor of God](http://cdn.boidem.org/2024/sermons/StT20240825-JH.mp3) by the Rev. Deacon Dr. John Hanson: 25 August 2024
 * [A Transformative Meal](http://cdn.boidem.org/2024/sermons/StT20240818-AW.mp3) by the Rev. Allen Wakabayashi: 18 August 2024
