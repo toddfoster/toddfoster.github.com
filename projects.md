@@ -7,7 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
-* [Election](http://cdn.boidem.org/2024/sermons/StT20241110.mp3)([pdf](http://cdn.boidem.org/2024/sermons/20241110-Proper27B.pdf)): 10 November 2024
+* [Election](http://cdn.boidem.org/2024/sermons/StT20241110.mp3) ([pdf](http://cdn.boidem.org/2024/sermons/20241110-Proper27B.pdf)): 10 November 2024
 * [Unbind her!](http://cdn.boidem.org/2024/sermons/StT20241103.mp3): 3 November 2024
 * Jesus and Bartimaeus: [The Cloak](http://cdn.boidem.org/2024/sermons/StT20241026-SC.mp3), [The Question](http://cdn.boidem.org/2024/sermons/StT20241027a-SC.mp3), [The Crowd](http://cdn.boidem.org/2024/sermons/StT20241027b-SC.mp3) by the Rev. Canon Susanna Cates: 27 October 2024
 * [Creating Sacred Space](http://cdn.boidem.org/2024/sermons/StT20241020-DL.mp3) by the Rev. David Laquintano: 20 October 2024
