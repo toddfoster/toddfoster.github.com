@@ -10,6 +10,7 @@ Books I've read recently:
 ## November 2024
 * Beth Wickenberg Ely, _A Manual for Eucharistic Visitors_ (Morehouse Publishing: 2005)
 * Beth Wickenberg Ely, _The Cup of Salvation; A Manual for Eucharistic Ministers_ (Morehouse Publishing: 2012)
+* Ted Simon, _Jupiter's Travels_ (Jupitalia: 1996)
 
 ## October 2024
 * John Swanson Jacobs, _The United States Governed by Six Hundred Thousand Despots_ (The University of Chicago Press: 2024)
