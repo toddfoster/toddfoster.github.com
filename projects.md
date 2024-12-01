@@ -7,6 +7,9 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
+* [God's Promise of Justice](http://cdn.boidem.org/2024/sermons/StT20241201.mp3): 1 December 2024
+* [Christ the King](http://cdn.boidem.org/2024/sermons/StT20241124-JH.mp3) by the Rev. Deacon Dr. John Hanson: 24 November 2024
+* [Bible Sunday](http://cdn.boidem.org/2024/sermons/StT20241117-GD.mp3) by the Rev. Glenn Druce: 17 November 2024
 * [Election](http://cdn.boidem.org/2024/sermons/StT20241110.mp3) ([pdf](http://cdn.boidem.org/2024/sermons/20241110-Proper27B.pdf)): 10 November 2024
 * [Unbind her!](http://cdn.boidem.org/2024/sermons/StT20241103.mp3): 3 November 2024
 * Jesus and Bartimaeus: [The Cloak](http://cdn.boidem.org/2024/sermons/StT20241026-SC.mp3), [The Question](http://cdn.boidem.org/2024/sermons/StT20241027a-SC.mp3), [The Crowd](http://cdn.boidem.org/2024/sermons/StT20241027b-SC.mp3) by the Rev. Canon Susanna Cates: 27 October 2024
