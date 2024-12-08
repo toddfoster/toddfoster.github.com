@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2024*
+* [Prepare the Way](http://cdn.boidem.org/2024/sermons/StT20241208.mp3): 8 December 2024
 * [God's Promise of Justice](http://cdn.boidem.org/2024/sermons/StT20241201.mp3): 1 December 2024
 * [Christ the King](http://cdn.boidem.org/2024/sermons/StT20241124-JH.mp3) by the Rev. Deacon Dr. John Hanson: 24 November 2024
 * [Bible Sunday](http://cdn.boidem.org/2024/sermons/StT20241117-GD.mp3) by the Rev. Glenn Druce: 17 November 2024
