@@ -11,6 +11,7 @@ Books I've read recently:
 * William G. Pierpont, N0HFF, _The Art and Skill of Radio-Telegraphy_ (3rd rev. ed., April 20, 2002, published online)
 * Arkady Martine, _A Memory Called Empire_ (Tor: 2019)
 * Mashama Bailey and John O. Morisano, _Black, White, and The Grey_ (Lorena Jones Books: 2021)
+* Richard Rohr, _Things Hidden: Scripture as Spirituality_ (Franciscan Media: 2022)
 
 ## November 2024
 * Beth Wickenberg Ely, _A Manual for Eucharistic Visitors_ (Morehouse Publishing: 2005)
