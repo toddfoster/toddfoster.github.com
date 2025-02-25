@@ -7,6 +7,10 @@ layout: default
 
 Books I've read recently:
 
+## February 2025
+* Albert F. Peter, AC8GY, Dr. Jack Purdum, W8TEE, _Digital Signal Processing and Software Defined Radio_, 3rd ed. (self published, Las Vegas, NV: 2024)
+* Eugene H. Peterson, _The Contemplative Pastor; Returning to the Art of Spiritual Direction_ (Christianity Today: 1989)
+
 ## January 2025
 * William G. Pierpont, N0HFF, _The Art and Skill of Radio-Telegraphy_ (3rd rev. ed., April 20, 2002, published online)
 * Arkady Martine, _A Memory Called Empire_ (Tor: 2019)
