@@ -11,6 +11,7 @@ Books I've read recently:
 * Albert F. Peter, AC8GY, Dr. Jack Purdum, W8TEE, _Digital Signal Processing and Software Defined Radio_, 3rd ed. (self published, Las Vegas, NV: 2024)
 * Eugene H. Peterson, _The Contemplative Pastor; Returning to the Art of Spiritual Direction_ (Christianity Today: 1989)
 * Anthony Ray Hinton, _The Sun Does Shine: How I Found Life, Freedom, and Justice_ (St. Martin's Griffin, 2018)
+* Percival Everett, _Jamers_ (Doubleday: 2024)
 
 ## January 2025
 * William G. Pierpont, N0HFF, _The Art and Skill of Radio-Telegraphy_ (3rd rev. ed., April 20, 2002, published online)
