@@ -6,7 +6,20 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+*2025*
+* [Transfiguration](http://cdn.boidem.org/2025/sermons/StT20250302.mp3): 2 March 2025
+* [Faith that Changes You](http://cdn.boidem.org/2025/sermons/StT20250223.mp3): 23 February 2025
+* [Blessings and Woes](http://cdn.boidem.org/2025/sermons/StT20250216.mp3): 16 February 2025
+* [The Conversation](http://cdn.boidem.org/2025/sermons/StT20250209-LT.mp3) by Laconia Therrio, Storyteller and Chaplain: 9 February 2025
+* [Presentation](http://cdn.boidem.org/2025/sermons/StT20250202.mp3): 2 February 2025
+* [The Spirit of the Lord](http://cdn.boidem.org/2025/sermons/StT20250126.mp3): 26 January 2025
+* [Jars of Water](http://cdn.boidem.org/2025/sermons/StT20250119.mp3): 19 January 2025
+* [Baptism of Jesus](http://cdn.boidem.org/2025/sermons/StT20250112-SR.mp3) by the Rev. D. Scott Russel, Chaplain at Rutgers University: 12 January 2025
+
 *2024*
+* [Growing Up](http://cdn.boidem.org/2024/sermons/StT20241229.mp3): 29 December 2024
+* [Visitation](http://cdn.boidem.org/2024/sermons/StT20241222-JH.mp3) by the Rev. Deacon Dr. John Hanson: 22 December 2024
+* [Crowds, Tax Collectors, and Soldiers](http://cdn.boidem.org/2024/sermons/StT20241215.mp3): 15 December 2024
 * [Prepare the Way](http://cdn.boidem.org/2024/sermons/StT20241208.mp3): 8 December 2024
 * [God's Promise of Justice](http://cdn.boidem.org/2024/sermons/StT20241201.mp3): 1 December 2024
 * [Christ the King](http://cdn.boidem.org/2024/sermons/StT20241124-JH.mp3) by the Rev. Deacon Dr. John Hanson: 24 November 2024
