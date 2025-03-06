@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## March 2025
+* Cory Doctorow, _Picks & Shovels_ (Tor Publishing Group: 2025)
+
 ## February 2025
 * Albert F. Peter, AC8GY, Dr. Jack Purdum, W8TEE, _Digital Signal Processing and Software Defined Radio_, 3rd ed. (self published, Las Vegas, NV: 2024)
 * Eugene H. Peterson, _The Contemplative Pastor; Returning to the Art of Spiritual Direction_ (Christianity Today: 1989)
