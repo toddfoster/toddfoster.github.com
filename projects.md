@@ -7,6 +7,7 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2025*
+* [Temptation](http://cdn.boidem.org/2025/sermons/StT20250309.mp3): 9 March 2025
 * [Transfiguration](http://cdn.boidem.org/2025/sermons/StT20250302.mp3): 2 March 2025
 * [Faith that Changes You](http://cdn.boidem.org/2025/sermons/StT20250223.mp3): 23 February 2025
 * [Blessings and Woes](http://cdn.boidem.org/2025/sermons/StT20250216.mp3): 16 February 2025
