@@ -7,6 +7,10 @@ Recent Sermons and Other Materials
 ----------------------------------
 
 *2025*
+* [Our Stories Shape Us](http://cdn.boidem.org/2025/sermons/StT20250406.mp3): 6 April 2025
+* [Circumcision and Empire](http://cdn.boidem.org/2025/sermons/StT20250330.mp3): 30 March 2025
+* [What to Do About Difficult News](http://cdn.boidem.org/2025/sermons/StT20250323.mp3): 23 March 2025
+* [Faith and Doubt](http://cdn.boidem.org/2025/sermons/StT20250316.mp3): 16 March 2025
 * [Temptation](http://cdn.boidem.org/2025/sermons/StT20250309.mp3): 9 March 2025
 * [Transfiguration](http://cdn.boidem.org/2025/sermons/StT20250302.mp3): 2 March 2025
 * [Faith that Changes You](http://cdn.boidem.org/2025/sermons/StT20250223.mp3): 23 February 2025
