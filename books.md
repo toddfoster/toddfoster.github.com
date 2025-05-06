@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## May 2025
+* Neal O. Michell, _How to Hit the Ground Running: A Quick-Start Guide For Congregations With New Leadership_ (Church Publishing: 2005)
+
 ## March 2025
 * Cory Doctorow, _Picks & Shovels_ (Tor Publishing Group: 2025)
 
