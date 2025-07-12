@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## July 2025
 * Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_ (Cowley Publications: 1989)
+* Charles T. Dupree, _Practicing Imperfection: A Priest's Journey through Meditation, Messing Up, and Ministry_ (Resource Publications: 2016)
 
 ## June 2025
 * Makr Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
