@@ -30,7 +30,7 @@ _(Contact information omitted from online version)_
 *  Initiate small capital campaign to restore bell tower
 *  Dean of local Convocation, Vice-chair Diocesan Campus Ministry Foundation, Advisory Board member for Social Justice and Inclusion department at nearby state university, Convener of occasional interfaith ministerium
 
-**Epiphany Parish,** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
+**[Epiphany Parish](https://epiphanyseattle.org/),** Seattle, WA (ASA 362, Budget $1.4M)	2016-2018: _Priest Associate / Curate_
 * Preside, preach, cantor, confessor, event organizer, lay ministry leader support
 * Teach classes on Bible, Christian spiritual practices, Christian ministry
 
