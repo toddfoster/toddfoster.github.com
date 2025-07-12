@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## July 2025
+* Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_ (Cowley Publications: 1989)
+
 ## June 2025
 * Makr Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
 
