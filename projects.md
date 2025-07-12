@@ -6,6 +6,8 @@ layout: default
 Recent Sermons and Other Materials
 ----------------------------------
 
+Services (including sermons) beginning in May 2025 may be seen on [YouTube](https://www.youtube.com/@StLukesMetuchen).
+
 *2025*
 * [Signs for Believing](http://cdn.boidem.org/2025/sermons/StT20250426.mp3): 27 April 2025
 * [Empty Tomb](http://cdn.boidem.org/2025/sermons/StT20250420.mp3): 20 April 2025
