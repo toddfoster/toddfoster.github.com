@@ -11,6 +11,7 @@ Books I've read recently:
 * Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_ (Cowley Publications: 1989)
 * Charles T. Dupree, _Practicing Imperfection: A Priest's Journey through Meditation, Messing Up, and Ministry_ (Resource Publications: 2016)
 * Sophia Dembling, _The Introvert's Way: Living a Quiet Life in a Noisy World_ (Perigee: 2012)
+* Helen Macdonald, _Vesper Flights_ (Grove Press: 2020)
 
 ## June 2025
 * Makr Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
