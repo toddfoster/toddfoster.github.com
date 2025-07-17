@@ -12,6 +12,7 @@ Books I've read recently:
 * Charles T. Dupree, _Practicing Imperfection: A Priest's Journey through Meditation, Messing Up, and Ministry_ (Resource Publications: 2016)
 * Sophia Dembling, _The Introvert's Way: Living a Quiet Life in a Noisy World_ (Perigee: 2012)
 * Helen Macdonald, _Vesper Flights_ (Grove Press: 2020)
+* Jonathan Eig, _King: A Life_ (Farrar, Straus and Giroux: 2023)
 
 ## June 2025
 * Makr Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
