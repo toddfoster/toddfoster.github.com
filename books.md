@@ -14,6 +14,7 @@ Books I've read recently:
 * Helen Macdonald, _Vesper Flights_ (Grove Press: 2020)
 * Jonathan Eig, _King: A Life_ (Farrar, Straus and Giroux: 2023)
 * Cory Doctorow, _The Internet Con: How to Seize the Means of Computation_ (Verso: 2023)
+* George MacDonald, _Phantastes: A Faerie Romance for Men and Women_ (Project Gutenberg: 2008)
 
 ## June 2025
 * Makr Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
