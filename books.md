@@ -17,7 +17,7 @@ Books I've read recently:
 * George MacDonald, _Phantastes: A Faerie Romance for Men and Women_ (Project Gutenberg: 2008)
 
 ## June 2025
-* Makr Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
+* Mark Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
 
 ## May 2025
 * Neal O. Michell, _How to Hit the Ground Running: A Quick-Start Guide For Congregations With New Leadership_ (Church Publishing: 2005)
