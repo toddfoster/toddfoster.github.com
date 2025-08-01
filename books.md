@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2025
+* Thomas E. Powers, _Invitation to a Great Experiment: Exploring the possibility that God can be known_ (24 Communications, Inc: 2009)
+
 ## July 2025
 * Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_ (Cowley Publications: 1989)
 * Charles T. Dupree, _Practicing Imperfection: A Priest's Journey through Meditation, Messing Up, and Ministry_ (Resource Publications: 2016)
@@ -15,6 +18,7 @@ Books I've read recently:
 * Jonathan Eig, _King: A Life_ (Farrar, Straus and Giroux: 2023)
 * Cory Doctorow, _The Internet Con: How to Seize the Means of Computation_ (Verso: 2023)
 * George MacDonald, _Phantastes: A Faerie Romance for Men and Women_ (Project Gutenberg: 2008)
+* Jack Shitama, _Anxious Church Anxious People: How to Lead Change in an Age of Anxiety_ (Charis Works: 2018)
 
 ## June 2025
 * Mark Lau Branson, _Memories, Hopes, and Conversations: Appreciative Inquiry and Congregational Change_ (The Alban Institute: 2004)
