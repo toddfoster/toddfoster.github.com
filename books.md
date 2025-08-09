@@ -10,6 +10,7 @@ Books I've read recently:
 ## August 2025
 * Thomas E. Powers, _Invitation to a Great Experiment: Exploring the possibility that God can be known_ (24 Communications, Inc: 2009)
 * Julia Gatta and Martin L. Smith, _Go in Peace: The Art of Hearing Confessions_ (Morehouse Publishing: 2012)
+* Carolyn Schrock-Shenk and Lawrence Ressler, eds. _Making Peace with Conflict: Practical Skills for Conflict Transformation_ (Herald Press: 1999)
 
 ## July 2025
 * Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_ (Cowley Publications: 1989)
