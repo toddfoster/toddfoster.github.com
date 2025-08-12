@@ -19,6 +19,9 @@ _(Contact information omitted from online version)_
 ---
 ## Professional Experience
 **[St. Luke's Episcopal Church](https://www.stlukesmetuchen.org/),** Metuchen, NJ (ASA 98, Budget $406k)        2025-present: _Interim_
+* Provide a steady presence of liturgical leadership and pastoral care during a season of change and grief
+* Empower / encourage lay leadership, streamline administration, emphasize stewardship
+* Recent Homilies: (Do not be afraid, little flock (10 August 2025))[https://youtu.be/3hsiHtwvYAY?t=455]
 
 **[St. Thomas' Episcopal Church](https://www.stthomasglassboro.org),** Glassboro, NJ (ASA 68, Budget $219k)        2018-present: _Rector_
 *  Pastor, priest, and teacher; administrator, coach, I/T resource
