@@ -95,6 +95,8 @@ B.S., Computer Science
 ---
 ## Additional Training
 
+**Appreciative Inquiry and Transition Ministry,** Rob Voyle, The Appreciative Way (2025)
+
 **Anti-racism training,** Diocese of New Jersey (2019, 2022)  
 Innovative multi-day training from Diocese of NJ sets the standard for other Dioceses
 
@@ -118,11 +120,11 @@ Level 5 Spanish Language Study and Immersion (3 months)
 **Hendrick Hospice Care,** Abilene, TX (1999)  
 Hospice Volunteer Chaplain Training
 
-
+ 
 ---
 ## Personal Information
 * Married 25+ years to Becky with young adult children Aviva and Eli.
 * Enjoy family, music, languages (especially Spanish) & cultures, travel, reading, being outdoors.
-* Hobbies include motorcycles (maintenance, riding), amateur radio (W2TEF), martial arts, hiking.
+* Hobbies include motorcycles (maintenance, riding), amateur radio ([W2TEF](https://www.qrz.com/db/W2TEF)), martial arts, hiking.
 * Some favorite theologians include James Cone, Walter Brueggemann, Dietrich Bonhoeffer.
 
