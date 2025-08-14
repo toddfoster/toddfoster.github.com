@@ -12,6 +12,7 @@ Books I've read recently:
 * Julia Gatta and Martin L. Smith, _Go in Peace: The Art of Hearing Confessions_ (Morehouse Publishing: 2012)
 * Carolyn Schrock-Shenk and Lawrence Ressler, eds. _Making Peace with Conflict: Practical Skills for Conflict Transformation_ (Herald Press: 1999)
 * Charles Marsh, _Evangelical Anxiety: A Memoir_ (HarperOne: 2022)
+* Delwin Brown, _What Does a Progressive Christian Believe? A Guide for the Searching, the Open, and the Curious_ (Seabury Books: 2008)
 
 ## July 2025
 * Howard E. Galley, _The Ceremonies of the Eucharist: A Guide to Celebration_ (Cowley Publications: 1989)
