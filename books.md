@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## September 2025
+* John Goldingay, _Do we need the New Testament? Letting the Old Testament Speak for Itself_ (IVP Academic: 2015)
+
 ## August 2025
 * Thomas E. Powers, _Invitation to a Great Experiment: Exploring the possibility that God can be known_ (24 Communications, Inc: 2009)
 * Julia Gatta and Martin L. Smith, _Go in Peace: The Art of Hearing Confessions_ (Morehouse Publishing: 2012)
