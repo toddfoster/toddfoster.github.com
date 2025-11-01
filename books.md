@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## October 2025
+* Shai Held, _Judaism is About Love: Recovering the Heart of Jewish Life_ (Picador: 2024)
+
 ## September 2025
 * John Goldingay, _Do we need the New Testament? Letting the Old Testament Speak for Itself_ (IVP Academic: 2015)
 
