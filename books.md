@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## November 2025
+* Loren B. Mead, _Critical Moment of Ministry: a change of pastors_ (The Alban Institute, Inc.: 1986)
+
 ## October 2025
 * Shai Held, _Judaism is About Love: Recovering the Heart of Jewish Life_ (Picador: 2024)
 
