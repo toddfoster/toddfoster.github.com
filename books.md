@@ -11,6 +11,7 @@ Books I've read recently:
 * Loren B. Mead, _Critical Moment of Ministry: a change of pastors_ (The Alban Institute, Inc.: 1986)
 * Marion J. Hatchett, _A Manual of Ceremonial for the New Prayer Book_ (The St. Luke's Journal of Theology: 1977)
 * George Hodges, _The Episcopal Church: Its Faith and Order_ (The Macmillan Company: 1916)
+* Jolyon G. R. Pruszinski, _Anglican Slavery in New Jersey: An Initial Accounting_ (Cascade Books: 2025)
 
 ## October 2025
 * Shai Held, _Judaism is About Love: Recovering the Heart of Jewish Life_ (Picador: 2024)
