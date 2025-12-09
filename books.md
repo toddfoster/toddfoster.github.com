@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## December 2025
+* Robin Hammeal-Urban, _Wholeness After Betrayal: Restoring Trust in the Wake of Misconduct_ (Morehouse Publishing: 2015)
+
 ## November 2025
 * Loren B. Mead, _Critical Moment of Ministry: a change of pastors_ (The Alban Institute, Inc.: 1986)
 * Marion J. Hatchett, _A Manual of Ceremonial for the New Prayer Book_ (The St. Luke's Journal of Theology: 1977)
