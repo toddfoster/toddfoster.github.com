@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## December 2025
 * Robin Hammeal-Urban, _Wholeness After Betrayal: Restoring Trust in the Wake of Misconduct_ (Morehouse Publishing: 2015)
+* Ernest J. Gaines, _The Autobiography of Miss Jane Pittman_ (Bantam Books: 1971)
 
 ## November 2025
 * Loren B. Mead, _Critical Moment of Ministry: a change of pastors_ (The Alban Institute, Inc.: 1986)
