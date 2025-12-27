@@ -11,6 +11,7 @@ Books I've read recently:
 * Robin Hammeal-Urban, _Wholeness After Betrayal: Restoring Trust in the Wake of Misconduct_ (Morehouse Publishing: 2015)
 * Ernest J. Gaines, _The Autobiography of Miss Jane Pittman_ (Bantam Books: 1971)
 * Karla Cornejo Villavicencio, _The Undocumented Americans_ (One World: 2020)
+* R. O. Blechman, _The Juggler of Our Lady: The Classic Christmas Story_ (Dover Publications: 2015/1952)
 
 ## November 2025
 * Loren B. Mead, _Critical Moment of Ministry: a change of pastors_ (The Alban Institute, Inc.: 1986)
