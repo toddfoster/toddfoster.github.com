@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## January 2026
+* Barbara Cawthorn Crafton, _The Courage to Grow Old_ (Morehouse Publishing: 2014)
+
 ## December 2025
 * Robin Hammeal-Urban, _Wholeness After Betrayal: Restoring Trust in the Wake of Misconduct_ (Morehouse Publishing: 2015)
 * Ernest J. Gaines, _The Autobiography of Miss Jane Pittman_ (Bantam Books: 1971)
