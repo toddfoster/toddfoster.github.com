@@ -10,6 +10,7 @@ Books I've read recently:
 ## February 2026
 * Ivan Illich, _The Church, Change and Development_ (Urban Training Center Press: 1970)
 * Pallavi Sharma Dixit, _Edison: A Novel_ (Third State Books: 2024)
+* Mariano Magrassi, _Praying the Bible: An Introduction to Lectio Divina_ (Liturgical Press: 1998)
 
 ## January 2026
 * Barbara Cawthorn Crafton, _The Courage to Grow Old_ (Morehouse Publishing: 2014)
