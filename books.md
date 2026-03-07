@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## March 2026
+* Clint Smith, _How the Word is Passed: A Reckoning with the History of Slavery Across America_ (Little, Brown and Company: 2021)
+
 ## February 2026
 * Ivan Illich, _The Church, Change and Development_ (Urban Training Center Press: 1970)
 * Pallavi Sharma Dixit, _Edison: A Novel_ (Third State Books: 2024)
