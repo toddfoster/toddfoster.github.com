@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## June 2026
+* Allen K. Shin and Larry R. Benfield, eds., _The Crisis of Christian Nationalism_ (Church Publishing: 2024)
+
 ## March 2026
 * Clint Smith, _How the Word is Passed: A Reckoning with the History of Slavery Across America_ (Little, Brown and Company: 2021)
 
