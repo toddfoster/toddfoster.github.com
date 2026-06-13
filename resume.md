@@ -3,7 +3,7 @@ title: Resume
 layout: default
 ---
 
-# The Very Reverend Dr. Todd Foster
+# The Reverend Dr. Todd Foster
 
 _(Contact information omitted from online version)_
 
