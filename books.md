@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## July 2026
+* Charles W. Taylor, _The Skilled Pastor: Counseling as the Practice of Theology_ (Fortress Press: 1991)
+
 ## June 2026
 * Allen K. Shin and Larry R. Benfield, eds., _The Crisis of Christian Nationalism_ (Church Publishing: 2024)
 * Samuel C. Heilman, _The People of the Book: Drama, Fellowship, and Religion_ (The University of Chicago Press: 1983)
