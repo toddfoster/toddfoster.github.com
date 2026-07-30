@@ -470,6 +470,7 @@ Services (including sermons) beginning in May 2025 may be seen on [YouTube](http
 
 -----------
 
+* [Shared Prayers](https://www.sharedprayers.net) ([first draft](stt2020-index))
 * [Preaching](preaching)
 * [Software](softwareProjects)
 
