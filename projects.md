@@ -5,7 +5,7 @@ layout: default
 
 # Current works in progress
 
-* [Todd's Linkings](linkings) with super-random notes about hobbies, etc.
+* [Todd's Linkings](index) with super-random notes about hobbies, etc.
 * I still keep up [Shared Prayers](https://www.sharedprayers.net) ([first draft](stt2020-index)) though they are no longer regularly used by my congregation. They're more useful now for offering a model to the person generating paper bulletins. They're intended to print out in a way that could be bound into paper bulletins. But in Glassboro I would estimate nearly half the congregation used [Shared Prayers](https://www.sharedprayers.net) and for the other half, most Sundays, I would provide a half-page outline of the liturgy with announcements on back. 
 
 # Preaching & Liturgy
