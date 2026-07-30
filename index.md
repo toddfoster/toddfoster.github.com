@@ -9,3 +9,10 @@ layout: default
   </article>
 {% endfor %}
 
+
+# Linkings: Is this idea from James S. A. Corey? Or another sci-fi series? It was used as a euphemism for a future vision of the world wide web. Apparently it was one that better resembled the original web before it was swallowed up by corporate giants. (Political? Sure, I have opinions!)
+
+Maybe I'll link some pages of super-random information that I would like to preserve or make accessible. 
+
+* [biking](biking)
+
