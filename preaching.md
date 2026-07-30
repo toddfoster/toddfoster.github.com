@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Preaching
 layout: default
 ---
 
@@ -467,10 +467,3 @@ Services (including sermons) beginning in May 2025 may be seen on [YouTube](http
 * [Mark Retreat Guide](http://cdn.boidem.org/bx/markretreat.pdf)
 
 
-
------------
-
-* [Preaching](preaching)
-* [Software](softwareProjects)
-
-alternatively, see  [Software Projects](softwareProjects.html)
