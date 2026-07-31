@@ -11,7 +11,7 @@ layout: default
 # Preaching & Liturgy
 
 * Current services (including sermons) beginning in May 2025 may be seen on [YouTube](https://www.youtube.com/@StLukesMetuchen).
-* Most Sundays and other Holy Days I celebrated in Glassboro, Seattle, Bellingham, and Mt. Vernon (both for St. Paul's and for Resurreción) have [recordings available](preaching).
+* Most Sundays and other Holy Days I celebrated in Glassboro, Seattle, Bellingham, and Mt. Vernon (both for St. Paul's and for Resurrección) have [recordings available](preaching).
 
 # Artifacts from Seattle (2017-2018)
 
