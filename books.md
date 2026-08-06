@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## August 2026
+* Raphael G. Warnock, _The Crooked Places Made Straight: Reflections on the Moral Meaning of America_ (Penguin Press: 2026)
+
 ## July 2026
 * Charles W. Taylor, _The Skilled Pastor: Counseling as the Practice of Theology_ (Fortress Press: 1991)
 
