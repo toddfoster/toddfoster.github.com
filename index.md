@@ -16,5 +16,5 @@ Is this idea of "Linkings" is from sci-fi book series whose identity escapes me 
 
 Maybe I'll link some pages of super-random information that I would like to preserve or make accessible. 
 
-* [biking](biking)
+* [biking](linkings/biking)
 

@@ -20,3 +20,4 @@ This looks like an amazing resource that I really would like to have in print! I
 * [A detailed Atlas of the whole state](https://dot.nj.gov/transportation/commuter/bike/pdf/njbicycleatlas.pdf)
 
 ### [Middlesex County Rides](https://discovermiddlesex.com/outdoorguide/biking/)
+### [Jersey City Ward Tour](https://www.bikejc.org/ward-tour) [route](https://ridewithgps.com/routes/54428921) 
