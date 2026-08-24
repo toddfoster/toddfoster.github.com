@@ -11,6 +11,7 @@ Books I've read recently:
 * Raphael G. Warnock, _The Crooked Places Made Straight: Reflections on the Moral Meaning of America_ (Penguin Press: 2026)
 * James S. A. Corey, _The Mercy of Gods_ (Orbit: 2024)
 * James S. A. Corey, _The Faith of Beasts_ (Orbit: 2026)
+* James S. A. Corey, _Leviathan Falls_ (Orbit: 2021)
 
 ## July 2026
 * Charles W. Taylor, _The Skilled Pastor: Counseling as the Practice of Theology_ (Fortress Press: 1991)
