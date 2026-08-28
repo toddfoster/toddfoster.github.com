@@ -13,6 +13,7 @@ Books I've read recently:
 * James S. A. Corey, _The Faith of Beasts_ (Orbit: 2026)
 * James S. A. Corey, _Leviathan Falls_ (Orbit: 2021)
 * Joe Haldeman, _The Forever War_ (Eos: 2003/1974)
+* Thomas Merton, _The Seven Storey Mountain: An Autobiography of Faith_ (Harcourt Brace & Company: 1948/1998)
 
 ## July 2026
 * Charles W. Taylor, _The Skilled Pastor: Counseling as the Practice of Theology_ (Fortress Press: 1991)
