@@ -7,6 +7,9 @@ layout: default
 
 Books I've read recently:
 
+## September 2026
+* Samuel Heilman, _The Gate Behind the Wall: A Pilgrimage to Jerusalem_ (Summit Books: 1984)
+
 ## August 2026
 * Raphael G. Warnock, _The Crooked Places Made Straight: Reflections on the Moral Meaning of America_ (Penguin Press: 2026)
 * James S. A. Corey, _The Mercy of Gods_ (Orbit: 2024)

@@ -31,6 +31,7 @@ layout: default
 
 * [Meet Bronx Fellowship Video (160Mb)](http://cdn.boidem.org/bx/Supporters2005.m4v) ([smaller version: 70Mb](http://cdn.boidem.org/bx/Supporters2005-small.m4v))
 * [Mark Retreat Guide](http://cdn.boidem.org/bx/markretreat.pdf)
+* [The Bronx Sings / El Bronx Canta (hymnal)](http://cdn.boidem.org/bx/BronxSings2006.pdf)
 
 ## Other, Older Projects
 
