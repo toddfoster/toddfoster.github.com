@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## September 2026
 * Samuel Heilman, _The Gate Behind the Wall: A Pilgrimage to Jerusalem_ (Summit Books: 1984)
+* E. P. Sanders, _Jesus and Judaism_ (Fortress Press: 1985)
 
 ## August 2026
 * Raphael G. Warnock, _The Crooked Places Made Straight: Reflections on the Moral Meaning of America_ (Penguin Press: 2026)
