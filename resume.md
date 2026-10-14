@@ -18,7 +18,7 @@ _(Contact information omitted from online version)_
 
 ---
 ## Professional Experience
-**[St. Luke's Episcopal Church](https://www.stlukesmetuchen.org/),** Metuchen, NJ (ASA 98, Budget $406k)        2025-present: _Interim_
+**[St. Luke's Episcopal Church](https://www.stlukesmetuchen.org/),** Metuchen, NJ (ASA 98, Budget $406k)        2025-present: _Priest in Charge_
 * Provide a steady presence of liturgical leadership and pastoral care during a season of change and grief
 * Empower / encourage lay leadership, streamline administration, emphasize stewardship
 * Recent Homilies: [Do not be afraid, little flock (10 August 2025)](https://youtu.be/3hsiHtwvYAY?t=455)
