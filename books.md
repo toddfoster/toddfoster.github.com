@@ -9,6 +9,7 @@ Books I've read recently:
 
 ## October 2026
 * Robert Taft, _The Liturgy of the Hours in East and West: The Origins of the Divine Office and its Meaning for Today_, Second Revised Edition (The Liturgical Press: 1993)
+* United States Conference of Catholic Bishops, _General Instruction of the Roman Missal_ (USCCB Publishing: 2003)
 
 ## September 2026
 * Samuel Heilman, _The Gate Behind the Wall: A Pilgrimage to Jerusalem_ (Summit Books: 1984)
