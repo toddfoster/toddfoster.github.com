@@ -20,4 +20,4 @@ Maybe I'll link some pages of super-random information that I would like to pres
 
 # Scratchpad
 
-<embed src="https://app.simplenote.com/p/mzkdGQ" style="width:100%; height:100%">
+<iframe src="https://app.simplenote.com/p/mzkdGQ" width="100^" height="100%" title="Scratchpad">iframe not supported.</iframe>
