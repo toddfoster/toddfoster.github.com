@@ -16,8 +16,6 @@ Is this idea of "Linkings" is from sci-fi book series whose identity escapes me 
 
 Maybe I'll link some pages of super-random information that I would like to preserve or make accessible. 
 
+* [scratchpad](https://app.simplenote.com/p/mzkdGQ)
 * [biking](linkings/biking)
 
-# Scratchpad
-
-<iframe src="https://app.simplenote.com/p/mzkdGQ" width="100^" height="100%" title="Scratchpad">iframe not supported.</iframe>
