@@ -18,3 +18,6 @@ Maybe I'll link some pages of super-random information that I would like to pres
 
 * [biking](linkings/biking)
 
+# Scratchpad
+
+<embed src="https://app.simplenote.com/p/mzkdGQ" style="width:100%; height:100%">
